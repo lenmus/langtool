@@ -1,0 +1,4811 @@
+msgid ""
+msgstr ""
+"allbooks_eu.po (LenMus $VERS)\n"
+"Project-Id-Version: LenMus $VERS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-09 16:26+0200\n"
+"PO-Revision-Date: 2010-03-03 08:37+0100\n"
+"Last-Translator: \n"
+"Language-Team:  <cecilios@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Basque\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: ..\\src\n"
+"X-Poedit-SearchPath-0: TheoryHarmony\n"
+
+#: GeneralExercises.cpp:15
+msgid ""
+"Appart of exercises included in the eBooks, the following general exercises "
+"(customizable to suit your needs at any moment) are available:"
+msgstr ""
+"Honako eBook hauetako ariketez gain, hurrengo ariketa orokor hauek ere "
+"dituzu eskura  (noiznahi zure beharren arabera doitzekoak):"
+
+#: GeneralExercises.cpp:33
+msgid "Aural training exercises"
+msgstr "Entzumena trebatzeko ariketak"
+
+#: GeneralExercises.cpp:23 GeneralExercises.cpp:30 GeneralExercises.cpp:46
+#: GeneralExercises.cpp:57
+msgid "Cadences' identification"
+msgstr "Kadentziak identifikatzea"
+
+#: GeneralExercises.cpp:20 GeneralExercises.cpp:28 GeneralExercises.cpp:40
+#: GeneralExercises.cpp:53
+msgid "Chords' identification"
+msgstr "Akordeak identifikatzea"
+
+#: GeneralExercises.cpp:60
+msgid "Clefs Reading"
+msgstr "Giltzak irakurtzea"
+
+#: GeneralExercises.cpp:32
+msgid "Clefs reading"
+msgstr "Giltzak irakurtzea"
+
+#: GeneralExercises.cpp:5 L1_MusicReading.cpp:5 L2_MusicReading.cpp:5
+#: TheoryHarmony.cpp:5
+msgid ""
+"Copyright © 2007-2012 myMusicTheory & LenMus project. All rights reserved."
+msgstr ""
+
+#: GeneralExercises.cpp:7 L1_MusicReading.cpp:7 L2_MusicReading.cpp:7
+#: TheoryHarmony.cpp:7
+msgid "Cover page"
+msgstr "Azaleko orria"
+
+#: GeneralExercises.cpp:50
+msgid ""
+"Exercise: Identify a key signature or indicate the number of accidentals it "
+"has"
+msgstr "Ariketa: Armadura identifikatzea edo zenbat alterazio duen adieraztea"
+
+#: GeneralExercises.cpp:58
+msgid "Exercise: Identify the cadence shown"
+msgstr "Ariketa: Erakutsitako kadentzia identifikatzea"
+
+#: GeneralExercises.cpp:56
+msgid "Exercise: Identify the scale shown"
+msgstr "Ariketa: Erakutsitako eskala identifikatzea"
+
+#: GeneralExercises.cpp:54
+msgid "Exercise: Identify the type of the shown chord"
+msgstr "Ariketa: Erakutsitako akordea identifikatzea"
+
+#: GeneralExercises.cpp:47
+msgid "Exercise: Listen a cadence and identify its type"
+msgstr "Ariketa: Kadentzia bat entzun eta haren mota identifikatzea"
+
+#: GeneralExercises.cpp:41
+#, fuzzy
+msgid "Exercise: Listen a chord and identify its type"
+msgstr "Ariketa: Ikasgaia, akorde bat emanda, mota identifikatzea"
+
+#: GeneralExercises.cpp:43
+msgid "Exercise: Listen a scale and identify its type"
+msgstr "Ariketa: Eskala bat entzun eta haren mota identifikatzea"
+
+#: GeneralExercises.cpp:37
+#, fuzzy
+msgid "Exercise: Listen an interval and identify it"
+msgstr "Ariketa: Ikasgaia, bitarte bat emanda, hura identifikatzea"
+
+#: GeneralExercises.cpp:45
+#, fuzzy
+msgid "Exercise: Listen note A4 and chords I-IV-V-I and identify the tonality"
+msgstr "Ariketa: Ikasgaia, akorde bat emanda, mota identifikatzea"
+
+#: GeneralExercises.cpp:39
+#, fuzzy
+msgid "Exercise: Listen notes and identify them"
+msgstr "Ariketa: Kadentzia bat entzun eta haren mota identifikatzea"
+
+#: GeneralExercises.cpp:35 TheoryHarmony.cpp:360
+#, fuzzy
+msgid "Exercise: Listen two intervals and identify which one is greater"
+msgstr ""
+"Ariketa: Ikasgaia, bi bitarte emanda, handiena identifikatzea"
+
+#: GeneralExercises.cpp:16
+msgid "Exercises for aural training"
+msgstr "Entzumena lantzeko ariketak"
+
+#: GeneralExercises.cpp:24
+msgid "Exercises to practise theory"
+msgstr "Teoria lantzeko ariketak"
+
+#: GeneralExercises.cpp:11
+msgid "General exercises"
+msgstr "Ariketa orokorrak"
+
+#: GeneralExercises.cpp:12
+msgid "General exercises, customizable to suit your needs at any moment."
+msgstr "Ariketa orokorrak, unean-unean zure beharretara egokitzekoak."
+
+#: GeneralExercises.cpp:27 GeneralExercises.cpp:52
+msgid "Interval's construction"
+msgstr "Bitarteak eraikitzea"
+
+#: GeneralExercises.cpp:26 GeneralExercises.cpp:51
+msgid "Interval's identification"
+msgstr "Bitarteak identifikatzea"
+
+#: GeneralExercises.cpp:17 GeneralExercises.cpp:34 TheoryHarmony.cpp:359
+msgid "Intervals' comparison"
+msgstr "Bitarteak alderatzea"
+
+#: GeneralExercises.cpp:18 GeneralExercises.cpp:36
+msgid "Intervals' identification"
+msgstr "Bitarteak identifikatzea"
+
+#: GeneralExercises.cpp:14
+msgid "Introduction to general exercises"
+msgstr "Ariketa orokorren aurkezpena"
+
+#: GeneralExercises.cpp:25 GeneralExercises.cpp:49
+msgid "Key signatures' identification"
+msgstr "Armadurak identifikatzea"
+
+#: GeneralExercises.cpp:3 L1_MusicReading.cpp:3 L2_MusicReading.cpp:3
+#: TheoryHarmony.cpp:3
+msgid "Licensed under the Creative Commons Attribution/Share-Alike License;"
+msgstr ""
+
+#: GeneralExercises.cpp:38
+#, fuzzy
+msgid "Notes identification"
+msgstr "Akordeak identifikatzea"
+
+#: GeneralExercises.cpp:19
+#, fuzzy
+msgid "Notes' identification"
+msgstr "Eskalak identifikatzea"
+
+#: GeneralExercises.cpp:31 GeneralExercises.cpp:59
+msgid "Other exercises"
+msgstr "Bestelako ariketak"
+
+#: GeneralExercises.cpp:13 L1_MusicReading.cpp:13 L2_MusicReading.cpp:13
+msgid ""
+"Permission is granted to copy, distribute and/or modify this document under "
+"the terms of the Creative Commons Attribution-Share-Alike License 3.0 or "
+"later, with the exceptions of those pages where another author or group of "
+"authors has been clearly marked. The text of the licence is available at "
+"<a-1> http://creativecommons.org/licenses/by-sa/3.0/</a-1>"
+msgstr ""
+
+#: GeneralExercises.cpp:9 L1_MusicReading.cpp:9 L2_MusicReading.cpp:9
+#: TheoryHarmony.cpp:9
+msgid "References"
+msgstr ""
+
+#: GeneralExercises.cpp:21 GeneralExercises.cpp:29 GeneralExercises.cpp:42
+#: GeneralExercises.cpp:55
+msgid "Scales' identification"
+msgstr "Eskalak identifikatzea"
+
+#: GeneralExercises.cpp:2
+msgid "Send your comments and suggestions to the LenMus team (www.lenmus.org)"
+msgstr "Bidali zure iradokizun eta iruzkinak LenMus taldeari (www.lenmus.org)"
+
+#: GeneralExercises.cpp:48
+msgid "Theory exercises"
+msgstr "Teoriako ariketak"
+
+#: GeneralExercises.cpp:10 L1_MusicReading.cpp:10 L2_MusicReading.cpp:10
+#: TheoryHarmony.cpp:10
+msgid "This lesson is based on materials from:"
+msgstr ""
+
+#: GeneralExercises.cpp:22 GeneralExercises.cpp:44
+#, fuzzy
+msgid "Tonality identification"
+msgstr "Eskalak identifikatzea"
+
+#: GeneralExercises.cpp:8 L1_MusicReading.cpp:8 L2_MusicReading.cpp:8
+#: TheoryHarmony.cpp:8
+msgid ""
+"Translated to #REPLACE BY YOUR LANGUAGE NAME# by #REPLACE BY YOUR NAME#."
+msgstr ""
+
+#: GeneralExercises.cpp:4 L1_MusicReading.cpp:4 L2_MusicReading.cpp:4
+#: TheoryHarmony.cpp:4
+msgid ""
+"additional terms may apply. See cover page of this eBook for exceptions and "
+"details."
+msgstr ""
+
+#: GeneralExercises.cpp:6 L1_MusicReading.cpp:6 L2_MusicReading.cpp:6
+#: TheoryHarmony.cpp:6
+msgid "the teacher of music"
+msgstr "musika irakaslea"
+
+#: L1_MusicReading.cpp:144
+msgid " - Practise reading scores with half notes and tied quarter notes."
+msgstr "- Irakur itzazu zuriak eta beltz ligatuak dituzten partiturak."
+
+#: L1_MusicReading.cpp:156
+msgid " - Practise reading scores with leger lines above fifth line."
+msgstr ""
+"- Treba zaitez bosgarren lerroaren gainetik lerro gehigarriak dituzten "
+"partiturak irakurtzen."
+
+#: L1_MusicReading.cpp:154
+msgid " - Practise reading scores with leger lines below first line."
+msgstr ""
+"- Treba zaitez lehen lerroaren azpitik lerro gehigarriak dituzten partiturak "
+"irakurtzen."
+
+#: L1_MusicReading.cpp:132
+msgid " - Read scores containing only quarter notes and rests."
+msgstr ""
+"- Ariketak egin itzazu beltzak eta isilune beltzak besterik ez duten "
+"partiturekin."
+
+#: L1_MusicReading.cpp:267
+msgid " - Read scores containing the bass clef."
+msgstr "- Irakurri Fa giltzako partiturak."
+
+#: L1_MusicReading.cpp:279
+msgid " - Read scores containing the rhythms studied in previous lessons."
+msgstr ""
+"- Irakur itzazu aurreko ikasgaietan landutako erritmoak dakartzaten "
+"partiturak."
+
+#: L1_MusicReading.cpp:171 L1_MusicReading.cpp:208 L1_MusicReading.cpp:290
+#: L1_MusicReading.cpp:302 L1_MusicReading.cpp:315 L1_MusicReading.cpp:329
+#: L1_MusicReading.cpp:342 L1_MusicReading.cpp:356 L1_MusicReading.cpp:370
+#: L1_MusicReading.cpp:383 L1_MusicReading.cpp:397 L1_MusicReading.cpp:411
+#: L1_MusicReading.cpp:424 L1_MusicReading.cpp:441 L1_MusicReading.cpp:450
+#: L1_MusicReading.cpp:459 L1_MusicReading.cpp:468 L2_MusicReading.cpp:38
+#: L2_MusicReading.cpp:49 L2_MusicReading.cpp:62 L2_MusicReading.cpp:76
+#: L2_MusicReading.cpp:89 L2_MusicReading.cpp:102 L2_MusicReading.cpp:115
+#: L2_MusicReading.cpp:128 L2_MusicReading.cpp:155 L2_MusicReading.cpp:168
+#: L2_MusicReading.cpp:181 L2_MusicReading.cpp:200 L2_MusicReading.cpp:218
+#: L2_MusicReading.cpp:236 L2_MusicReading.cpp:254 L2_MusicReading.cpp:270
+#: L2_MusicReading.cpp:286
+msgid " - Read scores containing the rhythms studied in this lesson."
+msgstr ""
+"- Irakur itzazu ikasgai honetan landutako erritmoak dakartzaten partiturak."
+
+#: L1_MusicReading.cpp:193
+msgid " - Read scores containing the rhythms studied."
+msgstr "- Irakur itzazu landutako erritmoak dakartzaten partiturak."
+
+#: L1_MusicReading.cpp:169 L1_MusicReading.cpp:206 L1_MusicReading.cpp:288
+#: L1_MusicReading.cpp:327 L1_MusicReading.cpp:340 L1_MusicReading.cpp:354
+#: L1_MusicReading.cpp:368 L1_MusicReading.cpp:381 L1_MusicReading.cpp:395
+#: L1_MusicReading.cpp:409 L1_MusicReading.cpp:422 L2_MusicReading.cpp:36
+#: L2_MusicReading.cpp:47 L2_MusicReading.cpp:60 L2_MusicReading.cpp:74
+#: L2_MusicReading.cpp:87 L2_MusicReading.cpp:100 L2_MusicReading.cpp:113
+#: L2_MusicReading.cpp:126 L2_MusicReading.cpp:140 L2_MusicReading.cpp:153
+#: L2_MusicReading.cpp:166 L2_MusicReading.cpp:179
+msgid " - Train your ear and practise the introduced rhythmic patterns."
+msgstr "- Treba ezazu entzumena eta landu ikasgai honetako erritmoak."
+
+#: L1_MusicReading.cpp:63
+msgid "16th"
+msgstr "Kortxeaerdia"
+
+#: L1_MusicReading.cpp:64
+msgid "32th"
+msgstr "Fusa"
+
+#: L1_MusicReading.cpp:65
+msgid "64th"
+msgstr "Fusaerdia"
+
+#: L1_MusicReading.cpp:100
+msgid "<b>Adagio</b> - slow"
+msgstr "<b>Adagio</b> - slow"
+
+#: L1_MusicReading.cpp:114
+msgid "<b>Adagio</b>: 50-59"
+msgstr "<b>Adagio</b>: 50-59"
+
+#: L1_MusicReading.cpp:103
+#, fuzzy
+msgid "<b>Allegretto</b> - Not as fast as allegro"
+msgstr "- Allegroa baino astiroago"
+
+#: L1_MusicReading.cpp:117
+msgid "<b>Allegretto</b>: 100-119"
+msgstr "<b>Allegretto</b>: 100-119"
+
+#: L1_MusicReading.cpp:104
+msgid "<b>Allegro</b> - fast"
+msgstr ""
+
+#: L1_MusicReading.cpp:118
+msgid "<b>Allegro</b>: 120-159"
+msgstr "<b>Allegro</b>: 120-159"
+
+#: L1_MusicReading.cpp:101
+#, fuzzy
+msgid "<b>Andante</b> - literally 'walking', a medium slow tempo"
+msgstr "- hitzez hitz, ‘oinez’, bitarteko tempo astitsua"
+
+#: L1_MusicReading.cpp:115
+msgid "<b>Andante</b>: 60-79"
+msgstr "<b>Andante</b>: 60-79"
+
+#: L1_MusicReading.cpp:24
+#, fuzzy
+msgid ""
+"<b>Clefs and note ranges:</b> The course starts with the G clef using a very "
+"reduced note range (e4-g4). Progressively, the note range is increased to "
+"reach the range c4-f5 in lesson 14. Next, the F key is introduced, again "
+"with a very reduced note range (a3-c4) and from there, the exercises of all "
+"following lessons use the F and G clef indistinctely. The note range is "
+"continuously being broadened in both clefs (G: a3-c6 y F: a2-e4), to cover "
+"two legder lines, above and below."
+msgstr ""
+"Ikastaroa Sol giltzan hasten da, oso nota sorta murriztua erabilita  (Mi4-"
+"Sol4). Apurka-apurka, nota tartea edo heina handituz doa, 14. ikasgaian Do4-"
+"Fa5 tartera heltzeko. Segituan, Fa giltza sartzen da, berriro ere oso tarte "
+"murriztuan (La3-Do4), eta hortik aurrera, hurrengo ikasgaietako ariketek Sol "
+"eta Fa giltzak erabiliko dituzte, batera. Nota tartea etengabe handituz doa "
+"bi giltzetan (Sol giltza: La3-tik DO6-ra. Fa giltza: La2-tik Mi4-ra), bina "
+"lerro gehigarri lortu arte, goitik eta behetik, bi giltzetan."
+
+#: L1_MusicReading.cpp:26
+#, fuzzy
+msgid ""
+"<b>Key signatures:</b> The exercises in the first two practical lessons (9 "
+"and 10) have scores using only the C major / A minor key signature (no "
+"accidentals). The key signature is introduced in lesson 13 and from there "
+"(lessons 14 to 17) the exercises use also one accidental (G major / E minor "
+"and F major / D minor). In the remaining lessons (18 to 31) exercises use up "
+"to two accidentals (D major / B minor and B flat major / G minor)."
+msgstr ""
+"Lehenengo ikasgai praktikoetan (9 eta 10), ariketetako partiturek Do maiorra "
+"eta La minorra armadurak darabiltzate, alteraziorik gabe.Armaduraren "
+"kontzeptua 13. ikasgaian sartzen da eta, handik aurrera (14-17 ikasgaiak), "
+"ariketek alterazio bakarra darabilte (Sol maiorra / Mi minorra eta Fa "
+"maiorra / Re minorra). Gainerako ikasgaietan (18-31), ariketek bi alterazio "
+"darabiltzate (Re maiorra / Si minorra eta Si bemol maiorra / Sol minorra)."
+
+#: L1_MusicReading.cpp:98
+#, fuzzy
+msgid "<b>Larghetto</b> - not quite as slow as largo"
+msgstr "- largo bezain astitsua ez"
+
+#: L1_MusicReading.cpp:97
+#, fuzzy
+msgid "<b>Largo</b> - very slow and broad"
+msgstr "- oso astiro eta luzatua "
+
+#: L1_MusicReading.cpp:113
+msgid "<b>Largo</b>: 40-49"
+msgstr "<b>Largo</b>: 40-49"
+
+#: L1_MusicReading.cpp:99
+#, fuzzy
+msgid "<b>Lento</b> - very slow"
+msgstr "- oso astiro"
+
+#: L1_MusicReading.cpp:102
+#, fuzzy
+msgid "<b>Moderato</b> - moderate, or medium"
+msgstr "- moderatua edo bitartekoa"
+
+#: L1_MusicReading.cpp:116
+msgid "<b>Moderato</b>: 80-99"
+msgstr "<b>Moderato</b>: 80-99"
+
+#: L1_MusicReading.cpp:107
+#, fuzzy
+msgid "<b>Prestissimo</b> - very, very fast"
+msgstr "- oso-oso arin"
+
+#: L1_MusicReading.cpp:120
+msgid "<b>Prestissimo</b>: 180-200"
+msgstr "<b>Prestissimo</b>: 180-200"
+
+#: L1_MusicReading.cpp:106
+#, fuzzy
+msgid "<b>Presto</b> - very fast"
+msgstr "- arin-arin"
+
+#: L1_MusicReading.cpp:119
+msgid "<b>Presto</b>: 160-179"
+msgstr "<b>Presto</b>: 160-179"
+
+#: L1_MusicReading.cpp:25
+#, fuzzy
+msgid ""
+"<b>Time signatures:</b> In the first exercises (9 to 17) only the 2/4 simple "
+"time is used. Next, the 3/4 simple time (lesson 18) and the 4/4 simple time "
+"(lesson 19) are used. In lesson 28 the compound 6/8 is introduced and it is "
+"practised in the remaining lessons (29 to 31)."
+msgstr ""
+"Lehenengo ariketetan (9-17), 2/4 konpasa besterik ez da erabiltzen. "
+"Segituan, 3/4 konpasa (18. ikasgaia) eta 4/4 konpasa (19. ikasgaia) "
+"erabiltzen dira. 28. ikasgaian 6/8 konpasa aurkezten da, eta hurrengo "
+"ikasgaiek (29-31) hura lantzen dute."
+
+#: L1_MusicReading.cpp:105
+#, fuzzy
+msgid "<b>Vivo, or Vivace</b> - lively and brisk"
+msgstr "- bizi eta kementsu"
+
+#: L1_MusicReading.cpp:51 L1_MusicReading.cpp:219 L1_MusicReading.cpp:226
+#: L1_MusicReading.cpp:236 L1_MusicReading.cpp:243 L1_MusicReading.cpp:250
+#: L1_MusicReading.cpp:257 L1_MusicReading.cpp:262 L1_MusicReading.cpp:274
+msgid "A"
+msgstr "La"
+
+#: L1_MusicReading.cpp:86
+msgid "A 2/4 time signature"
+msgstr "2/4 metrika neurria edo armadura"
+
+#: L1_MusicReading.cpp:201
+msgid ""
+"A fermata is a musical symbol, looking like a semicircle containing a dot, "
+"that is placed above or below a note or rest. It indicates that the note/"
+"rest should be sustained for longer than its normal duration. Usually the "
+"note/rest is held for one and a half to twice the normal duration, but it is "
+"always up to the discretion of the performer or the conductor. The fermata "
+"symbol is usually placed above the note/rest, but occasionally can be placed "
+"below it and upside down:"
+msgstr ""
+"Kalderoia izeneko musika ikurrak puntudun zirkuluerdi baten itxura du, eta "
+"notaren edo isilunearen gainean edo azpian jartzen da. Adierazten digunez, "
+"nota edo isilunea ohi baino luzeagoa izango da. Adierazten digunez, nota edo "
+"isilunea ohi baino luzeagoa izango da. Normalean, nota edo isilunea luzatzen "
+"da ohi baino halako bat eta erdi edo bi gehiago, baina beti musikariaren edo "
+"zuzendariaren nahiaren araberakoa izaten da. Kalderoi ikurra notaren edo "
+"isilunearen gainean ezarri ohi da, baina zenbaitetan azpian ere jar daiteke; "
+"halakoetan kalderoiaren ikurra alderantziz jartzen da: "
+
+#: L1_MusicReading.cpp:182
+msgid ""
+"A sharp sign raises the pitch of a note by half a step (one semitone). A "
+"flat sign lowers the pitch of a note half a step (one semitone). A natural "
+"sign cancels the effect of a flat or a sharp."
+msgstr ""
+"Sostenituak nota altuera tonuerdia igotzen du. Bemolak nota altuera "
+"tonuerdia jaisten du. Bekoadroak aurreko sostenituaren edo bemolaren "
+"ondorioa indargabetzen du."
+
+#: L1_MusicReading.cpp:140
+#, fuzzy
+msgid ""
+"A tie is a small arch between the heads of two <b>consecutive notes of the "
+"same pitch</b>. For example:"
+msgstr "Ligatura arku txiki bat da"
+
+#: L1_MusicReading.cpp:178
+msgid ""
+"Accidental signs are marks placed before a notehead to indicate that the "
+"pitch of the note should be altered. At level 1 you should know about three "
+"signs: the 'sharp', the 'flat' and the 'natural':"
+msgstr ""
+"Alterazio ikurrak nota buruen gainean jarritako markak dira, nota tonua "
+"aldatu beharra dagoela adieraztekoak. Maila honetan honako hiru ikur hauek "
+"besterik ez duzu ikasi behar: ‘sostenitua’, ‘bemola’ eta ‘bekoadroa’. "
+
+#: L1_MusicReading.cpp:177
+msgid "Accidentals"
+msgstr "Alterazioak"
+
+#: L1_MusicReading.cpp:176 L1_MusicReading.cpp:194
+msgid "Accidentals. Key signature"
+msgstr "Alterazioak. Nota armadurak"
+
+#: L1_MusicReading.cpp:363
+msgid ""
+"Again, syncopation is achieved by starting the first beat with an eighth "
+"note. The following quarter notes are placed off-beat, and so the accent "
+"(start of the note sound) does not coincide with the start of the beat."
+msgstr ""
+"Berriro agertzen da sinkopa lehen pultsua hasterakoan, kortxea batekin. "
+"Hurrengo beltzak lekualdaturik daude, eta, hala, azentua (nota soinuaren "
+"hasiera) ez dator bat taupadaren hasierarekin."
+
+#: L1_MusicReading.cpp:437
+msgid ""
+"Also note that two dotted quarter note equals a dotted half note. Therefore, "
+"in the 6/8 time a dotted half note takes a whole measure."
+msgstr ""
+"Gainera, ikusiko zenuenez, bil beltz puntudun zuri puntudun baliokide dira. "
+"Ondorioz, zuri puntudunak konpas oso bat betetzen du 6/8 neurrian."
+
+#: L1_MusicReading.cpp:183
+msgid ""
+"An accidental sign alters not only the pitch of the note that it is attached "
+"to, but also the pitch of any subsequent occurrence of the same note in the "
+"same measure. Notes with the same pitch name, but in a higher or lower "
+"octave are not affected. The effect of the accidental ends at the end of the "
+"measure, so notes in the next measure will not be altered, except those tied "
+"to one in the previous measure."
+msgstr ""
+"Alterazio ikurrak hari erantsitako notaren tonua ez ezik, konpas bereko "
+"zortzidun bereko izen bereko hurrengo nota guztien altuera ere aldatzen du.  "
+"Izen bereko baina zortzidun handiago edo txikiagoren bateko notak ez dira "
+"aldatzen. Alterazioaren ondorioak konpasa amaitu arte dirau, beraz, hurrengo "
+"konpaseko notak ez dira aldatzen, aurreko konpaseko nota bati lotuta "
+"daudenak salbu.    "
+
+#: L1_MusicReading.cpp:199
+msgid ""
+"Another way to change a note's duration is by writing a small dot after the "
+"notehead, to create 'a dotted note'. The dot adds one half of the value of "
+"the original note. For example, if a dot is placed to the right of a half "
+"note, the note would then have the duration of a half note plus a quarter "
+"note and it will be equivalent to writing a tie between a half note and a "
+"quarter note:"
+msgstr ""
+"Notaren iraupena luzatzeko beste modu bat da nota buruaren ondoren puntu bat "
+"idaztea, ‘nota puntudun’ bat sortzeko.  Puntuak oinarrizko notari "
+"jatorrizkoaren balioaren erdia gehitzen dio. Esaterako, puntua zuri bati "
+"eransten bazaio, notak iraungo du zuri batek eta beltz batek elkarrekin "
+"beste, eta zuri bat beltz bat lotuta idaztearen baliokidea izango da: "
+
+#: L1_MusicReading.cpp:17
+msgid ""
+"Apart of introducing different rhythmic cells of increasing complexity, the "
+"main concepts introduced in Level 1 are:"
+msgstr ""
+"Erritmo zelula gero eta konplexuagoak aurkezteaz gain, 1. mailak honako "
+"kontzeptu nagusi hauek aurkezten ditu: "
+
+#: L1_MusicReading.cpp:47 L1_MusicReading.cpp:217
+msgid ""
+"As a result, the staff lines and spaces get automatically assigned to "
+"consecutive notes, as shown in the next score:"
+msgstr ""
+"Ondorioz, gainerako pentagrama lerroak eta lerroarteak automatiko izendatuko "
+"dizkie hurrengo notei, hurrengo partituran ikusiko duzunez: "
+
+#: L1_MusicReading.cpp:41
+msgid "As an example, press the 'Play' link and listen to the following score:"
+msgstr "Adibidez, sakatu ‘Play’ lotura eta, gero, entzun hurrengo eskala: "
+
+#: L1_MusicReading.cpp:112
+msgid ""
+"As an orientation, the following table gives the assignment between "
+"traditional tempo terms and metronome settings:"
+msgstr ""
+"Orientabide moduan, hurrengo taulak ohiko tempo adierazpideen eta "
+"metronomoaren balioen arteko erlazioa jasotzen du:"
+
+#: L1_MusicReading.cpp:150
+msgid ""
+"As notes written on leger lines are more difficult to read, usually only two "
+"or three leger lines are used. If the pitch range does not fit on this "
+"extended staff, it is usually preferable to switch clef to avoid having to "
+"add more leger lines."
+msgstr ""
+"Lerro gehigarrietan irakurtzen zailagoak direnez gero, normalean bizpahiru "
+"lerro gehigarri besterik ez da erabiltzen. Nota tartea pentagrama hedatu "
+"horretara egokitzen ez bada, normalean hobe da beste giltza bat aldatzea, "
+"hala lerro gehigarri gehiegi erabili behar ez izateko. "
+
+#: L1_MusicReading.cpp:438
+msgid ""
+"As the 6/8 has two beats per measure, it is called a compound duple meter. "
+"The accent is strong on the first eighth note of the first beat, a medium "
+"accent on the first eighth note of the second beat, and the remaining pulses "
+"are week."
+msgstr ""
+"6/8koak konpas bakoitzeko bi zati dituenez, konpas hirutar bikoitza dela "
+"diogu.  Azentua indartsua da aurreneko taupadako lehen kortxean, bitartekoa "
+"bigarren taupadako lehen kortxean, gainerakoak ahulak dira.  "
+
+#: L1_MusicReading.cpp:92
+msgid ""
+"As you know 2/4 means that each measure has two beats and that each beat "
+"gets a quarter note. Therefore, each measure will get two quarter notes. For "
+"example:"
+msgstr ""
+"Dakizunez, 2/4 adierazpenak esan nahi du konpas bakoitzak bi pultsu dituela, "
+"eta nota beltz batek hartzen duela pultsu bakoitza. Beraz, konpas bakoitzak "
+"bi nota beltz ditu. Esaterako: "
+
+#: L1_MusicReading.cpp:52 L1_MusicReading.cpp:220 L1_MusicReading.cpp:237
+#: L1_MusicReading.cpp:244 L1_MusicReading.cpp:251 L1_MusicReading.cpp:258
+#: L1_MusicReading.cpp:263 L1_MusicReading.cpp:275
+msgid "B"
+msgstr "Si"
+
+#: L1_MusicReading.cpp:164
+msgid ""
+"Beaming is not done at random or by personal taste. The rules for beaming "
+"depend on the time signature."
+msgstr ""
+"Notei ezin diegu barra jarri guk nahi dugun moduan edo ausaz. Notak "
+"elkartzeko arauak metrikaren arabera doaz."
+
+#: L1_MusicReading.cpp:22
+msgid "Book organization"
+msgstr "Liburuaren antolamendua"
+
+#: L1_MusicReading.cpp:433
+msgid ""
+"By convention, in compound time signatures the top number indicates not the "
+"number of beats per measure but the number of pulses per measure, and the "
+"bottom number indicates the note that takes each pulse."
+msgstr ""
+"Konbentzioz, konpas konposatu edo hirutarretan goiko zenbakiak ez du "
+"adierazten konpasaren pultsu kopurua, zati kopurua baizik, eta azpiko "
+"zenbakiak adierazi ohi du zein notak okupatzen duen pultsu bakoitza. "
+
+#: L1_MusicReading.cpp:230
+msgid ""
+"By using both the G clef and the F clef and two leger lines a range of four "
+"octaves can be comfortably represented, as shown in the following score:"
+msgstr ""
+"Goian Sol giltza, behean Fa giltza eta bi lerro gehigarri dituen pentagrama "
+"erabiliz gero, lau zortziduneko tartea modu erosoan adieraz daiteke, "
+"hurrengo partituran ikusiko duzunez:"
+
+#: L1_MusicReading.cpp:53 L1_MusicReading.cpp:221 L1_MusicReading.cpp:231
+#: L1_MusicReading.cpp:238 L1_MusicReading.cpp:245 L1_MusicReading.cpp:252
+#: L1_MusicReading.cpp:259 L1_MusicReading.cpp:264 L1_MusicReading.cpp:276
+msgid "C"
+msgstr "Do"
+
+#: L1_MusicReading.cpp:228 L1_MusicReading.cpp:229
+msgid "C note"
+msgstr "Do nota"
+
+#: L1_MusicReading.cpp:388 L1_MusicReading.cpp:398 L1_MusicReading.cpp:400
+msgid "Counter-time (off-beat notes)"
+msgstr "Kontradenbora (nota lekualdatuak) "
+
+#: L1_MusicReading.cpp:54 L1_MusicReading.cpp:222 L1_MusicReading.cpp:232
+#: L1_MusicReading.cpp:239 L1_MusicReading.cpp:246 L1_MusicReading.cpp:253
+msgid "D"
+msgstr "Re"
+
+#: L1_MusicReading.cpp:198
+msgid "Dotted notes"
+msgstr "Puntudun notak"
+
+#: L1_MusicReading.cpp:209 L1_MusicReading.cpp:211
+msgid "Dotted quarter note. Quarter note tied to eighth note"
+msgstr "Beltz puntuduna. Kortxeari loturiko beltza."
+
+#: L1_MusicReading.cpp:48 L1_MusicReading.cpp:55 L1_MusicReading.cpp:223
+#: L1_MusicReading.cpp:233 L1_MusicReading.cpp:240 L1_MusicReading.cpp:247
+#: L1_MusicReading.cpp:254
+msgid "E"
+msgstr "Mi"
+
+#: L1_MusicReading.cpp:62
+msgid "Eight"
+msgstr "Kortxea"
+
+#: L1_MusicReading.cpp:131 L1_MusicReading.cpp:143 L1_MusicReading.cpp:153
+#: L1_MusicReading.cpp:168 L1_MusicReading.cpp:192 L1_MusicReading.cpp:205
+#: L1_MusicReading.cpp:266 L1_MusicReading.cpp:278 L1_MusicReading.cpp:287
+#: L1_MusicReading.cpp:301 L1_MusicReading.cpp:314 L1_MusicReading.cpp:326
+#: L1_MusicReading.cpp:339 L1_MusicReading.cpp:353 L1_MusicReading.cpp:367
+#: L1_MusicReading.cpp:380 L1_MusicReading.cpp:394 L1_MusicReading.cpp:408
+#: L1_MusicReading.cpp:421 L1_MusicReading.cpp:440 L1_MusicReading.cpp:449
+#: L1_MusicReading.cpp:458 L1_MusicReading.cpp:467 L2_MusicReading.cpp:35
+#: L2_MusicReading.cpp:46 L2_MusicReading.cpp:59 L2_MusicReading.cpp:73
+#: L2_MusicReading.cpp:86 L2_MusicReading.cpp:99 L2_MusicReading.cpp:112
+#: L2_MusicReading.cpp:125 L2_MusicReading.cpp:139 L2_MusicReading.cpp:152
+#: L2_MusicReading.cpp:165 L2_MusicReading.cpp:178 L2_MusicReading.cpp:193
+#: L2_MusicReading.cpp:213 L2_MusicReading.cpp:229 L2_MusicReading.cpp:249
+#: L2_MusicReading.cpp:265 L2_MusicReading.cpp:281 TheoryHarmony.cpp:226
+#: TheoryHarmony.cpp:261 TheoryHarmony.cpp:278 TheoryHarmony.cpp:414
+msgid "Exercise 1"
+msgstr "1. ariketa"
+
+#: L1_MusicReading.cpp:155 L1_MusicReading.cpp:170 L1_MusicReading.cpp:207
+#: L1_MusicReading.cpp:289 L1_MusicReading.cpp:328 L1_MusicReading.cpp:341
+#: L1_MusicReading.cpp:355 L1_MusicReading.cpp:369 L1_MusicReading.cpp:382
+#: L1_MusicReading.cpp:396 L1_MusicReading.cpp:410 L1_MusicReading.cpp:423
+#: L2_MusicReading.cpp:37 L2_MusicReading.cpp:48 L2_MusicReading.cpp:61
+#: L2_MusicReading.cpp:75 L2_MusicReading.cpp:88 L2_MusicReading.cpp:101
+#: L2_MusicReading.cpp:114 L2_MusicReading.cpp:127 L2_MusicReading.cpp:141
+#: L2_MusicReading.cpp:154 L2_MusicReading.cpp:167 L2_MusicReading.cpp:180
+#: L2_MusicReading.cpp:195 L2_MusicReading.cpp:215 L2_MusicReading.cpp:231
+#: L2_MusicReading.cpp:251 L2_MusicReading.cpp:267 L2_MusicReading.cpp:283
+#: TheoryHarmony.cpp:228 TheoryHarmony.cpp:263 TheoryHarmony.cpp:280
+#: TheoryHarmony.cpp:416
+msgid "Exercise 2"
+msgstr "2. ariketa"
+
+#: L1_MusicReading.cpp:129 L1_MusicReading.cpp:142 L1_MusicReading.cpp:152
+#: L1_MusicReading.cpp:167 L1_MusicReading.cpp:190 L1_MusicReading.cpp:204
+#: L1_MusicReading.cpp:265 L1_MusicReading.cpp:277 L1_MusicReading.cpp:286
+#: L1_MusicReading.cpp:300 L1_MusicReading.cpp:313 L1_MusicReading.cpp:325
+#: L1_MusicReading.cpp:338 L1_MusicReading.cpp:352 L1_MusicReading.cpp:366
+#: L1_MusicReading.cpp:379 L1_MusicReading.cpp:393 L1_MusicReading.cpp:407
+#: L1_MusicReading.cpp:420 L1_MusicReading.cpp:439 L1_MusicReading.cpp:448
+#: L1_MusicReading.cpp:457 L1_MusicReading.cpp:466 L2_MusicReading.cpp:34
+#: L2_MusicReading.cpp:45 L2_MusicReading.cpp:58 L2_MusicReading.cpp:72
+#: L2_MusicReading.cpp:85 L2_MusicReading.cpp:98 L2_MusicReading.cpp:111
+#: L2_MusicReading.cpp:124 L2_MusicReading.cpp:138 L2_MusicReading.cpp:151
+#: L2_MusicReading.cpp:164 L2_MusicReading.cpp:177 L2_MusicReading.cpp:192
+#: L2_MusicReading.cpp:212 L2_MusicReading.cpp:228 L2_MusicReading.cpp:248
+#: L2_MusicReading.cpp:264 L2_MusicReading.cpp:280 TheoryHarmony.cpp:25
+#: TheoryHarmony.cpp:225 TheoryHarmony.cpp:260 TheoryHarmony.cpp:336
+#: TheoryHarmony.cpp:387 TheoryHarmony.cpp:403 TheoryHarmony.cpp:413
+msgid "Exercises"
+msgstr "Ariketak"
+
+#: L1_MusicReading.cpp:49 L1_MusicReading.cpp:56 L1_MusicReading.cpp:224
+#: L1_MusicReading.cpp:234 L1_MusicReading.cpp:241 L1_MusicReading.cpp:248
+#: L1_MusicReading.cpp:255 L1_MusicReading.cpp:272
+msgid "F"
+msgstr "Fa"
+
+#: L1_MusicReading.cpp:270 L1_MusicReading.cpp:280
+#, fuzzy
+msgid "F clef on fourth line"
+msgstr "4. lerroko Fa giltza"
+
+#: L1_MusicReading.cpp:216
+msgid "F note"
+msgstr "Fa nota"
+
+#: L1_MusicReading.cpp:31
+msgid ""
+"Finally, in the third section some exercises are proposed to practise the "
+"newly introduced concepts."
+msgstr ""
+"Azkenik, hirugarren atalak kontzeptu sartu berriak lantzeko zenbait ariketa "
+"proposatzen ditu."
+
+#: L1_MusicReading.cpp:46 L1_MusicReading.cpp:50 L1_MusicReading.cpp:218
+#: L1_MusicReading.cpp:225 L1_MusicReading.cpp:235 L1_MusicReading.cpp:242
+#: L1_MusicReading.cpp:249 L1_MusicReading.cpp:256 L1_MusicReading.cpp:273
+msgid "G"
+msgstr "Sol"
+
+#: L1_MusicReading.cpp:60
+msgid "Half"
+msgstr "Zuria"
+
+#: L1_MusicReading.cpp:186
+#, fuzzy
+msgid ""
+"Having to write accidentals always in the same notes can be annoying. To "
+"make the writing process easier, instead of writing sharp signs before all F "
+"and C notes, the accidentals can be written at the beginning of the staff, "
+"immediately after the clef sign. These accidentals affect the whole score "
+"and are named the 'key signature'. They apply to all relevant notes <b>in "
+"every octave</b>. As a consequence, it is no longer needed to place "
+"accidental signs in front of each note. So, the previous score can also be "
+"written as follows:"
+msgstr ""
+"Partitura batean alterazio asko idatzi behar izatea nekagarria izan daiteke. "
+"Idazketa errazteko, Fa eta Do nota guztien aurrean alterazio ikurrak idatzi "
+"beharrean, alterazioak partituraren hasieran idatz daitezke, giltza "
+"ikurraren ondo-ondoan.  Alterazio horiek partitura osoan dute eragina, eta "
+"‘armadura’ deritzegu. Nota guztietan dute eragina."
+
+#: L1_MusicReading.cpp:321
+msgid ""
+"If a note starts in a weak place and prolog its sound to a strong part, it "
+"is called a 'syncopated note'."
+msgstr ""
+"Nota alde ahulean hasi eta haren soinua parte indartsura luzatzen bada, "
+"‘nota sinkopatua’ dela diogu."
+
+#: L1_MusicReading.cpp:297
+msgid ""
+"If you count beats along with the music, the 3/4 time signature will imply a "
+"rhythm such as 'ONE-two-three-and-ONE-two-three-and- ...', stressing the ONE "
+"syllable. This is the typical waltz rhythm."
+msgstr ""
+"Beraz, partitura irakurri ahala pultsuak zenbatzen badituzu, 3/4 neurriak "
+"honelako erritmo bat eskatuko du: 'BAT-bi-hiru-eta-BAT-bi-hiru-eta...’, BAT "
+"hitza nabarmenduta. Valsaren ohiko erritmoa da."
+
+#: L1_MusicReading.cpp:308
+msgid ""
+"If you count beats along with the music, the 4/4 time signature will imply a "
+"rhythm such as 'ONE-two-three-four-and-ONE-two-three-four-and- ...', "
+"stressing the ONE syllable and the 'three' syllable a little less."
+msgstr ""
+"Beraz, partitura irakurri ahala pultsuak zenbatzen badituzu, 4/4 neurriak "
+"honelako erritmo bat eskatuko du: 'BAT-bi-hiru-lau-eta-BAT-bi-hiru-lau-"
+"eta...’, BAT hitza nabarmenduta eta ‘hirugarren’ hitza ere gutxixeago "
+"nabarmenduta."
+
+#: L1_MusicReading.cpp:125
+msgid ""
+"If you would like to hear the metronome while playing a score, press the "
+"metronome button before or during playback."
+msgstr ""
+"Programak partitura jotzean metronomoa ere entzun nahi baduzu, zapal ezazu "
+"metronomo botoia jotzen hasi aurretik edo jo bitartean.    "
+
+#: L1_MusicReading.cpp:185
+msgid ""
+"If, for example, a piece of music is written based on the D major scale, all "
+"F and C notes will have sharp signs placed before them. For example (play "
+"it):"
+msgstr ""
+"Adibidez, musika pieza bat Re maiorreko eskalan idatzita badago, Fa eta Do "
+"guztiek aurretik sostenitu ikurrak izango dituzte. Esaterako (jo ezazu):"
+
+#: L1_MusicReading.cpp:432
+msgid ""
+"In simple meter time signatures, each beat can be subdivided into two "
+"halves. For example, replacing a quarter note with two eight notes. But "
+"there are rhythms that require to subdivide the beats in three parts or "
+"'pulses'. These rhythms are known as 'compound meter'."
+msgstr ""
+"Konpas arrunt edo bitarretan, taupada bakoitza zati bi egin daiteke. "
+"Esaterako, beltz bat bi kortxearekin ordezkatuta.  Baina zenbait erritmok "
+"taupadak hiru zatitan edo ‘pultsutan’ zatitzeko eskatzen dute. Horrelako "
+"erritmoei ‘konpas hirutar’ deritzegu.  "
+
+#: L1_MusicReading.cpp:33
+msgid ""
+"In the Western musical notation system music is written on specially printed "
+"paper called 'manuscript paper' (see next picture):"
+msgstr ""
+"Mendebaldeko musika idazteko sisteman musika ‘lerrodun papera’ deritzon "
+"paper inprimatu berezi batean idazten dugu (ikus hurrengo irudia):"
+
+#: L1_MusicReading.cpp:227
+msgid ""
+"In the bass clef the first upper leger line corresponds to the central C "
+"note (C4), represented in G clef on the first lower leger line:"
+msgstr ""
+"4. lerroko Fa giltzan goiko lehen lerro gehigarria erdiko Do notari dagokio "
+"(Do4), Sol giltzako beheko lehen lerro gehigarrian idazten denari:"
+
+#: L1_MusicReading.cpp:66
+msgid ""
+"In the coming lessons we will start using only the quarter note and will "
+"learn about note duration. Progressively, we will introduce the other note "
+"symbols. In this lesson we are going to learn some basic terminology about "
+"note symbols and some rules about how to draw them."
+msgstr ""
+"Hurrengo ikasgaien hasieran beltzak besterik ez dugu erabiliko, eta noten "
+"iraupena landuko dugu. Segituan, beste nota ikurrak sartuz joango gara. "
+"Ikasgai honetan zenbait oinarrizko termino ikasiko ditugu nota ikurrei "
+"buruz, eta horiek marrazteko arau batzuk ere."
+
+#: L1_MusicReading.cpp:151
+msgid ""
+"In the exercises of this lesson we are going to start reading scores with "
+"one leger line. In following lessons the range will be extended."
+msgstr ""
+"Ikasgai honetako ariketetan lerro gehigarri bakarreko partiturak irakurtzen "
+"hasiko gara. Hurrengo ikasgaietan tartea handiagoa izango da. "
+
+#: L1_MusicReading.cpp:29
+msgid ""
+"In the first section the new concepts and rhythmic patterns introduced in "
+"the lesson are explained."
+msgstr ""
+"Lehenengo atalak ikasgaietan aurkezturiko kontzeptu berriak eta erritmo "
+"patroiak irakasten ditu."
+
+#: L1_MusicReading.cpp:30
+msgid ""
+"In the second section, optional, the new concepts are compared with known "
+"ones, so that the student can better relate the new material and learn it."
+msgstr ""
+"Bigarren atalean —aukerakoa da—, kontzeptu berriak ezagunekin alderatzen "
+"dira; hala, ikasleak material berria hobeto bereganatu eta ikasteko."
+
+#: L1_MusicReading.cpp:417
+msgid ""
+"In this lesson a new rhythmic pattern is introduced: One eighth note and two "
+"16th notes."
+msgstr ""
+"Ikasgai honetan erritmo patroi berri bat sartuko dugu: kortxea bat eta bi "
+"kortxeaerdi."
+
+#: L1_MusicReading.cpp:298
+msgid ""
+"In this lesson also a new rhythmic pattern is introduced: the dotted half "
+"note, equivalent to a half note tied to a quarter note:"
+msgstr ""
+"Ikasgai honetan erritmo patroi berri bat sartuko dugu: zuri puntuduna, beltz "
+"bati loturiko zuri baten baliokidea da:"
+
+#: L1_MusicReading.cpp:311
+msgid ""
+"In this lesson we are going also to learn a new note symbol and its rest: "
+"the whole note. The following score shows a whole note and a whole rest:"
+msgstr ""
+"Ikasgai honetan nota eta isilune ikur berri bat ere ikasiko dugu: nota "
+"biribila. Hurrengo partiturak nota biribili bat eta biribilaren isilunea "
+"erakusten ditu:"
+
+#: L1_MusicReading.cpp:137
+msgid ""
+"In this lesson we are going to learn a new note symbol and its rest: the "
+"half note. The following score shows a half note and a half rest:"
+msgstr ""
+"Ikasgai honetan nota eta isilune ikur berri bat ikasiko dugu: zuria. "
+"Hurrengo partiturak nota zuri bat eta zuriaren isilunea erakusten ditu: "
+
+#: L1_MusicReading.cpp:203
+msgid ""
+"In this lesson we are going to practise the following rhythmic patterns:"
+msgstr "Ikasgai honetan hurrengo erritmo patroiak landuko ditugu: "
+
+#: L1_MusicReading.cpp:390
+msgid ""
+"In this lesson we are going to practise the occasional short-term "
+"displacement of accent that is produced by moving a note to a weak part but "
+"without continuing it to the next beat, and preceding it by a rest on the "
+"strong part. The rest reinforces the accent on the weak part."
+msgstr ""
+"Ikasgai honetan azentuaren noizbehinkako lekualdatzea landuko dugu, nota "
+"alde ahulera eraman baina soinua alde indartsura ez luzatzearen ondorioz "
+"sortua, aurretik, gainera, alde indartsuan isilunea duela. Isiluneak osagai "
+"ahularen azentua indartzen du."
+
+#: L1_MusicReading.cpp:261
+msgid ""
+"In this lesson we are going to start reading the bass clef, while practising "
+"the rhythmic patterns studied in previous lessons. We will start reading "
+"notes A3, B3 and C4:"
+msgstr ""
+"Ikasgai honetan Fa giltza irakurtzen hasiko gara, aurreko ikasgaietan "
+"landutako erritmo patroiak sakondu  bitartean. La3, Si3 eta Do4 notak "
+"irakurtzen hasiko gara:"
+
+#: L1_MusicReading.cpp:323
+msgid ""
+"In this lesson we are going to start studying the syncopated rhythms that "
+"result by using the following patterns::"
+msgstr ""
+"Ikasgai honetan erritmo sinkopatuak ikasten hasiko gara, honelako erritmo "
+"ereduak erabilita:"
+
+#: L1_MusicReading.cpp:403
+msgid ""
+"In this lesson we are going to study a new note: the sixteenth (also called "
+"'semiquaver' in British English). Its symbols are shown in the following "
+"score, and are like a quarter note with two flags added to its stem. They "
+"are usually drawn beamed:"
+msgstr ""
+"Ikasgai honetan beste nota berri bat jorratuko dugu: kortxeaerdia.  Haren "
+"ikurrak hurrengo partituran agertzen dira, eta beltzaren antzera marrazten "
+"dira, baina kortxete edo banderatxo moduko birekin. Normalean marraz "
+"elkarturik marrazten dira:"
+
+#: L1_MusicReading.cpp:271
+msgid ""
+"In this lesson we continue reading the F key on the fourth line. The range "
+"of notes is enlarged to cover F3 to C4."
+msgstr ""
+"Ikasgai honetan 4. lerroko Fa giltza lantzen jarraituko dugu. Nota eremua "
+"zabalduko da Fa-Do4 tarteraino. "
+
+#: L1_MusicReading.cpp:445 L1_MusicReading.cpp:454 L1_MusicReading.cpp:463
+msgid ""
+"In this lesson we continue the study of the 6/8 compound time with the "
+"introduction of new rhythmic patterns:"
+msgstr ""
+"Ikasgai honetan 6/8 konpas hirutarra lantzen jarraituko dugu, erritmo patroi "
+"edo eredu berriak sartuta:"
+
+#: L1_MusicReading.cpp:348
+msgid ""
+"In this lesson we continue with syncopation. We are going to practice a new "
+"rhythmic pattern, the eighth note followed by a quarter note:"
+msgstr ""
+"Ikasgai honetan sinkopa lantzen jarraituko dugu. Erritmo patroi berri bat "
+"landuko dugu, kortxea eta beltza elkarren atzean:"
+
+#: L1_MusicReading.cpp:335 L1_MusicReading.cpp:362 L1_MusicReading.cpp:376
+msgid ""
+"In this lesson we continue with syncopation. We are going to practice the "
+"following rhythmic patterns:"
+msgstr ""
+"Ikasgai honetan sinkopa lantzen jarraituko dugu. Ikasgai honetan hurrengo "
+"erritmo patroiak landuko ditugu: "
+
+#: L1_MusicReading.cpp:191
+msgid ""
+"In this lesson we will continue with exercises containing the rhythmic "
+"patterns of the previous lessons, but introducing the key signatures of G "
+"major and E minor (one sharp) and F major and D minor (one flat)."
+msgstr ""
+"Ikasgai honetan aurreko ikasgaietako erritmo patroiak dituzten ariketak "
+"lantzen jarraituko dugu, baina Sol maiorra eta Mi minorra armadurak "
+"erantsita (biek sostenitu bana), baita Fa maiorrarena eta Re minorrarena "
+"(bemol banarekin) ere. "
+
+#: L1_MusicReading.cpp:296
+msgid ""
+"In this lesson we will learn about the 3/4 time signature. As you should "
+"know (lesson 6) the top number tells how many beats there are in a measure, "
+"and the bottom number shows the type of note that gets one beat. The number "
+"4 means 'quarter note'. Therefore, the 3/4 time signature is a rhythm with "
+"three beats per measure and each measure gets three quarter notes. The first "
+"beat of a measure is always strong and the two other beats are weaker."
+msgstr ""
+"Ikasgai honetan 3/4 erritmoa jorratuko dugu. Ikasiko zenuenez (6. ikasgaia), "
+"goiko zenbakiak adierazten du zenbat taupada dauden neurri batean, eta "
+"beheko zenbakiak zein nota motak hartzen duen pultsua edo taupada. 4. "
+"zenbakiak ‘beltza’ adierazten du. Beraz, 3/4 konpasaren erritmoak hiru "
+"pultsu ditu neurri bakoitzeko, eta neurri bakoitza nota beltz batek hartzen "
+"du. Konpas bateko lehen pultsua beti indartsua izaten da, eta beste biak "
+"ahulagoak. "
+
+#: L1_MusicReading.cpp:306
+msgid ""
+"In this lesson we will learn about the 4/4 time signature. As you know the "
+"top number tells how many beats are there in a measure, and the bottom "
+"number shows the type of note that gets one beat ('4' means 'quarter note'). "
+"Therefore, the 4/4 time signature is a rhythm with four beats per measure "
+"and each measure gets four quarter notes."
+msgstr ""
+"Ikasgai honetan 4/4 erritmoa jorratuko dugu. Jakingo duzunez, goiko "
+"zenbakiak adierazten du zenbat taupada dauden neurri batean, eta beheko "
+"zenbakiak zein nota motak hartzen duen pultsua edo taupada (4ak ‘nota "
+"beltza’ esan nahi du). Beraz, 4/4 konpasaren erritmoak lau pultsu ditu "
+"neurri bakoitzeko, eta neurri bakoitza nota beltz batek hartzen du."
+
+#: L1_MusicReading.cpp:283
+msgid ""
+"In this lesson we will start introducing the eighth rest in the rhythmic "
+"patterns. The first pattern we are going to study is the eighth note "
+"followed by an eighth rest:"
+msgstr ""
+"Ikasgai honetan kortxea isilunea erritmo patroietan txertatzen hasiko gara. "
+"Ikasiko dugun lehenengo erritmo patroia kortxeak eta, segituan, kortxea "
+"isiluneak eratzen dutena da:"
+
+#: L1_MusicReading.cpp:128
+msgid ""
+"In this lesson we will start reading music with scores composed just by "
+"quarter notes and rests. These rhythms are very simple, as each note or rest "
+"gets a beat. Listen for example to the following song:"
+msgstr ""
+"Ikasgai honetan musika irakurtzen hasiko gara nota beltzek eta haien "
+"isiluneek eraturiko partitura errazetatik abiatuta. Oso erritmo errazak "
+"dira, eta nota eta isilune bakoitzak taupada bat hartzen du. Entzun, "
+"adibidez, hurrengo kanta:"
+
+#: L1_MusicReading.cpp:435
+msgid ""
+"In this lesson we will start the study of compound meters with the "
+"introduction of the 6/8 time signature. The 6/8 time signature is a compound "
+"time. Therefore, 6/8 means that each measure will have 6 pulses (two beats) "
+"and each pulse is occupied by an eighth note (each beat takes three eight "
+"notes):"
+msgstr ""
+"Ikasgai honetan konpas hirutarrak lantzen hasiko gara. Hartarako, 6/8 "
+"konpasa aurkeztuko dizugu. 6/8 konpasa konpas hirutar edo konposatua da. "
+"Ondorioz, 6/8 zenbakiak adieraziko digunaren arabera, konpas bakoitzak 6 "
+"atal (bi taupada edo pultsu) izango ditu, eta pultsu bakoitza kortxea batek "
+"beteko du (taupada bakoitzak hiru kortxea ditu):  "
+
+#: L1_MusicReading.cpp:406
+msgid ""
+"In this lesson we will start the study of rhythms with 16th notes. Play the "
+"following score and take note of the new rhythmic patterns introduced in "
+"each measure:"
+msgstr ""
+"Ikasgai honetan kortxeaerdiek osatutako erritmoak lantzen hasiko gara. Jo "
+"hurrengo partitura eta entzun itzazu konpas bakoitzean agertzen diren "
+"erritmo berriak. "
+
+#: L1_MusicReading.cpp:166
+msgid ""
+"In this lesson we will start the study of rhythms with eighth notes. Play "
+"the following score and take note of the new rhythmic patterns introduced in "
+"each measure:"
+msgstr ""
+"Ikasgai honetan kortxeek osatutako erritmoak lantzen hasiko gara. Jo "
+"hurrengo partitura eta entzun itzazu konpas bakoitzean agertzen diren "
+"erritmo berriak. "
+
+#: L1_MusicReading.cpp:109
+msgid "Instead of letters 'm.m.' also note symbols are used:"
+msgstr "‘m.m.’ letren partez, nota ikurrak ere erabiltzen dira:"
+
+#: L1_MusicReading.cpp:123
+#, fuzzy
+msgid ""
+"Just click on the 'metronome' button<img-1 /> and the sound will inmediately "
+"start. To stop the metronome click on the button again. To adjust the tempo "
+"just type the required tempo number in the box on the right of the metronome "
+"button (2), or click on the up/down arrows on the right (3) to adjust the "
+"desired tempo. Try it now!"
+msgstr ""
+"eta berehala hasiko da jotzen. Metronomoa gerarazteko, zapaldu berriro "
+"botoia. Tempoa doitzeko, aski duzu tempo zenbakia idaztea metronomo "
+"botoiaren eskuinaldeko kutxan (2), edo eskuineko geziak (3) saguaz gora edo "
+"behera zapaltzea, nahi duzun tempoa zehazteko.  Saia zaitez oraintxe bertan! "
+
+#: L1_MusicReading.cpp:184
+msgid "Key signature"
+msgstr "Armadura"
+
+#: L1_MusicReading.cpp:21
+#, fuzzy
+msgid ""
+"Key signatures of all major and minor keys up to and including two sharps "
+"and flats."
+msgstr ""
+"Tonalitate maior eta minor guztietako armadurak, bi alterazio eta guzti."
+
+#: L1_MusicReading.cpp:147
+msgid "Leger lines"
+msgstr "Lerro gehigarriak"
+
+#: L1_MusicReading.cpp:159
+msgid "Leger lines above"
+msgstr "Goiko lerro gehigarriak"
+
+#: L1_MusicReading.cpp:157
+msgid "Leger lines below"
+msgstr "Beheko lerro gehigarriak"
+
+#: L1_MusicReading.cpp:149
+msgid "Leger lines can also be added on top, for high pitch notes:"
+msgstr "Lerro gehigarriak goitik ere gehitu daitezke, tonu altuko notetarako:"
+
+#: L1_MusicReading.cpp:27
+msgid "Lessons' structure"
+msgstr "Ikasgaien egitura:"
+
+#: L1_MusicReading.cpp:202 L1_MusicReading.cpp:260 L1_MusicReading.cpp:284
+#: L1_MusicReading.cpp:322 L1_MusicReading.cpp:336 L1_MusicReading.cpp:350
+#: L1_MusicReading.cpp:364 L1_MusicReading.cpp:377 L1_MusicReading.cpp:391
+#: L1_MusicReading.cpp:405 L1_MusicReading.cpp:418 L1_MusicReading.cpp:446
+#: L1_MusicReading.cpp:455 L1_MusicReading.cpp:464
+msgid "Listen and take notice of the differences"
+msgstr "Entzun eta ohartu zaitez ezberdintasunez."
+
+#: L1_MusicReading.cpp:447
+msgid "Listen to each measure and note the newly introduced patterns:"
+msgstr ""
+"Entzun konpas bakoitza eta antzeman agertu berri diren erritmo patroiei:"
+
+#: L1_MusicReading.cpp:324 L1_MusicReading.cpp:337 L1_MusicReading.cpp:351
+#: L1_MusicReading.cpp:365 L1_MusicReading.cpp:378 L1_MusicReading.cpp:392
+#: L1_MusicReading.cpp:419 L1_MusicReading.cpp:456 L1_MusicReading.cpp:465
+#: L2_MusicReading.cpp:33
+msgid ""
+"Listen to each measure and pay attention to the newly introduced patterns:"
+msgstr ""
+"Entzun konpas bakoitza eta adi egon agertu berri diren erritmo patroiei:"
+
+#: L1_MusicReading.cpp:163
+msgid "Many times eighth notes are drawn beamed:"
+msgstr "Askotan kortxeak elkartuta marrazten dira:"
+
+#: L1_MusicReading.cpp:196
+msgid "Marks to lengthen notes: tie, dot and fermata"
+msgstr "Notak luzatzeko ikurrak: ligatura, puntua eta kalderoia"
+
+#: L1_MusicReading.cpp:71
+msgid "Measures and bar lines"
+msgstr "Konpasak eta konpas barrak"
+
+#: L1_MusicReading.cpp:83
+msgid ""
+"Most music has a rhythm that you can perceive as a repetitive pattern of "
+"pulses. It is easy to identify these pulses: it is what we all do when we "
+"clap our hands or tap our foot while listening to a song. These pulses are "
+"the 'beats' of the music and are the basis to organize written music."
+msgstr ""
+"Musika aire gehienek antzeman dezakezun pultsu erritmo errepikakor bat dute. "
+"Erraza da horrelako pultsuak identifikatzea: kanta bat entzutean eskuko "
+"txaloekin edo oinetako ostikoekin adierazten duguna da. Pultsu horiek "
+"musikaren ‘taupadak’ dira eta musika idatzia antolatzeko oinarriak dira."
+
+#: L1_MusicReading.cpp:72
+msgid ""
+"Music is normally divided into equal parts named 'measures' (in British "
+"English the word 'bar' is used instead of 'measure'). On the staff, the end "
+"of each measure is marked with a thin vertical line, drawn from the top line "
+"to the bottom line of the staff. This line is called a bar line:"
+msgstr ""
+"Normalean, musika antolatzen da 'konpas’ izeneko parte berdinetan. "
+"Pentagraman, konpas bakoitzaren amaiera marra mehe bertikal batek adierazten "
+"du. Marrari ‘konpas barra’ deritzogu:"
+
+#: L1_MusicReading.cpp:11
+msgid "Music reading. Level 1."
+msgstr "Musika irakurtzen. 1. maila."
+
+#: L1_MusicReading.cpp:89
+msgid ""
+"Not all beats in a measure are equal: there are strong beats (louder), "
+"medium and weak beats. The first beat of a measure is normally the strongest "
+"one and the other beats are weaker. The pattern of strong and weak beats is "
+"what makes rhythmic patterns different. It is important to learn to "
+"recognize the time signature when listening to a piece of music. This may "
+"take some practice but it is a useful practice for anyone who is learning "
+"music."
+msgstr ""
+"Konpas bateko taupadak ez dira berdinak: pultsu indartsuak (ozenagoak), "
+"bitartekoak eta ahulak egoten dira. Konpas bateko lehen pultsua, normalean, "
+"Indartsuena izaten da, eta gainerakoak, ahulagoak. Taupada ozen eta ahulen "
+"alternantziak sortzen ditu erritmo patroi ezberdinak. Garrantzizkoa da "
+"musika pieza bat entzutean metrika ezagutzen ikastea. Horrek ariketak "
+"egiteko eskatzen du, baina oso ohitura onuragarria da musika ikaslearentzat. "
+
+#: L1_MusicReading.cpp:57
+msgid "Note symbols"
+msgstr "Nota ikurrak"
+
+#: L1_MusicReading.cpp:436
+msgid ""
+"Note that a dotted quarter note equals three eighth notes. Therefore, in the "
+"6/8 time the note that occupies a beat is the dotted quarter note and each "
+"measure takes two dotted quarter notes."
+msgstr ""
+"Ikusiko duzunez, beltz puntudun bat hiru kortxearen baliokide da. Hala, 6/8 "
+"konpasean pultsu bakoitza beltz puntudunak beteko du, eta konpas bakoitzak "
+"bi beltz puntudun hartuko ditu."
+
+#: L1_MusicReading.cpp:299
+msgid "Note that the dotted half note takes a whole measure in the 3/4 rhythm."
+msgstr ""
+"Ikusiko duzunez, zuri puntudunak neurri oso bat hartzen du 3/4 erritmoan."
+
+#: L1_MusicReading.cpp:349
+msgid ""
+"Note that the quarter note starts in the weak part of the beat (off-beat) an "
+"continues in the first part of the following beat. This is the basis of "
+"syncopation."
+msgstr ""
+"Ikusiko duzunez, beltza alde motelean hasi (pultsuaren bigarren partean) eta "
+"hurrengo taupadako lehen parteraino luzatzen da. Horixe da sinkoparen "
+"oinarria:"
+
+#: L1_MusicReading.cpp:187
+msgid ""
+"Note that the sharp for the F note is placed on the 5th line but it affects "
+"all F notes, independently of the octave."
+msgstr ""
+"Ikusiko duzunez, Fa notaren sostenitua 5. lerroan idatzita dago, baina "
+"eragina du FA nota guzietan, edozein zortzidunetan egon arren."
+
+#: L1_MusicReading.cpp:285
+msgid ""
+"Note that this rhythm is similar to the quarter notes rhythm, but shortening "
+"the notes:"
+msgstr ""
+"Konturatuko zarenez, erritmo hau beltzen erritmoaren modukoa da, baina notak "
+"laburtuta: "
+
+#: L1_MusicReading.cpp:19
+#, fuzzy
+msgid ""
+"Note values of whole (semibreve), half (minim), quarter (crotchet), eighth "
+"(quaver) and sixteenth (semiquaver), and their equivalent rests. Tied notes. "
+"Single-dotted notes and rests."
+msgstr ""
+"Osoa (biribila), erdia (zuria), laurdena (beltza), zortzirena (kortxea), "
+"hamaseirena (kortxeaerdia), eta haien pareko isiluneak. Nota lotuak. Punttu "
+"bakarreko notak eta isiluneak."
+
+#: L1_MusicReading.cpp:130
+msgid ""
+"Now is your time to start reading music. Remember to mark the beats with "
+"your hand or foot. Use also the metronome. The note range will be very "
+"limited (two first lines and first space, notes E4, F4 and G4) to help you "
+"to memorize them. The range will be broadened, progressively and slowly, in "
+"the following lessons."
+msgstr ""
+"Orain, musika irakurtzen hasteko txanda duzu. Gogora ezazu pultsuak eskuz "
+"edo oinez markatu behar dituzula. Metronomoa ere erabil dezakezu.  Nota "
+"tartea oso mugatua izango da (lehenengo bi lerroak eta lehen espazioa; Mi, "
+"Fa eta Sol notak), gogoratzen laguntzeko. Tartea apurka-apurka zabalduz "
+"joango da hurrengo ikasgaietan."
+
+#: L1_MusicReading.cpp:70
+msgid ""
+"Often, consecutive notes with flags are linked together in groups by "
+"replacing the flags by lines called 'beams'. The number of beams must be the "
+"same as the number of flags each individual note would have had when drawn "
+"isolated. In the following example the four individual notes at the first "
+"part can also be drawn grouped, as shown in the second part:"
+msgstr ""
+"Sarritan, kortxetedun notak taldeka marrazten dira, eta kortxeteak ‘barra’ "
+"izeneko marra lodiagoz ordezkatzen dira. Hurrengo adibideko lehen zatiko lau "
+"banako notak elkarturik ere marraztu daitezke, bigarren partean erakutsi "
+"bezala: "
+
+#: L1_MusicReading.cpp:416 L1_MusicReading.cpp:425 L1_MusicReading.cpp:427
+msgid "One eighth note and two 16th notes"
+msgstr "Kortxea bat eta bi kortxeaerdi"
+
+#: L1_MusicReading.cpp:138
+msgid ""
+"One half note equals two quarter notes and one half rest equals two quarter "
+"rests. So in time 2/4 a half note or rest gets two beats. Therefore it takes "
+"a whole measure:"
+msgstr ""
+"Zuri batek bi beltzek beste dirau, eta zuriaren isiluneak beltzaren bi "
+"isilunek beste. Beraz, 2/4ko konpasean zuriak edo zuriaren isiluneak bi "
+"taupada dirau. Alegia, konpas osoa hartzen du:"
+
+#: L1_MusicReading.cpp:165
+msgid ""
+"One quarter note equals two eighth notes and one quarter rest equals two "
+"eighth rests. So in 2/4 time signature an eighth note or rest gets half a "
+"beats, and, therefore, there are two eighth notes in a beat. So in 2/4 they "
+"are usually drawn beamed, occupying a beat."
+msgstr ""
+"Beltz batek bi kortxeak beste dirau eta beltzaren isilunea kortxearen halako "
+"bi da. Beraz, 2/4 konpasean kortxeak edo kortxearen isiluneak pultsu erdia "
+"hartzen du, hau da, taupada batean bi kortxea sartzen dira. Hori dela eta, "
+"2/4koan pultsu bateko kortxeak barraz lotuta joaten dira."
+
+#: L1_MusicReading.cpp:312
+msgid ""
+"One whole note equals two half notes and one whole rest equals two half "
+"rests. So in time 4/4 a whole note or rest gets four beats, and, therefore, "
+"takes a whole measure. Two tied half notes equals a whole note:"
+msgstr ""
+"Nota biribil batek bi zurik beste dirau eta biribilaren isiluneak bi isilune "
+"zurik adina. Beraz, 4/4 erritmoan, biribil batek lau pultsu edo taupada "
+"hartzen ditu, alegia, konpas oso bat.  Bi zuri elkartu biribil baten "
+"baliokide dira:"
+
+#: L1_MusicReading.cpp:42
+msgid "Pitch increases as the note is higher"
+msgstr ""
+
+#: L1_MusicReading.cpp:160
+msgid "Practise reading scores with leger lines above fifth line."
+msgstr ""
+"Treba zaitez bosgarren lerroaren gainetik lerro gehigarriak dituzten "
+"partiturak irakurtzen."
+
+#: L1_MusicReading.cpp:158
+msgid "Practise reading scores with leger lines below first line."
+msgstr ""
+"Treba zaitez lehen lerroaren azpitik lerro gehigarriak dituzten partiturak "
+"irakurtzen."
+
+#: L1_MusicReading.cpp:14 TheoryHarmony.cpp:14 TheoryHarmony.cpp:18
+msgid "Presentation"
+msgstr "Aurkezpena"
+
+#: L1_MusicReading.cpp:61
+msgid "Quarter"
+msgstr "Beltza"
+
+#: L1_MusicReading.cpp:269
+msgid "Read scores containing the bass clef."
+msgstr "Irakurri Fa giltzako partiturak."
+
+#: L1_MusicReading.cpp:195
+msgid "Read scores containing the rhythms studied."
+msgstr "Irakur itzazu landutako erritmoak dakartzaten partiturak."
+
+#: L1_MusicReading.cpp:430
+msgid "Simple and compound time signatures"
+msgstr "Konpas bakunak eta hirutarrak."
+
+#: L1_MusicReading.cpp:20
+#, fuzzy
+msgid ""
+"Simple time signatures of 2/4, 3/4 and 4/4 and compound time signature of "
+"6/8. Bar-lines and the grouping of the notes listed above within these times."
+msgstr ""
+"2/4, 3/4 eta 4/4etako konpas sinpleak eta 6/8ko konpas konposatua. Konpas "
+"lerroak eta aipatu konpasen gainetik zerrendaturiko nota taldeak."
+
+#: L1_MusicReading.cpp:88
+msgid ""
+"So the time signature is just an arbitary device to help us to understand "
+"and write the rhythm. But remeber that rhythm is something natural that "
+"exists by itsel in the music."
+msgstr ""
+"Beraz, erritmoa ulertzen eta idazten laguntzen digun tresna arbitrarioa "
+"besterik ez dugu metrika. Dena dela, gogoan izan erritmoa zerbait naturala "
+"dela, berez beti egoten dela musikan.  "
+
+#: L1_MusicReading.cpp:44
+msgid ""
+"Sounds are represented by notes. There are seven notes named either using "
+"the first seven letters of the alphabet A, B, C, D, E, F (Anglo-Saxon "
+"system) or using the names Do, Re, Mi, Fa, Sol, La and Si (Ti) (Latin "
+"system). To determine which pitch (sound) is represented by each line and "
+"space in the staff a symbol, named 'the clef', is placed at the beginning of "
+"each staff. In this course we are going to start with the study of the G "
+"clef, also named 'treble clef', that is represented by the following symbol:"
+msgstr ""
+"Soinuak noten bitartez ordezkatzen dira. Sistema latindarrean zazpi nota "
+"daude: Do, Re, Mi, Fa, Sol, La and Si (Ti). Sistema anglosaxoniarraren "
+"arabera,   A, B, C, D, E, F letren bidez irudikatzen dira. Pentagramako "
+"lerro eta lerroarte bakoitzak zein tonu (soinu) ordezkatzen duen, pentagrama "
+"bakoitzaren hasieran ikur bat jartzen da: 'giltza'. Ikastaro honetan Sol "
+"giltza ikasten hasiko gara, honako ikur hau erabilita irudikatzen da:"
+
+#: L1_MusicReading.cpp:281
+msgid ""
+"Start the metronome. Press 'Play' and listen. Train your ear and practise "
+"reading these rhythms."
+msgstr ""
+"Abiarazi metronomoa. Zapaldu 'Jo’ botoia eta entzun. Treba ezazu zeure "
+"entzumena eta egin ariketak erritmo hauekin."
+
+#: L1_MusicReading.cpp:134 L1_MusicReading.cpp:146 L1_MusicReading.cpp:173
+#: L1_MusicReading.cpp:175 L1_MusicReading.cpp:210 L1_MusicReading.cpp:212
+#: L1_MusicReading.cpp:292 L1_MusicReading.cpp:294 L1_MusicReading.cpp:304
+#: L1_MusicReading.cpp:317 L1_MusicReading.cpp:331 L1_MusicReading.cpp:333
+#: L1_MusicReading.cpp:344 L1_MusicReading.cpp:346 L1_MusicReading.cpp:358
+#: L1_MusicReading.cpp:360 L1_MusicReading.cpp:372 L1_MusicReading.cpp:374
+#: L1_MusicReading.cpp:385 L1_MusicReading.cpp:387 L1_MusicReading.cpp:399
+#: L1_MusicReading.cpp:401 L1_MusicReading.cpp:413 L1_MusicReading.cpp:415
+#: L1_MusicReading.cpp:426 L1_MusicReading.cpp:428 L1_MusicReading.cpp:443
+#: L1_MusicReading.cpp:452 L1_MusicReading.cpp:461 L1_MusicReading.cpp:470
+msgid ""
+"Start the metronome. Press 'Play' and listen. Train your ear and practise "
+"reading this rhythm."
+msgstr ""
+"Abiarazi metronomoa. Zapaldu ‘Jo’ botoia eta entzun. Treba ezazu zeure "
+"entzumena eta egin ariketak erritmo mota honekin."
+
+#: L1_MusicReading.cpp:69
+msgid ""
+"Stems are drawn on the right-hand side of the note-head when the stem goes "
+"up, and on the left-hand side of the note-head when the stem goes down. "
+"Flags are always drawn on the right-hand side of the stem:"
+msgstr ""
+"Plikak nota buruaren eskuinaldean marrazten dira plika gorantz doanetan, eta "
+"nota buruaren ezker plika beherantz dagoenetan. Kortxeteak beti plikaren "
+"eskuinaldean marrazten da:"
+
+#: L1_MusicReading.cpp:68
+msgid ""
+"Stems normally go up for notes placed below the third line and go down for "
+"notes placed on or above the third line:"
+msgstr ""
+"Plika, normalean, gorantz marrazten da hirugarren lerrotik beherako "
+"notetarako, eta beherantz hirugarren lerroko edo goragoko notetarako:"
+
+#: L1_MusicReading.cpp:15 L2_MusicReading.cpp:16
+msgid "Syllabus"
+msgstr "Ikasketa plana"
+
+#: L1_MusicReading.cpp:318 L1_MusicReading.cpp:330 L1_MusicReading.cpp:332
+#: L1_MusicReading.cpp:371 L1_MusicReading.cpp:373 L1_MusicReading.cpp:384
+#: L1_MusicReading.cpp:386
+msgid "Syncopation"
+msgstr "Sinkopa"
+
+#: L1_MusicReading.cpp:334 L1_MusicReading.cpp:343 L1_MusicReading.cpp:345
+msgid "Syncopation (2)"
+msgstr "Sinkopa (2)"
+
+#: L1_MusicReading.cpp:347 L1_MusicReading.cpp:357 L1_MusicReading.cpp:359
+msgid "Syncopation (3)"
+msgstr "Sinkopa (3)"
+
+#: L1_MusicReading.cpp:361
+msgid "Syncopation (4)"
+msgstr "Sinkopa (4)"
+
+#: L1_MusicReading.cpp:375
+msgid "Syncopation (5)"
+msgstr "Sinkopa (5)"
+
+#: L1_MusicReading.cpp:90
+msgid "The 2/4 time signature"
+msgstr "2/4 metrika neurria edo armadura"
+
+#: L1_MusicReading.cpp:295 L1_MusicReading.cpp:303
+msgid "The 3/4 time signature. Dotted half note"
+msgstr "3/4 konpasa. Zuri puntuduna"
+
+#: L1_MusicReading.cpp:305
+msgid "The 4/4 time signature"
+msgstr "4/4 konpasa"
+
+#: L1_MusicReading.cpp:316
+msgid "The 4/4 time signature. The whole note and its rest"
+msgstr "4/4 konpasa. Nota biribila eta haren isilunea. "
+
+#: L1_MusicReading.cpp:434 L1_MusicReading.cpp:442
+msgid "The 6/8 time signature"
+msgstr "6/8 konpasa"
+
+#: L1_MusicReading.cpp:444 L1_MusicReading.cpp:451
+msgid "The 6/8 time signature (2)"
+msgstr "6/8 konpasa (2)"
+
+#: L1_MusicReading.cpp:453 L1_MusicReading.cpp:460
+msgid "The 6/8 time signature (3)"
+msgstr "6/8 konpasa (3)"
+
+#: L1_MusicReading.cpp:462 L1_MusicReading.cpp:469
+msgid "The 6/8 time signature (4)"
+msgstr "6/8 konpasa (4)"
+
+#: L1_MusicReading.cpp:429
+msgid "The 6/8 time signature: compound meters"
+msgstr "6/8 konpasa: konpas hirutarrak."
+
+#: L1_MusicReading.cpp:214
+msgid ""
+"The F clef on the fourth line, also named 'bass clef', is represented by the "
+"following symbol:"
+msgstr ""
+"4. lerroko Fa giltzari ‘baxuaren giltza’ ere deritzote, eta honako ikur hau "
+"du:"
+
+#: L1_MusicReading.cpp:122
+msgid ""
+"The LenMus program has a buil-in metronome that you can use as an "
+"independent metronome. For example, when practising with your musical "
+"instrument or when doing sight-reading."
+msgstr ""
+"LenMus programak metronomo bat dakar, eta metronomo independente moduan "
+"erabil dezakezu. Esate baterako, musika tresnarekin aritzen zarenean edo "
+"solfeoa lantzean."
+
+#: L1_MusicReading.cpp:121
+msgid "The LenMus program metronome"
+msgstr "LenMus programaren metronomoa"
+
+#: L1_MusicReading.cpp:307
+msgid ""
+"The accents on this rhythm follow the pattern Strong-Weak-Medium-Weak, that "
+"is, the first beat of a measure is always the strongest one, and the three "
+"other beats are weaker, with the third one being only a little stronger."
+msgstr ""
+"Erritmo honetan azentuak Gogorra-Ahula-Bitartekoa-Ahula patroia betetzen du; "
+"hau da, neurri bateko lehen pultsuak beti izaten da indartsuena, eta beste "
+"hirurak ahulagoak, haietako hirugarrena apur bat gogorragoa dela. "
+
+#: L1_MusicReading.cpp:189
+msgid ""
+"The accidentals on the key signature are named 'proper accidentals' whereas "
+"those added in addition to individual notes are named 'chromatic "
+"accidentals'."
+msgstr ""
+"Armaduraren alterazioei ‘berezko alterazio’ deritzegu; banako notei eransten "
+"zaizkienei, ordea, ‘alterazio kromatiko’.  "
+
+#: L1_MusicReading.cpp:213 L1_MusicReading.cpp:268
+msgid "The bass clef"
+msgstr "4. lerroko Fa giltza"
+
+#: L1_MusicReading.cpp:215
+msgid ""
+"The bass clef assigns the F note to the 4th line, as shown in following "
+"picture:"
+msgstr ""
+"Baxuaren giltzak Fa nota laugarren lerroari izendatzen dio, hurrengo irudian "
+"ikusi bezala:"
+
+#: L1_MusicReading.cpp:43
+msgid "The clef"
+msgstr "Giltza"
+
+#: L1_MusicReading.cpp:45
+msgid ""
+"The clef assigns a particular line to a specific pitch, and all other "
+"pitches are mapped in ascending and descending order to the lines and spaces "
+"above and below that reference line. In the G clef, the G note of the fourth "
+"octave is assigned to the second line:"
+msgstr ""
+"Giltzak lerro jakin bat izendatzen dio nota bati, eta beste nota guztiak "
+"hurrenez hurren gorago eta beherago kokatzen dira erreferentzi lerro "
+"horretatik abiatuta gainerako lerro eta lerroarteetan. Sol giltzan laugarren "
+"zortziduneko Sol nota bigarren lerroari esleituta dago:"
+
+#: L1_MusicReading.cpp:161 L1_MusicReading.cpp:172 L1_MusicReading.cpp:174
+msgid "The eighth note"
+msgstr "Kortxea"
+
+#: L1_MusicReading.cpp:282 L1_MusicReading.cpp:291 L1_MusicReading.cpp:293
+msgid "The eighth rest"
+msgstr "Kortxea isilunea"
+
+#: L1_MusicReading.cpp:200
+msgid "The fermata mark"
+msgstr "Kalderoia"
+
+#: L1_MusicReading.cpp:40
+msgid "The first note has higher pitch than the second one"
+msgstr "Lehenengo notak bigarrenak baino tonu agudoagoa du."
+
+#: L1_MusicReading.cpp:91
+msgid "The first time signature we are going to use is the 2/4 time signature:"
+msgstr "Erabiliko dugun lehenengo konpas neurria 2/4 da, bi denborakoa:"
+
+#: L1_MusicReading.cpp:36
+msgid ""
+"The four spaces between the staff lines are also important and are also "
+"numbered from bottom to top:"
+msgstr ""
+"Lau lerroarteak ere oso garrantzizkoak dira, eta haiek ere behetik gora "
+"izendatzen dira:"
+
+#: L1_MusicReading.cpp:136
+msgid "The half note and its rest"
+msgstr "Zuria eta haren isilunea."
+
+#: L1_MusicReading.cpp:135 L1_MusicReading.cpp:145
+msgid "The half note and its rest. Ties"
+msgstr "Zuria eta haren isilunea. Ligaturak"
+
+#: L1_MusicReading.cpp:188
+msgid ""
+"The key signature, apart of simplifying the notation, gives information "
+"about the 'tonality' of the composition, roughly speaking, which scale is "
+"used to build a piece of music. The key signature must be written on every "
+"music line, placed immediately after the clef sign."
+msgstr ""
+"Armadurak, notazioa errazteaz gain, informazioa ematen du konposizioaren "
+"‘tonalitateaz’, hau da, musika pieza eraikitzeko erabiliriko eskalaz. "
+"Armadura pentagrama guztietan idatzi beharra dago, giltzaren ostean."
+
+#: L1_MusicReading.cpp:34
+msgid ""
+"The manuscript paper is organized as sets of horizontal lines, named "
+"'staves', and each group of horizontal lines is called a 'staff' (in British "
+"English the word 'staff' is old-fashioned and rarely used; the word 'stave' "
+"is used instead). A staff is a set of five horizontal lines, numbered from "
+"bottom to top; the bottom line is the first line and the top line is the "
+"fifth line:"
+msgstr ""
+"Lerrodun papera lerro horizontaletan —‘pentagrama’ izenekoak—  antolatuta "
+"dago (penta: bost, grama: marra). Pentagrama bost lerro horizontal "
+"paraleloren sorta da, behetik gora izendatua; beheko lerroa 'lehen lerroa' "
+"da eta goikoa 'bosgarren lerroa': "
+
+#: L1_MusicReading.cpp:110
+msgid "The metronome"
+msgstr "Metronomoa"
+
+#: L1_MusicReading.cpp:108
+msgid ""
+"The modern way to specify tempo is by giving the number of beats per minute. "
+"This is represented in the score by the letters 'm.m.' followed by the beats "
+"per minute rate. This indication is normally written at the beginning:"
+msgstr ""
+"Gaur egun, tempoa zehazteko, minutuko pultsu kopurua adierazten da. "
+"Partituran ‘m.m.’ letrak eta, segituan, minutuko pultsu kopurua idatzita "
+"adierazten da.  Partituran ‘m.m.’ letrak eta, segituan, minutuko pultsu "
+"kopurua idatzita adierazten da. Adierazpena partituraren hasieran idatzi ohi "
+"da:"
+
+#: L1_MusicReading.cpp:38
+msgid ""
+"The musical symbols are placed on the staff and the music on the staff is "
+"read from left to right."
+msgstr ""
+"Musika ikurrak pentagraman kokatzen dira, eta musika ezkerretatik "
+"eskuinetara irakurtzen da."
+
+#: L1_MusicReading.cpp:162
+msgid ""
+"The next figure we are going to study is the eighth note (also called "
+"'quaver' in British English). Its symbols are shown in the followig score, "
+"and are like a quarter note with a flag added to its stem:"
+msgstr ""
+"Segituan, kortxea deritzon figura landuko dugu. Haren ikurrak hurrengo "
+"partituran agertzen dira, eta beltzaren antzera marrazten dira, baina "
+"kortxete edo banderatxo moduko batekin:"
+
+#: L1_MusicReading.cpp:67
+msgid ""
+"The note symbols have three distinct parts: (1) the note-head, (2) the stem "
+"and (3) the flag (also named hook or tail), as depicted in next figure:"
+msgstr ""
+"Nota ikurrak hiru zati ditu: (1) burua, (2) plika eta (3) kortxetea (kakoa, "
+"buztana), hurrengo irudian erakutsi bezala: "
+
+#: L1_MusicReading.cpp:389
+msgid ""
+"The off-beat syncopation commonly refers to rhythms that emphasize the weak "
+"beats of a measure."
+msgstr ""
+"Kontradenborako sinkopa normalean neurri baten alde ahulak nabarmentzen "
+"dituen erritmoei dagokie. "
+
+#: L1_MusicReading.cpp:126
+msgid "The quarter note and its rest"
+msgstr "Beltza eta haren isilunea "
+
+#: L1_MusicReading.cpp:402 L1_MusicReading.cpp:412 L1_MusicReading.cpp:414
+msgid "The sixteenth note"
+msgstr "Kortxeaerdia"
+
+#: L1_MusicReading.cpp:32
+msgid "The staff"
+msgstr "Pentagrama"
+
+#: L1_MusicReading.cpp:18
+#, fuzzy
+msgid ""
+"The stave. Treble (G) and bass (F) clefs. Names of notes on the stave. "
+"Extension of the stave to include two ledger lines below and above each "
+"stave."
+msgstr ""
+"Pentagrama. Sol eta Fa giltzak. Pentagramako noten izenak. Pentagrama "
+"luzatzea, goitik eta behetik bi lerro gehigarri eransteko."
+
+#: L1_MusicReading.cpp:39
+msgid ""
+"The symbols for notes are placed either on a line or on a space and the "
+"musical pitch (sound) is determined by the position of the note on the "
+"staff. Notes on the higher lines/spaces have a higher pitch than those on "
+"the lower ones:"
+msgstr ""
+"Nota ikurrak lerroetan edo lerroarteetan jartzen dira, eta tonua (soinua) "
+"notak pentagraman duen kokalekuak baldintzatzen du. Goiko lerro edo "
+"lerroarteetako notek tonu agudoagoa dute behekoek baino:"
+
+#: L1_MusicReading.cpp:95
+msgid "The tempo"
+msgstr "Tempoa"
+
+#: L1_MusicReading.cpp:94
+msgid "The tempo and the metronome"
+msgstr "Tempoa eta metronomoa"
+
+#: L1_MusicReading.cpp:96
+msgid ""
+"The tempo of a piece of music is its speed, that is, how fast or slow the "
+"beats should go. But the time signature does not give you an idea about "
+"this, as it only says how many beats there are in a measure. In written "
+"music there are two ways to specify the tempo of a piece of music. "
+"Traditionally, composers relied on using verbal descriptions, writing "
+"indications such as 'Slow', 'Very fast', or 'Calmly'. These tempo words are "
+"normally written in Italian and are very common, even today. You should "
+"learn them:"
+msgstr ""
+"Musika konposizio bateko tempoa abiadura da, alegia, pultsuak nolako arin "
+"edo astiro joango diren. Baina metrikak ez dizu abiaduraren berri ematen, "
+"konpasean zenbat taupada edo pultsu dauden esaten baizik. Musika idatzian bi "
+"modutan adierazten da musika pieza baten tempoa. Ohituraz, konposatzaileek "
+"hitzez adierazten zuten, ‘Astiro', 'Oso arin’ edo ‘Lasai’ moduko "
+"iradokizunak idatzita. Tempo adierazpide horiek, normalean, italieraz "
+"idazten dituzte, eta oso erabiliak izaten dira, are gaur egun ere. Hargatik, "
+"halakoak ikastea komeni zaizu:"
+
+#: L1_MusicReading.cpp:141
+msgid ""
+"The tie symbol indicates that the two tied notes must be played as a single "
+"note with a duration equal to the sum of the two individual notes. In the "
+"previous example, the tie joins two quarter notes, creating a note of double "
+"duration (a half note). Listen to the following score:"
+msgstr ""
+"Ligaturaren ikurrak adierazten du bi notak nota bakar moduan jo behar "
+"direla, eta iraupena banako bi notaren batura izango dela.  Aurreko "
+"adibidean, ligaturak bi beltz elkartzen ditu eta iraupen bikoitzeko nota bat "
+"sortzen (zuri bat). Entzun hurrengo partitura:"
+
+#: L1_MusicReading.cpp:87
+msgid ""
+"The top number tells how many beats there are in a measure and the bottom "
+"number shows the type of note that gets one beat. For now you must learn "
+"that the bottom number 4 means 'quarter note'. So, the time signature in the "
+"previous example says that each measure will have two beats and that each "
+"beat will get a quarter note. The time signature is often called the 'meter' "
+"of a piece."
+msgstr ""
+"Goiko zenbakiak konpaseko pultsu kopurua adierazten du; behekoak, ordea, "
+"pultsua zein nota motak hartzen duen. Oraingoz, aski dugu jakitea beheko 4 "
+"zenbakiak 'beltza' adierazten duela. Beraz, aurreko adibideko metrikak edo "
+"armadurak adierazten duenez, konpas bakoitzak bi pultsu ditu, eta pultsu "
+"bakoitza mota beltz batek hartzen du. Metrikari edo armadurari, sarritan, "
+"pieza baten ‘metroa’ deritzote."
+
+#: L1_MusicReading.cpp:111
+msgid ""
+"The traditional metronomes are mechanic, based on a pendulum with a rod. The "
+"pendulum rod swings back and forth in tempo, producing a 'tick' sound on "
+"each swing. Modern metronomes are electronic. The following figure shows an "
+"example of a typical mechanic metronome:"
+msgstr ""
+"Penduluak ezker-eskuin dihardu tempoan, eta oszilazio bakoitzean ‘tiki-taka’ "
+"ozen bat  ateratzen du. Gaur egun, metronomoak elektronikoak dira. Hurrengo "
+"irudiek metronomo mekaniko arrunt baten adibidea erakusten dute:"
+
+#: L1_MusicReading.cpp:310
+msgid "The whole note and its rest"
+msgstr "Nota biribila eta haren isilunea."
+
+#: L1_MusicReading.cpp:78
+msgid ""
+"There are different types of bar lines, that are used for special purposes. "
+"For example, the end of the last measure of a piece of music is marked with "
+"a double bar line, being the fist line thin and the second one thick. The "
+"thin double bar line (two thin lines) is used to mark sections within a "
+"piece of music."
+msgstr ""
+"Hainbat konpas barra mota dago, eta helburu ezberdinetarako erabiltzen dira. "
+"Esaterako, musika pieza bateko azken konpasaren amaiera barra bikoitz batek "
+"adierazten du, lehen barra mehea da eta bigarrena lodia. Musika pieza bateko "
+"bi atal bereizteko, barra mehe bikoitza erabiltzen da."
+
+#: L1_MusicReading.cpp:320
+msgid ""
+"These type of rhythms in which the stress is shifted to weak parts are known "
+"as 'syncopated rhythms'."
+msgstr ""
+"Azentua alde ahulera aldatu deneko erritmo mota horri ‘erritmo sinkopatua’ "
+"deritzogu."
+
+#: L1_MusicReading.cpp:23
+msgid "This course has 31 lessons covering the following material:"
+msgstr "Ikastaro honek 31 ikasgai ditu, eta ondoko materiala dakar:"
+
+#: L1_MusicReading.cpp:12
+msgid ""
+"This eMusicBook is a self-instruction music reading course, intended to help "
+"improve one's reading skills, providing the sort of practice and exercise "
+"that are required to become a good sight-reader."
+msgstr ""
+"Honako eMusicBook hau bakarka aritzeko irakurketa liburua da. Helburu du "
+"norberaren musika irakurmena hobetzen laguntzea, ikusizko irakurle ona "
+"bihurtzeko beharrezko praktika eta ariketa motak emanda. "
+
+#: L1_MusicReading.cpp:16
+msgid ""
+"This eMusicBook is intended to help improve one's reading skills, providing "
+"the sort of practice and exercise that are required to become a good sight-"
+"reader."
+msgstr ""
+"Honako eMusicBook honek helburu du norberaren musika irakurmena hobetzen "
+"laguntzea, ikusizko irakurle ona bihurtzeko beharrezko praktika eta ariketa "
+"motak emanda."
+
+#: L1_MusicReading.cpp:309
+msgid ""
+"This rhythm is widely used in classical music; also it is the usual time "
+"signature in rock, jazz, and modern pop and dance music."
+msgstr ""
+"Erritmo hau oso erabilia da musika klasikoan, eta ohiko konpasa izaten da "
+"rock, jazz eta gaur egungo pop eta dance musiketan."
+
+#: L1_MusicReading.cpp:133
+#, fuzzy
+msgid "Tho quarter note and its rest"
+msgstr "Beltza eta haren isilunea "
+
+#: L1_MusicReading.cpp:139
+msgid "Ties"
+msgstr "Ligaturak"
+
+#: L1_MusicReading.cpp:82
+msgid "Time signatures"
+msgstr "Metrika"
+
+#: L1_MusicReading.cpp:85
+msgid ""
+"To know how many beats are there in a measure, a 'time signature' is placed "
+"at the beginning of the staff, after the clef. The time signature is the two "
+"numbers placed above and below the third line:"
+msgstr ""
+"Konpas batean zenbat pultsu dauden jakiteko, pentagramaren hasieran, "
+"giltzaren ondoren,  ‘metrika neurria’ kokatu ohi da. Metrika neurria "
+"hirugarren lerroaren gainean eta azpian kokatuko bi zenbakiak dira:"
+
+#: L1_MusicReading.cpp:404
+msgid ""
+"Two sixteenth notes equal one eighth note and four sixteenth notes equal one "
+"quarter note. So in 2/4, 3/4 and 4/4 time signatures a beat is occupied by "
+"four sixteenth notes and, conversely, a sixteenth note receives 1/4 of a "
+"beat. In these time signatures sixteenth notes are usually drawn beamed."
+msgstr ""
+"Bi kortxeaerdi kortxea baten baliokide dira, eta lau kortxeaerdi beltz baten "
+"baliokide. Beraz, 2/3, 3/4 eta 4/4 konpasetan taupada bat lau kortxeaerdik "
+"betetzen dute eta, alderantziz, kortxeaerdi batek pultsu baten 1/4 hartzen "
+"du. Horrelako konpasetan kortxeaerdiak marraz loturik agertu ohi dira."
+
+#: L1_MusicReading.cpp:197
+msgid ""
+"We already know (lesson 10) about ties: a tie is a small arch between the "
+"heads of two consecutive notes of the same pitch, to join the duration of "
+"two notes. In this lesson we will learn about two other symbols to lengthen "
+"the duration of a note or a rest: the dot and the fermata."
+msgstr ""
+"Dagoeneko badakigu zer diren ligaturak (10. ikasgaia): elkarren ondoan diren "
+"tonu bereko bi notaren buruak lotzen dituen arkutxo bat, bien iraupena "
+"elkartzen dituena. Ikasgai honetan nota edo isilune baten iraupena luzatzen "
+"duten beste bi ikur landuko ditugu: puntua eta kalderoia."
+
+#: L1_MusicReading.cpp:93
+msgid ""
+"We also know that the first beat of each measure is the stronger one. "
+"Therefore, if you count beats along with the music, the 2/4 time signature "
+"will imply a rhythm such as 'ONE-and-Two-and-ONE-and-Two-and ...', stressing "
+"the ONE syllable, as if you were a soldier marching. For studying music "
+"reading it makes sense to mark the beats with the hand, the first beat of "
+"each measure with a knock down (on the table or in the air) and the second "
+"beat of each measure with a knock up (in the air or on the shoulder). You "
+"can also mark the beats with your foot, it you prefer, but it is very, very "
+"important to mark the beats. You should make a habit out of it, at least "
+"until you get enough skills at reading music."
+msgstr ""
+"Beraz, partitura irakurri ahala pultsuak zenbatzen badituzu, 2/4 neurriak "
+"honelako erritmo bat eskatuko du: ‘BAT-eta-bi-eta-BAT-eta-bi-...’, BAT hitza "
+"nabarmenduta, desfilatzen egongo bazina bezala. Partitura irakurtzen "
+"ikasteko, garrantzizkoa da taupadak eskuz nabarmentzea, konpas bakoitzeko "
+"lehen pultsua mahaian edo airean txalo bat jota adierazteko, eta bigarren "
+"pultsua edo taupada, txaloa gora jota (airean edo sorbaldan). Oinez ere "
+"marka ditzakezu pultsuak, hala nahiago baduzu; baina oso garrantzizkoa da "
+"pultsuak markatzea. Ohitura bihurtu behar zenuke; behintzat, partiturak "
+"irakurtzeko behar bezain trebea izan arte."
+
+#: L1_MusicReading.cpp:58
+msgid ""
+"We have learnt that the vertical position of a note on the staff determines "
+"its pitch. The duration of the note (that, is the duration of its sound) is "
+"indicated by using different types of signs for the notes, so each note sign "
+"corresponds to a different duration. The following picture shows the "
+"different types of notes and their names:"
+msgstr ""
+"Ikasi dugunez, notak pentagraman duen kokalekuak erabakitzen du tonua. "
+"Notaren iraupena (hau da, soinuaren luzera) notetarako hainbat ikur "
+"erabilita adierazten da; hala, nota ikur bakoitza iraupen mota bati dagokio. "
+"Hurrengo irudiak nota motak eta haien izenak erakusten ditu:"
+
+#: L1_MusicReading.cpp:319
+msgid ""
+"We know that there are strong and weak beats. For example, the first beat of "
+"a measure normally has the strongest accent. But the accent can be "
+"deliberately shifted to weak parts, as in the following example where the "
+"quarter notes are shifted by the initial eighth note, so that they are "
+"placed 'off-beat':"
+msgstr ""
+"Badakigu pultsu edo taupada indartsuak eta ahulak daudela. Esate baterako, "
+"normalean konpas bateko lehen taupada izaten da indartsuena. Baina azentua "
+"nahita alda daiteke, berez ahulak izan behar luketen parteetara eramanda; "
+"adibidez, hurrengo adibidea, non hasierako kortxeak beltzak lekualdatu eta, "
+"ondorioz, bi pultsuren artean ‘zintzilik’ geratu diren."
+
+#: L1_MusicReading.cpp:431
+msgid ""
+"We learnt, in lesson 6, that written music is organized by dividing it into "
+"small groups of beats, called 'measures'. The measures of the time "
+"signatures studied in previous lessons (2/4, 3/4 and 4/4) have, "
+"respectively, two, three and four beats per measure. These time signatures "
+"are known as 'simple meter' or 'simple time signatures'."
+msgstr ""
+"6. ikasgaian ikasi genuenez, musika idatzia pultsuak zati txikitan zatituta "
+"antolatzen da. Halako taldeei 'konpas' deritzegu. Aurreko ikasgaietan "
+"ikasitako konpasek (2/4, 3/4 eta 4/4), hurrenez hurren, bi, hiru edo lau "
+"taupada dituzte konpaseko. Halako konpasei ‘konpas bitar’ edo ‘konpas "
+"arrunt’ esaten diegu."
+
+#: L1_MusicReading.cpp:84
+msgid ""
+"We said in previous lesson that written music is divided on the staff into "
+"parts named 'measures'. Although there are exceptions, in general all the "
+"measures of a piece of music have the same number of beats. Therefore, we "
+"must learn that written music is organized by dividing it into small groups "
+"of beats, and these groups are called 'measures'."
+msgstr ""
+"Aurreko ikasgaian ikusi bezala, musika idatzia pentagraman 'konpas’ izeneko "
+"zatitan banatuta dago. Salbuespenak izan arren, normalean musika pieza "
+"bateko konpas guztiek pultsu kopuru bera izaten dute. Hargatik, esan "
+"dezakegu musika idatzia pultsuak zati txikitan zatituta antolatzen dela. "
+"Halako taldeei 'konpas' deritzegu."
+
+#: L1_MusicReading.cpp:148
+msgid ""
+"When it is necessary to write a note higher or lower than the pitch "
+"represented by the staff lines, extra lines can be added to the staff. They "
+"are called 'leger (or ledger) lines' and are drawn as short lines, slightly "
+"longer than the note head. For example, the following score shows the "
+"natural scale starting on C:"
+msgstr ""
+"Beharrezkoa bada pentagramako lehen edo azken lerroek adierazitakoak baino "
+"nota ozenagoak edo apalagoak idaztea, pentagramari lerroak gehitu "
+"dakizkioke. ‘Lerro gehigarri’ deritzete eta lerro motz gisa marrazten dira; "
+"luzeraz, notaren burua baino luzexeagoak baino ez direla. Esaterako, "
+"hurrengo partiturak Do notan hasten den berezko eskala erakusten du:  "
+
+#: L1_MusicReading.cpp:124
+msgid ""
+"When playing back a score its tempo is also controlled by the built-in "
+"settings. Just change the displayed tempo number and the tempo of the score "
+"will automatically adjust to it."
+msgstr ""
+"Partitura bat jotzean, haren tempoa metronomo ezarpenek ere kontrolatzen "
+"dute. Alda ezazu erakutsitako tempoaren denbora eta partituraren tempoa "
+"besterik gabe hartara egokituko da."
+
+#: L1_MusicReading.cpp:59
+msgid "Whole"
+msgstr "Biribila"
+
+#: L1_MusicReading.cpp:28
+msgid ""
+"With exception of the first lessons, aimed at introducing the basic concepts "
+"of the music notation, the remaining lessons are structured into three "
+"sections:"
+msgstr ""
+"Lehenengo ikasgaiek salbu —helburutzat musika idazketaren oinarrizko "
+"kontzeptuak sartzea dute—, gainerako ikasgaiek hiru ataleko egitura dute: "
+
+#: L1_MusicReading.cpp:127
+msgid ""
+"You know that in written music sound is indicated by using note symbols, and "
+"that there exists a note symbol for each duration. In written music silence "
+"is also indicated with symbols, called 'rests'. There also exists a rest for "
+"each note duration. The following score shows a quarter note and the quarter "
+"rest:"
+msgstr ""
+"Dakizunez, partituran soinuak nota ikurren bidez adierazten dira, eta luzera "
+"bakoitzak bere nota ikurra du. Musika idatzian isiltasuna ‘isiluneak’ "
+"izeneko ikurrekin adierazten dira. Nota iraupen bakoitzak bere isilunea du. "
+"Hurrengo partiturak nota beltzari eta beltzaren isiluneari dagozkion ikurrak "
+"dakartza:"
+
+#: L1_MusicReading.cpp:73 L1_MusicReading.cpp:75 L1_MusicReading.cpp:77
+msgid "barline"
+msgstr "konpas barra"
+
+#: L1_MusicReading.cpp:80
+msgid "double barline"
+msgstr "barra bikoitza"
+
+#: L1_MusicReading.cpp:81
+msgid "final barline"
+msgstr "amaiera barra"
+
+#: L1_MusicReading.cpp:180
+msgid "flat"
+msgstr "bemola"
+
+#: L1_MusicReading.cpp:35
+msgid "line 5"
+msgstr "5. lerroa"
+
+#: L1_MusicReading.cpp:74 L1_MusicReading.cpp:76
+msgid "measure"
+msgstr "konpasa"
+
+#: L1_MusicReading.cpp:181
+msgid "natural"
+msgstr "bekoadroa"
+
+#: L1_MusicReading.cpp:179
+msgid "sharp"
+msgstr "sostenitua"
+
+#: L1_MusicReading.cpp:79
+msgid "simple barline"
+msgstr "barra arrunta"
+
+#: L1_MusicReading.cpp:37
+msgid "space 4"
+msgstr "4. lerroartea"
+
+#: L2_MusicReading.cpp:142
+msgid " - Read scores with triplets."
+msgstr "- Irakurri hirukotxodun partiturak. "
+
+#: L2_MusicReading.cpp:234
+msgid " - Train your ear: 16th note and dotted 8th note tied to 8th note."
+msgstr ""
+"- Treba ezazu entzumena: Kortxeari loturiko kortxeaerdia eta kortxea "
+"puntuduna."
+
+#: L2_MusicReading.cpp:232
+msgid " - Train your ear: 16th note and dotted 8th note tied to quarter note."
+msgstr ""
+"- Treba ezazu entzumena: Kortxeaerdiaren eta kortxea puntudunaren patroia."
+
+#: L2_MusicReading.cpp:284
+msgid " - Train your ear: 8th note tied to four 16th notes."
+msgstr "- Treba ezazu entzumena: Lau kortxeaerdiri loturiko kortxea."
+
+#: L2_MusicReading.cpp:214
+msgid " - Train your ear: 8th note tied to next beat."
+msgstr "- Treba ezazu entzumena: Hurrengo pultsuari loturiko kortxea."
+
+#: L2_MusicReading.cpp:268
+msgid " - Train your ear: 8th note tied to quarter note in next beat."
+msgstr "- Treba ezazu entzumena: Hurrengo pultsuko beltzari loturiko kortxea."
+
+#: L2_MusicReading.cpp:250
+msgid " - Train your ear: 8th rest and two 16th notes."
+msgstr "- Treba ezazu entzumena: Kortxearen isilunea eta bi kortxeaerdi"
+
+#: L2_MusicReading.cpp:216
+msgid ""
+" - Train your ear: Dotted quarter note tied to group of 8th note, 8th rest "
+"and 8th note."
+msgstr ""
+"- Treba ezazu entzumena: Kortxeak, kortxearen isiluneak eta kortxeak "
+"eratutako taldeari loturiko beltz puntuduna."
+
+#: L2_MusicReading.cpp:198
+msgid " - Train your ear: Group of two 8th notes tied to a dotted 8th note."
+msgstr "Treba ezazu entzumena: Kortxea puntudunari loturiko kortxea parea."
+
+#: L2_MusicReading.cpp:230
+msgid " - Train your ear: Pattern of 16th note and dotted 8th note."
+msgstr "Treba ezazu entzumena: "
+
+#: L2_MusicReading.cpp:266
+msgid " - Train your ear: Quarter note tied to 8th note."
+msgstr "- Treba ezazu entzumena: Kortxeari loturiko beltza"
+
+#: L2_MusicReading.cpp:282
+msgid " - Train your ear: Quarter note tied to four 16th notes."
+msgstr "- Treba ezazu entzumena: Lau kortxeaerdiri loturiko beltza"
+
+#: L2_MusicReading.cpp:252
+msgid " - Train your ear: Two 16th notes and 8th rest."
+msgstr "- Treba ezazu entzumena:  Bi kortxeaerdi eta kortxearen isilunea."
+
+#: L2_MusicReading.cpp:196
+msgid " - Train your ear: a quarter note tied to a dotted 8th note."
+msgstr "- Treba ezazu entzumena: kortxea puntudunari loturiko beltza."
+
+#: L2_MusicReading.cpp:194
+msgid " - Train your ear: the dotted 8th note pattern."
+msgstr "- Treba ezazu entzumena: kortxea puntuduna. "
+
+#: L2_MusicReading.cpp:237
+msgid "16th note and dotted 8th note"
+msgstr "Kortxeaerdia eta kortxea puntuduna"
+
+#: L2_MusicReading.cpp:241
+msgid "16th note and dotted 8th note tied to 8th note"
+msgstr "Kortxeari loturiko kortxeaerdia eta kortxea puntuduna"
+
+#: L2_MusicReading.cpp:239
+msgid "16th note and dotted 8th note tied to quarter note"
+msgstr "Beltzari loturiko kortxeaerdia eta kortxea puntuduna"
+
+#: L2_MusicReading.cpp:289
+msgid "8th note tied to four 16th notes"
+msgstr "Lau kortxeaerdiri loturiko kortxea."
+
+#: L2_MusicReading.cpp:30 L2_MusicReading.cpp:39 L2_MusicReading.cpp:41
+msgid "8th note tied to group of one 8th and two 16th notes"
+msgstr ""
+"Kortxea batek eta bi kortxeaerdik eratutako multzoari erantsitako kortxea"
+
+#: L2_MusicReading.cpp:273
+msgid "8th note tied to quarter note in next beat"
+msgstr "Hurrengo pultsuko beltzari loturiko kortxea"
+
+#: L2_MusicReading.cpp:255
+msgid "8th rest and two 16th notes"
+msgstr "Kortxearen isilunea eta bi kortxeaerdi"
+
+#: L2_MusicReading.cpp:203
+msgid "A quarter note tied to a dotted 8th note"
+msgstr "Kortxea puntudunari loturiko beltza."
+
+#: L2_MusicReading.cpp:190
+msgid ""
+"Always that you find a trouble with a rhythmic pattern, study it first "
+"without the ties. When learned without the ties it will be easier to learn "
+"the original one with ties."
+msgstr ""
+"Erritmo mota batean arazoak izaten dituzunetan, ikas ezazu, lehenik, "
+"loturarik gabe. Ligaturarik gabe estudiatuz gero, errazago gertatuko zaizu "
+"loturak dituena ikastea. "
+
+#: L2_MusicReading.cpp:17
+msgid ""
+"Appart of introducing new rhythmic cells, of increasing complexity, the main "
+"concepts introduced in Level 2 are:"
+msgstr ""
+"Erritmo zelula berri gero eta konplexuagoak aurkezteaz gain, 2. mailak "
+"honako kontzeptu nagusi hauek aurkezten ditu: "
+
+#: L2_MusicReading.cpp:136
+msgid ""
+"But, what to do if you want to divide the beat into three even parts? The "
+"answer is called a 'triplet': you write three eight notes and you group them "
+"together, using a slur or bracket, with a number '3'. The '3' indicates that "
+"the three notes must be played in the time alloted for two notes. So a "
+"triplet quarter note is 2/3 the duration of a standard quarter note. "
+"Similarly, three triplet eighth notes are equal in duration to a quarter "
+"note. If several note values appear under the triplet bracket, they are all "
+"affected the same way, reduced to 2/3 their original duration."
+msgstr ""
+"Baina, zer egin pultsu bat zati bakoititan zatitu nahi baduzu? Erantzuna "
+"‘hirukotxoa’ da: hiru kortxea elkarrekin idatzi behar dituzu, gainean arku "
+"edo kortxete bat eta 3 zenbakia jarrita.  3 zenbakiak adierazten du hiru "
+"notak jo behar direla bi notek hartu ohi duten denboran. Beraz, beltz "
+"hirukotxo bat beltz arrunt baten iraupenaren 2/3 da. Era berean, hiru "
+"kortxeako hirukotxoa, iraupenez, beltz baten baliokide da. Balio "
+"ezberdinetako notak hirukotxo ikurraren azpian agertuz gero, guztiek era "
+"bereko eragina izango dute, jatorrizko iraupena 2/3ra murriztuta izango "
+"dute. "
+
+#: L2_MusicReading.cpp:67
+msgid "Compound time of 12/8. 8th note tied to 16th notes"
+msgstr "12/8 konpas hirutarra. Kortxeaerdiei loturiko kortxea"
+
+#: L2_MusicReading.cpp:43
+msgid "Compound time of 9/8. Dotted quarter note"
+msgstr "9/8 konpas hirutarra. Beltz puntuduna."
+
+#: L2_MusicReading.cpp:50 L2_MusicReading.cpp:52
+msgid "Compound time of 9/8. Whole note tied to next beat"
+msgstr "9/8 konpas hirutarra. Hurrengo pultsuari loturiko zuria"
+
+#: L2_MusicReading.cpp:21
+msgid ""
+"Compound time signatures of 9/8, 12/8 and the grouping of notes and rests "
+"within these times."
+msgstr ""
+"9/8 eta 12/8 konpas hirutarrak, eta hirukotxo nota taldeak isiluneekin "
+"konpas horien barruan."
+
+#: L2_MusicReading.cpp:77 L2_MusicReading.cpp:79
+msgid "Compound time. 8th note tied to 16th notes"
+msgstr "Konpas hirutarra. Kortxeaerdiei loturiko kortxea"
+
+#: L2_MusicReading.cpp:209 L2_MusicReading.cpp:219 L2_MusicReading.cpp:223
+msgid "Compound time. 8th note tied to next beat"
+msgstr "Konpas hirutarra. Hurrengo pultsuari loturiko kortxea"
+
+#: L2_MusicReading.cpp:261 L2_MusicReading.cpp:275
+msgid "Compound time. 8th note tied to next beat (2)"
+msgstr "Konpas hirutarra. Hurrengo pultsuari loturiko kortxea (2)."
+
+#: L2_MusicReading.cpp:120 L2_MusicReading.cpp:129 L2_MusicReading.cpp:131
+msgid "Compound time. 8th note, rest and note"
+msgstr "Konpas hirutarra. Kortxea, isilunea eta nota"
+
+#: L2_MusicReading.cpp:94 L2_MusicReading.cpp:103 L2_MusicReading.cpp:105
+msgid "Compound time. Three 8th notes tied to next beat"
+msgstr "Konpas hirutarra. Hurrengo pultsu indartsuari loturiko hiru kortxea"
+
+#: L2_MusicReading.cpp:160 L2_MusicReading.cpp:169 L2_MusicReading.cpp:171
+msgid "Compound time. Three quarter notes"
+msgstr "Konpas hirutarra. Hiru beltz"
+
+#: L2_MusicReading.cpp:186 L2_MusicReading.cpp:201 L2_MusicReading.cpp:207
+msgid "Dotted 8th note"
+msgstr "Kortxea puntuduna"
+
+#: L2_MusicReading.cpp:221
+msgid "Dotted quarter note tied to group of 8th note, 8th rest and 8th note"
+msgstr ""
+"Kortxeak, kortxearen isiluneak eta kortxeak eratutako taldeari loturiko "
+"beltz puntuduna"
+
+#: L2_MusicReading.cpp:133 L2_MusicReading.cpp:143 L2_MusicReading.cpp:145
+msgid "Duple meter. The triplet"
+msgstr "Konpas bitarra. Hirukotxoa."
+
+#: L2_MusicReading.cpp:26
+msgid "Each lesson is structured into three sections:"
+msgstr "Ikasgai bakoitzak hiru atal ditu:"
+
+#: L2_MusicReading.cpp:197 L2_MusicReading.cpp:217 L2_MusicReading.cpp:233
+#: L2_MusicReading.cpp:253 L2_MusicReading.cpp:269 L2_MusicReading.cpp:285
+msgid "Exercise 3"
+msgstr "3. ariketa"
+
+#: L2_MusicReading.cpp:199 L2_MusicReading.cpp:235
+msgid "Exercise 4"
+msgstr "4. ariketa"
+
+#: L2_MusicReading.cpp:23
+msgid ""
+"Extension of the stave in C1 clef to include one ledger line above the stave."
+msgstr ""
+"1.go lerroko Do giltza hedatzea pentagrama gainetik eta azpitik lerro bat "
+"gehiago eransteko."
+
+#: L2_MusicReading.cpp:20
+msgid ""
+"Extension of the stave in treble (G) and bass (F) clefs to include two "
+"ledger lines below and above each stave."
+msgstr ""
+"Pentagrama Sol giltzan eta Fa giltzan luzatzea, goitik eta behetik bi lerro "
+"gehigarri eransteko. "
+
+#: L2_MusicReading.cpp:29
+msgid ""
+"Finally, in the third section some exercises are proposed to learn and "
+"practise the new concepts introduced."
+msgstr ""
+"Azkenik, hirugarren atalak kontzeptu sartu berriak ikasi eta lantzeko "
+"zenbait ariketa proposatzen ditu."
+
+#: L2_MusicReading.cpp:205
+msgid "Group of two 8th notes tied to a dotted 8th note"
+msgstr "Kortxea puntudunari loturiko kortxea parea"
+
+#: L2_MusicReading.cpp:245 L2_MusicReading.cpp:259
+msgid "Groups of two 16th notes"
+msgstr "Bi kortxeaerdiren multzoak"
+
+#: L2_MusicReading.cpp:191
+msgid ""
+"In a similar way you can get and learn the other patterns of this lesson:"
+msgstr "Antz-antzera ikas ditzakezu ikasgai honetako beste bi patroiak:"
+
+#: L2_MusicReading.cpp:15
+msgid ""
+"In level 2 we continue with all concepts introduced in level 1, and new "
+"concepts are introduced in a progressive way, alternating simple time "
+"signatures and duple time ones."
+msgstr ""
+"2. mailan jarraituko dugu 1. mailan landutako kontzeptu guztiak jorratzen, "
+"eta apurka-apurka kontzeptu berriak sartuz joango gara, konpas bitarrak eta "
+"hirutarrak txandakatuz."
+
+#: L2_MusicReading.cpp:27
+msgid ""
+"In the first one the new concepts and rhythmic patterns introduced in the "
+"lesson are explained."
+msgstr ""
+"Lehenengo atalak ikasgaietan aurkeztu beharreko kontzeptu berriak eta "
+"erritmo patroiak irakasten ditu."
+
+#: L2_MusicReading.cpp:108
+msgid ""
+"In this lesson a new rhythmic pattern is introduced as the result of tying a "
+"group of two 8th notes and a quarter note to a group of a quarter note and "
+"two 8th notes. Note how it can also be written with a quarter note:"
+msgstr ""
+"Ikasgai honetan bi kortxeak eta beltz batek eratutako multzo bat eta beltz "
+"batek eta bi kortxeak eratutako multzo bat elkartzearen ondorioz lortzen den "
+"erritmo patroia erakutsiko dugu. Ikusiko duzunez, beltz batez ere idatz "
+"daiteke:   "
+
+#: L2_MusicReading.cpp:121
+msgid ""
+"In this lesson a new rhythmic pattern is introduced, as the result of tying "
+"a group of two 16th notes and one 8th with a group of a 8th note and two "
+"16th notes. Note that in can also be written using a quarter note:"
+msgstr ""
+"Ikasgai honetan bi kortxeaerdik eta kortxea batek eratutako multzo bat eta "
+"kortxea batek eta bi kortxeaerdik eratutako multzo bat elkartzearen ondorioz "
+"lortzen den erritmo patroi berri bat aurkeztuko dugu. Ikusi nola idatz "
+"daitekeen beltz batez ere:"
+
+#: L2_MusicReading.cpp:161
+msgid ""
+"In this lesson a new rhythmic pattern is introduced, as the result of tying "
+"the notes, in pairs, of two triplets. Note that in can also be written using "
+"a quarter note:"
+msgstr ""
+"Ikasgai honetan erritmo patroi berri bat sartuko dugu, bi hirukotxoren notak "
+"binaka lotzearen ondorioz lortua. Ikusi nola idatz daitekeen beltz bat "
+"erabilita ere:"
+
+#: L2_MusicReading.cpp:148
+msgid ""
+"In this lesson a new rhythmic pattern is introduced, by tying a note to a "
+"triplet:"
+msgstr ""
+"Ikasgai honetan erritmo patroi berri bat sartuko dugu, hirukotxo bati nota "
+"bat lotuta:"
+
+#: L2_MusicReading.cpp:82
+msgid ""
+"In this lesson a new rhythmic pattern is introduced. This pattern can be "
+"written in two different ways:"
+msgstr ""
+"Ikasgai honetan erritmo patroi berri bat sartuko dugu. Ikasgai honetan "
+"erritmo patroi berri bat sartuko dugu."
+
+#: L2_MusicReading.cpp:31
+msgid ""
+"In this lesson a new rhythmic pattern is introduced: One 8th note tied to "
+"group of one 8th and two 16th notes. Note that this new pattern can be "
+"written in two different ways:"
+msgstr ""
+"Ikasgai honetan erritmo patroi berri bat sartuko dugu: Kortxea batek eta bi "
+"kortxeaerdik eratutako multzoari erantsitako kortxea. Ikusiko duzunez, "
+"patroi berri hau bitara idatz daiteke:"
+
+#: L2_MusicReading.cpp:69
+msgid ""
+"In this lesson a new rhythmic pattern is introduced: the 8th note tied to "
+"next beat:"
+msgstr ""
+"Ikasgai honetan erritmo patroi berri bat sartuko dugu: hurrengo pultsu "
+"indartsuari loturiko kortxea:"
+
+#: L2_MusicReading.cpp:44
+msgid ""
+"In this lesson the compound time of 9/8 is introduced, as well as two new "
+"rhythmic patterns. The 9/8 time has three beats and each beat is occupied by "
+"a 8th note. The measure is occupied by a dotted quarter note."
+msgstr ""
+"Ikasgai honetan 9/8 konpas hirutarra aurkeztuko dugu, baita bi erritmo "
+"patroi berri ere. 9/8 konpasak hiru pultsu edo taupada ditu eta pultsu "
+"bakoitza kortxea batek betetzen du. 9/8 konpasak hiru pultsu edo taupada "
+"ditu eta pultsu bakoitza kortxea batek betetzen du. Konpasa beltz puntudun "
+"batek okupatzen du."
+
+#: L2_MusicReading.cpp:187
+msgid ""
+"In this lesson the dotted 8th note pattern in simple times is introduced:"
+msgstr ""
+"Ikasgai honetan konpas bitarretako kortxea puntudunaren erritmoa aurkeztuko "
+"dugu:"
+
+#: L2_MusicReading.cpp:210 L2_MusicReading.cpp:226 L2_MusicReading.cpp:246
+#: L2_MusicReading.cpp:262 L2_MusicReading.cpp:278
+msgid "In this lesson the next patterns are introduced:"
+msgstr "Ikasgai honetan hurrengo patroiak aurkeztuko ditugu:"
+
+#: L2_MusicReading.cpp:174
+msgid ""
+"In this lesson two new rhythmic patterns are introduced. They are the result "
+"of tying a triplet to the next note:"
+msgstr ""
+"Ikasgai honetan bi erritmo patroi berri sartuko ditugu. Hirukotxo bat "
+"hurrengo notari lotzearen ondorioz lortzen dira:"
+
+#: L2_MusicReading.cpp:55 L2_MusicReading.cpp:95
+msgid "In this lesson two new rhythmic patterns are introduced:"
+msgstr "Ikasgai honetan bi erritmo patroi berri sartuko ditugu:"
+
+#: L2_MusicReading.cpp:14
+msgid "Introduction"
+msgstr "Sarrera"
+
+#: L2_MusicReading.cpp:24
+msgid ""
+"Key signatures of all major and minor keys up to and including four sharps "
+"and flats."
+msgstr ""
+"Tonalitate maior eta minor guztietako armadurak, lau alterazio eta guzti. "
+
+#: L2_MusicReading.cpp:25
+msgid "Lesson's structure"
+msgstr "Ikasgaien egitura"
+
+#: L2_MusicReading.cpp:70
+msgid "Listen and observe the differences"
+msgstr "Entzun eta ohartu ezberdintasunez"
+
+#: L2_MusicReading.cpp:11
+msgid "Music reading. Level 2"
+msgstr "Musika irakurtzen. 2. maila"
+
+#: L2_MusicReading.cpp:189
+msgid ""
+"Note how the rhythm of dotted 8th note can be obtained from one 8th note and "
+"two 16th notes, when tying the 8th note."
+msgstr ""
+"Ikusiko zenuenez, kortxea puntudunaren erritmoa lortu daiteke kortxea batek "
+"eta bi kortxeaerdik eratutakotik, kortxea lotzean."
+
+#: L2_MusicReading.cpp:97
+msgid ""
+"Note the difference between the first and the second measure and between the "
+"third and the fourth. Note how they are formed when putting a tie."
+msgstr ""
+"Begira zein den lehenengo eta bigarren konpasen arteko ezberdintasuna eta "
+"bigarrenaren eta laugarrenaren artekoa. Ikusi nola sortzen diren loturak "
+"eratzean."
+
+#: L2_MusicReading.cpp:163
+msgid ""
+"Note the difference between the first and the second measure, and between "
+"the third and the fourth ones. Note how measures 2 and 4 are similar to "
+"measures 1 and 3 and are formed by tying the triplets."
+msgstr ""
+"Begira zein den lehenengo eta bigarren konpasen arteko ezberdintasuna eta "
+"bigarrenaren eta laugarrenaren artekoa. Konturatuko zinenez, 2. eta 4. "
+"konpasak 1.aren eta 3.aren antzekoak dira, hurrenez hurren, eta hirukotxoak "
+"lotuta lortzen dira: "
+
+#: L2_MusicReading.cpp:176
+msgid ""
+"Note the difference between the first and the second measure, and between "
+"the third and the fourth ones. Note how measures 2 and 4 are similar to "
+"measures 1 and 3 but tying the triplets."
+msgstr ""
+"Begira zein den lehenengo eta bigarren konpasen arteko ezberdintasuna eta "
+"bigarrenaren eta laugarrenaren artekoa. Konturatuko zinenez, 2. eta 4. "
+"konpasak 1.aren eta 3.aren antzekoak dira, baina hirukotxoak loturik: "
+
+#: L2_MusicReading.cpp:150
+msgid ""
+"Note the difference between the first and the second measure, and between "
+"the third and the fourth. Note how they are formed when tying the note to "
+"the triplet:"
+msgstr ""
+"Begira zein den lehenengo eta bigarren konpasen arteko ezberdintasuna, eta "
+"bigarrenaren eta laugarrenaren artekoa. Ikusiko duzunez, nota hirukotxoari "
+"lotzean eratzen dira:"
+
+#: L2_MusicReading.cpp:110
+msgid ""
+"Note the difference between the first and the second measure. Note how it is "
+"formed when putting a tie."
+msgstr ""
+"Begira zein den lehenengo eta bigarren konpasen arteko ezberdintasuna. Ikusi "
+"nola sortzen den lotura ezartzen denean."
+
+#: L2_MusicReading.cpp:123
+msgid ""
+"Note the difference between the first and the second measure. Note how it is "
+"formed when tying the two groups of the first measure."
+msgstr ""
+"Begira zein den lehenengo eta bigarren konpasen arteko ezberdintasuna. "
+"Ikusiko duzunez, lehen konpaseko bi multzo lotzean sortzen da."
+
+#: L2_MusicReading.cpp:84
+msgid ""
+"Note the difference between the first measure and the others and how they "
+"are formed when putting a tie."
+msgstr ""
+"Begira ezazu zein den lehenengo konpasaren eta hurrengoen arteko aldea eta "
+"nola sortzen diren loturak ezartzerakoan."
+
+#: L2_MusicReading.cpp:71
+msgid ""
+"Note the differences between the following rhythmic patterns and how the "
+"second one is formed when the notes are tied."
+msgstr ""
+"Kontura zaitez hurrengo erritmo moten arteko aldeez eta bigarrena eratzen "
+"dela notak loturik daudenean."
+
+#: L2_MusicReading.cpp:57
+msgid ""
+"Note the differences between the following rhythmic patterns and how they "
+"are formed when we tie notes in the basic four 8th notes pattern. Compare "
+"this pattern with the one in the last measure. Note the different rhythmic "
+"accent between measures 3 and 4."
+msgstr ""
+"Begira hurrengo erritmo moten arteko aldeak eta nola antolatzen diren lau "
+"kortxeen oinarrizko patroian notak elkarri lotzean. Konpara ezazu patroi hau "
+"azken konpasekoarekin. Ikusi 3. eta 4. konpasetako erritmoen arteko aldeak."
+
+#: L2_MusicReading.cpp:277 L2_MusicReading.cpp:291
+msgid "Note tied to four 16th notes"
+msgstr "Lau kortxeaerdiri loturiko nota"
+
+#: L2_MusicReading.cpp:147 L2_MusicReading.cpp:156 L2_MusicReading.cpp:158
+msgid "Notes tied to a triplet"
+msgstr "Hirukotxoari loturiko notak"
+
+#: L2_MusicReading.cpp:64
+msgid ""
+"Press 'Play' and listen carefully the rhythm. Train your ear and practise "
+"the newly introduced patterns."
+msgstr ""
+"Sakatu ‘Jo’ eta entzun arretaz erritmoa. Treba ezazu entzumena eta landu "
+"ikasgai honetako erritmo berriak."
+
+#: L2_MusicReading.cpp:40 L2_MusicReading.cpp:42
+msgid ""
+"Press 'Play' and listen. Train your ear and practise reading this rhythm."
+msgstr ""
+"Zapaldu 'Jo’ botoia eta entzun. Treba ezazu zeure entzumena eta egin "
+"ariketak erritmo mota honekin."
+
+#: L2_MusicReading.cpp:51 L2_MusicReading.cpp:53 L2_MusicReading.cpp:66
+#: L2_MusicReading.cpp:78 L2_MusicReading.cpp:80 L2_MusicReading.cpp:91
+#: L2_MusicReading.cpp:93 L2_MusicReading.cpp:104 L2_MusicReading.cpp:106
+#: L2_MusicReading.cpp:117 L2_MusicReading.cpp:119 L2_MusicReading.cpp:130
+#: L2_MusicReading.cpp:132 L2_MusicReading.cpp:144 L2_MusicReading.cpp:146
+#: L2_MusicReading.cpp:157 L2_MusicReading.cpp:159 L2_MusicReading.cpp:170
+#: L2_MusicReading.cpp:172 L2_MusicReading.cpp:183 L2_MusicReading.cpp:185
+#: L2_MusicReading.cpp:202 L2_MusicReading.cpp:204 L2_MusicReading.cpp:206
+#: L2_MusicReading.cpp:208 L2_MusicReading.cpp:220 L2_MusicReading.cpp:222
+#: L2_MusicReading.cpp:224 L2_MusicReading.cpp:238 L2_MusicReading.cpp:240
+#: L2_MusicReading.cpp:242 L2_MusicReading.cpp:244 L2_MusicReading.cpp:256
+#: L2_MusicReading.cpp:258 L2_MusicReading.cpp:260 L2_MusicReading.cpp:272
+#: L2_MusicReading.cpp:274 L2_MusicReading.cpp:276 L2_MusicReading.cpp:288
+#: L2_MusicReading.cpp:290 L2_MusicReading.cpp:292
+msgid ""
+"Press 'Play' and listen. Train your ear and practise the newly introduced "
+"patterns."
+msgstr ""
+"Zapaldu 'Jo’ botoia eta entzun. Treba ezazu entzumena eta landu ikasgai "
+"honetako erritmo berriak."
+
+#: L2_MusicReading.cpp:271
+msgid "Quarter note tied to 8th note"
+msgstr "Kortxeari loturiko beltza"
+
+#: L2_MusicReading.cpp:287
+msgid "Quarter note tied to four 16th notes"
+msgstr "Lau kortxeaerdiri loturiko beltza"
+
+#: L2_MusicReading.cpp:18
+msgid "Simple time signatures of 2/8 and 3/8."
+msgstr "2/8 eta 3/8 konpas bitar arruntak."
+
+#: L2_MusicReading.cpp:68
+msgid ""
+"The compound time of 12/8 has four parts and each beat is occupied by a "
+"dotted quarter note. The accent is on the first one. It is a time similar to "
+"the 6/8 and 9/8 times but with four beats. The note occupying all the "
+"measure is the dotted whole note."
+msgstr ""
+"12/8 konpas hirutarrak lau parte ditu, eta pultsu bakoitza beltz puntudun "
+"batek betetzen du. Azentua lehenengo taupadan egoten da. 6/8 eta 9/8 "
+"konpasen antekoa da, baina lau parte ditu. Konpas osoa biribil puntudunak "
+"betetzen du."
+
+#: L2_MusicReading.cpp:22
+msgid "The soprano clef (C on 1st line). Names of notes on the stave."
+msgstr "Soprano giltza (1.go lerroko Do). Pentagramako noten izenak."
+
+#: L2_MusicReading.cpp:12
+msgid ""
+"This eMusicBook is intended to help one improve one's reading skills, "
+"providing sort of practice and exercises that are required in order to "
+"become a good sightreader."
+msgstr ""
+"Honako eMusicBook honek helburu du norberaren musika irakurmena hobetzen "
+"laguntzea, ikusizko irakurle ona bihurtzeko beharrezko praktika eta ariketak "
+"eskainita. "
+
+#: L2_MusicReading.cpp:225 L2_MusicReading.cpp:243
+msgid "Tied dotted 8th note"
+msgstr "Kortxea puntudun lotua"
+
+#: L2_MusicReading.cpp:173 L2_MusicReading.cpp:182 L2_MusicReading.cpp:184
+msgid "Triplet tied to next note"
+msgstr "Hurrengo notari loturiko hirikotxoa"
+
+#: L2_MusicReading.cpp:19
+msgid "Triplets, and triplet note groups with rests."
+msgstr "Hirukotxoak, eta hirukotxo nota taldeak isiluneekin."
+
+#: L2_MusicReading.cpp:257
+msgid "Two 16th notes and 8th rest"
+msgstr "Bi kortxeaerdi eta kortxearen isilunea"
+
+#: L2_MusicReading.cpp:54 L2_MusicReading.cpp:63 L2_MusicReading.cpp:65
+msgid "Two 16th notes and one 8th"
+msgstr "Bi kortxeaerdi eta kortxea bat"
+
+#: L2_MusicReading.cpp:81 L2_MusicReading.cpp:90 L2_MusicReading.cpp:92
+msgid "Two 16th notes, one quarter note and one 8th note"
+msgstr "Bi kortxeaerdi, beltz bat eta kortxea bat "
+
+#: L2_MusicReading.cpp:107 L2_MusicReading.cpp:116 L2_MusicReading.cpp:118
+msgid "Two 16th notes, one quarter note and two 16th notes"
+msgstr "Bi kortxeaerdi, beltz bat eta bi kortxeaerdi"
+
+#: L2_MusicReading.cpp:135
+msgid ""
+"You also know that each beat can subdivide into smaller units. For example, "
+"we can divide it into two parts by writting two eighth notes or into four "
+"parts by using 16th notes:"
+msgstr ""
+"Pultsu bakoitza zati txikiagotan zatitu daitekeela ere badakizu. Adibidez, "
+"zi zatitan banatu dezakegu bi kortxea idatzita, edo lau zatitan "
+"kortxeaerdiak erabiliz gero:"
+
+#: L2_MusicReading.cpp:134
+msgid ""
+"You know that simple time signatures tell us the number of beats in each "
+"measure. For example, in 3/4 there are three beats in each measure and each "
+"beat is occupied by a quarter note:"
+msgstr ""
+"Dakizunez, konpas bitarretan zenbakiek adierazten digute zenbat pultsu "
+"dauden neurri bakoitzean. Dakizunez, konpas bitarretan zenbakiek adierazten "
+"digute zenbat pultsu dauden neurri bakoitzean. "
+
+#: TheoryHarmony.cpp:227
+msgid " - Aural training. Listen a scale and identify if it is major or minor."
+msgstr ""
+
+#: TheoryHarmony.cpp:262
+#, fuzzy
+msgid " - Aural training. Listen a scale and identify its type."
+msgstr "Entzumena trebatzen: kadentzi mota identifikatzea."
+
+#: TheoryHarmony.cpp:415
+msgid ""
+" - Aural training: identify the type of cadence: perfect, imperfect, plagal, "
+"half or deceptive."
+msgstr ""
+"- Entzumena trebatzen: Kadentzi mota identifikatzea: perfektua, inperfektua, "
+"plagala, erdia eta iruzurtia. "
+
+#: TheoryHarmony.cpp:284
+msgid ""
+" - Identify the type of scale: major or minor natural. Key signature "
+"displayed."
+msgstr ""
+
+#: TheoryHarmony.cpp:286
+msgid ""
+" - Identify the type of scale: major or minor natural. No key signature."
+msgstr ""
+
+#: TheoryHarmony.cpp:288
+msgid ""
+" - Identify the type of scale: major, minor natural, minor harmonic or minor "
+"melodic. Key signature displayed."
+msgstr ""
+
+#: TheoryHarmony.cpp:290
+msgid ""
+" - Identify the type of scale: major, minor natural, minor harmonic or minor "
+"melodic. No key signature."
+msgstr ""
+
+#: TheoryHarmony.cpp:279
+#, fuzzy
+msgid " - Listen a scale and identify if it is major or minor."
+msgstr "- Bi bitarte entzun eta handiena identifikatzea."
+
+#: TheoryHarmony.cpp:281
+msgid ""
+" - Listen a scale and identify if it is major, minor natural, minor melodic "
+"or minor harmonic."
+msgstr ""
+
+#: TheoryHarmony.cpp:229 TheoryHarmony.cpp:264
+#, fuzzy
+msgid " - Theory. Identify the type of scale (key signature displayed)."
+msgstr "Teoria:  kadentzi mota identifikatzea."
+
+#: TheoryHarmony.cpp:231 TheoryHarmony.cpp:266
+#, fuzzy
+msgid " - Theory. Identify the type of scale (key signature not displayed)."
+msgstr "Teoria:  kadentzi mota identifikatzea."
+
+#: TheoryHarmony.cpp:417
+msgid ""
+" - Theory: identify the type of cadence: perfect, imperfect, plagal, half or "
+"deceptive."
+msgstr ""
+"- Teoria: Kadentzi mota identifikatzea: perfektua, inperfektua, plagala, "
+"erdia eta iruzurtia. "
+
+#: TheoryHarmony.cpp:121
+msgid "1st degree"
+msgstr ""
+
+#: TheoryHarmony.cpp:329
+msgid "2nd"
+msgstr "Biduna"
+
+#: TheoryHarmony.cpp:124
+msgid "2nd degree"
+msgstr ""
+
+#: TheoryHarmony.cpp:324
+msgid "3rd"
+msgstr "Hiruduna"
+
+#: TheoryHarmony.cpp:127
+msgid "3rd degree"
+msgstr ""
+
+#: TheoryHarmony.cpp:327
+msgid "4th"
+msgstr "Lauduna"
+
+#: TheoryHarmony.cpp:130
+msgid "4th degree"
+msgstr ""
+
+#: TheoryHarmony.cpp:325
+msgid "5th"
+msgstr "Bostuna"
+
+#: TheoryHarmony.cpp:133
+msgid "5th degree"
+msgstr ""
+
+#: TheoryHarmony.cpp:136
+msgid "6th degree"
+msgstr ""
+
+#: TheoryHarmony.cpp:326 TheoryHarmony.cpp:343 TheoryHarmony.cpp:347
+msgid "7th"
+msgstr "Zazpiduna"
+
+#: TheoryHarmony.cpp:139
+msgid "7th degree"
+msgstr ""
+
+#: TheoryHarmony.cpp:330
+msgid "8ve"
+msgstr "Zortziduna"
+
+#: TheoryHarmony.cpp:338 TheoryHarmony.cpp:356
+#, fuzzy
+msgid ""
+"<a-1>Aural training</a-1> - Listen two intervals and identify which one is "
+"greater."
+msgstr "- Bi bitarte entzun eta handiena identifikatzea."
+
+#: TheoryHarmony.cpp:389
+#, fuzzy
+msgid ""
+"<a-1>Aural training</a-1> - Train your ear and practise to identify if a "
+"terminal cadence is authentic perfect or plagal."
+msgstr ""
+"- Trebatu zure belarria eta jardun ezazu identifikatzen  ea kadentzia "
+"terminal bat perfektua ala plagala den."
+
+#: TheoryHarmony.cpp:405
+#, fuzzy
+msgid ""
+"<a-1>Aural training</a-1> - Train your ear and practise to identify if a "
+"transient cadence is a half cadence or a deceptive cadence."
+msgstr ""
+"- Trebatu zure belarria eta jardun ezazu identifikatzen ea kadentzia "
+"iragankor bat kadentzia erdia edo kadentzia iruzurtia ote den."
+
+#: TheoryHarmony.cpp:352
+#, fuzzy
+msgid "<a-1>Exercise</a-1> - Build intervals on a score."
+msgstr "- Partitura bateko bitarteak identifikatzea."
+
+#: TheoryHarmony.cpp:337 TheoryHarmony.cpp:354
+msgid "<a-1>Music reading</a-1> - Name the interval (as a number only)."
+msgstr ""
+
+#: TheoryHarmony.cpp:355
+msgid "<a-1>Music writing</a-1> - Build intervals on a score."
+msgstr ""
+
+#: TheoryHarmony.cpp:388
+#, fuzzy
+msgid ""
+"<a-1>Theory</a-1> - Practise to recognize in a score if a terminal cadence "
+"is authentic perfect or plagal."
+msgstr ""
+" - Jardun ezazu partitura batean asmatzen ea kadentzia terminal bat "
+"perfektua ala plagala den."
+
+#: TheoryHarmony.cpp:404
+#, fuzzy
+msgid ""
+"<a-1>Theory</a-1> - Practise to recognize in a score if a transient cadence "
+"is a half cadence or a deceptive one."
+msgstr ""
+"- Jardun ezazu partitura batean asmatzen ea kadentzia iragankor bat "
+"kadentzia erdia ala iruzurtia ote den."
+
+#: TheoryHarmony.cpp:251
+msgid ""
+"<b>Melodic</b> minor scales are a bit more complicated, because they have "
+"one pattern on the way up, but another on the way down."
+msgstr ""
+
+#: TheoryHarmony.cpp:370
+#, fuzzy
+msgid ""
+"<b>Terminal cadences</b>. They create a sensation of stability, rest and "
+"ending of the musical phrase or sentence."
+msgstr ""
+". Egonkortasun, atseden eta amaiera sentsazioa sortzen dute musika esaldi "
+"edo perpaus baten amaieran. "
+
+#: TheoryHarmony.cpp:371
+#, fuzzy
+msgid ""
+"<b>Transient cadences</b>. They typically result in creating tension and a "
+"sensation of unstablility, as well as an expectation of continuation."
+msgstr ""
+". Normalean, emaitza izaten dituzte tentsioa eta ezegonkortasun sentipena "
+"sortzea, baita jarraipen itxaroa ere."
+
+#: TheoryHarmony.cpp:58
+msgid ""
+"A chromatic scale has the twelve notes, and each step of the scale is a "
+"semitone. Let's return to the piano keyboard. If you start on a C key and "
+"play every available key, black and white, until you arrive at the next C, "
+"you have played a chromatic scale:"
+msgstr ""
+
+#: TheoryHarmony.cpp:12
+#, fuzzy
+msgid "A collection of lessons and exercises on music theory."
+msgstr "Musika teoriazko gai ordenatu/erlazionatu gabeko gaien bilduma."
+
+#: TheoryHarmony.cpp:401
+msgid ""
+"A deceptive cadence occurs when a V chord does not resolve to a I chord, as "
+"the ear is expecting, but instead resolves to any other chord, typically to "
+"one containing the tonic pitch (the VI or the IV degrees)."
+msgstr ""
+"Kadentzia iruzurtia gertatzen da akorde bostun bat lehenengo akordera "
+"aldatzen ez denean, belarriak espero bezala, haren ordez beste beste edozein "
+"akordetara aldatzen dela, normalean tonu tonikoa duen batera (VI. edo IV. "
+"graduak)."
+
+#: TheoryHarmony.cpp:69
+msgid ""
+"A diatonic scale has seven notes but are usually played and written in "
+"groups of eight notes, so that they sound finished. The 8th note is the same "
+"as the 1st note, but an octave higher or lower. And the first seven notes "
+"<b>must have</b> different letter name, A-G."
+msgstr ""
+
+#: TheoryHarmony.cpp:306
+msgid "A great step in studying something is understanding its purpose."
+msgstr ""
+"Edozer ikasterakoan, oso pausu handia da ulertzea zertarako balio duen."
+
+#: TheoryHarmony.cpp:397
+msgid ""
+"A half cadence takes place when the harmony moves to the V degree (dominant) "
+"from any other degree, except the tonic (I). The ending on V causes it to "
+"sound incomplete or 'suspended' due to the unstableness of the dominant "
+"chord. It is considered as the weakest cadence and cannot be used to end a "
+"musical phrase."
+msgstr ""
+"Kadentzia erdia gertatzen da harmonia V. gradura (dominantea) mugitzen "
+"denean beste edozein gradutatik, tonikoa (I) salbuespena dela.  V.ean "
+"amaitzeak osatu gabe edo 'luzaturik' entzutea eragiten du, akorde "
+"dominantearen ezegonkortasunagatik.  Kadentziarik ahulenetako bat da eta "
+"ezin da erabili musika esaldi bat amaitzeko. "
+
+#: TheoryHarmony.cpp:398
+msgid ""
+"A particular case of the half cadence is the Phrygian half cadence. It "
+"consists of a IV chord in first inversion that resolves to a V (or V7) chord "
+"in root position. It only occurs in minor keys (the IV is minor) and was "
+"widely used during the Baroque period to end a slow musical movement in "
+"minor mode, continued by a fast movement in major mode."
+msgstr ""
+"Kadentzia erdiaren kasu berezi bat dugu frigiar kadentzia erdia. Akorde "
+"laudun bat da, lehen inbertsioan, V.era (edo V7ra) aldatzen dena funtsezko "
+"posizioan. Armadura minorretan baino ez da gertatzen (IV.a minorra da) eta "
+"oso erabilera zabala izan zuen Barrokoan musika mugimendu geldo bat modu "
+"minorrean amaitzeko, jarraian modu nagusi bat doala."
+
+#: TheoryHarmony.cpp:385
+#, fuzzy
+msgid ""
+"A plagal cadence takes place when grade IV (subdominant) resolves in grade I "
+"(tonic), both in root position. The plagal cadence is less strong than the "
+"authentic cadence and it is also known as the 'Amen' cadence as it is used "
+"at the end of most church hymns."
+msgstr ""
+"Kadentzia plagala gertatzen da IV. gradua (subdominantea) I. graduan "
+"(tonikoa) amaitzen denean, biak funtsezko posizioan daudela. Kadentzia "
+"plagala ez da benetako kadentzia bezain indartsua eta 'amen' kadentzia ere "
+"deritzote; eliz himno askoren amaieran erabiltzen da."
+
+#: TheoryHarmony.cpp:193
+msgid ""
+"A scale starts with the note that names the key, the tonic. This note is the "
+"<b>tonal center</b> of that key, the note where music in that key feels 'at "
+"rest'. For example, music in the key of A major almost always ends on an A "
+"major chord, the chord built on the note A. It often also begins on that "
+"chord, returns to that chord often, and features a melody and a bass line "
+"that also return to the note A often enough that listeners will know where "
+"the tonal center of the music is, even if they don't realize that they know "
+"it. You will learn about this in more advanced lessons."
+msgstr ""
+
+#: TheoryHarmony.cpp:47
+msgid ""
+"A scale, from latin word 'scala' meaning 'ladder', is a predefined series of "
+"notes going up (ascending) or down (descending). People in different musical "
+"traditions have different ideas about what notes they think sound best "
+"together. In the Western musical tradition - which includes most familiar "
+"music from Europe and the Americas - the octave is divided up into twelve "
+"equally spaced notes. Other musical traditions - traditional Chinese music "
+"for example - have divided the octave differently and so they use different "
+"scales."
+msgstr ""
+
+#: TheoryHarmony.cpp:418 TheoryHarmony.cpp:420
+msgid "All cadences"
+msgstr "Kadentzia guztiak"
+
+#: TheoryHarmony.cpp:39
+msgid ""
+"All other texts, book design and preparation by Cecilio Salmerón. Licensed "
+"under Creative Commons Attribution-Share-Alike License 3.0."
+msgstr ""
+
+#: TheoryHarmony.cpp:71
+msgid ""
+"Altough they sound equal, the first one, A, B, C, D, E, F, G# and A, is a "
+"correct scale as all note names are different, but the second one, A, B, C, "
+"D, E, F, Ab, A is <b>not</b> a correct scale, because the letter name A has "
+"been used twice: once as A flat and once as A natural. (Even though you "
+"might think that G# and Ab are the same note, they aren't, as you will learn "
+"in more advanced levels!)"
+msgstr ""
+
+#: TheoryHarmony.cpp:376
+msgid ""
+"An authentic cadence takes place when grade V, dominant, (or V7, a V chord "
+"with an added seventh) resolves in grade I (tonic). The authentic cadence is "
+"the strongest terminal cadence, with great conclusive power."
+msgstr ""
+"Benetako kadentzia  gertatzen da V. gradua, dominantea (edo V7, zazpiduna "
+"gehituriko bostun akordea) I. graduan (tonikoa) amaitzen denean. Benetako "
+"kadentzia kadentzia terminalik indartsuena da, amaiera indar handia duelako."
+
+#: TheoryHarmony.cpp:311
+msgid ""
+"An interval is the distance between two notes, measured as a number. "
+"Intervals are named by the number of steps between the two notes. When we "
+"measure an interval, we always start counting at the lower note. We then "
+"count upwards to the higher note. Consider the following example:"
+msgstr ""
+
+#: TheoryHarmony.cpp:214
+msgid "And now in A minor"
+msgstr ""
+
+#: TheoryHarmony.cpp:190
+msgid "And now in D Major"
+msgstr ""
+
+#: TheoryHarmony.cpp:246
+msgid "And now let's look at A minor harmonic descending (going down):"
+msgstr ""
+
+#: TheoryHarmony.cpp:399
+msgid ""
+"Another very specific case is the Andalusian cadence. It only occurs in "
+"minor keys and is given by the progression I-VII-VI-V, where the VI degree "
+"can be replaced. This cadence has a particular colour due to the chromatic "
+"half step between the root of the VII and the third of the V."
+msgstr ""
+"Beste kasu berezi-berezi bat kadentzia andaluziarra da. Armadura minorretan "
+"baino ez da gertatzen eta I-VII-VI-V progresioak sortzen du, VI. gradua "
+"ordezka daitekeela. Kadentzia honek kolore berezia du zazpidunaren "
+"funtsezkotik bostunaren hirugarrenera doan pausu erdi kromatikoagatik.  "
+
+#: TheoryHarmony.cpp:372
+msgid ""
+"As an exercise you will hear a cadence and based on the sensation it "
+"provokes, try to identify if the cadence is terminal or transient."
+msgstr ""
+"Ariketa moduan, kadentzia bat entzungo duzu eta hark eragiten dizun "
+"sentsazioan oinarrituta, kadentzia terminala ala iragankorra den "
+"identifikatzen saiatu behar duzu. "
+
+#: TheoryHarmony.cpp:206
+msgid ""
+"As with major scales, minor scales also share a common pattern of tones and "
+"semitones. Let's use again the piano keyboard and play all note names along "
+"one octave, but now starting on A. We will get the notes A-B-C-D-E-F-G-A-B:"
+msgstr ""
+
+#: TheoryHarmony.cpp:247
+msgid "As you can see, it's exactly the same notes, but in reverse order."
+msgstr ""
+
+#: TheoryHarmony.cpp:254
+msgid ""
+"As you can see, the descending scale is not just a back-to-front ascending "
+"scale, (as it was in the harmonic scale). The top end of the melodic scale "
+"uses a completely different pattern. The very top note will always be the "
+"tonic (keynote) of the scale, but the two notes just below it are the ones "
+"which change, depending on which direction you're going in."
+msgstr ""
+
+#: TheoryHarmony.cpp:115
+msgid "Ascending and descending"
+msgstr ""
+
+#: TheoryHarmony.cpp:331
+msgid ""
+"At first you may need to count the notes to determine the interval size but "
+"with practise you will learn to determine the intervals at first sight."
+msgstr ""
+"Hasieran, seguru asko, notak zenbatu beharko dituzu bitartearen neurria "
+"zehazteko, baina arituaren arituaz, begiratzeaz batera ezagutuko dituzu. "
+
+#: TheoryHarmony.cpp:393
+msgid ""
+"Aural training: Identify if a terminal cadence is authentic perfect or "
+"plagal."
+msgstr ""
+"Asma ezazu ea kadentzia terminal bat benetako perfektua ala plagala den."
+
+#: TheoryHarmony.cpp:409
+msgid ""
+"Aural training: Identify if a transient cadence is a half cadence or a "
+"deceptive cadence."
+msgstr ""
+"Entzumena trebatzen: Asma ezazu ea kadentzia iragankor bat kadentzia erdia "
+"ala iruzurtia ote den. "
+
+#: TheoryHarmony.cpp:235
+msgid "Aural training: Listen a scale and identify if it is major or minor"
+msgstr ""
+
+#: TheoryHarmony.cpp:270 TheoryHarmony.cpp:292 TheoryHarmony.cpp:294
+#, fuzzy
+msgid "Aural training: Listen a scale and identify its type"
+msgstr "Entzumena trebatzen: kadentzi mota identifikatzea."
+
+#: TheoryHarmony.cpp:419
+msgid "Aural training: identify the type of cadence."
+msgstr "Entzumena trebatzen: kadentzi mota identifikatzea."
+
+#: TheoryHarmony.cpp:390 TheoryHarmony.cpp:392
+msgid "Authentic and plagal cadences"
+msgstr "Kadentzia benetakoak eta plagalak"
+
+#: TheoryHarmony.cpp:375
+msgid "Authentic cadences"
+msgstr "Benetako kadentziak"
+
+#: TheoryHarmony.cpp:318
+msgid "B-D as a harmonic (vertical) interval"
+msgstr ""
+
+#: TheoryHarmony.cpp:317
+msgid "B-D as a melodic (horizontal) interval"
+msgstr ""
+
+#: TheoryHarmony.cpp:183
+msgid "Bb"
+msgstr ""
+
+#: TheoryHarmony.cpp:97
+msgid "Building a major scale"
+msgstr ""
+
+#: TheoryHarmony.cpp:308
+msgid ""
+"But even if you are not interested on harmony and on theory about music, "
+"understanding intervals and being able to quickly and accurately recognize "
+"them is vital for reading and singing a score accurately. Also, it is "
+"essential for music dictation (writing the music you hear)."
+msgstr ""
+"Baina are armonia edo musika teoria interesatzen ez bazaizkizu ere, "
+"bitarteak ulertzea eta arin eta zehatz ezagutzeko gauza izatea ezinbestekoa "
+"da partitura bat behar bezala irakurri eta kantatzeko. Gainera, ezinbestekoa "
+"da musika diktaturako (entzuten duzun musika idazteko)."
+
+#: TheoryHarmony.cpp:152
+msgid "C Major"
+msgstr ""
+
+#: TheoryHarmony.cpp:221
+msgid "C major scale"
+msgstr ""
+
+#: TheoryHarmony.cpp:210 TheoryHarmony.cpp:222
+msgid "C minor scale"
+msgstr ""
+
+#: TheoryHarmony.cpp:177
+msgid "C#"
+msgstr ""
+
+#: TheoryHarmony.cpp:368
+msgid "Cadence types"
+msgstr "Kadentzi motak"
+
+#: TheoryHarmony.cpp:29 TheoryHarmony.cpp:362 TheoryHarmony.cpp:363
+msgid "Cadences"
+msgstr "Kadentziak"
+
+#: TheoryHarmony.cpp:33
+msgid ""
+"Cadences\n"
+"<ul>\n"
+"<li> <a-3>Cadences</a-3></li>\n"
+"<li> <a-5>Terminal cadences</a-5></li>\n"
+"<li> <a-7>Transient cadences</a-7></li>\n"
+"<li> <a-9>Exercises on cadences</a-9></li>\n"
+"</ul>"
+msgstr ""
+
+#: TheoryHarmony.cpp:367
+msgid ""
+"Cadences are not difficult to recognize by ear but it is sometimes harder to "
+"recognize them in written music."
+msgstr ""
+"Ez da zaila kadentziak belarriz ezagutzea, baina, batzuetan, nekezagoa da "
+"musika idatzian halakoak ezagutzea."
+
+#: TheoryHarmony.cpp:204
+msgid ""
+"Catherine Schmidt-Jones, 'Major Keys and Scales', Connexions, December 16, "
+"2009, <a-1>http://cnx.org/content/m10851/2.22/</a-1>. Her work is licensed "
+"under a Creative Commons Attribution License (CC-BY 1.0)."
+msgstr ""
+
+#: TheoryHarmony.cpp:233 TheoryHarmony.cpp:268
+msgid ""
+"Catherine Schmidt-Jones, 'Minor Keys and Scales', Connexions, December 16, "
+"2009, <a-1>http://cnx.org/content/m10856/2.19/</a-1>. Her work is licensed "
+"under a Creative Commons Attribution License (CC-BY 1.0)."
+msgstr ""
+
+#: TheoryHarmony.cpp:57
+msgid "Chromatic scales"
+msgstr ""
+
+#: TheoryHarmony.cpp:196
+msgid "Common Errors when writing a scale"
+msgstr ""
+
+#: TheoryHarmony.cpp:213
+msgid ""
+"Compare again the tune 'Row, Row, Row Your Boat', written in C major and in "
+"A minor. First in C major:"
+msgstr ""
+
+#: TheoryHarmony.cpp:220
+msgid "Compare these three scales:"
+msgstr ""
+
+#: TheoryHarmony.cpp:40
+msgid "Copyright"
+msgstr ""
+
+#: TheoryHarmony.cpp:41
+msgid "Copyright © 2007-2010 LenMus project"
+msgstr ""
+
+#: TheoryHarmony.cpp:35
+msgid "Credits"
+msgstr ""
+
+#: TheoryHarmony.cpp:34
+msgid "Credits and Copyrights"
+msgstr ""
+
+#: TheoryHarmony.cpp:19
+msgid "Credits and copyrights"
+msgstr ""
+
+#: TheoryHarmony.cpp:108 TheoryHarmony.cpp:170
+msgid "D Major"
+msgstr ""
+
+#: TheoryHarmony.cpp:110
+msgid "D major has two sharps - F sharp and C sharp."
+msgstr ""
+
+#: TheoryHarmony.cpp:406 TheoryHarmony.cpp:408
+msgid "Deceptive and half cadences"
+msgstr "Kadentzia iruzurtiak eta erdiak"
+
+#: TheoryHarmony.cpp:400
+msgid "Deceptive cadences"
+msgstr "Kadentzia iruzurtiak"
+
+#: TheoryHarmony.cpp:118
+msgid "Degrees of the scale"
+msgstr ""
+
+#: TheoryHarmony.cpp:369
+msgid ""
+"Depending on the sensation they create, cadences are classified in two "
+"fundamental types:"
+msgstr ""
+"Sortzen duten sentsazioaren arabera, kadentziak bi mota nagusitan sailkatzen "
+"dira: "
+
+#: TheoryHarmony.cpp:64
+msgid "Diatonic Scales"
+msgstr ""
+
+#: TheoryHarmony.cpp:63
+msgid "Diatonic scales"
+msgstr ""
+
+#: TheoryHarmony.cpp:21
+msgid "Diatonic scales. Tonal center"
+msgstr ""
+
+#: TheoryHarmony.cpp:135
+msgid "Dominant"
+msgstr ""
+
+#: TheoryHarmony.cpp:346
+msgid ""
+"Don't forget that we were told to write a melodic interval, so in this case "
+"we will write the E after the F, and not directly above it:"
+msgstr ""
+
+#: TheoryHarmony.cpp:348
+msgid ""
+"Don't forget to look carefully at the clef, to place the note in the right "
+"line or space!."
+msgstr ""
+
+#: TheoryHarmony.cpp:223
+msgid "E flat major scale"
+msgstr ""
+
+#: TheoryHarmony.cpp:104
+msgid ""
+"E major has four sharps - F sharp, C shrap. G sharp and D sharp. You might "
+"be wondering why we choose, for instance, F sharp and not G flat, since they "
+"are the same note on the piano. Remember that in diatonic scales we use each "
+"note name <b>once only</b>, except for the first and last notes which must "
+"have the same letter. E major must start and end on <b>E</b>, so we startted "
+"with that letter. The next note we need to use is F so we used F sharp. If "
+"we had used G flat, F would have not be used in the scale."
+msgstr ""
+
+#: TheoryHarmony.cpp:81
+msgid "E-F sharp is a tone. F natural sits between them."
+msgstr ""
+
+#: TheoryHarmony.cpp:287
+#, fuzzy
+msgid "Exercise 5"
+msgstr "1. ariketa"
+
+#: TheoryHarmony.cpp:289
+#, fuzzy
+msgid "Exercise 6"
+msgstr "1. ariketa"
+
+#: TheoryHarmony.cpp:353
+#, fuzzy
+msgid "Exercises in this lesson"
+msgstr "Kadentzi ariketak"
+
+#: TheoryHarmony.cpp:32 TheoryHarmony.cpp:410
+msgid "Exercises on cadences"
+msgstr "Kadentzi ariketak"
+
+#: TheoryHarmony.cpp:275
+#, fuzzy
+msgid "Exercises on scales"
+msgstr "Kadentzi ariketak"
+
+#: TheoryHarmony.cpp:179
+msgid "F Major"
+msgstr ""
+
+#: TheoryHarmony.cpp:82
+msgid "F is between these two notes"
+msgstr ""
+
+#: TheoryHarmony.cpp:111
+msgid "F major"
+msgstr ""
+
+#: TheoryHarmony.cpp:113
+msgid "F major doesn't have any sharps, but it has one flat - B flat."
+msgstr ""
+
+#: TheoryHarmony.cpp:168 TheoryHarmony.cpp:173
+msgid "F#"
+msgstr ""
+
+#: TheoryHarmony.cpp:53
+msgid ""
+"Find E and F on the piano keyboard. The distance between E and F is a "
+"semitone; it's not possible to squeeze another note in between them, because "
+"there is nothing between them on the piano keyboard."
+msgstr ""
+
+#: TheoryHarmony.cpp:79
+msgid ""
+"Find G and A on the keyboard. G-A is a tone. We can squeeze a G sharp/A flat "
+"between them (there is a black key between them)"
+msgstr ""
+
+#: TheoryHarmony.cpp:334
+msgid ""
+"First, the correct way: starting on the lower note (C), we count letter "
+"names to the higher note, (G), C-D-E-F-G =5, which gives us a 5th. This is "
+"the right answer!"
+msgstr ""
+
+#: TheoryHarmony.cpp:341
+msgid ""
+"First, you need to work out which notes you have to write, and secondly you "
+"need to write the notes clearly and accurately."
+msgstr ""
+
+#: TheoryHarmony.cpp:218
+msgid ""
+"For each major scale there is minor natural scale having the same notes and "
+"sharing the same accidentals in the key signature. This minor scale is "
+"called the the <b>relative minor</b> of the major sacle. We've seen an "
+"example with C major and A minor. A minor key is called the relative minor "
+"of C major."
+msgstr ""
+
+#: TheoryHarmony.cpp:276
+msgid ""
+"For your convenience, in this lesson you have all the exercises included in "
+"previous lessons on scales."
+msgstr ""
+
+#: TheoryHarmony.cpp:105 TheoryHarmony.cpp:161
+msgid "G Major"
+msgstr ""
+
+#: TheoryHarmony.cpp:107
+msgid "G major has one sharp - F sharp."
+msgstr ""
+
+#: TheoryHarmony.cpp:80
+msgid "G# / Ab is between these two notes"
+msgstr ""
+
+#: TheoryHarmony.cpp:396
+msgid "Half cadences"
+msgstr "Kadentzia erdiak"
+
+#: TheoryHarmony.cpp:24 TheoryHarmony.cpp:240
+msgid "Harmonic and melodic minor scales"
+msgstr ""
+
+#: TheoryHarmony.cpp:90
+msgid "Here are two more examples, the G major and F# major scales:"
+msgstr ""
+
+#: TheoryHarmony.cpp:60
+msgid "Here is an ascending chromatic scale starting on B flat:"
+msgstr ""
+
+#: TheoryHarmony.cpp:209
+msgid ""
+"Here you have more examples of minor natural scales. Take paper and pencil, "
+"copy those escales, and find the pattern of tones and semitones."
+msgstr ""
+
+#: TheoryHarmony.cpp:253
+msgid ""
+"Here's A minor melodic, ascending and descending. Click the play button and "
+"concentrate on the notes in red -- they're the ones which change on the way "
+"down."
+msgstr ""
+
+#: TheoryHarmony.cpp:143
+msgid "Here's a summary of the notes of the scales of C, D, G and F major:"
+msgstr ""
+
+#: TheoryHarmony.cpp:117
+msgid "Here's an example of F major descending, using the bass clef."
+msgstr ""
+
+#: TheoryHarmony.cpp:312
+msgid ""
+"Here, we start counting on the lower note, which is C. We count upwards to "
+"the higher note, E. This gives us C, D and E. We counted three notes, so "
+"this interval is called a third."
+msgstr ""
+
+#: TheoryHarmony.cpp:103
+msgid ""
+"Hopefully by now you've got the idea, so here are the rest of the notes of "
+"the E major scale:"
+msgstr ""
+
+#: TheoryHarmony.cpp:195
+msgid ""
+"How are these moods produced? Music in a particular key tends to use only "
+"some of the many possible notes available; these notes are listed in the "
+"scale associated with that key. In major keys, the notes of the scale are "
+"often used to build 'bright' -sounding major chords. They also give a strong "
+"feeling of having a tonal center, a note or chord that feels like 'home', or "
+"'the resting place', in that key. The 'bright' -sounding major chords and "
+"the strong feeling of tonality are what give major keys their happy, "
+"pleasant moods. This contrasts with the moods usually suggested by music "
+"that uses minor keys, scales, and chords, as you will see in next lesson. "
+"Although it also has a strong tonal center (the Western tradition of tonal "
+"harmony is based on major and minor keys and scales), music in a minor key "
+"is more likely to sound sad, ominous, or mysterious. In fact, most "
+"musicians, and even many non-musicians, can distinguish major and minor keys "
+"just by listening to the music."
+msgstr ""
+
+#: TheoryHarmony.cpp:122
+msgid "I"
+msgstr ""
+
+#: TheoryHarmony.cpp:144
+msgid "I (1st)"
+msgstr ""
+
+#: TheoryHarmony.cpp:151
+msgid "I (Octave)"
+msgstr ""
+
+#: TheoryHarmony.cpp:125 TheoryHarmony.cpp:145
+msgid "II"
+msgstr ""
+
+#: TheoryHarmony.cpp:128 TheoryHarmony.cpp:146
+msgid "III"
+msgstr ""
+
+#: TheoryHarmony.cpp:131 TheoryHarmony.cpp:147
+msgid "IV"
+msgstr ""
+
+#: TheoryHarmony.cpp:78
+msgid ""
+"If in the piano keyboard there is one note between the two notes we are "
+"looking at, the distance between those two notes is a tone. In the following "
+"picture I have coloured pairs of notes whose distance is a tone."
+msgstr ""
+
+#: TheoryHarmony.cpp:52
+msgid ""
+"If two notes are as close as possible on the piano keyboard (two "
+"neighbouring keys, whatever colour, black or white), we call the distance "
+"between them a <b>semitone</b>. In the following picture I have coloured "
+"pairs of notes whose distance is a semitone."
+msgstr ""
+
+#: TheoryHarmony.cpp:313
+msgid ""
+"If we count four notes, the interval is a fourth, and so on, until we reach "
+"eight. If we count eight notes the interval is called an <b>octave</b>."
+msgstr ""
+
+#: TheoryHarmony.cpp:87
+msgid ""
+"If we look again at the C major scale, we will see the following pattern of "
+"tones and semitones (T=tone and S=semitone):"
+msgstr ""
+
+#: TheoryHarmony.cpp:307
+msgid ""
+"If you are interested in harmony and composition, you should know that "
+"intervals are the building blocks of harmony: you will not be able to "
+"understand harmony without studying about intervals."
+msgstr ""
+"Armonia eta konposizioa interesatzen bazaizkizu, jakin beharrean zaude "
+"bitarteak direla armoniaren adreiluak: ezingo duzu armonia ulertu bitarteak "
+"estudiatu gabe."
+
+#: TheoryHarmony.cpp:197
+msgid ""
+"If you have an examination, you might be asked to write any scale, ascending "
+"or descending, either with a key signature or using accidentals. Here are "
+"some common <b>mistakes</b>: make sure you don't make them!"
+msgstr ""
+
+#: TheoryHarmony.cpp:342
+msgid ""
+"If you have to write an interval, you will be given the first (lower) note "
+"of the two, and you will be told what interval to calculate; something like "
+"this:"
+msgstr ""
+
+#: TheoryHarmony.cpp:46
+msgid ""
+"If you're learning an instrument you've probably played some scales already, "
+"but you might have learnt to play them without thinking about the actual "
+"notes, (your fingers do the thinking!). But to understand music and learn "
+"about harmony you need to know the scales and how they are built."
+msgstr ""
+
+#: TheoryHarmony.cpp:96
+msgid ""
+"If you've ever wondered why we need notes like E sharp when F seems to be "
+"the same note, you'll see that we need them in keys like F sharp major!"
+msgstr ""
+
+#: TheoryHarmony.cpp:386
+msgid ""
+"In both cadence types, authentic and plagal, other chords playing the same "
+"harmonic functions can be used. For example, in the authentic cadence the V "
+"(dominant function) can be played by the VII. And in the plagal cadence the "
+"IV (subdominant function) can be played by the II. These replacements add "
+"variety and harmonic colour to the cadence."
+msgstr ""
+"Bi kadentzia motatan, benetakoan eta plagalean, harmoniko funtzio berberak "
+"jotzen dituzten bestelako akordeak ere erabil daitezke. Esaterako, benetako "
+"kadentzian V.a (funtzio dominantea) VII.arekin batera jo daiteke. Eta "
+"kadentzia plagalean IV.a (funtzio subdominantea) II.arekin batera jo "
+"daiteke. "
+
+#: TheoryHarmony.cpp:89
+msgid ""
+"In fact, all major scales follow the same pattern, so try to <b>remember it!"
+"</b> (tip: it is the pattern of white keys on the piano keyboard, starting "
+"on C)."
+msgstr ""
+
+#: TheoryHarmony.cpp:86
+msgid ""
+"In fact, what we need to know is the distance between each of the notes in "
+"the scale, measured in tones and semitones. Let's use again the piano "
+"keyboard:"
+msgstr ""
+
+#: TheoryHarmony.cpp:364
+msgid ""
+"In music, the term 'cadence' has several meanings. In harmony we are going "
+"to refer to a particular sequence of usually two chords whose function it is "
+"to create a sensation of either stability, rest and ending, or of pause, "
+"tension and unstablility. Cadences have a function similar to that of "
+"punctuation marks (comma, period, etc.) in written language: they mark "
+"breathing places and pauses in music, they serve to structure the musical "
+"phrases and they also help to establish tonality. Listen for example to the "
+"following three chords:"
+msgstr ""
+"Musikan 'kadentzia' terminoak hainbat esangura ditu. Harmonian aipagai "
+"darabilgu normalean bi akorderen sekuentzia berezi bat, eginkizun duena  "
+"egonkortasun, atseden eta amaiera sentsazio bat sortzea edo eten, tentsio "
+"eta ezegonkortasunarena. Kadentziek puntuazio markek hizkuntza idatzian "
+"betetzen dutenaren antzeko eginkizuna dute (koma, puntua e.a.): Musikan "
+"arnasa non hartu eta non gelditu markatzen dute, musika perpausak "
+"egituratzeko balio dute, eta, gainera, tonalitatea egonkortzen ere laguntzen "
+"dute. Entzun, adibidez, hurrengo hiru akordeak: "
+
+#: TheoryHarmony.cpp:84
+msgid ""
+"In the C major scale, both the first and the last notes are Cs, but how do "
+"we know what the in-between notes are?"
+msgstr ""
+
+#: TheoryHarmony.cpp:259
+msgid ""
+"In the melodic minor scale, the sixth and seventh notes of the scale are "
+"each raised by one half step when going up the scale, but return to the "
+"natural minor when going down the scale. Melodies in minor keys very often "
+"use this particular pattern of accidentals, so you will find very useful to "
+"practice melodic minor scales in your instrument."
+msgstr ""
+
+#: TheoryHarmony.cpp:412
+msgid ""
+"In this theme we just propose you some additional exercises to identify "
+"cadences, both aurally and in written music."
+msgstr ""
+"Gai honetan kadentziak belarriz zein musika idatzian identifikatzeko ariketa "
+"osagarri batzuk besterik ez dizugu proposatzen."
+
+#: TheoryHarmony.cpp:320
+#, fuzzy
+msgid "Interval Numbers"
+msgstr "Bitarteak"
+
+#: TheoryHarmony.cpp:303
+msgid "Intervals"
+msgstr "Bitarteak"
+
+#: TheoryHarmony.cpp:28
+msgid ""
+"Intervals\n"
+"<ul>\n"
+"<li> <a-3>What is an interval?</a-3></li>\n"
+"</ul>"
+msgstr ""
+
+#: TheoryHarmony.cpp:120
+msgid ""
+"It is customary to refer to the scale degrees by Roman numerals as well as "
+"by name. You already know that the first note, the one that gives name to "
+"the scale, is called 'the tonic'. The other notes are named as follows:"
+msgstr ""
+
+#: TheoryHarmony.cpp:219
+msgid ""
+"It is easy to predict where the relative minor of a major key can be found. "
+"Notice that the pattern for minor scales overlaps the pattern for major "
+"scales. In other words, they are the same pattern starting in a different "
+"place. (If the patterns were very different, minor key signatures would not "
+"be the same as major key signatures.) The pattern for the minor scale starts "
+"a half step plus a whole step lower than the major scale pattern, so <b>a "
+"relative minor is always three half steps lower than its relative major</b>. "
+"For example, C minor has the same key signature as E flat major, since E "
+"flat is a minor third higher than C."
+msgstr ""
+
+#: TheoryHarmony.cpp:207
+msgid ""
+"It is the scale of <b>A minor natural</b>. If we analyze it we will find the "
+"following pattern of tones and semitones (T=tone and S=semitone):"
+msgstr ""
+
+#: TheoryHarmony.cpp:68
+msgid ""
+"It is the scale of <b>C major</b>, and it is an example of a diatonic scale. "
+"Most of the scales you will have played up to now will have been diatonic "
+"scales. They are the most common type of scale in Western classical music."
+msgstr ""
+
+#: TheoryHarmony.cpp:141
+msgid "Leading note"
+msgstr ""
+
+#: TheoryHarmony.cpp:357
+msgid ""
+"Lesson based on materials from <a-1>www.mymusictheory.com</a-1>. Copyright "
+"(c) Victoria K. Williams. Used here with her permission."
+msgstr ""
+
+#: TheoryHarmony.cpp:109
+msgid "Let's look at D major next:"
+msgstr ""
+
+#: TheoryHarmony.cpp:248
+msgid ""
+"Let's look at two other examples: E minor harmonic and D minor harmonic. "
+"Look carefully at how many semitones there are between each note."
+msgstr ""
+
+#: TheoryHarmony.cpp:67
+msgid ""
+"Let's play all note names along one octave, starting on C. We will get the "
+"notes C-D-E-F-G-B-A-C:"
+msgstr ""
+
+#: TheoryHarmony.cpp:255
+msgid "Let's see two more exaples, E minor melodic and D minor melodic:"
+msgstr ""
+
+#: TheoryHarmony.cpp:245
+msgid ""
+"Let's start by building a scale of A minor harmonic ascending (going up):"
+msgstr ""
+
+#: TheoryHarmony.cpp:48
+msgid ""
+"Let's start learning about the 'bricks' for building scales: <b>tones</b> "
+"and <b>semitones</b>."
+msgstr ""
+
+#: TheoryHarmony.cpp:249
+msgid ""
+"Let's write again the E minor harmonic and D minor harmonic but using key "
+"signatures. It's easy to see that <b>the harmonic minor scale raises the "
+"seventh note of the natural scale by one half step</b>:"
+msgstr ""
+
+#: TheoryHarmony.cpp:256
+msgid ""
+"Let's write again the E minor melodic and D minor melodic but using key "
+"signatures. It's easy to see that <b>the sixth and seventh notes of the "
+"scale are each raised by one half step when going up the scale, but return "
+"to the natural minor when going down the scale</b>:"
+msgstr ""
+
+#: TheoryHarmony.cpp:94
+msgid "Let's write again the G Major and F# Major but using key signatures:"
+msgstr ""
+
+#: TheoryHarmony.cpp:191
+msgid ""
+"Listen to this tune in G major and in D major. The music may look quite "
+"different, but the only difference when you listen is that one sounds higher "
+"than the other. So why bother with different keys at all? Before equal "
+"temperament became the standard tuning system, major keys sounded more "
+"different from each other than they do now. Even now, there are subtle "
+"differences between the sound of a piece in one key or another, mostly "
+"because of differences in the timbre of various notes on the instruments or "
+"voices involved. But today the most common reason to choose a particular key "
+"is simply that the music is easiest to sing or play in that key."
+msgstr ""
+
+#: TheoryHarmony.cpp:83
+msgid "Major Scales"
+msgstr ""
+
+#: TheoryHarmony.cpp:129
+msgid "Mediant"
+msgstr ""
+
+#: TheoryHarmony.cpp:314
+msgid "Melodic and Harmonic Intervals"
+msgstr ""
+
+#: TheoryHarmony.cpp:319
+msgid ""
+"Melodic intervals are read horizontally and are found in melodies, whereas "
+"harmonic intervals are read vertically, and are found in chords. But, in any "
+"case, they are measured and named in the same way."
+msgstr ""
+
+#: TheoryHarmony.cpp:243
+msgid "Minor harmonic scales"
+msgstr ""
+
+#: TheoryHarmony.cpp:250
+msgid "Minor melodic scales"
+msgstr ""
+
+#: TheoryHarmony.cpp:23 TheoryHarmony.cpp:205
+msgid "Minor natural scales"
+msgstr ""
+
+#: TheoryHarmony.cpp:188
+msgid "Music in different major keys"
+msgstr ""
+
+#: TheoryHarmony.cpp:211
+msgid "Music in minor keys"
+msgstr ""
+
+#: TheoryHarmony.cpp:212
+msgid ""
+"Music in minor keys has a different sound and emotional feel than music that "
+"is in a major key. Music in a major key sounds bright and cheerful while "
+"music that is in a minor key is sometimes described as sounding more solemn, "
+"sad, mysterious, or ominous."
+msgstr ""
+
+#: TheoryHarmony.cpp:258
+msgid ""
+"Music in minor keys is usually described as sad, mysterious, solemn, or "
+"ominous. When using the minor natural scale the music has also and ancient "
+"sound, like medieval music. By raising the seventh degree a semitone, in "
+"both minor harmonic and minor melodic scales, musicians found that the "
+"created harmonies make the music feel more strongly centered on the tonic "
+"(you will learn about this in more advanced lessons) avoiding this "
+"'medieval' feeling."
+msgstr ""
+
+#: TheoryHarmony.cpp:257
+msgid "Music in minor scales"
+msgstr ""
+
+#: TheoryHarmony.cpp:16
+msgid ""
+"My main objective is not to write about music theory (there are many good "
+"books on this that you can use) but to spend my time in writing software. "
+"But some texts are necesary, I don't have much time for writing texts and it "
+"takes a lot of time to prepare an eBbook. Therefore, I have decided to "
+"publish the lessons as soon as I write them, instead of waiting until the "
+"whole book is finished."
+msgstr ""
+
+#: TheoryHarmony.cpp:102
+msgid ""
+"Next we meet our first semitone: A. (There is nothing we can squeeze in "
+"between #G and A)."
+msgstr ""
+
+#: TheoryHarmony.cpp:199
+msgid ""
+"Not noticing whether the question asks for a <b>key signature</b> or "
+"<b>accidentals</b>."
+msgstr ""
+
+#: TheoryHarmony.cpp:198
+msgid "Not using a <b>different</b> letter name for each note."
+msgstr ""
+
+#: TheoryHarmony.cpp:54 TheoryHarmony.cpp:56
+msgid "Nothing possible here!"
+msgstr ""
+
+#: TheoryHarmony.cpp:316
+msgid ""
+"Notice that the words 'harmonic' and 'melodic' used to describe intervals "
+"has nothing to do with its meaning when we use them to talk about harmonic "
+"and melodic minor scales."
+msgstr ""
+
+#: TheoryHarmony.cpp:55
+msgid ""
+"Now find A and B flat. The distance between A and B flat is also a semitone."
+msgstr ""
+
+#: TheoryHarmony.cpp:366
+msgid ""
+"Now the sensation is not conclusive. It is more like a short pause and it "
+"creates an expectation of continuation. If we end the music piece at the "
+"last chord, we will leave the listener with a longing for more."
+msgstr ""
+"Oraingoan ez dago amaiera sentsaziorik. Areago iradokitzen du etenaldi labur "
+"bat, eta jarraipen itxaropena sortzen du. Musika pieza azken akordean "
+"amaituz gero, entzulea gehiagoren irrikan utziko dugu."
+
+#: TheoryHarmony.cpp:335
+msgid ""
+"Now the wrong way. Starting on the first note (G), we count the letter names "
+"to the second note (C), G-A-B-C =4, which gives us a 4th. This is the wrong "
+"answer!"
+msgstr ""
+
+#: TheoryHarmony.cpp:95
+msgid ""
+"Observe that if you write a major scale with its key signature <b>there are "
+"no accidentals to add!</b>"
+msgstr ""
+
+#: TheoryHarmony.cpp:85
+msgid ""
+"On the piano, a C major scale uses all the white notes (so it doesn't have "
+"any sharps or flats), but on other instruments, we don't have white notes, "
+"so how do we know which notes to use?"
+msgstr ""
+
+#: TheoryHarmony.cpp:252
+msgid ""
+"On the way up (ascending), the sixth and seventh degrees of the scale are "
+"each raised by one half step, creating the pattern <b>T-S-T-T-T-T-S</b>, but "
+"on the way down the pattern is that of the minor natural: <b>T-T-S-T-T-S-T</"
+"b>."
+msgstr ""
+
+#: TheoryHarmony.cpp:411
+msgid ""
+"Once you have reviewed all cadence types it is important to learn to "
+"recognize and identify them. A useful trick is to associate each cadence "
+"with a melody or song you know well. Practise to recognise cadences while "
+"you listen to music."
+msgstr ""
+"Kadentzi mota guztiak ikusi ondoren, garrantzitsua da haiek ezagutzen eta "
+"identifikatzen ikastea. Trikimailu baliagarria da kadentzia bakoitza lotzea "
+"ondo ezagutzen duzun melodia edo kanta bati. Jardun ezazu kadentziak "
+"igartzen musika entzun ahala."
+
+#: TheoryHarmony.cpp:349
+msgid ""
+"One interval is a bit more awkward to write than the others, and that is the "
+"harmonic 2nd. Harmonic intervals are written directly above the given note, "
+"but the 2nd is too close to write directly, so we have to move it to the "
+"side a little. If you try to write it directly above, you will produce "
+"something unreadable like this:"
+msgstr ""
+
+#: TheoryHarmony.cpp:351
+msgid "Perfect!"
+msgstr ""
+
+#: TheoryHarmony.cpp:42
+msgid ""
+"Permission is granted to copy, distribute and/or modify this book under the "
+"terms of the Creative Commons Attribution-Share-Alike License 3.0, with the "
+"exception of those pages where the author or group of authors has been "
+"clearly marked. Those pages are subject to the limitations described in the "
+"previous 'credits' section. The text of the Creative Commons Attribution-"
+"Share-Alike licence is available at <a-1>http://creativecommons.org/licenses/"
+"by-sa/3.0/</a-1>"
+msgstr ""
+
+#: TheoryHarmony.cpp:13
+msgid ""
+"Permission is granted to copy, distribute and/or modify this document under "
+"the terms of the Creative Commons Attribution-Share-Alike License 3.0 or "
+"later, with the exceptions described in the <a-1>Credits and Copyrights</"
+"a-1> page of this book. The text of the Creative Commons Attribution-Share-"
+"Alike License 3.0 is available at <a-2> http://creativecommons.org/licenses/"
+"by-sa/3.0/</a-2>"
+msgstr ""
+
+#: TheoryHarmony.cpp:384
+msgid "Plagal cadences"
+msgstr "Kadentzia plagalak"
+
+#: TheoryHarmony.cpp:92
+msgid ""
+"Play both scales and listen. You will notice that both sound 'similar' and "
+"remainds you the C major scale: the scale formed by all note names "
+"<b>without accidentals</b>. But, wait!. G major and F# major <b>do have</b> "
+"accidentals. How is that they sound 'similar' if we have introduced new "
+"different sounds?"
+msgstr ""
+
+#: TheoryHarmony.cpp:70
+msgid "Play the two following scores"
+msgstr ""
+
+#: TheoryHarmony.cpp:358
+msgid "Recognize intervals on a score"
+msgstr "Partitura bateko bitarteak ezagutzea"
+
+#: TheoryHarmony.cpp:217
+msgid "Relative minor and major keys"
+msgstr ""
+
+#: TheoryHarmony.cpp:345
+msgid ""
+"Remember that we start counting on the lower note, which is F in our "
+"example. We've been told to write a 7th, so we count seven notes upwards: F, "
+"G, A, B flat, C, D, E. The seventh note is E, so that's the note we need to "
+"write."
+msgstr ""
+
+#: TheoryHarmony.cpp:114
+msgid ""
+"Remember, we can't use A sharp instead of B flat, because we've already got "
+"an A in the scale."
+msgstr ""
+
+#: TheoryHarmony.cpp:43 TheoryHarmony.cpp:45
+msgid "Scales"
+msgstr ""
+
+#: TheoryHarmony.cpp:26
+msgid ""
+"Scales\n"
+"<ul>\n"
+"<li> <a-3>Semitones. The chromatic scale</a-3></li>\n"
+"<li> <a-5>Diatonic scales. Tonal center</a-5></li>\n"
+"<li> <a-7>Tones.Major scales</a-7></li>\n"
+"<li> <a-9>Minor natural scales</a-9></li>\n"
+"<li> <a-11>Harmonic and melodic minor scales</a-11></li>\n"
+"<li> <a-13>Exercises</a-13></li>\n"
+"</ul>"
+msgstr ""
+
+#: TheoryHarmony.cpp:116
+msgid ""
+"Scales can be written going up or going down. Scales which go up are called "
+"'ascending', and scales which go down are 'descending'. When we write a "
+"descending scale, the pattern of tones and semitones is reversed, so instead "
+"of being T-T-S-T-T-T-S, it is S-T-T-T-S-T-T."
+msgstr ""
+
+#: TheoryHarmony.cpp:49
+msgid "Semitones"
+msgstr ""
+
+#: TheoryHarmony.cpp:20 TheoryHarmony.cpp:44
+msgid "Semitones. The chromatic scale"
+msgstr ""
+
+#: TheoryHarmony.cpp:37
+msgid ""
+"Some lessons are based on music theory lessons from <a-1>www.mymusictheory."
+"com</a-1>. Copyright © Victoria K. Williams. Used here with her permission."
+msgstr ""
+
+#: TheoryHarmony.cpp:38
+msgid ""
+"Some texts have been taken from Catherine Schmidt-Jones music theory lessons "
+"at 'Conexions' ( <a-1>http://cnx.org/content/col10208/latest/</a-1>). Her "
+"work is licensed under a Creative Commons Attribution License (CC-BY 1.0), "
+"and is an Open Educational Resource."
+msgstr ""
+
+#: TheoryHarmony.cpp:332
+msgid "Starting on the higher note: a very common mistake!"
+msgstr ""
+
+#: TheoryHarmony.cpp:132
+msgid "Sub-dominant"
+msgstr ""
+
+#: TheoryHarmony.cpp:138
+msgid "Sub-mediant"
+msgstr ""
+
+#: TheoryHarmony.cpp:126
+msgid "Supertonic"
+msgstr ""
+
+#: TheoryHarmony.cpp:17
+msgid "Table of content"
+msgstr ""
+
+#: TheoryHarmony.cpp:91
+msgid ""
+"Take paper and pencil, copy those escales, and find the pattern of tones and "
+"semitones."
+msgstr ""
+
+#: TheoryHarmony.cpp:30 TheoryHarmony.cpp:373
+msgid "Terminal cadences"
+msgstr "Kadentzia terminalak"
+
+#: TheoryHarmony.cpp:374
+#, fuzzy
+msgid ""
+"Terminal cadences create a sensation of stability and conclusion of the "
+"musical phrase or sentence. This feeling is achieved by moving to the tonic "
+"grade (grade I) from any other chord grade. Depending on the starting chord "
+"grade, two types of cadences are considered: <a-1> authentic cadences</a-1> "
+"and <a-2> plagal cadences</a-2>."
+msgstr ""
+"Kadentzia terminalek musika esaldi edo perpausean egonkortasun eta amaiera "
+"sentsazioa sortzen dute. Sentipen hori lortzen da gradu tonikora (I. gradua) "
+"beste edozein akorde gradutatik mugituta. Akorde maila non hasten den, bi "
+"kadentzi mota hartzen dira kontuan:"
+
+#: TheoryHarmony.cpp:36
+msgid ""
+"Texts on cadences were writen for this eBook by Marcelo Gálvez. Licensed "
+"under Creative Commons Attribution-Share-Alike License 3.0. or later."
+msgstr ""
+
+#: TheoryHarmony.cpp:15
+msgid ""
+"The 'Theory and harmony' eBook is not yet finished and, currently, it is "
+"just a collection of lessons on music theory."
+msgstr ""
+
+#: TheoryHarmony.cpp:224
+msgid ""
+"The C major and C minor scales start on the same note, but have different "
+"key signatures. C minor and E flat major start on different notes, but have "
+"the same key signature. C minor is the relative minor of E flat major."
+msgstr ""
+
+#: TheoryHarmony.cpp:93
+msgid ""
+"The answer is in the pattern of tones and semitones. <b>What our brain is "
+"recognizing is this pattern of sound intervals! And that is what "
+"characterizes and defines any scale.</b>For a major scale the pattern is T-T-"
+"S-T-T-T-S. Memorize it!"
+msgstr ""
+
+#: TheoryHarmony.cpp:216
+msgid ""
+"The answer is in two details: they have a different tonal center (C in C "
+"major and A in A minor) and althoug both scales share the same notes, the "
+"notes in the minor scale follow a different pattern of tones and semitones "
+"and so have different relationships with each other; therefore, the "
+"harmonies and chord progressions built around their (different) tonal "
+"centers creates the difference."
+msgstr ""
+
+#: TheoryHarmony.cpp:402
+msgid ""
+"The deceptive cadence is considered a weak cadence because of the 'surprise' "
+"and 'hanging' feelings it invokes. Therefore, it is never used to end a "
+"piece of music. However, it provides variety and surprise by resolving to a "
+"minor chord in major keys, and to a major chord in minor keys. And when used "
+"near the end of a piece, it helps to sustain the musical interest at the "
+"moment when the final authentic cadence is expected."
+msgstr ""
+"Kadentzia iruzurtia kadentzia ahultzat jotzen dute sortzen dituen 'harrimen' "
+"eta 'zintzilikatze' sentipenengatik. Ondorioz, inoiz ez dute erabiltzen "
+"musika pieza bat azkentzeko. Nolanahi ere, askotarikotasuna eta harrimena "
+"ematen akorde minorretik armadura maiorretara igarotzeko eta akorde "
+"maiorrera armadura minorretan. Eta pieza baten amaieratik hurbil "
+"darabiltenean, lagungarri gertatzen da musika interesari eusteko benetako "
+"amaiera espero den unean."
+
+#: TheoryHarmony.cpp:51
+msgid ""
+"The first thing to notice is that, as said, we have twelve notes within an "
+"octave, represented by seven white keys and five black keys. But only seven "
+"letter names are used to name notes: C, D, E, F, G, A and B. The eighth note "
+"would, of course, be the next C, beginning the next octave. To name the "
+"other notes, the notes on the black piano keys, you have to use a sharp or "
+"flat sign. The white keys are the <b>natural notes</b>. Black keys can only "
+"be named using sharps or flats."
+msgstr ""
+
+#: TheoryHarmony.cpp:323
+msgid "The following score shows some examples of intervals within one octave:"
+msgstr ""
+"Hurrengo partiturak zortzidun baten barruko bitarte mota batzuk erakusten "
+"ditu:"
+
+#: TheoryHarmony.cpp:244
+msgid ""
+"The harmonic minor scale raises the seventh note of the natural scale by one "
+"half step, whether you are going up or down the scale. Therefore, harmonic "
+"minor scales are built on pattern T - S - T - T - S - 3S - S (T=Tone or "
+"'whole step'; S=Semitone or 'half step'; and 3S = three semitones)."
+msgstr ""
+
+#: TheoryHarmony.cpp:112
+msgid "The last scale we will look at is F major:"
+msgstr ""
+
+#: TheoryHarmony.cpp:50
+msgid ""
+"The minimum distance between two pitches that we will consider in the "
+"Western musical tradition is called a <b>semitone</b>, also named <b>half "
+"step</b>. Let's use a piano keyboard to look at some examples."
+msgstr ""
+
+#: TheoryHarmony.cpp:66
+msgid ""
+"The most important scales are the <b>diatonic</b> scales. A diatonic scale "
+"has seven notes and each of those notes is given different letter name, A-G."
+msgstr ""
+
+#: TheoryHarmony.cpp:100
+msgid ""
+"The next note we need, as you can see from the pattern T-T-S-T-T-T-S, is a "
+"tone higher than E. The note which is a tone higher than E is <b>F sharp</"
+"b>, (because we can squeeze an F between them). So F sharp is our next note:"
+msgstr ""
+
+#: TheoryHarmony.cpp:208
+msgid "The pattern is <b>T-S-T-T-S-T-T</b>."
+msgstr ""
+
+#: TheoryHarmony.cpp:88
+msgid "The pattern is <b>T-T-S-T-T-T-S</b>."
+msgstr ""
+
+#: TheoryHarmony.cpp:383
+msgid ""
+"The perfect cadence is usually found at the end of a piece of music and the "
+"end of significant sections."
+msgstr ""
+"Kadentzia perfektua normalean musika pieza baten amaieran eta atal "
+"esanguratsuen amaieran agertu ohi da."
+
+#: TheoryHarmony.cpp:241
+msgid ""
+"The scales studied in previous lesson are natural minor scales. They contain "
+"only the notes in the minor key signature and are built on pattern T-S-T-T-S-"
+"T-T."
+msgstr ""
+
+#: TheoryHarmony.cpp:194
+msgid ""
+"The simple, sing-along, nursery rhymes and folk songs we learn as children; "
+"the 'catchy' tunes used in advertising jingles; the cheerful, toe-tapping "
+"pop and rock we dance to; the uplifting sounds of a symphony: most music in "
+"a major key has a bright sound that people often describe as cheerful, "
+"inspiring, exciting, or just plain fun."
+msgstr ""
+
+#: TheoryHarmony.cpp:322
+msgid ""
+"The smallest interval we can consider is the interval between two identical "
+"notes - e.g. E and E. This interval is called a 'unison'. We can also say "
+"that the notes are 'in unison'."
+msgstr ""
+
+#: TheoryHarmony.cpp:101
+msgid ""
+"The third note is, again, a tone up. From F sharp, the next tone up is G "
+"sharp, (we can squeeze G in between them)."
+msgstr ""
+
+#: TheoryHarmony.cpp:11
+msgid "Theory and harmony"
+msgstr "Teoria eta harmonia"
+
+#: TheoryHarmony.cpp:391
+msgid "Theory: Identify if a terminal cadence is authentic perfect or plagal."
+msgstr ""
+"Teoria: Asma ezazu ea kadentzia terminal bat benetako perfektua ala plagala "
+"den."
+
+#: TheoryHarmony.cpp:407
+msgid ""
+"Theory: Identify if a transient cadence is a half cadence or a deceptive "
+"cadence."
+msgstr ""
+"Teoria: Asma ezazu ea kadentzia iragankor bat kadentzia erdia ala iruzurtia "
+"ote den. "
+
+#: TheoryHarmony.cpp:237 TheoryHarmony.cpp:239 TheoryHarmony.cpp:272
+#: TheoryHarmony.cpp:274 TheoryHarmony.cpp:296 TheoryHarmony.cpp:298
+#: TheoryHarmony.cpp:300 TheoryHarmony.cpp:302
+#, fuzzy
+msgid "Theory: Identify the scale shown"
+msgstr "Teoria:  kadentzi mota identifikatzea."
+
+#: TheoryHarmony.cpp:421
+msgid "Theory: identify the type of cadence."
+msgstr "Teoria:  kadentzi mota identifikatzea."
+
+#: TheoryHarmony.cpp:59
+msgid ""
+"There are no different types of chromatic scales. Either, we don't talk "
+"about chromatic scales as being in a particular key; we just talk about the "
+"note they start on - and they can start on any note."
+msgstr ""
+
+#: TheoryHarmony.cpp:382
+msgid ""
+"There are theoretical discussions about considering the imperfect cadence as "
+"a terminal cadence. Nevertheless, we have opted to include it in the "
+"terminal group due to sonority considerations."
+msgstr ""
+"Teorilariek eztabaidatzen dute ea kadentzia inperfektua kadentzia terminala "
+"ote den. Nolanahi ere, guk terminalen taldean sartu dugu sonoritate "
+"arrazoiak direla-eta."
+
+#: TheoryHarmony.cpp:340
+msgid "There are two important steps to follow when you write intervals."
+msgstr ""
+
+#: TheoryHarmony.cpp:73
+msgid ""
+"There are two main types of diatonic scales: major and minor. And you need "
+"to know how to recognize, write and play all of them. We will learn about "
+"major scales in next lesson."
+msgstr ""
+
+#: TheoryHarmony.cpp:242
+msgid ""
+"There are two other kinds of minor scales that are commonly used: the minor "
+"harmonic and the minor melodic scales. We are going to study them in this "
+"lesson."
+msgstr ""
+
+#: TheoryHarmony.cpp:309
+#, fuzzy
+msgid ""
+"Therefore, I encourage you to study intervals and do all proposed exercises "
+"until you master recognition of intervals, both aurally and on written music."
+msgstr ""
+"Beraz, adoretu nahi zaitugu bitarteak ikastera eta proposaturiko ariketa "
+"guztiak egitera bitarteak erraz menperatu arte, entzunez nahiz musika "
+"idatzian."
+
+#: TheoryHarmony.cpp:142
+msgid ""
+"These technical names are worked out from ascending scales. For example, in "
+"C major ascending, the second note we write is D, so D is the supertonic in "
+"C major. If we write out the scale of C major descending, the second note we "
+"write is B. But B is not the supertonic. The supertonic is still D; B is the "
+"leading note, because it is the 7th note in the ascending scale."
+msgstr ""
+
+#: TheoryHarmony.cpp:321
+msgid ""
+"To find the number of an interval, first find the note names of the two "
+"notes, (ignore any sharps and flats for now), and count the letter names, "
+"starting with the lower note on the stave, (it could be the first or second "
+"note along on the stave if it is a melodic interval)."
+msgstr ""
+
+#: TheoryHarmony.cpp:77
+msgid ""
+"To understand how to build diatonic scales you need to know what is a "
+"<b>tone</b>. In <a-2>a previous lesson</a-2> we've learnt about semitones or "
+"half steps. Now you will learn about tones: A tone is just two semitones!."
+msgstr ""
+
+#: TheoryHarmony.cpp:192
+#, fuzzy
+msgid "Tonal center"
+msgstr "Kadentzia terminalak"
+
+#: TheoryHarmony.cpp:76
+msgid "Tones"
+msgstr ""
+
+#: TheoryHarmony.cpp:75
+msgid "Tones. Major scales"
+msgstr ""
+
+#: TheoryHarmony.cpp:22
+msgid "Tones.Major scales"
+msgstr ""
+
+#: TheoryHarmony.cpp:123
+msgid "Tonic"
+msgstr ""
+
+#: TheoryHarmony.cpp:31 TheoryHarmony.cpp:394
+msgid "Transient cadences"
+msgstr "Kadentzia iragankorrak"
+
+#: TheoryHarmony.cpp:395
+#, fuzzy
+msgid ""
+"Transient cadences are not conclusive. They create a sensation of tension "
+"and unstability and an expectation of continuation. They are more like a "
+"short pause in the musical flow. There are two types of transient cadences: "
+"<a-1> half cadences</a-1> and <a-2> deceptive cadences</a-2>."
+msgstr ""
+"Kadentzia iragankorrak ez dira amaierakoak. Tentsio eta ezegonkortasun "
+"sentsazioa sortzen dute, jarraipen itxaropen bat. Areago dira eten labur bat "
+"musikaren joanean. Bi kandentzia iragankor mota daude:"
+
+#: TheoryHarmony.cpp:328
+msgid "Unison"
+msgstr "Doinu berean"
+
+#: TheoryHarmony.cpp:202
+msgid ""
+"Using the wrong note value - usually you are asked to use <b>whole notes</b> "
+"(semibreves)."
+msgstr ""
+
+#: TheoryHarmony.cpp:134 TheoryHarmony.cpp:148
+msgid "V"
+msgstr ""
+
+#: TheoryHarmony.cpp:137 TheoryHarmony.cpp:149
+msgid "VI"
+msgstr ""
+
+#: TheoryHarmony.cpp:140 TheoryHarmony.cpp:150
+msgid "VII"
+msgstr ""
+
+#: TheoryHarmony.cpp:267
+msgid ""
+"Victoria K. Williams music theory lessons. <a-1>www.mymusictheory.com</a-1>"
+msgstr ""
+
+#: TheoryHarmony.cpp:62 TheoryHarmony.cpp:74 TheoryHarmony.cpp:203
+#: TheoryHarmony.cpp:232
+msgid ""
+"Victoria K. Williams music theory lessons. <a-1>www.mymusictheory.com</a-1>. "
+"Copyright © Victoria K. Williams. Used here with her permission."
+msgstr ""
+
+#: TheoryHarmony.cpp:106
+msgid ""
+"We already know how to build any other major scale. And we already know C "
+"major (all notes, no accidentals). For level 1 you will have to know three "
+"other scales : G major, F major and D major. Let's start with G major.."
+msgstr ""
+
+#: TheoryHarmony.cpp:98
+msgid ""
+"We already know that all major scales follow the same pattern <b>T-T-S-T-T-T-"
+"S</b>. Therefore, it is easy to build any major scale. As an example, we'll "
+"construct E major."
+msgstr ""
+
+#: TheoryHarmony.cpp:315
+msgid ""
+"We can measure the distance between two notes which are played together at "
+"the same time. The distance between these notes is called a 'harmonic' "
+"interval. Also we can measure the distance between two notes which are "
+"played separately, one after the other. In this case, the distance between "
+"these notes is called a 'melodic' interval."
+msgstr ""
+
+#: TheoryHarmony.cpp:350
+msgid ""
+"We move the higher note to the right, but keep it close enough to the lower "
+"note that they are just touching:"
+msgstr ""
+
+#: TheoryHarmony.cpp:72
+msgid ""
+"We talk about diatonic scales as <b>being in a certain key</b>, for example, "
+"in 'C Major' or in 'B flat minor'."
+msgstr ""
+
+#: TheoryHarmony.cpp:119
+msgid ""
+"We use technical names to talk about each note of the diatonic scale, "
+"instead of saying 'first note', 'third note' and so on. The first and last "
+"notes in any scale are called the 'tonic'. The other notes can be referred "
+"to by <b>number</b>. In C major, the second note in the scale is D, so we "
+"can say that D is the <b>2nd degree of the scale of C major</b>. We always "
+"use the <b>ascending</b> scale to work out the degrees of a scale. Every "
+"scale has seven degrees, because there are seven different notes. The "
+"distance of eight notes, from low C to top C for example, is called an "
+"'octave'."
+msgstr ""
+
+#: TheoryHarmony.cpp:99
+msgid ""
+"We'll start by putting the the tonic of E major, that is, an E note. We're "
+"using the treble clef, but it works just the same way in any other clef."
+msgstr ""
+
+#: TheoryHarmony.cpp:65
+msgid ""
+"We've learnt that the octave is divided into twelve notes, spaced by one "
+"semitone. When played one after the other we get the cromatic scale. But "
+"chromatic scales aren't very interesting to compose music. In Western music "
+"tradition normally you would not use all twelve notes to compose a melody, "
+"as it will not sound 'good'. Therefore, musicians learnt to choose the "
+"'right' notes that were useful to compose 'sounding good' melodies, and "
+"grouped these notes in 'scales'. So let's learn about how to choose the "
+"'right' notes to use and about the scales they form. But please remember "
+"that people in different musical traditions have different ideas about what "
+"notes they think sound best together!."
+msgstr ""
+
+#: TheoryHarmony.cpp:189
+msgid ""
+"What difference does key make? Since the major scales all follow the same "
+"pattern, they all sound very much alike. Here is the tune 'Row, Row, Row "
+"Your Boat', written in G major and also in D major. First in G major:"
+msgstr ""
+
+#: TheoryHarmony.cpp:333
+msgid ""
+"What happens if you try to calculate an interval by starting with the higher "
+"note on the stave? You will get the wrong answer! This is a common mistake, "
+"so let's look at an example of what can go wrong. What is the following "
+"harmonic interval?"
+msgstr ""
+
+#: TheoryHarmony.cpp:27 TheoryHarmony.cpp:304 TheoryHarmony.cpp:310
+msgid "What is an interval?"
+msgstr "Zer da bitarte bat?"
+
+#: TheoryHarmony.cpp:215
+msgid ""
+"What main difference does major or minor key make? In C major key it sounds "
+"cheerful but in A minor key it sounds sad. Probably you have noticed that "
+"the A minor scale is using the same notes than the C major scale: the white "
+"keys of the piano keyboard. Then, why this difference in emotional feel?"
+msgstr ""
+
+#: TheoryHarmony.cpp:377
+msgid "When the authentic cadence satisfies the following conditions:"
+msgstr "Benetako kadentziak honako baldintza hauek betetzen dituenean:"
+
+#: TheoryHarmony.cpp:305
+msgid "Why should you learn about 'intervals'?"
+msgstr "Zergatik ikasi bitarteei buruz? "
+
+#: TheoryHarmony.cpp:361
+#, fuzzy
+msgid "Write intervals on a score"
+msgstr "Partitura bateko bitarteak ezagutzea"
+
+#: TheoryHarmony.cpp:339
+#, fuzzy
+msgid "Writing Intervals"
+msgstr "Bitarteak"
+
+#: TheoryHarmony.cpp:200
+msgid ""
+"Writing accidentals/key signatures on the <b>wrong space</b> or <b>line</b>."
+msgstr ""
+
+#: TheoryHarmony.cpp:201
+msgid ""
+"Writing an <b>ascending</b> scale when the question asks for a "
+"<b>descending</b> one, and vice versa."
+msgstr ""
+
+#: TheoryHarmony.cpp:61
+msgid ""
+"You need to be able to recognise chromatic scales, as well as sections of a "
+"chromatic scale within a piece of music. To find a section of a chromatic "
+"scale, just look for a series of notes that are all one semitone apart."
+msgstr ""
+
+#: TheoryHarmony.cpp:365
+msgid ""
+"You will notice the feeling of conclusion, of reaching the end of a musical "
+"piece. The chord sequence does not create expectations of continuation. The "
+"composer could end the musical composition in the last chord and the "
+"listener will perceive that the end has been reached and remain 'satisfied' "
+"with finishing at that point. On the contrary, listen to the following chord "
+"sequence:"
+msgstr ""
+"Amaiera sentsazioa, musika pieza bukatuz doalakoa nabarituko duzu. Akorde "
+"sekuentziak ez du jarraipen itxaropenik sortzen. Konpositoreak musika "
+"konposizioa azken akordean eten zezakeen eta entzuleak amaiera heldua zela "
+"sentituta, 'pozik' senti zitekeen une hartan amaituta. Entzun, ordea, "
+"hurrengo akorde sekuentzia:"
+
+#: TheoryHarmony.cpp:344
+msgid ""
+"You'll also be told if you have to write a harmonic, or melodic interval. "
+"This one is a melodic interval, so we'll write the second note after the "
+"given note."
+msgstr ""
+
+#: TheoryHarmony.cpp:378
+msgid "both chords are in root position;"
+msgstr "bi akordeak funtsezko posizioan egotea;"
+
+#: TheoryHarmony.cpp:379
+msgid "the first chord is the V or the V7 ; and"
+msgstr "lehenengo akordea  V.a edo V/.a izatea; eta"
+
+#: TheoryHarmony.cpp:380
+msgid "the melody (soprano voice) ends on the tonic pitch."
+msgstr "melodia (soprano ahotsa) tonu tonikoan amaitzea."
+
+#: TheoryHarmony.cpp:381
+msgid ""
+"then the cadence has its strongest conclusive power and it creates the most "
+"final sounding of all cadences. Due to this fact, if the previously listed "
+"conditions are satisfied, the cadence is named 'perfect authentic cadence' "
+"or just 'perfect cadence'. If the conditions are not satisfied, the "
+"conclusive sensation of the cadence is less strong and then the cadence is "
+"named 'imperfect authentic cadence' or just 'imperfect cadence'."
+msgstr ""
+"orduan kadentziak amaiera indarrik indartsuena izaten du eta, kadentzia "
+"guztien artetik, amaierarik soinutsuena sortzen du. Gertaera horren "
+"ondorioz, lehen zerrendaturiko baldintzak betez gero, kadentziari 'benetako "
+"kadentzia perfektua' edo 'kadentzia perfektua' deritzote. Baldintzak bete "
+"ezean, kadentziaren amaiera sentsazioa ez da halako indartsua eta, ondorioz, "
+"kadentziari 'benetako kadentzia inperfektua' edo 'kadentzia inperfektua' "
+"deritzote."
+
+#~ msgid "Licensed under the terms of the GNU Free Documentation License v1.3"
+#~ msgstr ""
+#~ "GNU Free Documentation License v1.3 lizentziaren arabera lizentziatua"
+
+#~ msgid "LenMus project"
+#~ msgstr "LenMus proiektua"
+
+#~ msgid ""
+#~ "Permission is granted to copy, distribute and/or modify this document "
+#~ "under the terms of the GNU Free Documentation License, Version 1.3 or any "
+#~ "later version published by the Free Software Foundation; with no "
+#~ "Invariant Sections, no Front-Cover Texts, and no Back-Cover "
+#~ "Texts. A copy of the license is included in the documentation received "
+#~ "with this program, and it is also available at"
+#~ msgstr ""
+#~ "Zilegi da dokumentu hau kopiatu, banatu eta/edo aldatzea Free Software "
+#~ "Foundation erakundeak argitaraturiko GNU Free Documentation License "
+#~ "lizentziaren 1.3 edo hurrengo bertsioen arabera; atal inbarianteak ez, "
+#~ "aurreko azaleko testuak ez, atzeko azaleko testuak ez. Lizentzia honen "
+#~ "aldaki bat sartuta dago programarekin batera doazen dokumentuetan, eta "
+#~ "hurrengo helbidean ere. "
+
+#~ msgid "http://www.gnu.org/licenses/fdl.html"
+#~ msgstr "http://www.gnu.org/licenses/fdl.html"
+
+#~ msgid "Contents"
+#~ msgstr "Edukiak"
+
+#~ msgid "Clefs and note ranges:"
+#~ msgstr "Giltzak eta nota heinak:"
+
+#~ msgid "Time signatures:"
+#~ msgstr "Konpas armadurak:"
+
+#~ msgid "Key signatures:"
+#~ msgstr "Nota armadurak:"
+
+#~ msgid "line 4"
+#~ msgstr "4. lerroa"
+
+#~ msgid "line 3"
+#~ msgstr "3. lerroa"
+
+#~ msgid "line 2"
+#~ msgstr "2. lerroa"
+
+#~ msgid "line 1"
+#~ msgstr "1. lerroa"
+
+#~ msgid "space 3"
+#~ msgstr "3. lerroartea "
+
+#~ msgid "space 2"
+#~ msgstr "2. lerroartea"
+
+#~ msgid "space 1"
+#~ msgstr "1. lerroartea"
+
+#~ msgid "Largo"
+#~ msgstr "Largo"
+
+#~ msgid "Larghetto"
+#~ msgstr "Larghetto"
+
+#~ msgid "Lento"
+#~ msgstr "Lento"
+
+#~ msgid "Adagio"
+#~ msgstr "Adagio"
+
+#~ msgid " - slow"
+#~ msgstr "- astiro"
+
+#~ msgid "Andante"
+#~ msgstr "Andante"
+
+#~ msgid "Moderato"
+#~ msgstr "Moderato"
+
+#~ msgid "Allegretto"
+#~ msgstr "Allegretto"
+
+#~ msgid "Allegro"
+#~ msgstr "Allegro"
+
+#~ msgid " - fast"
+#~ msgstr "- arin"
+
+#~ msgid "Vivo, or Vivace"
+#~ msgstr "Vivo edo Vivace"
+
+#~ msgid "Presto"
+#~ msgstr "Presto"
+
+#~ msgid "Prestissimo"
+#~ msgstr "Prestissimo"
+
+#~ msgid ": 40-49"
+#~ msgstr ": 40-49"
+
+#~ msgid ": 50-59"
+#~ msgstr ": 50-59"
+
+#~ msgid ": 60-79"
+#~ msgstr ": 60-79"
+
+#~ msgid ": 80-99"
+#~ msgstr ": 80-99"
+
+#~ msgid ": 100-119"
+#~ msgstr ": 100-119"
+
+#~ msgid ": 120-159"
+#~ msgstr ": 120-159"
+
+#~ msgid ": 160-179"
+#~ msgstr ": 160-179"
+
+#~ msgid ": 180-200"
+#~ msgstr ": 180-200"
+
+#~ msgid "Just click on the 'metronome' button"
+#~ msgstr "‘Metronomoa’ botoia sakatu besterik ez duzu"
+
+#~ msgid "Lesson %d. Exercise 1"
+#~ msgstr "Ikasgaia: %d. 1. ariketa"
+
+#~ msgid "consecutive notes of the same pitch"
+#~ msgstr ""
+#~ "elkarren ondoan dauden altuera bereko bi notaren buruak lotzen dituena"
+
+#~ msgid ". For example:"
+#~ msgstr ". Esaterako: "
+
+#~ msgid "Lesson %d. Exercise 2"
+#~ msgstr "Ikasgaia: %d. 2. ariketa"
+
+#~ msgid "in every octave"
+#~ msgstr "zortzidun guztietan"
+
+#~ msgid ""
+#~ ". As a consequence, it is no longer needed to place accidental signs in "
+#~ "front of each note. So, the previous score can also be written as follows:"
+#~ msgstr ""
+#~ ". Ondorioz, ez dago zertan nota bakoitzaren aurretik alterazioak "
+#~ "idatzirik. Hala, aurreko partitura honela ere idatz daiteke:"
+
+#~ msgid "Lesson %d"
+#~ msgstr "Ikasgaia: %d. "
+
+#~ msgid ""
+#~ "It takes a lot of time to prepare an eBbook. So we have decided to "
+#~ "publish the chapters, themes and articles as soon as we write them, "
+#~ "instead of waiting until the book is finalized. All these provisional "
+#~ "themes and articles are bundled into this eBook. Therefore the 'Theory "
+#~ "and harmony' eBook is currently just a collection of un-ordered/un-"
+#~ "related themes."
+#~ msgstr ""
+#~ "eBook bat prestatzeak oso luze jotzen du. Beraz, kapituluak, gaiak eta "
+#~ "artikuluak idatzi bezain laster erabaki dugu, liburua amaitu arte zain "
+#~ "egon beharrean. Beraz, 'Teoria eta harmonia' izeneko eBook hau oraingoz "
+#~ "gai antolatu/rodenatu gabeko gaien bilduma hutsa da."
+
+#~ msgid ""
+#~ "An interval is the distance between two pitches. Intervals are named by "
+#~ "the number of steps between the two tones. So, to determine the interval "
+#~ "between two notes we just count the number of notes, including both. For "
+#~ "example, the interval C-E is three notes (C, D E). Therefore, the "
+#~ "interval C-E is named a 'third'. Another example, interval E-B is a "
+#~ "'fifth', because there are five notes between E-B (E, F, G, A B)."
+#~ msgstr ""
+#~ "Bitarte melodikoa bi noten arteko distantzia da. Bitarteak izendatzen "
+#~ "dira hura osatzen duten noten artean dagoen nota kopuruaren arabera. "
+#~ "Beraz, bi noten arteko bitartea zehazteko, nahikoa da nota kopurua "
+#~ "zenbatzea, bi nota horiek ere sartuta. Adibidez, Do-Mi bitartea hiru "
+#~ "notek osatzen dute (Do, Re, Mi). Ondorioz, Do-Mi bitartea ‘hiruduna’ da.  "
+#~ "Beste adibide bat: Mi-Si bitartea ‘bostuna’ da, bost nota daudelako Mi "
+#~ "eta Si artean (Mi, Fa, Sol, La eta Si)."
+
+#~ msgid "Music reading"
+#~ msgstr "Musika irakurtzen"
+
+#~ msgid "Intervals. Music reading"
+#~ msgstr "Bitarteak. Musika irakurtzen"
+
+#~ msgid "Intervals. Aural training"
+#~ msgstr "Bitarteak. Entzumena trebatzen"
+
+#~ msgid "Harmony"
+#~ msgstr "Harmonia"
+
+#~ msgid " authentic cadences"
+#~ msgstr "benetako kadentziak"
+
+#~ msgid " and"
+#~ msgstr " eta"
+
+#~ msgid " plagal cadences"
+#~ msgstr "kadentzia plagalak"
+
+#~ msgid "."
+#~ msgstr "."
+
+#~ msgid "Theory"
+#~ msgstr "Teoria"
+
+#~ msgid " half cadences"
+#~ msgstr "kadentzia erdiak"
+
+#~ msgid " deceptive cadences"
+#~ msgstr "kadentzia iruzurtiak "
+
+#~ msgid "Trasient cadences"
+#~ msgstr "Kadentzia iragankorrak"
