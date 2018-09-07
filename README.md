@@ -1,4 +1,4 @@
-# A helping program for preparing LenMus eBooks
+# A tool for translating and packaging LenMus eBooks
 
 LenMus Phonascus, "the teacher of music", is a free program to help you
 in the study of music theory and for training your ear.
