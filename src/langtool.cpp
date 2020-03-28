@@ -170,6 +170,7 @@ int MyApp::OnExit()
 
 bool MyApp::ProcessCmdLine(wxChar** argv, int argc)
 {
+    wxLogMessage("MyApp::ProcessCmdLine()");
     //Return FALSE for displaying GUI. TRUE for termination; in this
     //case, batch processing has been run.
 
@@ -210,15 +211,18 @@ bool MyApp::ProcessCmdLine(wxChar** argv, int argc)
         {wxCMD_LINE_SWITCH, "c",     NULL,      "compile ebook"},
         {wxCMD_LINE_SWITCH, "p",     NULL,      "generate/update strings for POT files and create missing PO files"},
         {wxCMD_LINE_SWITCH, "i",     NULL,      "generate/update installer strings"},
-        {wxCMD_LINE_OPTION, "book",  NULL,      "Source eBook to process (full path)"},
-        {wxCMD_LINE_OPTION, "out",   NULL,      "Path to store results"},
-        {wxCMD_LINE_OPTION, "langs", NULL,      "languages"},
+        {wxCMD_LINE_OPTION, "book",  NULL,      "Source eBook to process (full path)",
+                wxCMD_LINE_VAL_STRING, wxCMD_LINE_PARAM_OPTIONAL },
+        {wxCMD_LINE_OPTION, "out",   NULL,      "Path to store results",
+                wxCMD_LINE_VAL_STRING, wxCMD_LINE_PARAM_OPTIONAL },
+        {wxCMD_LINE_OPTION, "langs", NULL,      "languages",
+                wxCMD_LINE_VAL_STRING, wxCMD_LINE_PARAM_OPTIONAL },
         //{wxCMD_LINE_PARAM,  NULL, NULL, "input files",
         // wxCMD_LINE_VAL_STRING,
         // wxCMD_LINE_PARAM_OPTIONAL | wxCMD_LINE_PARAM_MULTIPLE},
         // End of command list
         {wxCMD_LINE_SWITCH, "h",     "help",    "show this help text",
-                            wxCMD_LINE_VAL_NONE, wxCMD_LINE_OPTION_HELP },
+                wxCMD_LINE_VAL_NONE, wxCMD_LINE_OPTION_HELP },
         {wxCMD_LINE_NONE}
     };
 
@@ -230,9 +234,9 @@ bool MyApp::ProcessCmdLine(wxChar** argv, int argc)
     //analyse the command line
     wxCmdLineParser oParser(cmdLineDesc, argc, argv);
     int nResp = oParser.Parse();
-    bool fCompileBook = oParser.Found(_T("c"));
-    bool fGeneratePot = oParser.Found(_T("p"));
-    bool fGenerateInstaller = oParser.Found(_T("i"));
+    bool fCompileBook = oParser.Found("c");
+    bool fGeneratePot = oParser.Found("p");
+    bool fGenerateInstaller = oParser.Found("i");
 
     if (nResp == -1)
     {
@@ -241,7 +245,12 @@ bool MyApp::ProcessCmdLine(wxChar** argv, int argc)
     }
     else if (nResp > 0)
     {
-        wxLogMessage(_T("Invalid command line arguments: syntax error detected, aborting."));
+        wxLogMessage("Invalid command line arguments: syntax error detected, aborting.");
+        for(int i=0; i < argc; i++)
+        {
+            wxLogMessage("Parameter %d: %s\n",i+1, argv[i]);
+        }
+
         return true;    //terminate
     }
     else    //nResp == 0. Everything is ok; proceed

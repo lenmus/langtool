@@ -6,7 +6,7 @@
 
 #--------------------------------------------------------------------------------------
 #  This file is part of LenMus project.
-#  Copyright (c) 2002-2018 Cecilio Salmeron
+#  Copyright (c) 2002-2019 Cecilio Salmeron
 #
 #  LenMus is free software; you can redistribute it and/or modify it under the
 #  terms of the GNU General Public License as published by the Free Software Foundation,
@@ -20,7 +20,7 @@
 #  with Lomse; if not, see <http://www.gnu.org/licenses/>.
 #  
 #  For any comment, suggestion or feature request, please contact the manager of
-#  the project at cecilios@users.sourceforge.net
+#  the project at s.cecilio@gmail.com
 #
 #-------------------------------------------------------------------------------------
 

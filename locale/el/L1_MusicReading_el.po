@@ -1,0 +1,1936 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Avgeris Tsironis <avgeristsironis@gmail.com>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-28 13:02+0100\n"
+"PO-Revision-Date: 2020-02-02 19:51+0100\n"
+"Language-Team: Ελληνικά <avgeristsironis@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: Avgeris Tsironis <avgeristsironis@gmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: el\n"
+
+#: L1_MusicReading.cpp:143
+msgid " - Practice reading scores with half notes and tied quarter notes."
+msgstr " - Εξάσκηση ανάγνωσης παρτιτούρας με μισά και συζευγμένα τέταρτα."
+
+#: L1_MusicReading.cpp:155
+msgid " - Practise reading scores with leger lines above fifth line."
+msgstr ""
+" - Εξάσκηση ανάγνωσης παρτιτούρας με βοηθητικές γραμμές πάνω από το "
+"πεντάγραμμο."
+
+#: L1_MusicReading.cpp:153
+msgid " - Practise reading scores with leger lines below first line."
+msgstr ""
+" - Εξάσκηση ανάγνωσης παρτιτούρας με βοηθητικές γραμμές κάτω από το "
+"πεντάγραμμο."
+
+#: L1_MusicReading.cpp:131
+msgid " - Read scores containing only quarter notes and rests."
+msgstr " - Ανάγνωση παρτιτούρας με τέταρτα και παύσεις."
+
+#: L1_MusicReading.cpp:266
+msgid " - Read scores containing the bass clef."
+msgstr " - Ανάγνωση παρτιτούρας που εμπεριέχει το κλειδί του Φα."
+
+#: L1_MusicReading.cpp:278
+msgid " - Read scores containing the rhythms studied in previous lessons."
+msgstr " - Ανάγνωση παρτιτούρας που εμπεριέχει ρυθμούς προηγούμενων μαθημάτων."
+
+#: L1_MusicReading.cpp:170 L1_MusicReading.cpp:207 L1_MusicReading.cpp:289
+#: L1_MusicReading.cpp:301 L1_MusicReading.cpp:314 L1_MusicReading.cpp:328
+#: L1_MusicReading.cpp:341 L1_MusicReading.cpp:355 L1_MusicReading.cpp:369
+#: L1_MusicReading.cpp:382 L1_MusicReading.cpp:396 L1_MusicReading.cpp:410
+#: L1_MusicReading.cpp:423 L1_MusicReading.cpp:440 L1_MusicReading.cpp:449
+#: L1_MusicReading.cpp:458 L1_MusicReading.cpp:467
+msgid " - Read scores containing the rhythms studied in this lesson."
+msgstr " - Ανάγνωση παρτιτούρας που εμπεριέχει ρυθμούς αυτού του μαθήματος."
+
+#: L1_MusicReading.cpp:192
+msgid " - Read scores containing the rhythms studied."
+msgstr " - Ανάγνωση παρτιτούρας που εμπεριέχει τους ρυθμούς που μελετήθηκαν."
+
+#: L1_MusicReading.cpp:168 L1_MusicReading.cpp:205 L1_MusicReading.cpp:287
+#: L1_MusicReading.cpp:326 L1_MusicReading.cpp:339 L1_MusicReading.cpp:353
+#: L1_MusicReading.cpp:367 L1_MusicReading.cpp:380 L1_MusicReading.cpp:394
+#: L1_MusicReading.cpp:408 L1_MusicReading.cpp:421
+msgid " - Train your ear and practise the introduced rhythmic patterns."
+msgstr " - Ακουστική εξάσκηση στα ρυθμικά μοτίβα που παρουσιάζονται."
+
+#: L1_MusicReading.cpp:62
+msgid "16th"
+msgstr "Δέκατο έκτο"
+
+#: L1_MusicReading.cpp:63
+msgid "32th"
+msgstr "Τριακοστό δεύτερο"
+
+#: L1_MusicReading.cpp:64
+msgid "64th"
+msgstr "Εξηκοστό τέταρτο"
+
+#: L1_MusicReading.cpp:99
+msgid "<b>Adagio</b> - slow"
+msgstr "<b>Adagio</b> - αργό"
+
+#: L1_MusicReading.cpp:113
+msgid "<b>Adagio</b>: 50-59"
+msgstr "<b>Adagio</b>: 50-59"
+
+#: L1_MusicReading.cpp:102
+msgid "<b>Allegretto</b> - Not as fast as allegro"
+msgstr "<b>Allegretto</b> - όχι τόσο γρήγορο όσο το allegro"
+
+#: L1_MusicReading.cpp:116
+msgid "<b>Allegretto</b>: 100-119"
+msgstr "<b>Allegretto</b>: 100-119"
+
+#: L1_MusicReading.cpp:103
+msgid "<b>Allegro</b> - fast"
+msgstr "<b>Allegro</b> - γρήγορο"
+
+#: L1_MusicReading.cpp:117
+msgid "<b>Allegro</b>: 120-159"
+msgstr "<b>Allegro</b>: 120-159"
+
+#: L1_MusicReading.cpp:100
+msgid "<b>Andante</b> - literally 'walking', a medium slow tempo"
+msgstr "<b>Andante</b> - κυριολεκτικά «περπατώντας», ένας μέτριος αργός ρυθμός"
+
+#: L1_MusicReading.cpp:114
+msgid "<b>Andante</b>: 60-79"
+msgstr "<b>Andante</b>: 60-79"
+
+#: L1_MusicReading.cpp:23
+msgid ""
+"<b>Clefs and note ranges:</b> The course starts with the G clef using a very "
+"reduced note range (e4-g4). Progressively, the note range is increased to "
+"reach the range c4-f5 in lesson 14. Next, the F key is introduced, again "
+"with a very reduced note range (a3-c4) and from there, the exercises of all "
+"following lessons use the F and G clef indistinctly. The note range is "
+"continuously being broadened in both clefs (G: a3-c6 y F: a2-e4), to cover "
+"two ledger lines, above and below."
+msgstr ""
+"<b>Κλειδιά και εμβέλεια φθόγγων:</b> Η σειρά μαθημάτων ξεκινά με το κλειδί "
+"του Σολ, χρησιμοποιώντας μικρό εύρος φθόγγων (μι4-σολ4). Προοδευτικά, το "
+"εύρος των φθόγγων αυξάνεται ώστε να φτάσει το εύρος ντο4-φα5 στο μάθημα 14. "
+"Κατόπιν παρουσιάζεται το κλειδί του Φα και πάλι σε μικρό εύρος (λα3-ντο3), "
+"και από εκεί κι έπειτα όλες οι ασκήσεις χρησιμοποιούν το κλειδί του Φα και "
+"του Σολ εξίσου το ίδιο. Το εύρος των φθόγγων συνεχώς διευρύνεται και στα δύο "
+"κλειδιά (Σολ: λα3-ντο6 και Φα: λα2-μι4), ώστε να καλύψει δύο βοηθητικές "
+"γραμμές πάνω και κάτω από το πεντάγραμμο."
+
+#: L1_MusicReading.cpp:25
+msgid ""
+"<b>Key signatures:</b> The exercises in the first two practical lessons (9 "
+"and 10) have scores using only the C major / A minor key signature (no "
+"accidentals). The key signature is introduced in lesson 13 and from there "
+"(lessons 14 to 17) the exercises use also one accidental (G major / E minor "
+"and F major / D minor). In the remaining lessons (18 to 31) exercises use up "
+"to two accidentals (D major / B minor and B flat major / G minor)."
+msgstr ""
+"<b>Οπλισμός:</b> Οι ασκήσεις στα πρώτα δύο πρακτικά μαθήματα (9 και 10) "
+"έχουν παρτιτούρες μόνο στην Ντο μείζονα / Λα ελάσσονα (χωρίς αλλοιώσεις). Ο "
+"οπλισμός παρουσιάζεται στο μάθημα 13 και από εκεί και πέρα (μαθήματα 14 έως "
+"17) οι ασκήσεις χρησιμοποιούν μία αλλοίωση (Σολ μείζονα / Μι ελάσσονα και Φα "
+"μείζονα / Ρε ελάσσονα). Στα εναπομείναντα μαθήματα (18 έως 31) οι ασκήσεις "
+"περιέχουν μέχρι δύο αλλοιώσεις (Ρε μείζονα / Σι ελάσσονα και Σι ύφεση "
+"μείζονα / Σολ ελάσσονα)."
+
+#: L1_MusicReading.cpp:97
+msgid "<b>Larghetto</b> - not quite as slow as largo"
+msgstr "<b>Larghetto</b> - όχι τόσο αργό όσο το largo"
+
+#: L1_MusicReading.cpp:96
+msgid "<b>Largo</b> - very slow and broad"
+msgstr "<b>Largo</b> - πολύ αργό και ευρύ"
+
+#: L1_MusicReading.cpp:112
+msgid "<b>Largo</b>: 40-49"
+msgstr "<b>Largo</b>: 40-49"
+
+#: L1_MusicReading.cpp:98
+msgid "<b>Lento</b> - very slow"
+msgstr "<b>Lento</b> - πολύ αργό"
+
+#: L1_MusicReading.cpp:101
+msgid "<b>Moderato</b> - moderate, or medium"
+msgstr "<b>Moderato</b> - μέτριο"
+
+#: L1_MusicReading.cpp:115
+msgid "<b>Moderato</b>: 80-99"
+msgstr "<b>Moderato</b>: 80-99"
+
+#: L1_MusicReading.cpp:106
+msgid "<b>Prestissimo</b> - very, very fast"
+msgstr "<b>Prestissimo</b> - πάρα πολύ γρήγορο"
+
+#: L1_MusicReading.cpp:119
+msgid "<b>Prestissimo</b>: 180-200"
+msgstr "<b>Prestissimo</b>: 180-200"
+
+#: L1_MusicReading.cpp:105
+msgid "<b>Presto</b> - very fast"
+msgstr "<b>Presto</b> - πολύ γρήγορο"
+
+#: L1_MusicReading.cpp:118
+msgid "<b>Presto</b>: 160-179"
+msgstr "<b>Presto</b>: 160-179"
+
+#: L1_MusicReading.cpp:24
+msgid ""
+"<b>Time signatures:</b> In the first exercises (9 to 17) only the 2/4 simple "
+"time is used. Next, the 3/4 simple time (lesson 18) and the 4/4 simple time "
+"(lesson 19) are used. In lesson 28 the compound 6/8 is introduced and it is "
+"practiced in the remaining lessons (29 to 31)."
+msgstr ""
+"<b>Μετρική ένδειξη:</b> Στις πρώτες ασκήσεις (9 έως 17) χρησιμοποιούνται "
+"μόνο μέτρα αξίας 2/4. Εν συνεχεία χρησιμοποιούνται απλά μέτρα αξίας 3/4 "
+"(μάθημα 18) και 4/4 (μάθημα 19). Στο μάθημα 28 παρουσιάζεται το σύνθετο "
+"μέτρο 6/8 και γίνεται εξάσκηση πάνω σε αυτό στα εναπομείναντα μαθήματα (29 "
+"έως 31)."
+
+#: L1_MusicReading.cpp:104
+msgid "<b>Vivo, or Vivace</b> - lively and brisk"
+msgstr "<b>Vivo, or Vivace</b> - ζωντανό και ζωηρό"
+
+#: L1_MusicReading.cpp:50 L1_MusicReading.cpp:218 L1_MusicReading.cpp:225
+#: L1_MusicReading.cpp:235 L1_MusicReading.cpp:242 L1_MusicReading.cpp:249
+#: L1_MusicReading.cpp:256 L1_MusicReading.cpp:261 L1_MusicReading.cpp:273
+msgid "A"
+msgstr "Λα"
+
+#: L1_MusicReading.cpp:85
+msgid "A 2/4 time signature"
+msgstr "Μετρική ένδειξη 2/4"
+
+#: L1_MusicReading.cpp:200
+msgid ""
+"A fermata is a musical symbol, looking like a semicircle containing a dot, "
+"that is placed above or below a note or rest. It indicates that the note/"
+"rest should be sustained for longer than its normal duration. Usually the "
+"note/rest is held for one and a half to twice the normal duration, but it is "
+"always up to the discretion of the performer or the conductor. The fermata "
+"symbol is usually placed above the note/rest, but occasionally can be placed "
+"below it and upside down:"
+msgstr ""
+"Η κορόνα είναι ένα μουσικό σύμβολο το οποίο μοιάζει με ημικύκλιο που "
+"περιέχει μια τελεία, και τοποθετείται πάνω ή κάτω από μια νότα ή παύση. Αυτό "
+"δείχνει ότι η νότα/παύση πρέπει να διαρκέσει περισσότερο από την κανονική "
+"της διάρκεια. Συνήθως οι νότες/παύσεις διαρκούν μιάμιση έως δύο φορές "
+"περισσότερο της κανονικής τους διάρκειας,  αλλά αυτό επαφίεται πάντοτε στην "
+"κρίση του εκτελεστή ή του μαέστρου. Η κορόνα τοποθετείται συνήθως πάνω από "
+"τη νότα/παύση, ωστόσο μερικές φορές μπορεί να τοποθετηθεί από κάτω και "
+"αναποδογυρισμένη:"
+
+#: L1_MusicReading.cpp:181
+msgid ""
+"A sharp sign raises the pitch of a note by half a step (one semitone). A "
+"flat sign lowers the pitch of a note half a step (one semitone). A natural "
+"sign cancels the effect of a flat or a sharp."
+msgstr ""
+"Το σύμβολο της δίεσης αυξάνει το τονικό ύψος του φθόγγου κατά μισό βήμα (ένα "
+"ημιτόνιο). Το σύμβολο της ύφεσης χαμηλώνει το τονικό ύψος της νότας κατά "
+"μισό βήμα (ένα ημιτόνιο). Το σύμβολο της αναίρεσης ακυρώνει την επίδραση της "
+"ύφεσης ή της δίεσης."
+
+#: L1_MusicReading.cpp:139
+msgid ""
+"A tie is a small arch between the heads of two <b>consecutive notes of the "
+"same pitch</b>. For example:"
+msgstr ""
+"Η σύζευξη διαρκείας είναι μια μικρή καμπύλη γραμμή ανάμεσα στις κεφαλές δύο "
+"<b>διαδοχικών νοτών του ίδιου τονικού ύψους</b>. Για παράδειγμα:"
+
+#: L1_MusicReading.cpp:177
+msgid ""
+"Accidental signs are marks placed before a notehead to indicate that the "
+"pitch of the note should be altered. At level 1 you should know about three "
+"signs: the 'sharp', the 'flat' and the 'natural':"
+msgstr ""
+"Τα τυχαία σημεία αλλοίωσης είναι σύμβολα που τοποθετούνται πριν από μια νότα "
+"για να υποδείξουν ότι το τονικό ύψος της νότας πρέπει να αλλάξει. Στο "
+"επίπεδο 1 πρέπει να γνωρίζετε τρία σύμβολα: τη «δίεση», την «ύφεση» και την "
+"«αναίρεση»:"
+
+#: L1_MusicReading.cpp:176
+msgid "Accidentals"
+msgstr "Τυχαία σημεία αλλοίωσης"
+
+#: L1_MusicReading.cpp:175 L1_MusicReading.cpp:193
+msgid "Accidentals. Key signature"
+msgstr "Τυχαία σημεία αλλοίωσης. Οπλισμός"
+
+#: L1_MusicReading.cpp:362
+msgid ""
+"Again, syncopation is achieved by starting the first beat with an eighth "
+"note. The following quarter notes are placed off-beat, and so the accent "
+"(start of the note sound) does not coincide with the start of the beat."
+msgstr ""
+"Επίσης, η συγκοπή επιτυγχάνεται αρχίζοντας τον πρώτο παλμό (χρόνο) με όγδοο. "
+"Τα τέταρτα που ακολουθούν είναι τοποθετημένα εκτός των ισχυρών μερών, και "
+"έτσι ο τονισμός (ξεκινάει με τον ήχο της νότας) δεν συμπίπτει με την αρχή "
+"του χρόνου."
+
+#: L1_MusicReading.cpp:436
+msgid ""
+"Also note that two dotted quarter note equals a dotted half note. Therefore, "
+"in the 6/8 time a dotted half note takes a whole measure."
+msgstr ""
+"Επίσης σημειώστε ότι ένα τέταρτο δις παρεστιγμένο ισούται με ένα μισό "
+"παρεστιγμένο. Ως εκ τούτου, σε μέτρο αξίας 6/8 ένα μισό παρεστιγμένο διαρκεί "
+"σε όλο το μέτρο."
+
+#: L1_MusicReading.cpp:182
+msgid ""
+"An accidental sign alters not only the pitch of the note that it is attached "
+"to, but also the pitch of any subsequent occurrence of the same note in the "
+"same measure. Notes with the same pitch name, but in a higher or lower "
+"octave are not affected. The effect of the accidental ends at the end of the "
+"measure, so notes in the next measure will not be altered, except those tied "
+"to one in the previous measure."
+msgstr ""
+"Ένα τυχαίο σημείο αλλοίωσης δεν αλλάζει μόνο το τονικό ύψος της νότας στην "
+"οποία είναι σημειωμένο, αλλά και το τονικό ύψος οποιασδήποτε επακόλουθης "
+"ίδιας νότας στο ίδιο μέτρο. Νότες με το ίδιο ονομαστικό τονικό ύψος, σε "
+"υψηλότερη ή χαμηλότερη οκτάβα, δεν επηρεάζονται. Η ισχύς ενός τυχαίου "
+"σημείου αλλοίωσης λήγει στο τέλος του μέτρου, και έτσι οι νότες του επόμενου "
+"μέτρου δεν επηρεάζονται, εκτός κι αν είναι συζευγμένες με μία του "
+"προηγούμενου μέτρου."
+
+# ...και ισούται σαν να βάζαμε μια σύζευξη... ---> ...και θα αντιστοιχεί  / θα είναι ισοδύναμη με μια σύζευξη...
+#: L1_MusicReading.cpp:198
+msgid ""
+"Another way to change a note's duration is by writing a small dot after the "
+"notehead, to create 'a dotted note'. The dot adds one half of the value of "
+"the original note. For example, if a dot is placed to the right of a half "
+"note, the note would then have the duration of a half note plus a quarter "
+"note and it will be equivalent to writing a tie between a half note and a "
+"quarter note:"
+msgstr ""
+"Ένας άλλος τρόπος να αλλάξει η διάρκεια μιας νότας είναι γράφοντας μια μικρή "
+"τελεία μετά την κεφαλή της νότας, και η τελεία αυτή ονομάζεται «στιγμή "
+"διαρκείας». Το φθογγόσημο με στιγμή διαρκείας ονομάζεται «παρεστιγμένο». Οι "
+"τελείες αυτές προσθέτουν το μισό της αξίας της κανονικής νότας. Για "
+"παράδειγμα, αν η τελεία τοποθετηθεί στα δεξιά ενός μισού, τότε η νότα θα "
+"έχει διάρκεια ίση με ένα μισό συν ένα τέταρτο και θα αντιστοιχεί με μια "
+"σύζευξη διαρκείας μεταξύ ενός μισού και ενός τετάρτου:"
+
+#: L1_MusicReading.cpp:16
+msgid ""
+"Apart of introducing different rhythmic cells of increasing complexity, the "
+"main concepts introduced in Level 1 are:"
+msgstr ""
+"Εκτός από την εισαγωγή διαφορετικών ρυθμικών αγωγών αυξανόμενης "
+"πολυπλοκότητας, οι κύριες έννοιες που παρουσιάστηκαν στο Επίπεδο 1 είναι:"
+
+#: L1_MusicReading.cpp:46 L1_MusicReading.cpp:216
+msgid ""
+"As a result, the staff lines and spaces get automatically assigned to "
+"consecutive notes, as shown in the next score:"
+msgstr ""
+"Ως αποτέλεσμα, οι γραμμές και τα διαστήματα προσδιορίζονται αυτόματα στις "
+"συνεχείς νότες, όπως φαίνεται στην επόμενη παρτιτούρα:"
+
+#: L1_MusicReading.cpp:40
+msgid "As an example, press the 'Play' link and listen to the following score:"
+msgstr ""
+"Για παράδειγμα, πατήστε το σύνδεσμο «Αναπαραγωγή» και ακούστε την ακόλουθη "
+"παρτιτούρα:"
+
+#: L1_MusicReading.cpp:111
+msgid ""
+"As an orientation, the following table gives the assignment between "
+"traditional tempo terms and metronome settings:"
+msgstr ""
+"Προκειμένου να γίνει κατανοητό, ο επόμενος πίνακας δείχνει τη συσχέτιση "
+"μεταξύ των παραδοσιακών ορισμών του τέμπο και των ρυθμίσεων του μετρονόμου:"
+
+#: L1_MusicReading.cpp:149
+msgid ""
+"As notes written on leger lines are more difficult to read, usually only two "
+"or three leger lines are used. If the pitch range does not fit on this "
+"extended staff, it is usually preferable to switch clef to avoid having to "
+"add more leger lines."
+msgstr ""
+"Καθώς οι νότες που γράφονται σε βοηθητικές γραμμές είναι δυσκολότερο να "
+"διαβαστούν, συνήθως χρησιμοποιούνται μόνο δύο ή τρεις βοηθητικές γραμμές. Αν "
+"το τονικό εύρος δεν ταιριάζει στο εκτεταμένο πεντάγραμμο, είναι προτιμότερο "
+"να γίνει αλλαγή κλειδιού, προκειμένου να αποφευχθεί η πρόσθεση περισσότερων "
+"βοηθητικών γραμμών."
+
+#: L1_MusicReading.cpp:437
+msgid ""
+"As the 6/8 has two beats per measure, it is called a compound duple meter. "
+"The accent is strong on the first eighth note of the first beat, a medium "
+"accent on the first eighth note of the second beat, and the remaining pulses "
+"are week."
+msgstr ""
+"Καθώς το μέτρο με αξία 6/8 έχει δύο παλμούς ανά μέτρο, ονομάζεται σύνθετο "
+"διπλό μέτρο. O τονισμός είναι ισχυρός στο πρώτο όγδοο του πρώτου χρόνου, "
+"μέτριος στο πρώτο όγδοο του δεύτερου χρόνου, και τα εναπομείναντα μέρη είναι "
+"ασθενή."
+
+#: L1_MusicReading.cpp:91
+msgid ""
+"As you know 2/4 means that each measure has two beats and that each beat "
+"gets a quarter note. Therefore, each measure will get two quarter notes. For "
+"example:"
+msgstr ""
+"Όπως γνωρίζετε, το 2/4 σημαίνει πως κάθε μέτρο έχει δύο παλμούς και κάθε "
+"παλμός αντιστοιχεί σε ένα τέταρτο. Επομένως, κάθε μέτρο θα έχει δύο τέταρτα. "
+"Για παράδειγμα:"
+
+#: L1_MusicReading.cpp:51 L1_MusicReading.cpp:219 L1_MusicReading.cpp:236
+#: L1_MusicReading.cpp:243 L1_MusicReading.cpp:250 L1_MusicReading.cpp:257
+#: L1_MusicReading.cpp:262 L1_MusicReading.cpp:274
+msgid "B"
+msgstr "Σι"
+
+#: L1_MusicReading.cpp:163
+msgid ""
+"Beaming is not done at random or by personal taste. The rules for beaming "
+"depend on the time signature."
+msgstr ""
+"Η διαδικασία σύμπλεξης των φθόγγων (ογδόων, δεκάτων έκτων κ.λπ.) δεν γίνεται "
+"τυχαία ή κατά το δοκούν. Οι κανόνες της δημιουργίας συμπλεγμάτων φθογγοσήμων "
+"εξαρτώνται από τη μετρική ένδειξη."
+
+#: L1_MusicReading.cpp:21
+msgid "Book organization"
+msgstr "Οργάνωση βιβλίων"
+
+#: L1_MusicReading.cpp:432
+msgid ""
+"By convention, in compound time signatures the top number indicates not the "
+"number of beats per measure but the number of pulses per measure, and the "
+"bottom number indicates the note that takes each pulse."
+msgstr ""
+"Συμβατικά, στις σύνθετες μετρικές ενδείξεις ο αριθμητής δεν προσδιορίζει τον "
+"αριθμό των παλμών ανά μέτρο, αλλά τον αριθμό των χτύπων ανά μέτρο, και ο "
+"παρονομαστής προσδιορίζει ποια μονάδα θα έχει τον κάθε χτύπο."
+
+#: L1_MusicReading.cpp:229
+msgid ""
+"By using both the G clef and the F clef and two leger lines a range of four "
+"octaves can be comfortably represented, as shown in the following score:"
+msgstr ""
+"Χρησιμοποιώντας τόσο το κλειδί του Σολ και το κλειδί του Φα, καθώς και δύο "
+"βοηθητικές γραμμές, τέσσερις οκτάβες μπορούν εύκολα να αποδοθούν όπως "
+"φαίνεται και στην παρτιτούρα που ακολουθεί:"
+
+#: L1_MusicReading.cpp:52 L1_MusicReading.cpp:220 L1_MusicReading.cpp:230
+#: L1_MusicReading.cpp:237 L1_MusicReading.cpp:244 L1_MusicReading.cpp:251
+#: L1_MusicReading.cpp:258 L1_MusicReading.cpp:263 L1_MusicReading.cpp:275
+msgid "C"
+msgstr "Ντο"
+
+#: L1_MusicReading.cpp:227 L1_MusicReading.cpp:228
+msgid "C note"
+msgstr "Νότα Ντο"
+
+#: L1_MusicReading.cpp:387 L1_MusicReading.cpp:397 L1_MusicReading.cpp:399
+msgid "Counter-time (off-beat notes)"
+msgstr "Μέτρηση χρόνου (φθόγγοι εκτός παλμού)"
+
+#: L1_MusicReading.cpp:6
+msgid "Cover page"
+msgstr "Εξώφυλλο"
+
+#: L1_MusicReading.cpp:53 L1_MusicReading.cpp:221 L1_MusicReading.cpp:231
+#: L1_MusicReading.cpp:238 L1_MusicReading.cpp:245 L1_MusicReading.cpp:252
+msgid "D"
+msgstr "Ρε"
+
+#: L1_MusicReading.cpp:197
+msgid "Dotted notes"
+msgstr "Παρεστιγμένες νότες"
+
+#: L1_MusicReading.cpp:208 L1_MusicReading.cpp:210
+msgid "Dotted quarter note. Quarter note tied to eighth note"
+msgstr "Τέταρτο παρεστιγμένο. Το τέταρτο είναι συζευγμένο με το όγδοο"
+
+#: L1_MusicReading.cpp:47 L1_MusicReading.cpp:54 L1_MusicReading.cpp:222
+#: L1_MusicReading.cpp:232 L1_MusicReading.cpp:239 L1_MusicReading.cpp:246
+#: L1_MusicReading.cpp:253
+msgid "E"
+msgstr "Μι"
+
+#: L1_MusicReading.cpp:61
+msgid "Eight"
+msgstr "Όγδοο"
+
+#: L1_MusicReading.cpp:130 L1_MusicReading.cpp:142 L1_MusicReading.cpp:152
+#: L1_MusicReading.cpp:167 L1_MusicReading.cpp:191 L1_MusicReading.cpp:204
+#: L1_MusicReading.cpp:265 L1_MusicReading.cpp:277 L1_MusicReading.cpp:286
+#: L1_MusicReading.cpp:300 L1_MusicReading.cpp:313 L1_MusicReading.cpp:325
+#: L1_MusicReading.cpp:338 L1_MusicReading.cpp:352 L1_MusicReading.cpp:366
+#: L1_MusicReading.cpp:379 L1_MusicReading.cpp:393 L1_MusicReading.cpp:407
+#: L1_MusicReading.cpp:420 L1_MusicReading.cpp:439 L1_MusicReading.cpp:448
+#: L1_MusicReading.cpp:457 L1_MusicReading.cpp:466
+msgid "Exercise 1"
+msgstr "Άσκηση 1"
+
+#: L1_MusicReading.cpp:154 L1_MusicReading.cpp:169 L1_MusicReading.cpp:206
+#: L1_MusicReading.cpp:288 L1_MusicReading.cpp:327 L1_MusicReading.cpp:340
+#: L1_MusicReading.cpp:354 L1_MusicReading.cpp:368 L1_MusicReading.cpp:381
+#: L1_MusicReading.cpp:395 L1_MusicReading.cpp:409 L1_MusicReading.cpp:422
+msgid "Exercise 2"
+msgstr "Άσκηση 2"
+
+#: L1_MusicReading.cpp:128 L1_MusicReading.cpp:141 L1_MusicReading.cpp:151
+#: L1_MusicReading.cpp:166 L1_MusicReading.cpp:189 L1_MusicReading.cpp:203
+#: L1_MusicReading.cpp:264 L1_MusicReading.cpp:276 L1_MusicReading.cpp:285
+#: L1_MusicReading.cpp:299 L1_MusicReading.cpp:312 L1_MusicReading.cpp:324
+#: L1_MusicReading.cpp:337 L1_MusicReading.cpp:351 L1_MusicReading.cpp:365
+#: L1_MusicReading.cpp:378 L1_MusicReading.cpp:392 L1_MusicReading.cpp:406
+#: L1_MusicReading.cpp:419 L1_MusicReading.cpp:438 L1_MusicReading.cpp:447
+#: L1_MusicReading.cpp:456 L1_MusicReading.cpp:465
+msgid "Exercises"
+msgstr "Άσκηση 3"
+
+#: L1_MusicReading.cpp:48 L1_MusicReading.cpp:55 L1_MusicReading.cpp:223
+#: L1_MusicReading.cpp:233 L1_MusicReading.cpp:240 L1_MusicReading.cpp:247
+#: L1_MusicReading.cpp:254 L1_MusicReading.cpp:271
+msgid "F"
+msgstr "Φα"
+
+#: L1_MusicReading.cpp:269 L1_MusicReading.cpp:279
+msgid "F clef on fourth line"
+msgstr "Κλειδί του Φα στην τέταρτη γραμμή"
+
+#: L1_MusicReading.cpp:215
+msgid "F note"
+msgstr "Νότα Φα"
+
+#: L1_MusicReading.cpp:30
+msgid ""
+"Finally, in the third section some exercises are proposed to practice the "
+"newly introduced concepts."
+msgstr ""
+"Τέλος, στην τρίτη ενότητα κάποιες ασκήσεις προτείνονται για εξάσκηση στη νέα "
+"ύλη."
+
+#: L1_MusicReading.cpp:45 L1_MusicReading.cpp:49 L1_MusicReading.cpp:217
+#: L1_MusicReading.cpp:224 L1_MusicReading.cpp:234 L1_MusicReading.cpp:241
+#: L1_MusicReading.cpp:248 L1_MusicReading.cpp:255 L1_MusicReading.cpp:272
+msgid "G"
+msgstr "Σολ"
+
+#: L1_MusicReading.cpp:59
+msgid "Half"
+msgstr "Μισό"
+
+#: L1_MusicReading.cpp:185
+msgid ""
+"Having to write accidentals always in the same notes can be annoying. To "
+"make the writing process easier, instead of writing sharp signs before all F "
+"and C notes, the accidentals can be written at the beginning of the staff, "
+"immediately after the clef sign. These accidentals affect the whole score "
+"and are named the 'key signature'. They apply to all relevant notes <b>in "
+"every octave</b>. As a consequence, it is no longer needed to place "
+"accidental signs in front of each note. So, the previous score can also be "
+"written as follows:"
+msgstr ""
+"Το να γράφουμε τα σημεία αλλοίωσης στις ίδιες νότες συνέχεια μπορεί να είναι "
+"κουραστικό. Προκειμένου να διευκολυνθούμε στο γράψιμο, αντί να βάζουμε "
+"διέσεις πριν από τα Φα και τα Ντο, τα σημεία αλλοίωσης μπορούν να γραφτούν "
+"στην αρχή του πενταγράμμου, αμέσως μετά το κλειδί. Αυτά τα σημεία αλλοίωσης "
+"επηρεάζουν όλη την παρτιτούρα και ονομάζονται «οπλισμός». Έχουν ισχύ σε όλες "
+"τις σχετικές νότες <b> και σε όλες τις οκτάβες </b>. Συνεπώς, δεν είναι "
+"πλέον απαραίτητο να βάζουμε τα σημεία αλλοίωσης μπροστά από κάθε νότα. Έτσι "
+"η προηγούμενη παρτιτούρα μπορεί να γραφτεί και ως εξής:"
+
+#: L1_MusicReading.cpp:320
+msgid ""
+"If a note starts in a weak place and prolong its sound to a strong part, it "
+"is called a 'syncopated note'."
+msgstr ""
+"Αν μια νότα ξεκινά σε ασθενές μέρος και παρατείνει τον ήχο της σε ισχυρό "
+"μέρος, ονομάζεται «συγκοπτόμενη νότα»."
+
+#: L1_MusicReading.cpp:296
+msgid ""
+"If you count beats along with the music, the 3/4 time signature will imply a "
+"rhythm such as 'ONE-two-three-and-ONE-two-three-and- ...', stressing the ONE "
+"syllable. This is the typical waltz rhythm."
+msgstr ""
+"Μετρώντας τους παλμούς μαζί με τη μουσική, η μετρική ένδειξη 3/4 θα αφορά "
+"ένα ρυθμό της μορφής «ΕΝ-δυο-τρι-ΕΝ-δυο-τρι-ΕΝ-...», τονίζοντας τη συλλαβή "
+"ΕΝ. Αυτός είναι ο τυπικός ρυθμός του βαλς."
+
+#: L1_MusicReading.cpp:307
+msgid ""
+"If you count beats along with the music, the 4/4 time signature will imply a "
+"rhythm such as 'ONE-two-three-four-and-ONE-two-three-four-and- ...', "
+"stressing the ONE syllable and the 'three' syllable a little less."
+msgstr ""
+"Μετρώντας τους παλμούς μαζί με τη μουσική, η μετρική ένδειξη 4/4 θα αφορά "
+"ένα ρυθμό της μορφής «ΕΝ-και-δυ-και-τρι-και-τέσ-και-ΕΝ-και-δυ-και-τρι-και-"
+"τέσ-και-ΕΝ-...», τονίζοντας τη συλλαβή ΕΝ και λίγο λιγότερο τη συλλαβή «τρι»."
+
+#: L1_MusicReading.cpp:124
+msgid ""
+"If you would like to hear the metronome while playing a score, press the "
+"metronome button before or during playback."
+msgstr ""
+"Αν θέλετε να ακούγεται ο μετρονόμος κατά την αναπαραγωγή της παρτιτούρας, "
+"πατήστε το πλήκτρο του μετρονόμου πριν ή κατά τη διάρκεια της αναπαραγωγής."
+
+#: L1_MusicReading.cpp:184
+msgid ""
+"If, for example, a piece of music is written based on the D major scale, all "
+"F and C notes will have sharp signs placed before them. For example (play "
+"it):"
+msgstr ""
+"Αν, για παράδειγμα, ένα μουσικό κομμάτι είναι γραμμένο στην κλίμακα Ρε "
+"μείζονα, τότε όλες οι νότες Φα και Ντο θα έχουν δίεση τοποθετημένη πριν από "
+"αυτές. Για παράδειγμα (πατήστε για αναπαραγωγή):"
+
+#: L1_MusicReading.cpp:431
+msgid ""
+"In simple meter time signatures, each beat can be subdivided into two "
+"halves. For example, replacing a quarter note with two eight notes. But "
+"there are rhythms that require to subdivide the beats in three parts or "
+"'pulses'. These rhythms are known as 'compound meter'."
+msgstr ""
+"Στα μέτρα με απλή μετρική ένδειξη, κάθε παλμός μπορεί να υποδιαιρεθεί σε δύο "
+"μισά. Για παράδειγμα, αντικαθιστώντας ένα τέταρτο με δύο όγδοα. Ωστόσο "
+"υπάρχουν ρυθμοί που απαιτούν την υποδιαίρεση των παλμών σε τρία μέρη ή "
+"«χτύποι» . Αυτοί οι ρυθμοί είναι γνωστοί ως «σύνθετα μέτρα»."
+
+#: L1_MusicReading.cpp:32
+msgid ""
+"In the Western musical notation system music is written on specially printed "
+"paper called 'manuscript paper' (see next picture):"
+msgstr ""
+"Στη Δυτική σημειογραφία η μουσική γράφεται πάνω σε ένα ειδικά εκτυπωμένο "
+"χαρτί που ονομάζεται «τετράδιο μουσικής» (δείτε την εικόνα που ακολουθεί):"
+
+#: L1_MusicReading.cpp:226
+msgid ""
+"In the bass clef the first upper leger line corresponds to the central C "
+"note (C4), represented in G clef on the first lower leger line:"
+msgstr ""
+"Στο κλειδί του Φα η πρώτη βοηθητική γραμμή πάνω από το πεντάγραμμο "
+"αντιστοιχεί στην κεντρική Ντο (Ντο4), που στο κλειδί του Σολ γράφεται στην "
+"πρώτη βοηθητική γραμμή κάτω από το πεντάγραμμο:"
+
+#: L1_MusicReading.cpp:65
+msgid ""
+"In the coming lessons we will start using only the quarter note and will "
+"learn about note duration. Progressively, we will introduce the other note "
+"symbols. In this lesson we are going to learn some basic terminology about "
+"note symbols and some rules about how to draw them."
+msgstr ""
+"Στα επόμενα μαθήματα θα αρχίσουμε να χρησιμοποιούμε μόνο νότες αξίας "
+"τετάρτων και θα μάθουμε για τη διάρκεια των φθόγγων. Προοδευτικά, θα "
+"παρουσιάσουμε και άλλα σύμβολα αξιών. Σε αυτό το μάθημα θα μάθουμε τη βασική "
+"ορολογία για το συμβολισμό των αξιών που μπορεί να έχει μια νότα και "
+"κάποιους κανόνες για το πώς τις σχεδιάζουμε."
+
+#: L1_MusicReading.cpp:150
+msgid ""
+"In the exercises of this lesson we are going to start reading scores with "
+"one leger line. In following lessons the range will be extended."
+msgstr ""
+"Στις ασκήσεις αυτού του μαθήματος θα αρχίσουμε να διαβάζουμε παρτιτούρες με "
+"μία βοηθητική γραμμή. Στα επόμενα μαθήματα το εύρος θα επεκταθεί."
+
+#: L1_MusicReading.cpp:28
+msgid ""
+"In the first section the new concepts and rhythmic patterns introduced in "
+"the lesson are explained."
+msgstr ""
+"Στην πρώτη ενότητα παρουσιάζονται και επεξηγούνται οι νέες έννοιες και τα "
+"ρυθμικά μοτίβα του μαθήματος."
+
+#: L1_MusicReading.cpp:29
+msgid ""
+"In the second section, optional, the new concepts are compared with known "
+"ones, so that the student can better relate the new material and learn it."
+msgstr ""
+"Στη δεύτερη ενότητα, προαιρετικά, οι καινούριες έννοιες συγκρίνονται με τις "
+"ήδη γνωστές, έτσι ώστε ο μαθητής να συσχετίσει τη νέα ύλη και να τη μάθει."
+
+#: L1_MusicReading.cpp:416
+msgid ""
+"In this lesson a new rhythmic pattern is introduced: One eighth note and two "
+"16th notes."
+msgstr ""
+"Σε αυτό το μάθημα παρουσιάζεται ένα νέο ρυθμικό μοτίβο: Ένα όγδοο και δύο "
+"δέκατα έκτα."
+
+#: L1_MusicReading.cpp:297
+msgid ""
+"In this lesson also a new rhythmic pattern is introduced: the dotted half "
+"note, equivalent to a half note tied to a quarter note:"
+msgstr ""
+"Σε αυτό το μάθημα επίσης παρουσιάζεται ένα νέο ρυθμικό μοτίβο: το μισό "
+"παρεστιγμένο, το οποίο ισούται με ένα μισό συζευγμένο με ένα τέταρτο:"
+
+#: L1_MusicReading.cpp:310
+msgid ""
+"In this lesson we are going also to learn a new note symbol and its rest: "
+"the whole note. The following score shows a whole note and a whole rest:"
+msgstr ""
+"Σε αυτό το μάθημα θα μάθουμε επίσης το σύμβολο μιας νέας αξίας και την παύση "
+"της: το ολόκληρο. Η επόμενη παρτιτούρα δείχνει ένα ολόκληρο και την παύση "
+"του:"
+
+# * Στην παρτιτούρα που ακολουθεί εμφανίζονται ένα μισό και η παύση του *;
+#: L1_MusicReading.cpp:136
+msgid ""
+"In this lesson we are going to learn a new note symbol and its rest: the "
+"half note. The following score shows a half note and a half rest:"
+msgstr ""
+"Σε αυτό το μάθημα θα μάθουμε το σύμβολο μιας νέας αξίας και την παύση της: "
+"το μισό. Στην παρτιτούρα που ακολουθεί εμφανίζονται ένα μισό και η παύση του:"
+
+#: L1_MusicReading.cpp:202
+msgid ""
+"In this lesson we are going to practise the following rhythmic patterns:"
+msgstr "Σε αυτό το μάθημα θα εξασκηθούμε στα ακόλουθα ρυθμικά μοτίβα:"
+
+#: L1_MusicReading.cpp:389
+msgid ""
+"In this lesson we are going to practise the occasional short-term "
+"displacement of accent that is produced by moving a note to a weak part but "
+"without continuing it to the next beat, and preceding it by a rest on the "
+"strong part. The rest reinforces the accent on the weak part."
+msgstr ""
+"Σε αυτό το μάθημα θα κάνουμε πρακτική εξάσκηση στην περιστασιακή "
+"βραχυπρόθεσμη μετατόπιση του τονισμού που παράγεται μετακινώντας μια νότα σε "
+"ένα ασθενές μέρος, χωρίς όμως να τη συνεχίσουμε στον επόμενο παλμό, και "
+"προηγείται από μια παύση στο ισχυρό μέρος. Η παύση ενισχύει τον τονισμό στο "
+"ασθενές μέρος."
+
+#: L1_MusicReading.cpp:260
+msgid ""
+"In this lesson we are going to start reading the bass clef, while practising "
+"the rhythmic patterns studied in previous lessons. We will start reading "
+"notes A3, B3 and C4:"
+msgstr ""
+"Σε αυτό το μάθημα θα ξεκινήσουμε να διαβάζουμε το βαθύφωνο κλειδί (κλειδί "
+"του Φα) καθώς εξασκούμαστε στα ρυθμικά μοτίβα που μελετήσαμε σε προηγούμενα "
+"μαθήματα. Θα ξεκινήσουμε να διαβάζουμε τις νότες Λα3, Σι3 και Ντο4:"
+
+#: L1_MusicReading.cpp:322
+msgid ""
+"In this lesson we are going to start studying the syncopated rhythms that "
+"result by using the following patterns::"
+msgstr ""
+"Σε αυτό το μάθημα θα ξεκινήσουμε τη μελέτη των συγκοπτόμενων ρυθμών που "
+"προκύπτουν με τη χρήση των ακόλουθων μοτίβων:"
+
+#: L1_MusicReading.cpp:402
+msgid ""
+"In this lesson we are going to study a new note: the sixteenth (also called "
+"'semiquaver' in British English). Its symbols are shown in the following "
+"score, and are like a quarter note with two flags added to its stem. They "
+"are usually drawn beamed:"
+msgstr ""
+"Σε αυτό το μάθημα θα μελετήσουμε μια νέα αξία νότας: το δέκατο έκτο. Ο "
+"συμβολισμός του εμφανίζεται στην παρακάτω παρτιτούρα και είναι σαν ένα "
+"τέταρτο, προσθέτοντας δύο άγκιστρα στο στέλεχός του. Συνήθως σχεδιάζονται σε "
+"σύμπλεγμα φθογγοσήμων:"
+
+#: L1_MusicReading.cpp:270
+msgid ""
+"In this lesson we continue reading the F key on the fourth line. The range "
+"of notes is enlarged to cover F3 to C4."
+msgstr ""
+"Σε αυτό το μάθημα συνεχίζουμε να διαβάζουμε το κλειδί του Φα στην τέταρτη "
+"γραμμή. Το εύρος των φθόγγων διευρύνεται από το Φα3 έως το Ντο4."
+
+#: L1_MusicReading.cpp:444 L1_MusicReading.cpp:453 L1_MusicReading.cpp:462
+msgid ""
+"In this lesson we continue the study of the 6/8 compound time with the "
+"introduction of new rhythmic patterns:"
+msgstr ""
+"Σε αυτό το μάθημα συνεχίζουμε τη μελέτη του σύνθετου μετρικά 6/8 με την "
+"εισαγωγή νέων ρυθμικών μοτίβων:"
+
+#: L1_MusicReading.cpp:347
+msgid ""
+"In this lesson we continue with syncopation. We are going to practice a new "
+"rhythmic pattern, the eighth note followed by a quarter note:"
+msgstr ""
+"Σε αυτό το μάθημα συνεχίζουμε με τη συγκοπή. Θα εξασκηθούμε σε ένα νέο "
+"ρυθμικό μοτίβο, το όγδοο ακολουθούμενο από ένα τέταρτο:"
+
+#: L1_MusicReading.cpp:334 L1_MusicReading.cpp:361 L1_MusicReading.cpp:375
+msgid ""
+"In this lesson we continue with syncopation. We are going to practice the "
+"following rhythmic patterns:"
+msgstr ""
+"Σε αυτό το μάθημα συνεχίζουμε με τη συγκοπή. Θα εξασκηθούμε στα παρακάτω "
+"ρυθμικά μοτίβα:"
+
+#: L1_MusicReading.cpp:190
+msgid ""
+"In this lesson we will continue with exercises containing the rhythmic "
+"patterns of the previous lessons, but introducing the key signatures of G "
+"major and E minor (one sharp) and F major and D minor (one flat)."
+msgstr ""
+"Σε αυτό το μάθημα θα συνεχίσουμε με ασκήσεις που έχουν ρυθμικά μοτίβα από "
+"προηγούμενα μαθήματα, παρουσιάζοντας όμως τον οπλισμό της Σολ μείζονας και "
+"Μι ελάσσονας (μία δίεση) και της Φα μείζονας και Ρε ελάσσονας (μία ύφεση)."
+
+#: L1_MusicReading.cpp:295
+msgid ""
+"In this lesson we will learn about the 3/4 time signature. As you should "
+"know (lesson 6) the top number tells how many beats there are in a measure, "
+"and the bottom number shows the type of note that gets one beat. The number "
+"4 means 'quarter note'. Therefore, the 3/4 time signature is a rhythm with "
+"three beats per measure and each measure gets three quarter notes. The first "
+"beat of a measure is always strong and the two other beats are weaker."
+msgstr ""
+"Σε αυτό το μάθημα θα μάθουμε τη μετρική ένδειξη 3/4. Όπως πρέπει να "
+"γνωρίζετε (μάθημα 6), ο αριθμητής δείχνει τον αριθμό των παλμών που υπάρχουν "
+"στο μέτρο και ο παρονομαστής δείχνει ποια μονάδα θα θεωρηθεί ως ένας παλμός. "
+"Ο αριθμός 4 σημαίνει τέταρτο. Συνεπώς, η ένδειξη 3/4 μας δείχνει ένα ρυθμό "
+"με τρεις παλμούς ανά μέτρο και κάθε μέτρο έχει τρία τέταρτα. Ο πρώτος παλμός "
+"ενός μέτρου είναι πάντα ισχυρός και οι υπόλοιποι δύο χρόνοι ασθενείς."
+
+#: L1_MusicReading.cpp:305
+msgid ""
+"In this lesson we will learn about the 4/4 time signature. As you know the "
+"top number tells how many beats are there in a measure, and the bottom "
+"number shows the type of note that gets one beat ('4' means 'quarter note'). "
+"Therefore, the 4/4 time signature is a rhythm with four beats per measure "
+"and each measure gets four quarter notes."
+msgstr ""
+"Σε αυτό το μάθημα θα μάθουμε τη μετρική ένδειξη 4/4. Όπως γνωρίζετε, ο "
+"αριθμητής δείχνει τον αριθμό των παλμών που υπάρχουν στο μέτρο και ο "
+"παρονομαστής δείχνει ποια μονάδα θα θεωρηθεί ως παλμός (το «4» σημαίνει "
+"τέταρτο). Συνεπώς, η ένδειξη 4/4 μας δείχνει ένα ρυθμό με τέσσερις παλμού; "
+"ανά μέτρο και κάθε μέτρο έχει τέσσερα τέταρτα."
+
+#: L1_MusicReading.cpp:282
+msgid ""
+"In this lesson we will start introducing the eighth rest in the rhythmic "
+"patterns. The first pattern we are going to study is the eighth note "
+"followed by an eighth rest:"
+msgstr ""
+"Σε αυτό το μάθημα θα αρχίσουμε να παρουσιάζουμε την παύση ογδόου σε ρυθμικά "
+"μοτίβα. Το πρώτο μοτίβο που θα μελετήσουμε είναι το όγδοο που ακολουθείται "
+"από παύση ογδόου:"
+
+#: L1_MusicReading.cpp:127
+msgid ""
+"In this lesson we will start reading music with scores composed just by "
+"quarter notes and rests. These rhythms are very simple, as each note or rest "
+"gets a beat. Listen for example to the following song:"
+msgstr ""
+"Σε αυτό το μάθημα θα ξεκινήσουμε να διαβάζουμε μουσική με απλές παρτιτούρες "
+"που αποτελούνται από τέταρτα και τις παύσεις τους. Αυτοί οι ρυθμοί είναι "
+"πολύ απλοί, καθώς κάθε νότα ή παύση ισούται με έναν παλμό. Ακούστε το "
+"παράδειγμα του επόμενου τραγουδιού:"
+
+#: L1_MusicReading.cpp:434
+msgid ""
+"In this lesson we will start the study of compound meters with the "
+"introduction of the 6/8 time signature. The 6/8 time signature is a compound "
+"time. Therefore, 6/8 means that each measure will have 6 pulses (two beats) "
+"and each pulse is occupied by an eighth note (each beat takes three eight "
+"notes):"
+msgstr ""
+"Σε αυτό το μάθημα θα ξεκινήσουμε να μελετάμε τα σύνθετα μέτρα με την "
+"εισαγωγή της μετρικής ένδειξης 6/8. Η μετρική ένδειξη 6/8 έχει σύνθετο "
+"παλμό. Συνεπώς, το 6/8 σημαίνει πως κάθε μέτρο έχει 6 χτύπους (2 παλμούς) "
+"και κάθε χτύπος αποτελείται από ένα όγδοο (κάθε παλμός έχει τρία όγδοα):"
+
+#: L1_MusicReading.cpp:405
+msgid ""
+"In this lesson we will start the study of rhythms with 16th notes. Play the "
+"following score and take note of the new rhythmic patterns introduced in "
+"each measure:"
+msgstr ""
+"Σε αυτό το μάθημα θα αρχίσουμε να μελετάμε ρυθμούς με δέκατα έκτα. Πατήστε "
+"«Αναπαραγωγή» στην επόμενη παρτιτούρα και προσέξτε τα νέα ρυθμικά μοτίβα που "
+"παρουσιάζονται σε κάθε μέτρο:"
+
+#: L1_MusicReading.cpp:165
+msgid ""
+"In this lesson we will start the study of rhythms with eighth notes. Play "
+"the following score and take note of the new rhythmic patterns introduced in "
+"each measure:"
+msgstr ""
+"Σε αυτό το μάθημα θα αρχίσουμε να μελετάμε ρυθμούς με όγδοα. Πατήστε "
+"«Αναπαραγωγή» στην επόμενη παρτιτούρα και προσέξτε τα νέα ρυθμικά μοτίβα που "
+"παρουσιάζονται σε κάθε μέτρο:"
+
+#: L1_MusicReading.cpp:108
+msgid "Instead of letters 'm.m.' also note symbols are used:"
+msgstr "Αντί για τα γράμματα «m.m.» χρησιμοποιούμε και σύμβολα φθόγγων:"
+
+#: L1_MusicReading.cpp:122
+msgid ""
+"Just click on the 'metronome' button<img-1 /> and the sound will immediately "
+"start. To stop the metronome click on the button again. To adjust the tempo "
+"just type the required tempo number in the box on the right of the metronome "
+"button (2), or click on the up/down arrows on the right (3) to adjust the "
+"desired tempo. Try it now!"
+msgstr ""
+"Απλώς πατήστε στο εικονίδιο του «μετρονόμου» <img-1 /> και ο ήχος θα "
+"ξεκινήσει αμέσως. Για να σταματήσετε το μετρονόμο, πατήστε ξανά το ίδιο "
+"εικονίδιο. Για να ρυθμίσετε το τέμπο, πληκτρολογήστε απλώς το επιθυμητό "
+"τέμπο στο κουτί που βρίσκεται δεξιά από το εικονίδιο του μετρονόμου (2) ή "
+"πατήστε στα πάνω/κάτω βέλη στα δεξιά (3) για να ρυθμίσετε το επιθυμητό "
+"τέμπο. Δοκιμάστε το τώρα!"
+
+#: L1_MusicReading.cpp:183
+msgid "Key signature"
+msgstr "Οπλισμός"
+
+#: L1_MusicReading.cpp:20
+msgid ""
+"Key signatures of all major and minor keys up to and including two sharps "
+"and flats."
+msgstr ""
+"Οπλισμός όλων των μειζόνων και ελασσόνων κλιμάκων που έχουν έως και δύο "
+"διέσεις και υφέσεις."
+
+#: L1_MusicReading.cpp:146
+msgid "Leger lines"
+msgstr "Βοηθητικές γραμμές"
+
+#: L1_MusicReading.cpp:158
+msgid "Leger lines above"
+msgstr "Βοηθητικές γραμμές πάνω"
+
+#: L1_MusicReading.cpp:156
+msgid "Leger lines below"
+msgstr "Βοηθητικές γραμμές κάτω"
+
+#: L1_MusicReading.cpp:148
+msgid "Leger lines can also be added on top, for high pitch notes:"
+msgstr ""
+"Βοηθητικές γραμμές μπορούν επίσης να προστεθούν στην κορυφή, για νότες "
+"υψηλού τονικού ύψους:"
+
+#: L1_MusicReading.cpp:26
+msgid "Lessons' structure"
+msgstr "Δομή μαθημάτων"
+
+#: L1_MusicReading.cpp:3
+msgid "Licensed under the Creative Commons Attribution/Share-Alike License;"
+msgstr "Έχει άδεια χρήσης Αναφορά Δημιουργού - Παρόμοια Διανομή."
+
+#: L1_MusicReading.cpp:201 L1_MusicReading.cpp:259 L1_MusicReading.cpp:283
+#: L1_MusicReading.cpp:321 L1_MusicReading.cpp:335 L1_MusicReading.cpp:349
+#: L1_MusicReading.cpp:363 L1_MusicReading.cpp:376 L1_MusicReading.cpp:390
+#: L1_MusicReading.cpp:404 L1_MusicReading.cpp:417 L1_MusicReading.cpp:445
+#: L1_MusicReading.cpp:454 L1_MusicReading.cpp:463
+msgid "Listen and take notice of the differences"
+msgstr "Ακούστε και προσέξτε τις διαφορές"
+
+#: L1_MusicReading.cpp:446
+msgid "Listen to each measure and note the newly introduced patterns:"
+msgstr "Ακούστε κάθε μέτρο και σημειώστε τα νέα μοτίβα που παρουσιάζονται:"
+
+#: L1_MusicReading.cpp:323 L1_MusicReading.cpp:336 L1_MusicReading.cpp:350
+#: L1_MusicReading.cpp:364 L1_MusicReading.cpp:377 L1_MusicReading.cpp:391
+#: L1_MusicReading.cpp:418 L1_MusicReading.cpp:455 L1_MusicReading.cpp:464
+msgid ""
+"Listen to each measure and pay attention to the newly introduced patterns:"
+msgstr "Ακούστε κάθε μέτρο και προσέξτε τα νέα μοτίβα που παρουσιάζονται:"
+
+#: L1_MusicReading.cpp:162
+msgid "Many times eighth notes are drawn beamed:"
+msgstr "Πολλές φορές τα όγδοα σχεδιάζονται ως σύμπλεγμα φθογγοσήμων:"
+
+#: L1_MusicReading.cpp:195
+msgid "Marks to lengthen notes: tie, dot and fermata"
+msgstr ""
+"Σήματα που αυξάνουν τη διάρκεια των φθόγγων: σύζευξη διαρκείας, στιγμή "
+"διαρκείας και κορόνα"
+
+#: L1_MusicReading.cpp:70
+msgid "Measures and bar lines"
+msgstr "Μέτρα και διαστολές"
+
+#: L1_MusicReading.cpp:82
+msgid ""
+"Most music has a rhythm that you can perceive as a repetitive pattern of "
+"pulses. It is easy to identify these pulses: it is what we all do when we "
+"clap our hands or tap our foot while listening to a song. These pulses are "
+"the 'beats' of the music and are the basis to organize written music."
+msgstr ""
+"Τα περισσότερα τραγούδια έχουν ένα ρυθμό που μπορείτε να τον αντιληφθείτε ως "
+"επαναλαμβανόμενο μοτίβο χτύπων. Είναι εύκολο να αναγνωρίσετε αυτούς τους "
+"παλμούς: είναι αυτό που κάνουμε όλοι όταν χτυπάμε τα χέρια μας ή το πόδι μας "
+"ακούγοντας ένα τραγούδι. Αυτοί οι παλμοί είναι οι «χρόνοι» της μουσικής και "
+"αποτελούν τη βάση για την οργάνωση της γραφής."
+
+#: L1_MusicReading.cpp:71
+msgid ""
+"Music is normally divided into equal parts named 'measures' (in British "
+"English the word 'bar' is used instead of 'measure'). On the staff, the end "
+"of each measure is marked with a thin vertical line, drawn from the top line "
+"to the bottom line of the staff. This line is called a bar line:"
+msgstr ""
+"Η μουσική συνήθως χωρίζεται σε ίσα μέρη που ονομάζονται «μέτρα». Στο "
+"πεντάγραμμο, το τέλος κάθε μέτρου δημιουργείται με μια λεπτή κάθετη γραμμή "
+"που σχεδιάζεται από την πάνω ως την κάτω γραμμή του πενταγράμμου. Αυτή η "
+"γραμμή ονομάζεται «διαστολή»:"
+
+#: L1_MusicReading.cpp:10
+msgid "Music reading. Level 1."
+msgstr "Μουσική ανάγνωση. Επίπεδο 1."
+
+#: L1_MusicReading.cpp:88
+msgid ""
+"Not all beats in a measure are equal: there are strong beats (louder), "
+"medium and weak beats. The first beat of a measure is normally the strongest "
+"one and the other beats are weaker. The pattern of strong and weak beats is "
+"what makes rhythmic patterns different. It is important to learn to "
+"recognize the time signature when listening to a piece of music. This may "
+"take some practice but it is a useful practice for anyone who is learning "
+"music."
+msgstr ""
+"Οι παλμοί (χτύποι) ενός μέτρου δεν είναι ισοδύναμοι (ως προς την ένταση) "
+"μεταξύ τους: υπάρχουν ισχυροί παλμοί (πιο δυνατοί), μέτριοι και ασθενείς. Ο "
+"πρώτος παλμός ενός μέτρου είναι συνήθως ο ισχυρότερος και οι άλλοι είναι πιο "
+"αδύνατοι. Είναι σημαντικό να μάθουμε να αναγνωρίζουμε τη μετρική ένδειξη "
+"(αξία του μέτρου) όταν ακούμε ένα μουσικό κομμάτι. Αυτό ίσως να χρειάζεται "
+"λίγη εξάσκηση, όμως είναι χρήσιμο για όποιον μαθαίνει μουσική."
+
+#: L1_MusicReading.cpp:56
+msgid "Note symbols"
+msgstr "Σύμβολα φθόγγων"
+
+#: L1_MusicReading.cpp:435
+msgid ""
+"Note that a dotted quarter note equals three eighth notes. Therefore, in the "
+"6/8 time the note that occupies a beat is the dotted quarter note and each "
+"measure takes two dotted quarter notes."
+msgstr ""
+"Σημειώστε ότι το τέταρτο παρεστιγμένο ισούται με τρία όγδοα. Συνεπώς, στα "
+"6/8 η αξία που θεωρείται ως παλμός είναι το τέταρτο παρεστιγμένο και κάθε "
+"μέτρο καταλαμβάνεται από δύο τέταρτα παρεστιγμένα."
+
+#: L1_MusicReading.cpp:298
+msgid "Note that the dotted half note takes a whole measure in the 3/4 rhythm."
+msgstr ""
+"Σημειώστε ότι το μισό παρεστιγμένο καταλαμβάνει ένα ολόκληρο μέτρο 3/4."
+
+#: L1_MusicReading.cpp:348
+msgid ""
+"Note that the quarter note starts in the weak part of the beat (off-beat) an "
+"continues in the first part of the following beat. This is the basis of "
+"syncopation."
+msgstr ""
+"Σημειώστε ότι το τέταρτο ξεκινά στο ασθενές μέρος του παλμού και "
+"επεκτείνεται στο πρώτο μέρος του επόμενου παλμού. Αυτή είναι η βάση της "
+"συγκοπής."
+
+#: L1_MusicReading.cpp:186
+msgid ""
+"Note that the sharp for the F note is placed on the 5th line but it affects "
+"all F notes, independently of the octave."
+msgstr ""
+"Σημειώστε ότι η δίεση για τη νότα Φα γράφεται στην πέμπτη γραμμή αλλά "
+"επηρεάζει όλες τις Φα, ανεξαρτήτως οκτάβας."
+
+#: L1_MusicReading.cpp:284
+msgid ""
+"Note that this rhythm is similar to the quarter notes rhythm, but shortening "
+"the notes:"
+msgstr ""
+"Σημειώστε ότι αυτός ο ρυθμός είναι παρόμοιος με το ρυθμό τετάρτων, αλλά "
+"συντομεύοντας τους φθόγγους:"
+
+#: L1_MusicReading.cpp:18
+msgid ""
+"Note values of whole (semibreve), half (minim), quarter (crotchet), eighth "
+"(quaver) and sixteenth (semiquaver), and their equivalent rests. Tied notes. "
+"Single-dotted notes and rests."
+msgstr ""
+"Σημειώστε την αξία του ολόκληρου, του μισού, του τετάρτου, του ογδόου και "
+"του δεκάτου έκτου, καθώς και των σχετικών τους παύσεων. Συζευγμένοι φθόγγοι. "
+"Παρεστιγμένες νότες και παύσεις."
+
+#: L1_MusicReading.cpp:129
+msgid ""
+"Now is your time to start reading music. Remember to mark the beats with "
+"your hand or foot. Use also the metronome. The note range will be very "
+"limited (two first lines and first space, notes E4, F4 and G4) to help you "
+"to memorize them. The range will be broadened, progressively and slowly, in "
+"the following lessons."
+msgstr ""
+"Τώρα είναι η ώρα για να διαβάσετε μουσική μόνοι σας. Θυμηθείτε να αποδίδετε "
+"τους παλμούς με το χέρι ή το πόδι σας. Χρησιμοποιήστε επίσης το μετρονόμο. "
+"Το εύρος των φθόγγων θα είναι πολύ περιορισμένο (δύο πρώτες γραμμές και το "
+"πρώτο διάστημα, Μι4, Φα4 και Σολ4), ώστε να μπορέσετε να τις "
+"απομνημονεύσετε. Το εύρος θα μεγαλώνει εκθετικά και αργά στα επόμενα "
+"μαθήματα."
+
+#: L1_MusicReading.cpp:69
+msgid ""
+"Often, consecutive notes with flags are linked together in groups by "
+"replacing the flags by lines called 'beams'. The number of beams must be the "
+"same as the number of flags each individual note would have had when drawn "
+"isolated. In the following example the four individual notes at the first "
+"part can also be drawn grouped, as shown in the second part:"
+msgstr ""
+"Αρκετά συχνά οι διαδοχικές νότες με άγκιστρο (όγδοα, δέκατα έκτα κ.λπ.) "
+"ενώνονται μεταξύ τους σε ομάδες, αντικαθιστώντας τα άγκιστρα των φθόγγων με "
+"γραμμές που ονομάζονται «σύμπλεγμα φθογγόσημων». Ο αριθμός των γραμμών της "
+"ένωσης θα πρέπει να είναι ίδιος με αυτόν του άγκιστρου της κάθε μεμονωμένης "
+"νότας. Στο ακόλουθο παράδειγμα οι νότες του πρώτου μέρους μπορούν επίσης να "
+"σχεδιαστούν σε ομάδα, όπως φαίνεται στο δεύτερο μέρος:"
+
+#: L1_MusicReading.cpp:415 L1_MusicReading.cpp:424 L1_MusicReading.cpp:426
+msgid "One eighth note and two 16th notes"
+msgstr "Ένα όγδοο και δύο δέκατα έκτα"
+
+#: L1_MusicReading.cpp:137
+msgid ""
+"One half note equals two quarter notes and one half rest equals two quarter "
+"rests. So in time 2/4 a half note or rest gets two beats. Therefore it takes "
+"a whole measure:"
+msgstr ""
+"Ένα μισό ισούται με δύο τέταρτα και μία παύση μισού ισούται με δύο παύσεις "
+"τετάρτων. Συνεπώς, σε ένα μέτρο 2/4 ένα μισό ή η παύση του διαρκεί δύο "
+"παλμούς, με αποτέλεσμα να καταλαμβάνει ένα ολόκληρο μέτρο:"
+
+#: L1_MusicReading.cpp:164
+msgid ""
+"One quarter note equals two eighth notes and one quarter rest equals two "
+"eighth rests. So in 2/4 time signature an eighth note or rest gets half a "
+"beats, and, therefore, there are two eighth notes in a beat. So in 2/4 they "
+"are usually drawn beamed, occupying a beat."
+msgstr ""
+"Ένα τέταρτο ισούται με δύο όγδοα και μία παύση τετάρτου με δύο παύσεις "
+"ογδόων. Συνεπώς, σε ένα μέτρο 2/4 ένα όγδοο ή μία παύση ογδόου διαρκεί το "
+"μισό του παλμού και ως εκ τούτου υπάρχουν δύο όγδοα σε ένα χρόνο. Έτσι στα "
+"2/4 είναι πολύ σύνηθες να σχεδιάζουμε τα όγδοα ως σύμπλεγμα φθογγόσημων, "
+"μιας και διαρκούν ένα χρόνο."
+
+#: L1_MusicReading.cpp:311
+msgid ""
+"One whole note equals two half notes and one whole rest equals two half "
+"rests. So in time 4/4 a whole note or rest gets four beats, and, therefore, "
+"takes a whole measure. Two tied half notes equals a whole note:"
+msgstr ""
+"Ένα ολόκληρο ισούται με δύο μισά και μία παύση ολόκληρου ισούται με δύο "
+"παύσεις μισών. Έτσι λοιπόν σε ένα μέτρο 4/4 ένα ολόκληρο ή μία παύση "
+"ολόκληρου έχουν διάρκεια τεσσάρων χρόνων και συνεπώς διαρκούν ένα ολόκληρο "
+"μέτρο. Δύο μισά με σύζευξη διαρκείας ισούνται με ένα ολόκληρο:"
+
+#: L1_MusicReading.cpp:12
+msgid ""
+"Permission is granted to copy, distribute and/or modify this document under "
+"the terms of the Creative Commons Attribution-Share-Alike License 3.0 or "
+"later, with the exceptions of those pages where another author or group of "
+"authors has been clearly marked. The text of the license is available at "
+"<a-1> http://creativecommons.org/licenses/by-sa/3.0/</a-1>"
+msgstr ""
+"Επιτρέπεται η αντιγραφή, η διανομή και/ή η τροποποίηση αυτού του εγγράφου "
+"σύμφωνα με τους όρους της άδειας Creative Commons Attribution-Share-Alike "
+"3.0 ή μεταγενέστερης έκδοσης, με εξαιρέσεις εκείνων των σελίδων όπου έχει "
+"σημειωθεί σαφώς άλλος συγγραφέας ή ομάδα δημιουργών. Το κείμενο της άδειας "
+"διατίθεται στη διεύθυνση <a-1> http://creativecommons.org/licenses/by-"
+"sa/3.0/ </ a-1>"
+
+#: L1_MusicReading.cpp:41
+msgid "Pitch increases as the note is higher"
+msgstr "Το τονικό ύψος αυξάνεται όσο υψηλότερη είναι η νότα"
+
+#: L1_MusicReading.cpp:159
+msgid "Practise reading scores with leger lines above fifth line."
+msgstr ""
+"Πρακτική εξάσκηση ανάγνωσης παρτιτούρας με βοηθητικές γραμμές πάνω από το "
+"πεντάγραμμο."
+
+#: L1_MusicReading.cpp:157
+msgid "Practise reading scores with leger lines below first line."
+msgstr ""
+"Πρακτική εξάσκηση ανάγνωσης παρτιτούρας με βοηθητικές γραμμές κάτω από το "
+"πεντάγραμμο."
+
+#: L1_MusicReading.cpp:13
+msgid "Presentation"
+msgstr "Παρουσίαση"
+
+#: L1_MusicReading.cpp:60
+msgid "Quarter"
+msgstr "Τέταρτο"
+
+#: L1_MusicReading.cpp:268
+msgid "Read scores containing the bass clef."
+msgstr "Ανάγνωση παρτιτούρας που έχει το κλειδί του Φα (βαθύφωνο κλειδί)."
+
+#: L1_MusicReading.cpp:194
+msgid "Read scores containing the rhythms studied."
+msgstr "Ανάγνωση παρτιτούρας που εμπεριέχει τους ρυθμούς που μελετήθηκαν."
+
+#: L1_MusicReading.cpp:8
+msgid "References"
+msgstr "Αναφορές"
+
+#: L1_MusicReading.cpp:2
+msgid "Send your comments and suggestions to the LenMus team (www.lenmus.org)"
+msgstr ""
+"Στείλτε τα σχόλιά σας και τις προτάσεις σας στην ομάδα του LenMus (www."
+"lenmus.org)"
+
+#: L1_MusicReading.cpp:429
+msgid "Simple and compound time signatures"
+msgstr "Απλές και σύνθετες μετρικές ενδείξεις"
+
+#: L1_MusicReading.cpp:19
+msgid ""
+"Simple time signatures of 2/4, 3/4 and 4/4 and compound time signature of "
+"6/8. Bar-lines and the grouping of the notes listed above within these times."
+msgstr ""
+"Απλές μετρικές ενδείξεις των 2/4, 3/4 και 4/4 και σύνθετη μετρική ένδειξη "
+"των 6/8. Οι διαστολές και η ομαδοποίηση των φθόγγων αναφέρονται παραπάνω."
+
+#: L1_MusicReading.cpp:87
+msgid ""
+"So the time signature is just an arbitrary device to help us to understand "
+"and write the rhythm. But remember that rhythm is something natural that "
+"exists by itself in the music."
+msgstr ""
+"Συνεπώς, η μετρική ένδειξη είναι ένα αυθαίρετο μέσο που μας βοηθά να "
+"καταλάβουμε και να γράψουμε το ρυθμό. Θυμηθείτε όμως ότι ο ρυθμός είναι κάτι "
+"φυσικό, που υπάρχει από μόνος του στη μουσική."
+
+#: L1_MusicReading.cpp:43
+msgid ""
+"Sounds are represented by notes. There are seven notes named either using "
+"the first seven letters of the alphabet A, B, C, D, E, F (Anglo-Saxon "
+"system) or using the names Do, Re, Mi, Fa, Sol, La and Si (Ti) (Latin "
+"system). To determine which pitch (sound) is represented by each line and "
+"space in the staff a symbol, named 'the clef', is placed at the beginning of "
+"each staff. In this course we are going to start with the study of the G "
+"clef, also named 'treble clef', that is represented by the following symbol:"
+msgstr ""
+"Οι ήχοι αποτυπώνονται με νότες (ή αλλιώς φθόγγοι, φθογγόσημα). Υπάρχουν επτά "
+"νότες, που έχουν τις ονομασίες Ντο, Ρε, Μι, Φα, Σολ, Λα, Σι (λατινικό "
+"σύστημα), ή, χρησιμοποιώντας το αγγλοσαξονικό σύστημα, A, B, C, D, E, F. Για "
+"να καθορίσουμε ποιο τονικό ύψος (ήχος) αναγράφεται σε κάθε γραμμή και "
+"διάστημα του πενταγράμμου, χρησιμοποιούμε ένα σύμβολο που ονομάζεται "
+"«κλειδί» και το οποίο τοποθετείται στην αρχή κάθε πενταγράμμου. Σε αυτή τη "
+"σειρά μαθημάτων θα ξεκινήσουμε μελετώντας το κλειδί του Σολ, ή αλλιώς "
+"«υψίφωνο κλειδί», που συμβολίζεται ως εξής:"
+
+#: L1_MusicReading.cpp:145
+msgid ""
+"Start the metronome. Press 'Play' and listen. Train your ear and practice "
+"reading this rhythm."
+msgstr ""
+"Ξεκινήστε τον μετρονόμο. Πατήστε «Αναπαραγωγή» και ακούστε. Εκπαιδεύστε το "
+"αυτί σας και εξασκηθείτε στην ανάγνωση αυτού του ρυθμού."
+
+#: L1_MusicReading.cpp:280
+msgid ""
+"Start the metronome. Press 'Play' and listen. Train your ear and practise "
+"reading these rhythms."
+msgstr ""
+"Ξεκινήστε τον μετρονόμο. Πατήστε «Αναπαραγωγή» και ακούστε. Εκπαιδεύστε το "
+"αυτί σας και εξασκηθείτε στην ανάγνωση αυτών των ρυθμών."
+
+#: L1_MusicReading.cpp:133 L1_MusicReading.cpp:172 L1_MusicReading.cpp:174
+#: L1_MusicReading.cpp:209 L1_MusicReading.cpp:211 L1_MusicReading.cpp:291
+#: L1_MusicReading.cpp:293 L1_MusicReading.cpp:303 L1_MusicReading.cpp:316
+#: L1_MusicReading.cpp:330 L1_MusicReading.cpp:332 L1_MusicReading.cpp:343
+#: L1_MusicReading.cpp:345 L1_MusicReading.cpp:357 L1_MusicReading.cpp:359
+#: L1_MusicReading.cpp:371 L1_MusicReading.cpp:373 L1_MusicReading.cpp:384
+#: L1_MusicReading.cpp:386 L1_MusicReading.cpp:398 L1_MusicReading.cpp:400
+#: L1_MusicReading.cpp:412 L1_MusicReading.cpp:414 L1_MusicReading.cpp:425
+#: L1_MusicReading.cpp:427 L1_MusicReading.cpp:442 L1_MusicReading.cpp:451
+#: L1_MusicReading.cpp:460 L1_MusicReading.cpp:469
+msgid ""
+"Start the metronome. Press 'Play' and listen. Train your ear and practise "
+"reading this rhythm."
+msgstr ""
+"Ξεκινήστε τον μετρονόμο. Πατήστε «Αναπαραγωγή» και ακούστε. Εκπαιδεύστε το "
+"αυτί σας και εξασκηθείτε στην ανάγνωση αυτού του ρυθμού."
+
+#: L1_MusicReading.cpp:68
+msgid ""
+"Stems are drawn on the right-hand side of the note-head when the stem goes "
+"up, and on the left-hand side of the note-head when the stem goes down. "
+"Flags are always drawn on the right-hand side of the stem:"
+msgstr ""
+"Το στέλεχος σχεδιάζεται στα δεξιά της κεφαλής της νότας όταν το στέλεχος "
+"πηγαίνει προς τα πάνω, και αριστερά της κεφαλής όταν πηγαίνει προς τα κάτω. "
+"Οι ουρές σχεδιάζονται πάντα στα δεξιά του στελέχους:"
+
+#: L1_MusicReading.cpp:67
+msgid ""
+"Stems normally go up for notes placed below the third line and go down for "
+"notes placed on or above the third line:"
+msgstr ""
+"Τα στελέχη συνήθως σχεδιάζονται προς τα πάνω για νότες κάτω από την τρίτη "
+"γραμμή και προς τα κάτω για νότες πάνω από την τρίτη γραμμή:"
+
+#: L1_MusicReading.cpp:14
+msgid "Syllabus"
+msgstr "Περίληψη"
+
+#: L1_MusicReading.cpp:317 L1_MusicReading.cpp:329 L1_MusicReading.cpp:331
+#: L1_MusicReading.cpp:370 L1_MusicReading.cpp:372 L1_MusicReading.cpp:383
+#: L1_MusicReading.cpp:385
+msgid "Syncopation"
+msgstr "Συγκοπή"
+
+#: L1_MusicReading.cpp:333 L1_MusicReading.cpp:342 L1_MusicReading.cpp:344
+msgid "Syncopation (2)"
+msgstr "Συγκοπή (2)"
+
+#: L1_MusicReading.cpp:346 L1_MusicReading.cpp:356 L1_MusicReading.cpp:358
+msgid "Syncopation (3)"
+msgstr "Συγκοπή (3)"
+
+#: L1_MusicReading.cpp:360
+msgid "Syncopation (4)"
+msgstr "Συγκοπή (4)"
+
+#: L1_MusicReading.cpp:374
+msgid "Syncopation (5)"
+msgstr "Συγκοπή (5)"
+
+#: L1_MusicReading.cpp:89
+msgid "The 2/4 time signature"
+msgstr "Μετρική ένδειξη 2/4"
+
+#: L1_MusicReading.cpp:294 L1_MusicReading.cpp:302
+msgid "The 3/4 time signature. Dotted half note"
+msgstr "Μετρική ένδειξη 3/4. Μισό παρεστιγμένο"
+
+#: L1_MusicReading.cpp:304
+msgid "The 4/4 time signature"
+msgstr "Μετρική ένδειξη 4/4"
+
+#: L1_MusicReading.cpp:315
+msgid "The 4/4 time signature. The whole note and its rest"
+msgstr "Μετρική ένδειξη 4/4. Το ολόκληρο και η παύση του"
+
+#: L1_MusicReading.cpp:433 L1_MusicReading.cpp:441
+msgid "The 6/8 time signature"
+msgstr "Μετρική ένδειξη 6/8"
+
+#: L1_MusicReading.cpp:443 L1_MusicReading.cpp:450
+msgid "The 6/8 time signature (2)"
+msgstr "Μετρική ένδειξη 6/8 (2)"
+
+#: L1_MusicReading.cpp:452 L1_MusicReading.cpp:459
+msgid "The 6/8 time signature (3)"
+msgstr "Μετρική ένδειξη 6/8 (3)"
+
+#: L1_MusicReading.cpp:461 L1_MusicReading.cpp:468
+msgid "The 6/8 time signature (4)"
+msgstr "Μετρική ένδειξη 6/8 (4)"
+
+#: L1_MusicReading.cpp:428
+msgid "The 6/8 time signature: compound meters"
+msgstr "Μετρική ένδειξη 6/8: σύνθετα μέτρα"
+
+#: L1_MusicReading.cpp:213
+msgid ""
+"The F clef on the fourth line, also named 'bass clef', is represented by the "
+"following symbol:"
+msgstr ""
+"Το κλειδί του Φα στην τέταρτη γραμμή ονομάζεται επίσης και «βαθύφωνο κλειδί» "
+"ή «κλειδί μπάσου» και συμβολίζεται ως εξής:"
+
+#: L1_MusicReading.cpp:121
+msgid ""
+"The LenMus program has a built-in metronome that you can use as an "
+"independent metronome. For example, when practising with your musical "
+"instrument or when doing sight-reading."
+msgstr ""
+"Το λογισμικό LenMus έχει ενσωματωμένο μετρονόμο, ο οποίος μπορεί να "
+"χρησιμοποιηθεί και ανεξάρτητα. Για παράδειγμα, όταν μελετάτε με το μουσικό "
+"σας όργανο ή όταν διαβάζετε μια παρτιτούρα."
+
+#: L1_MusicReading.cpp:120
+msgid "The LenMus program metronome"
+msgstr "Ο μετρονόμος του LenMus"
+
+# Βλ. πρωτότυπο. Είναι διαφορετικό κείμενο.
+#: L1_MusicReading.cpp:306
+msgid ""
+"The accents on this rhythm follow the pattern Strong-Weak-Medium-Weak, that "
+"is, the first beat of a measure is always the strongest one, and the three "
+"other beats are weaker, with the third one being only a little stronger."
+msgstr ""
+"Οι τονισμοί σε αυτόν το ρυθμό ακολουθούν το μοτίβο  Ισχυρό-Ασθενές-Μέτριο-"
+"Ασθενές, αυτό είναι, ο πρώτος παλμός ενός μέτρου είναι πάντα ο ισχυρότερος "
+"και οι άλλοι τρεις είναι ασθενέστεροι, με τον τρίτο να είναι λίγο πιο "
+"δυνατός."
+
+#: L1_MusicReading.cpp:188
+msgid ""
+"The accidentals on the key signature are named 'proper accidentals' whereas "
+"those added in addition to individual notes are named 'chromatic "
+"accidentals'."
+msgstr ""
+"Οι αλλοιώσεις του οπλισμού ονομάζονται «κύριες αλλοιώσεις», ενώ αυτές που "
+"προστίθενται σε μεμονωμένες νότες ονομάζονται «χρωματικές αλλοιώσεις»."
+
+#: L1_MusicReading.cpp:212 L1_MusicReading.cpp:267
+msgid "The bass clef"
+msgstr "Το κλειδί του Φα"
+
+#: L1_MusicReading.cpp:214
+msgid ""
+"The bass clef assigns the F note to the 4th line, as shown in following "
+"picture:"
+msgstr ""
+"Το κλειδί του Φα προσδιορίζει τη νότα Φα στην 4η γραμμή, όπως φαίνεται στην "
+"ακόλουθη εικόνα:"
+
+#: L1_MusicReading.cpp:42
+msgid "The clef"
+msgstr "Το κλειδί"
+
+#: L1_MusicReading.cpp:44
+msgid ""
+"The clef assigns a particular line to a specific pitch, and all other "
+"pitches are mapped in ascending and descending order to the lines and spaces "
+"above and below that reference line. In the G clef, the G note of the fourth "
+"octave is assigned to the second line:"
+msgstr ""
+"Τα σημάδια των κλειδιών προσδίδουν σε μια συγκεκριμένη γραμμή ένα "
+"συγκεκριμένο τονικό ύψος και όλα τα υπόλοιπα τονικά ύψη προσδιορίζονται σε "
+"αύξουσα ή φθίνουσα σειρά στις γραμμές και στα διαστήματα πάνω και κάτω από "
+"τη γραμμή αναφοράς. Στο κλειδί του Σολ, η νότα Σολ της τέταρτης οκτάβας "
+"προσδιορίζεται στη δεύτερη γραμμή:"
+
+#: L1_MusicReading.cpp:160 L1_MusicReading.cpp:171 L1_MusicReading.cpp:173
+msgid "The eighth note"
+msgstr "Το όγδοο"
+
+#: L1_MusicReading.cpp:281 L1_MusicReading.cpp:290 L1_MusicReading.cpp:292
+msgid "The eighth rest"
+msgstr "Η παύση ογδόου"
+
+#: L1_MusicReading.cpp:199
+msgid "The fermata mark"
+msgstr "Το σύμβολο της κορόνας"
+
+#: L1_MusicReading.cpp:39
+msgid "The first note has higher pitch than the second one"
+msgstr "Η πρώτη νότα έχει υψηλότερο τονικό ύψος από τη δεύτερη"
+
+#: L1_MusicReading.cpp:90
+msgid "The first time signature we are going to use is the 2/4 time signature:"
+msgstr "Η πρώτη μετρική ένδειξη που θα χρησιμοποιήσουμε είναι τα 2/4:"
+
+#: L1_MusicReading.cpp:35
+msgid ""
+"The four spaces between the staff lines are also important and are also "
+"numbered from bottom to top:"
+msgstr ""
+"Τα τέσσερα διαστήματα ανάμεσα στις γραμμές του πενταγράμμου είναι επίσης "
+"σημαντικά και είναι επίσης αριθμημένα από κάτω προς τα πάνω:"
+
+#: L1_MusicReading.cpp:135
+msgid "The half note and its rest"
+msgstr "Το μισό και η παύση του"
+
+#: L1_MusicReading.cpp:134 L1_MusicReading.cpp:144
+msgid "The half note and its rest. Ties"
+msgstr "Το μισό και η παύση του. Συζεύξεις"
+
+#: L1_MusicReading.cpp:187
+msgid ""
+"The key signature, apart of simplifying the notation, gives information "
+"about the 'tonality' of the composition, roughly speaking, which scale is "
+"used to build a piece of music. The key signature must be written on every "
+"music line, placed immediately after the clef sign."
+msgstr ""
+"Ο οπλισμός, εκτός του ότι απλοποιεί τη συγγραφή των φθόγγων, μας δίνει "
+"πληροφορίες σχετικά με την «τονικότητα» της σύνθεσης, μιλώντας χονδρικά, "
+"δηλαδή ποια κλίμακα χρησιμοποιείται για να δημιουργηθεί ένα κομμάτι "
+"μουσικής. Ο οπλισμός πρέπει να γράφεται σε κάθε πεντάγραμμο της παρτιτούρας, "
+"τοποθετημένος μετά το κλειδί."
+
+#: L1_MusicReading.cpp:33
+msgid ""
+"The manuscript paper is organized as sets of horizontal lines, named "
+"'staves', and each group of horizontal lines is called a 'staff' (in British "
+"English the word 'staff' is old-fashioned and rarely used; the word 'stave' "
+"is used instead). A staff is a set of five horizontal lines, numbered from "
+"bottom to top; the bottom line is the first line and the top line is the "
+"fifth line:"
+msgstr ""
+"Το τετράδιο μουσικής είναι οργανωμένο σε σύνολα οριζόντιων γραμμών, σε "
+"«στοιβάδες». Κάθε στοιβάδα ονομάζεται «πεντάγραμμο». Το πεντάγραμμο "
+"αποτελείται από πέντε οριζόντιες γραμμές, αριθμημένες από κάτω προς τα πάνω. "
+"Η κάτω γραμμή είναι η πρώτη και η τελευταία πάνω η πέμπτη γραμμή:"
+
+#: L1_MusicReading.cpp:109
+msgid "The metronome"
+msgstr "Ο μετρονόμος"
+
+#: L1_MusicReading.cpp:107
+msgid ""
+"The modern way to specify tempo is by giving the number of beats per minute. "
+"This is represented in the score by the letters 'm.m.' followed by the beats "
+"per minute rate. This indication is normally written at the beginning:"
+msgstr ""
+"Ο σύγχρονος τρόπος για να προσδιοριστεί το τέμπο είναι δίνοντας τον αριθμό "
+"των παλμών ανά λεπτό και παρουσιάζεται στην παρτιτούρα με τα γράμματα «m."
+"m.», ενώ ακολουθεί ο αριθμός των παλμών ανά λεπτό. Αυτή η ένδειξη "
+"τοποθετείται συνήθως στην αρχή:"
+
+#: L1_MusicReading.cpp:37
+msgid ""
+"The musical symbols are placed on the staff and the music on the staff is "
+"read from left to right."
+msgstr ""
+"Τα μουσικά σύμβολα αναγράφονται στο πεντάγραμμο και η μουσική διαβάζεται από "
+"τα αριστερά προς τα δεξιά."
+
+#: L1_MusicReading.cpp:161
+msgid ""
+"The next figure we are going to study is the eighth note (also called "
+"'quaver' in British English). Its symbols are shown in the following score, "
+"and are like a quarter note with a flag added to its stem:"
+msgstr ""
+"Το επόμενο σύμβολο που θα μελετήσουμε είναι το όγδοο. Ο συμβολισμός του "
+"υποδεικνύεται στην ακόλουθη παρτιτούρα και μοιάζει με ένα τέταρτο, "
+"προσθέτοντας μια σημαία στην κορυφή του:"
+
+#: L1_MusicReading.cpp:66
+msgid ""
+"The note symbols have three distinct parts: (1) the note-head, (2) the stem "
+"and (3) the flag (also named hook or tail), as depicted in next figure:"
+msgstr ""
+"Τα σύμβολα των φθόγγων έχουν τρία διαφορετικά μέρη: (1) η κεφαλή, (2) το "
+"στέλεχος και (3) το άγκιστρο (που ονομάζεται επίσης σημαία ή ουρά), όπως "
+"απεικονίζεται στο επόμενο σχήμα:"
+
+#: L1_MusicReading.cpp:388
+msgid ""
+"The off-beat syncopation commonly refers to rhythms that emphasize the weak "
+"beats of a measure."
+msgstr ""
+"Η εκτός παλμού συγκοπή συνήθως αφορά ρυθμούς που δίνουν έμφαση στα ασθενή "
+"μέρη του μέτρου."
+
+#: L1_MusicReading.cpp:125
+msgid "The quarter note and its rest"
+msgstr "Το τέταρτο και η παύση του"
+
+#: L1_MusicReading.cpp:401 L1_MusicReading.cpp:411 L1_MusicReading.cpp:413
+msgid "The sixteenth note"
+msgstr "Το δέκατο έκτο"
+
+#: L1_MusicReading.cpp:31
+msgid "The staff"
+msgstr "Το πεντάγραμμο"
+
+#: L1_MusicReading.cpp:17
+msgid ""
+"The stave. Treble (G) and bass (F) clefs. Names of notes on the stave. "
+"Extension of the stave to include two ledger lines below and above each "
+"stave."
+msgstr ""
+"Το πεντάγραμμο. Κλειδιά του Σολ και του Φα. Ονομασία των φθόγγων στο "
+"πεντάγραμμο. Επέκταση του πενταγράμμου ώστε να περιλαμβάνει δύο βοηθητικές "
+"γραμμές κάτω και πάνω."
+
+#: L1_MusicReading.cpp:38
+msgid ""
+"The symbols for notes are placed either on a line or on a space and the "
+"musical pitch (sound) is determined by the position of the note on the "
+"staff. Notes on the higher lines/spaces have a higher pitch than those on "
+"the lower ones:"
+msgstr ""
+"Τα σύμβολα μιας νότας τοποθετούνται είτε πάνω σε μια γραμμή είτε σε ένα "
+"διάστημα, και το μουσικό τονικό ύψος (ήχος) καθορίζεται από τη θέση της "
+"νότας στο πεντάγραμμο. Οι νότες στις υψηλότερες γραμμές/διαστήματα έχουν "
+"υψηλότερο τονικό ύψος από αυτές στις χαμηλότερες γραμμές/διαστήματα:"
+
+#: L1_MusicReading.cpp:94
+msgid "The tempo"
+msgstr "Το τέμπο"
+
+#: L1_MusicReading.cpp:93
+msgid "The tempo and the metronome"
+msgstr "Το τέμπο και ο μετρονόμος"
+
+#: L1_MusicReading.cpp:95
+msgid ""
+"The tempo of a piece of music is its speed, that is, how fast or slow the "
+"beats should go. But the time signature does not give you an idea about "
+"this, as it only says how many beats there are in a measure. In written "
+"music there are two ways to specify the tempo of a piece of music. "
+"Traditionally, composers relied on using verbal descriptions, writing "
+"indications such as 'Slow', 'Very fast', or 'Calmly'. These tempo words are "
+"normally written in Italian and are very common, even today. You should "
+"learn them:"
+msgstr ""
+"Το τέμπο είναι η ταχύτητα ενός μουσικού κομματιού· αυτό σημαίνει πόσο "
+"γρήγορα ή πόσο αργά αποδίδονται οι παλμοί. Ωστόσο η μετρική ένδειξη δεν μας "
+"βοηθάει να το καταλάβουμε, καθώς μας υποδεικνύει μόνο τον αριθμό των παλμών "
+"που υπάρχουν σε ένα μέτρο. Στη γραπτή μουσική υπάρχουν δύο τρόποι για να "
+"προσδιοριστεί το τέμπο ενός μουσικού κομματιού. Παραδοσιακά, οι συνθέτες "
+"συνήθιζαν να χρησιμοποιούν λεκτικές περιγραφές, γράφοντας ενδείξεις όπως "
+"«Αργό», «Πολύ γρήγορο» ή «Ήρεμο». Αυτές οι ενδείξεις για το τέμπο συνήθως "
+"γράφονται στα ιταλικά και είναι πολύ συνηθισμένες, ακόμα και σήμερα. Πρέπει "
+"να τις γνωρίζετε:"
+
+#: L1_MusicReading.cpp:140
+msgid ""
+"The tie symbol indicates that the two tied notes must be played as a single "
+"note with a duration equal to the sum of the two individual notes. In the "
+"previous example, the tie joins two quarter notes, creating a note of double "
+"duration (a half note). Listen to the following score:"
+msgstr ""
+"Το σύμβολο της σύζευξης υποδηλώνει ότι οι δύο συζευγμένες νότες πρέπει να "
+"παιχτούν ως μία νότα με διάρκεια ίση με το άθροισμα των δύο νοτών. Στο "
+"προηγούμενο παράδειγμα, η σύζευξη ένωνε δύο τέταρτα, δημιουργώντας μια νότα "
+"διπλάσιας διάρκειας (μισό). Ακούστε την επόμενη παρτιτούρα:"
+
+#: L1_MusicReading.cpp:86
+msgid ""
+"The top number tells how many beats there are in a measure and the bottom "
+"number shows the type of note that gets one beat. For now you must learn "
+"that the bottom number 4 means 'quarter note'. So, the time signature in the "
+"previous example says that each measure will have two beats and that each "
+"beat will get a quarter note. The time signature is often called the 'meter' "
+"of a piece."
+msgstr ""
+"Ο αριθμητής λέει πόσοι παλμοί υπάρχουν στο μέτρο και ο παρονομαστής μάς "
+"δείχνει ποια μονάδα (αξία) θα θεωρηθεί ως ένας παλμός. Για την ώρα, θα "
+"πρέπει να μάθετε ότι ο παρονομαστής 4 σημαίνει αξία τετάρτου. Συνεπώς, η "
+"μετρική ένδειξη στο προηγούμενο παράδειγμα μας λέει ότι κάθε μέτρο θα έχει "
+"δύο παλμούς και κάθε ένας παλμός θα ισούται με ένα τέταρτο. Η μετρική "
+"ένδειξη συχνά ονομάζεται και «μέτρο» ενός κομματιού."
+
+#: L1_MusicReading.cpp:110
+msgid ""
+"The traditional metronomes are mechanic, based on a pendulum with a rod. The "
+"pendulum rod swings back and forth in tempo, producing a 'tick' sound on "
+"each swing. Modern metronomes are electronic. The following figure shows an "
+"example of a typical mechanic metronome:"
+msgstr ""
+"Οι παραδοσιακοί μετρονόμοι είναι μηχανικοί, βασισμένοι σε ένα εκκρεμές με "
+"μια ράβδο. Η ράβδος μετακινείται εμπρός και πίσω σε συγκεκριμένο ρυθμό, "
+"δημιουργώντας ένα «τικ» σε κάθε ταλάντωση. Οι σύγχρονοι μετρονόμοι είναι "
+"ηλεκτρονικοί. Το παρακάτω σχήμα δείχνει ένα παράδειγμα τυπικού μηχανικού "
+"μετρονόμου:"
+
+#: L1_MusicReading.cpp:309
+msgid "The whole note and its rest"
+msgstr "Το ολόκληρο και η παύση του"
+
+#: L1_MusicReading.cpp:77
+msgid ""
+"There are different types of bar lines, that are used for special purposes. "
+"For example, the end of the last measure of a piece of music is marked with "
+"a double bar line, being the fist line thin and the second one thick. The "
+"thin double bar line (two thin lines) is used to mark sections within a "
+"piece of music."
+msgstr ""
+"Υπάρχουν διαφορετικοί τύποι διαστολών που χρησιμοποιούνται για "
+"συγκεκριμένους λόγους. Για παράδειγμα, το τέλος του τελευταίου μέτρου ενός "
+"μουσικού κομματιού σημειώνεται με διπλή διαστολή, έχοντας την πρώτη γραμμή "
+"λεπτή και τη δεύτερη εντονότερη. Η λεπτή διπλή διαστολή (δύο λεπτές γραμμές) "
+"χρησιμοποιείται για να σημειωθούν τμήματα μέσα σε ένα μουσικό κομμάτι."
+
+#: L1_MusicReading.cpp:319
+msgid ""
+"These type of rhythms in which the stress is shifted to weak parts are known "
+"as 'syncopated rhythms'."
+msgstr ""
+"Αυτοί οι τύποι ρυθμών στους οποίους ο τονισμός μετατοπίζεται σε αδύναμα μέρη "
+"είναι γνωστοί ως «συγκοπτόμενοι ρυθμοί»."
+
+#: L1_MusicReading.cpp:22
+msgid "This course has 31 lessons covering the following material:"
+msgstr ""
+"Αυτή η σειρά μαθημάτων αποτελείται από 31 μαθήματα που καλύπτουν την "
+"ακόλουθη ύλη:"
+
+#: L1_MusicReading.cpp:11
+msgid ""
+"This eMusicBook is a self-instruction music reading course, intended to help "
+"improve one's reading skills, providing the sort of practice and exercise "
+"that are required to become a good sight-reader."
+msgstr ""
+"Αυτό το ηλεκτρονικό βιβλίο είναι μια σειρά μαθημάτων αυτο-διδασκαλίας "
+"μουσικής ανάγνωσης, που αποσκοπεί στη βελτίωση των δεξιοτήτων ανάγνωσης ενός "
+"ατόμου, παρέχοντας το είδος εξάσκησης και άσκησης που απαιτούνται για να "
+"κατακτηθεί η οπτική ανάγνωση."
+
+#: L1_MusicReading.cpp:15
+msgid ""
+"This eMusicBook is intended to help improve one's reading skills, providing "
+"the sort of practice and exercise that are required to become a good sight-"
+"reader."
+msgstr ""
+"Αυτό το ηλεκτρονικό βιβλίο έχει ως σκοπό να βοηθήσει στη βελτίωση των "
+"δεξιοτήτων ανάγνωσης, παρέχοντας το είδος της εξάσκησης και της άσκησης που "
+"απαιτούνται για να κατακτηθεί η οπτική ανάγνωση."
+
+#: L1_MusicReading.cpp:9
+msgid "This lesson is based on materials from:"
+msgstr "Αυτό το μάθημα είναι βασισμένο σε υλικό από:"
+
+#: L1_MusicReading.cpp:308
+msgid ""
+"This rhythm is widely used in classical music; also it is the usual time "
+"signature in rock, jazz, and modern pop and dance music."
+msgstr ""
+"Αυτός ο ρυθμός χρησιμοποιούνταν ευρέως στην κλασική μουσική· επίσης, είναι "
+"το σύνηθες μέτρο στη ροκ, την τζαζ και τη σύγχρονη ποπ και χορευτική μουσική."
+
+#: L1_MusicReading.cpp:132
+msgid "Tho quarter note and its rest"
+msgstr "Το τέταρτο και η παύση του"
+
+#: L1_MusicReading.cpp:138
+msgid "Ties"
+msgstr "Συζεύξεις διαρκείας"
+
+#: L1_MusicReading.cpp:81
+msgid "Time signatures"
+msgstr "Χρονικές αξίες μέτρων"
+
+#: L1_MusicReading.cpp:84
+msgid ""
+"To know how many beats are there in a measure, a 'time signature' is placed "
+"at the beginning of the staff, after the clef. The time signature is the two "
+"numbers placed above and below the third line:"
+msgstr ""
+"Για να ξέρουμε πόσοι παλμοί υπάρχουν σε ένα μέτρο, τοποθετείται στην αρχή "
+"του πενταγράμμου, μετά το κλειδί, η «μετρική ένδειξη». Η μετρική ένδειξη "
+"είναι οι δύο αριθμοί που βρίσκονται πάνω και κάτω από την τρίτη γραμμή:"
+
+#: L1_MusicReading.cpp:7
+msgid ""
+"Translated to #REPLACE BY YOUR LANGUAGE NAME# by #REPLACE BY YOUR NAME#."
+msgstr "Μεταφράστηκε στα ελληνικά από τον Αυγέρη Τσιρώνη."
+
+#: L1_MusicReading.cpp:403
+msgid ""
+"Two sixteenth notes equal one eighth note and four sixteenth notes equal one "
+"quarter note. So in 2/4, 3/4 and 4/4 time signatures a beat is occupied by "
+"four sixteenth notes and, conversely, a sixteenth note receives 1/4 of a "
+"beat. In these time signatures sixteenth notes are usually drawn beamed."
+msgstr ""
+"Δύο δέκατα έκτα ισούνται με ένα όγδοο και τέσσερα δέκατα έκτα ισούνται με "
+"ένα τέταρτο. Έτσι σε μέτρα με μετρική ένδειξη 2/4, 3/4 και 4/4 ένας παλμός "
+"αποτελείται τέσσερα δέκατα έκτα και, αντίστροφα, το ένα δέκατο έκτο "
+"καταλαμβάνει το 1/4 του παλμού. Σε αυτά τα μέτρα τα δέκατα έκτα συνήθως "
+"σχεδιάζονται ως σύμπλεγμα φθογγόσημων."
+
+# "που ενώνει την κεφαλή δύο διαδοχικών φθόγγων του ίδιου τονικού ύψους, ενώνοντας τη διάρκεια αυτών των δύο φθόγγων" --> (ενώνω / ενώνοντας) ανάμεσα στις κεφαλές δύο διαδοχικών φθόγγων του ίδιου τονικού ύψους, η οποία ενώνει τη διάρκεια αυτών των δύο φθόγγων
+#: L1_MusicReading.cpp:196
+msgid ""
+"We already know (lesson 10) about ties: a tie is a small arch between the "
+"heads of two consecutive notes of the same pitch, to join the duration of "
+"two notes. In this lesson we will learn about two other symbols to lengthen "
+"the duration of a note or a rest: the dot and the fermata."
+msgstr ""
+"Γνωρίζουμε ήδη (μάθημα 10) για τις συζεύξεις διαρκείας: η σύζευξη διαρκείας "
+"είναι μια καμπύλη ανάμεσα στις κεφαλές δύο διαδοχικών φθόγγων του ίδιου "
+"τονικού ύψους, η οποία ενώνει τη διάρκεια αυτών των δύο φθόγγων. Σε αυτό το "
+"μάθημα θα μάθουμε άλλα δύο σύμβολα που αυξάνουν τη διάρκεια μιας νότας ή "
+"μιας παύσης: τη στιγμή διαρκείας και την κορόνα."
+
+#: L1_MusicReading.cpp:92
+msgid ""
+"We also know that the first beat of each measure is the stronger one. "
+"Therefore, if you count beats along with the music, the 2/4 time signature "
+"will imply a rhythm such as 'ONE-and-Two-and-ONE-and-Two-and ...', stressing "
+"the ONE syllable, as if you were a soldier marching. For studying music "
+"reading it makes sense to mark the beats with the hand, the first beat of "
+"each measure with a knock down (on the table or in the air) and the second "
+"beat of each measure with a knock up (in the air or on the shoulder). You "
+"can also mark the beats with your foot, it you prefer, but it is very, very "
+"important to mark the beats. You should make a habit out of it, at least "
+"until you get enough skills at reading music."
+msgstr ""
+"Επίσης ξέρουμε ότι ο πρώτος παλμός κάθε μέτρου είναι ο ισχυρότερος. "
+"Επομένως, αν μετρήσετε τους παλμούς κατά τη διάρκεια της μουσικής, το μέτρο "
+"αξίας 2/4 έχει ένα ρυθμό της μορφής «ΕΝ-και-Δύο-ΕΝ-και-Δύο-ΕΝ-και... », "
+"τονίζοντας τη συλλαβή ΕΝ,  σαν να ήσασταν στρατιώτες που βαδίζουν "
+"συντεταγμένα. Για τη μελέτη της γραπτής μουσικής, έχει νόημα να δείχνουμε τα "
+"χτυπήματα με το χέρι, ο πρώτος παλμός κάθε μέτρου με ένα χτύπημα κάτω (στο "
+"τραπέζι ή στον αέρα) και ο δεύτερος παλμός κάθε μέτρου με ένα χτύπημα πάνω "
+"(στον αέρα ή στον ώμο). Μπορείτε επίσης να σημειώσετε τα χτυπήματα με το "
+"πόδι σας, αλλά είναι πολύ σημαντικό να δείξετε τους ρυθμούς. Θα πρέπει να "
+"σας γίνει συνήθεια, τουλάχιστον μέχρι να αποκτήσετε αρκετές δεξιότητες στην "
+"ανάγνωση μουσικής."
+
+#: L1_MusicReading.cpp:57
+msgid ""
+"We have learnt that the vertical position of a note on the staff determines "
+"its pitch. The duration of the note (that, is the duration of its sound) is "
+"indicated by using different types of signs for the notes, so each note sign "
+"corresponds to a different duration. The following picture shows the "
+"different types of notes and their names:"
+msgstr ""
+"Έχουμε μάθει ότι η κάθετη θέση μιας νότας στο πεντάγραμμο καθορίζει το "
+"τονικό της ύψος. Η διάρκεια της νότας (δηλαδή η διάρκεια του ήχου της) "
+"υποδηλώνεται με τη χρήση διαφορετικών συμβόλων για τις νότες, έτσι ώστε κάθε "
+"σύμβολο να αντιστοιχεί σε διαφορετική διάρκεια. Η παρακάτω εικόνα δείχνει τα "
+"διαφορετικά σύμβολα και τα ονόματά τους:"
+
+#: L1_MusicReading.cpp:318
+msgid ""
+"We know that there are strong and weak beats. For example, the first beat of "
+"a measure normally has the strongest accent. But the accent can be "
+"deliberately shifted to weak parts, as in the following example where the "
+"quarter notes are shifted by the initial eighth note, so that they are "
+"placed 'off-beat':"
+msgstr ""
+"Γνωρίζουμε ότι υπάρχουν ισχυρά και ασθενή μέρη (παλμοί). Για παράδειγμα, ο "
+"πρώτος παλμός ενός μέτρου κανονικά έχει ισχυρότερο τονισμό. Αλλά η έμφαση "
+"του τονισμού μπορεί να μεταφερθεί σκόπιμα σε αδύναμα τμήματα, όπως στο "
+"επόμενο παράδειγμα, όπου τα τέταρτα μετατοπίζονται από το αρχικό όγδοο, έτσι "
+"ώστε να τοποθετούνται «εκτός παλμού»:"
+
+#: L1_MusicReading.cpp:430
+msgid ""
+"We learnt, in lesson 6, that written music is organized by dividing it into "
+"small groups of beats, called 'measures'. The measures of the time "
+"signatures studied in previous lessons (2/4, 3/4 and 4/4) have, "
+"respectively, two, three and four beats per measure. These time signatures "
+"are known as 'simple meter' or 'simple time signatures'."
+msgstr ""
+"Στο μάθημα 6 μάθαμε ότι η γραπτή μουσική οργανώνεται διαιρώντας την σε "
+"μικρές ομάδες παλμών, που ονομάζονται «μέτρα». Τα μέτρα που μελετήθηκαν σε "
+"προηγούμενα μαθήματα (2/4, 3/4 και 4/4) έχουν αντίστοιχα δύο, τρεις και "
+"τέσσερις παλμούς ανά μέτρο. Αυτά τα μέτρα ονομάζονται «απλά μέτρα»."
+
+#: L1_MusicReading.cpp:83
+msgid ""
+"We said in previous lesson that written music is divided on the staff into "
+"parts named 'measures'. Although there are exceptions, in general all the "
+"measures of a piece of music have the same number of beats. Therefore, we "
+"must learn that written music is organized by dividing it into small groups "
+"of beats, and these groups are called 'measures'."
+msgstr ""
+"Είπαμε σε προηγούμενο μάθημα ότι η γραπτή μουσική είναι διαιρεμένη στο "
+"πεντάγραμμο σε μέρη τα οποία ονομάζονται «μέτρα». Παρότι υπάρχουν "
+"εξαιρέσεις, συνήθως όλα τα μέτρα ενός μουσικού κομματιού έχουν τον ίδιο "
+"αριθμό παλμών. Επομένως, πρέπει να μάθουμε ότι η γραπτή μουσική οργανώνεται "
+"διαιρώντας την σε μικρές ομάδες παλμών, και αυτές οι ομάδες ονομάζονται "
+"«μέτρα»."
+
+#: L1_MusicReading.cpp:147
+msgid ""
+"When it is necessary to write a note higher or lower than the pitch "
+"represented by the staff lines, extra lines can be added to the staff. They "
+"are called 'leger (or ledger) lines' and are drawn as short lines, slightly "
+"longer than the note head. For example, the following score shows the "
+"natural scale starting on C:"
+msgstr ""
+"Όταν κρίνεται απαραίτητο να γράψετε μια νότα υψηλότερα ή χαμηλότερα από το "
+"τονικό ύψος που παρουσιάζεται στο πεντάγραμμο, μπορούν να προστεθούν "
+"επιπλέον γραμμές. Ονομάζονται «βοηθητικές γραμμές» και σχεδιάζονται ως "
+"μικρές γραμμές, ελαφρώς μεγαλύτερες από την κεφαλή της νότας. Για "
+"παράδειγμα, η επόμενη παρτιτούρα δείχνει τη φυσική κλίμακα που ξεκινάει από "
+"τη νότα Ντο:"
+
+#: L1_MusicReading.cpp:123
+msgid ""
+"When playing back a score its tempo is also controlled by the built-in "
+"settings. Just change the displayed tempo number and the tempo of the score "
+"will automatically adjust to it."
+msgstr ""
+"Κατά την αναπαραγωγή μιας παρτιτούρας, ο ρυθμός ελέγχεται επίσης από τις "
+"ενσωματωμένες ρυθμίσεις. Απλώς αλλάξτε τον εμφανιζόμενο αριθμό ρυθμού και ο "
+"ρυθμός της παρτιτούρας θα προσαρμοστεί αυτόματα."
+
+#: L1_MusicReading.cpp:58
+msgid "Whole"
+msgstr "Ολόκληρο"
+
+#: L1_MusicReading.cpp:27
+msgid ""
+"With exception of the first lessons, aimed at introducing the basic concepts "
+"of the music notation, the remaining lessons are structured into three "
+"sections:"
+msgstr ""
+"Εξαιρουμένων των πρώτων μαθημάτων, στοχεύοντας στην παρουσίαση των βασικών "
+"εννοιών της μουσικής σημειογραφίας, τα υπόλοιπα μαθήματα διαρθρώνονται σε "
+"τρεις ενότητες:"
+
+#: L1_MusicReading.cpp:126
+msgid ""
+"You know that in written music sound is indicated by using note symbols, and "
+"that there exists a note symbol for each duration. In written music silence "
+"is also indicated with symbols, called 'rests'. There also exists a rest for "
+"each note duration. The following score shows a quarter note and the quarter "
+"rest:"
+msgstr ""
+"Γνωρίζετε ότι στη μουσική σημειογραφία ο ήχος υποδεικνύεται χρησιμοποιώντας "
+"σύμβολα για τις νότες και ότι υπάρχει ένα σύμβολο για τη διάρκεια της κάθε "
+"νότας. Στη γραπτή μουσική η σιωπή υποδεικνύεται επίσης με σύμβολα, που "
+"ονομάζονται «παύσεις». Υπάρχει επίσης μια παύση για την εκάστοτε διάρκεια "
+"της νότας. Η ακόλουθη παρτιτούρα δείχνει ένα τέταρτο και την παύση τετάρτου:"
+
+#: L1_MusicReading.cpp:4
+msgid ""
+"additional terms may apply. See cover page of this eBook for exceptions and "
+"details."
+msgstr ""
+"μπορεί να ισχύουν πρόσθετοι όροι. Δείτε το εξώφυλλο αυτού του ηλεκτρονικού "
+"βιβλίου για εξαιρέσεις και λεπτομέρειες."
+
+#: L1_MusicReading.cpp:72 L1_MusicReading.cpp:74 L1_MusicReading.cpp:76
+msgid "barline"
+msgstr "διαστολή"
+
+#: L1_MusicReading.cpp:79
+msgid "double barline"
+msgstr "διπλή διαστολή"
+
+#: L1_MusicReading.cpp:80
+msgid "final barline"
+msgstr "τελική διαστολή"
+
+#: L1_MusicReading.cpp:179
+msgid "flat"
+msgstr "ύφεση"
+
+#: L1_MusicReading.cpp:34
+msgid "line 5"
+msgstr "γραμμή 5"
+
+#: L1_MusicReading.cpp:73 L1_MusicReading.cpp:75
+msgid "measure"
+msgstr "μέτρο"
+
+#: L1_MusicReading.cpp:180
+msgid "natural"
+msgstr "αναίρεση"
+
+#: L1_MusicReading.cpp:178
+msgid "sharp"
+msgstr "δίεση"
+
+#: L1_MusicReading.cpp:78
+msgid "simple barline"
+msgstr "απλή διαστολή"
+
+#: L1_MusicReading.cpp:36
+msgid "space 4"
+msgstr "διάστημα 4"
+
+#: L1_MusicReading.cpp:5
+msgid "the teacher of music"
+msgstr "ο καθηγητής μουσικής"
