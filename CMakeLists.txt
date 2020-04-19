@@ -107,8 +107,10 @@ ENDIF(wxWidgets_FOUND)
 
 
 #Check for libxml2 and libiconv
-FIND_PACKAGE(LibXml2)
+FIND_PACKAGE(LibXml2 REQUIRED)
+include_directories( ${LIBXML2_INCLUDE_DIR} )
 message(STATUS "LIBXML2_LIBRARIES => " ${LIBXML2_LIBRARIES})
+message(STATUS "LIBXML2_INCLUDE_DIR => " ${LIBXML2_INCLUDE_DIR})
 
 # "Print all warnings", macros for GCC & __UNIX__
 if(UNIX)
