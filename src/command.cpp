@@ -142,7 +142,6 @@ void CmdGeneratePot(wxString sBook, const wxString& sLocalePath,
 {
     //Create the .cpp file with all strings for eBook sBook
     wxLogMessage(_T("Generating POT strings"));
-    //wxLogMessage(_T("Generating POT strings for language %s."), sLang.c_str() );
 
     //generate lang file
     lmEbookProcessor oEBP(nDbgOpt, pGui);

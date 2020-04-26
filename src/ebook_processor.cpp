@@ -2144,8 +2144,6 @@ bool lmEbookProcessor::ExerciseMusicTag(const wxXml2Node& oNode, lmContentStorag
     int iStart, iEnd, nQuoteLength;
 
     wxString sMusic = csMusic.GetContent();
-    //iStart = sMusic.Find(_T("_&quot;"));
-    //nQuoteLength = 7;   //length of string "_&quot;"
     iStart = sMusic.Find(_T("_\""));
     nQuoteLength = 2;   //length of string "_\""
     if (iStart == wxNOT_FOUND) {
@@ -2188,8 +2186,8 @@ bool lmEbookProcessor::ExerciseMusicTag(const wxXml2Node& oNode, lmContentStorag
 
             //remaining
             sMusic = sMusic.Mid(iEnd+nQuoteLength);
-            iStart = sMusic.Find(_T("_&quot;"));
-            nQuoteLength = 7;   //length of string "&quot;"
+            iStart = sMusic.Find(_T("_\""));
+            nQuoteLength = 2;   //length of string "_\""
             if (iStart == wxNOT_FOUND) {
                 iStart = sMusic.Find(_T("_''"));
                 nQuoteLength = 3;   //length of string "''"
@@ -3919,17 +3917,19 @@ bool lmEbookProcessor::CreatePoFile(wxString sFilename,
     wxString sHeader = sNil +
         _T("msgid \"\"\n")
         _T("msgstr \"\"\n")
-        _T("\"Project-Id-Version: LenMus 5.2\\n\"\n")
-        _T("\"POT-Creation-Date: \\n\"\n")
-        _T("\"PO-Revision-Date: 2012-10-23 12:19+0100\\n\"\n")
+        _T("\"Project-Id-Version: LenMus 5.6\\n\"\n")
+        _T("\"POT-Creation-Date: 2020-04-26 10:26+0200\\n\"\n")
+        _T("\"PO-Revision-Date: 2020-04-26 10:26+0200\\n\"\n")
         _T("\"Last-Translator: \\n\"\n")
+        _T("\"Language: en\\n\"\n")
         _T("\"Language-Team:  <s.cecilio@gmail.com>\\n\"\n")
         _T("\"MIME-Version: 1.0\\n\"\n")
-        _T("\"Content-Type: text/plain; charset=utf-8\\n\"\n")
+        _T("\"Content-Type: text/plain; charset=UTF-8\\n\"\n")
         _T("\"Content-Transfer-Encoding: 8bit\\n\"\n")
         _T("\"X-Poedit-Language: ") + sLangName + _T("\\n\"\n")
-        _T("\"X-Poedit-SourceCharset: utf-8\\n\"\n")
-        _T("\"X-Poedit-Basepath: /datos/cecilio/lm/projects/lenmus/trunk/langtool/locale/src/\\n\"\n")
+        _T("\"X-Poedit-SourceCharset: UTF-8\\n\"\n")
+        _T("\"X-Poedit-Basepath: ..src/\\n\"\n")
+        _T("\"X-Poedit-KeywordsList: _\\n\"\n")
         _T("\"X-Poedit-SearchPath-0: ") + sFolder + _T("\\n\"\n\n");
 
 
