@@ -3464,7 +3464,7 @@ void lmEbookProcessor::write_lmd_headers()
         _T("      <margin-bottom>500</margin-bottom>\n")    //5mm
         _T("   </defineStyle>\n")
         _T("   <defineStyle>\n      <name>eBook_table_cell</name>\n")
-        _T("      <border-width>20.0f</border-width>\n") );
+        _T("      <border-width>20.0</border-width>\n") );
     write_to_content_file( sFont );
     write_to_content_file(
         _T("      <font-size>12pt</font-size>\n")
@@ -3627,7 +3627,7 @@ void lmEbookProcessor::write_ldp_headers()
         _T("      (margin-bottom 500)\n")      //5mm
         _T("   )\n")
         _T("   (defineStyle \"eBook_table_cell\" \n")
-        _T("      (border-width 20.0f)\n") );
+        _T("      (border-width 20.0)\n") );
     write_to_content_file( sFont );
     write_to_content_file(
         _T("      (font-size 12pt)\n")
