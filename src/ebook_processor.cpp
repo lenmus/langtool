@@ -3386,7 +3386,7 @@ void lmEbookProcessor::write_lmd_headers()
         sFont = _T("      <font-file>wqy-zenhei.ttc</font-file>\n")
                 _T("      <font-name>WenQuanYi Zen Hei</font-name>\n");
     else
-        sFont = _T("      <font-name>Liberation serif</font-name>\n");
+        sFont = _T("      <font-name>Liberation Sans</font-name>\n");
 
 
     write_to_content_file(
@@ -3438,9 +3438,15 @@ void lmEbookProcessor::write_lmd_headers()
         _T("      <margin-top>400</margin-top>\n")      //4mm
         _T("      <margin-bottom>200</margin-bottom>\n")
         _T("   </defineStyle>\n")
-        _T("   <defineStyle><name>eBook_para</name><margin-bottom>420</margin-bottom></defineStyle>\n")
-        _T("   <defineStyle><name>eBook_listitem</name><margin-bottom>0</margin-bottom></defineStyle>\n")
-        _T("   <defineStyle><name>eBook_normal</name>\n") );
+        _T("   <defineStyle>\n      <name>eBook_para</name>\n") );
+    write_to_content_file( sFont );
+    write_to_content_file(
+        _T("      <margin-bottom>420</margin-bottom></defineStyle>\n")
+        _T("   <defineStyle>\n      <name>eBook_listitem</name>\n") );
+    write_to_content_file( sFont );
+    write_to_content_file(
+        _T("      <margin-bottom>0</margin-bottom></defineStyle>\n")
+        _T("   <defineStyle>\n      <name>eBook_normal</name>\n") );
     write_to_content_file( sFont );
     write_to_content_file(
         _T("      <font-size>12pt</font-size>\n")
@@ -3547,9 +3553,7 @@ void lmEbookProcessor::write_ldp_headers()
         sFont = _T("      (font-file \"wqy-zenhei.ttc\")\n")
                 _T("      (font-name \"WenQuanYi Zen Hei\")\n");
     else
-//        sFont = _T("      (font-file \"Liberation serif\")\n")
-//                _T("      (font-name \"Liberation serif\")\n");
-        sFont = _T("      (font-name \"Liberation serif\")\n");
+        sFont = _T("      (font-name \"Liberation Sans\")\n");
 
 
     write_to_content_file(
