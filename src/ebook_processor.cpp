@@ -106,6 +106,9 @@ const wxString lmTags::m_aExerciseParamTags[] =
     _T("max_interval"),
     _T("metronome"),
     _T("mode"),
+    _T("pickup_measure"),
+    _T("pickup_min_note"),
+    _T("pickup_no_fraction"),
     _T("problem_level"),
     _T("problem_type"),
     _T("play_key"),
@@ -124,6 +127,9 @@ const wxString lmTags::m_aScoreParamTags[] =
     _T("control_play"),
     _T("control_solfa"),
     _T("metronome"),
+    _T("pickup_measure"),
+    _T("pickup_min_note"),
+    _T("pickup_no_fraction"),
     _T("music_border"),     //obsolete 5.0
     _T("score_type"),       //obsolete 5.0
     _T("top_margin"),       //obsolete 5.0
@@ -2498,6 +2504,7 @@ bool lmEbookProcessor::ScoreParamTag(const wxXml2Node& oNode, lmContentStorage* 
         }
     }
 
+
     return fError;
 }
 
@@ -3482,7 +3489,7 @@ void lmEbookProcessor::write_lmd_headers()
     write_to_content_file(
         _T("      <font-size>12pt</font-size>\n")
         _T("      <font-style>normal</font-style>\n")
-        _T("      <color>#0000ff</color>\n")
+        _T("      <color>#3333ff</color>\n")
         _T("      <text-decoration>underline</text-decoration>\n")
         _T("   </defineStyle>\n")
         _T("   <defineStyle>\n      <name>eBook_normal_italics</name>\n") );
@@ -3643,7 +3650,7 @@ void lmEbookProcessor::write_ldp_headers()
     write_to_content_file(
         _T("      (font-size 12pt)\n")
         _T("      (font-style normal)\n")
-        _T("      (color #0000ff)\n")
+        _T("      (color #3333ff)\n")
         _T("      (text-decoration  underline)\n")
         _T("   )\n")
         _T("   (defineStyle \"eBook_normal_italics\" \n") );
