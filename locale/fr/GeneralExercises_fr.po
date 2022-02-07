@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: LenMus $VERS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-28 13:02+0100\n"
-"PO-Revision-Date: 2020-04-26 10:50+0200\n"
+"POT-Creation-Date: 2021-10-13 12:43+0200\n"
+"PO-Revision-Date: 2021-10-13 13:33+0200\n"
 "Last-Translator: Cecilio Salmeron <s.cecilio@gmail.com>\n"
 "Language-Team: <cecilios@gmail.com>\n"
 "Language: fr\n"
@@ -16,101 +16,75 @@ msgstr ""
 "X-Poedit-KeywordsList: _\n"
 "X-Poedit-SearchPath-0: GeneralExercises\n"
 
-#: GeneralExercises.cpp:14
-msgid ""
-"Apart of exercises included in the eBooks, the following general exercises "
-"(customizable to suit your needs at any moment) are available:"
-msgstr ""
-"Inclus dans les eBooks, les exercices généraux suivants (personnalisables "
-"pour s'adapter à vos besoins, à n'importe quel moment) sont disponibles :"
-
-#: GeneralExercises.cpp:32
+#: GeneralExercises.cpp:13
 msgid "Aural training exercises"
 msgstr "Exercices oraux"
 
-#: GeneralExercises.cpp:22 GeneralExercises.cpp:29 GeneralExercises.cpp:45
-#: GeneralExercises.cpp:56
-#, fuzzy
+#: GeneralExercises.cpp:26 GeneralExercises.cpp:37
 msgid "Cadences' identification"
-msgstr "Identification d'accords"
+msgstr "Identification des cadences"
 
-#: GeneralExercises.cpp:19 GeneralExercises.cpp:27 GeneralExercises.cpp:39
-#: GeneralExercises.cpp:52
+#: GeneralExercises.cpp:24 GeneralExercises.cpp:35
 msgid "Chords' identification"
 msgstr "Identification d'accords"
 
-#: GeneralExercises.cpp:59
+#: GeneralExercises.cpp:40
 msgid "Clefs Reading"
 msgstr "Lecture de clés"
-
-#: GeneralExercises.cpp:31
-msgid "Clefs reading"
-msgstr "Lecture de clefs"
 
 #: GeneralExercises.cpp:6
 msgid "Cover page"
 msgstr "Page de couverture"
 
-#: GeneralExercises.cpp:49
+#: GeneralExercises.cpp:34
 msgid ""
 "Exercise: Identify a key signature or indicate the number of accidentals it "
 "has"
 msgstr ""
 "Exercice : identifiez une tonalité ou indiquez son nombre d'altérations"
 
-#: GeneralExercises.cpp:57
-#, fuzzy
+#: GeneralExercises.cpp:38
 msgid "Exercise: Identify the cadence shown"
-msgstr "Exercice : identifiez la gamme montrée"
+msgstr "Exercice : identifiez la cadence montrée"
 
-#: GeneralExercises.cpp:55
+#: GeneralExercises.cpp:30
 msgid "Exercise: Identify the scale shown"
 msgstr "Exercice : identifiez la gamme montrée"
 
-#: GeneralExercises.cpp:53
+#: GeneralExercises.cpp:36
 msgid "Exercise: Identify the type of the shown chord"
 msgstr "Exercice : identifiez le mode de l'accord montré"
 
-#: GeneralExercises.cpp:46
-#, fuzzy
+#: GeneralExercises.cpp:27
 msgid "Exercise: Listen a cadence and identify its type"
-msgstr "Exercice : écoutez une gamme et identifiez son mode"
+msgstr "Exercice : écouter une cadence et identifier son type"
 
-#: GeneralExercises.cpp:40
-#, fuzzy
+#: GeneralExercises.cpp:25
 msgid "Exercise: Listen a chord and identify its type"
-msgstr "Exercice : écoutez un accord et identifiez son mode"
+msgstr "Exercice : Écouter un accord et identifier son type"
 
-#: GeneralExercises.cpp:42
-#, fuzzy
+#: GeneralExercises.cpp:17
 msgid "Exercise: Listen a scale and identify its type"
-msgstr "Exercice : écoutez une gamme et identifiez son mode"
+msgstr "Exercice : Écouter une échelle et identifier son type"
 
-#: GeneralExercises.cpp:36
+#: GeneralExercises.cpp:21
 msgid "Exercise: Listen an interval and identify it"
 msgstr "Exercice : écoutez un intervalle et identifiez le"
 
-#: GeneralExercises.cpp:44
-#, fuzzy
+#: GeneralExercises.cpp:23
 msgid "Exercise: Listen note A4 and chords I-IV-V-I and identify the tonality"
-msgstr "Exercice : écoutez un accord et identifiez son mode"
+msgstr ""
+"Exercice : Écoutez la note A4 et les accords I-IV-V-I et identifiez la "
+"tonalité"
 
-#: GeneralExercises.cpp:38
+#: GeneralExercises.cpp:15
 msgid "Exercise: Listen notes and identify them"
 msgstr "Exercice : écoutez une note et identifiez le"
 
-#: GeneralExercises.cpp:34
+#: GeneralExercises.cpp:19
 msgid "Exercise: Listen two intervals and identify which one is greater"
 msgstr ""
 "Exercice : écoutez deux intervalles et déterminez lequel est plus grand"
-
-#: GeneralExercises.cpp:15
-msgid "Exercises for aural training"
-msgstr "Exercices pour l'entrainement oral"
-
-#: GeneralExercises.cpp:23
-msgid "Exercises to practise theory"
-msgstr "Exercices théoriques"
 
 #: GeneralExercises.cpp:10
 msgid "General exercises"
@@ -120,44 +94,35 @@ msgstr "Exercices généraux"
 msgid "General exercises, customizable to suit your needs at any moment."
 msgstr "Exercices généraux, personnalisables à tout moment."
 
-#: GeneralExercises.cpp:26 GeneralExercises.cpp:51
-#, fuzzy
+#: GeneralExercises.cpp:32
 msgid "Interval's construction"
-msgstr "Comparaison d'intervalles"
+msgstr "Construction d'intervalles"
 
-#: GeneralExercises.cpp:25 GeneralExercises.cpp:50
+#: GeneralExercises.cpp:31
 msgid "Interval's identification"
 msgstr "Identification d'intervalles"
 
-#: GeneralExercises.cpp:16 GeneralExercises.cpp:33
+#: GeneralExercises.cpp:18
 msgid "Intervals' comparison"
 msgstr "Comparaison d'intervalles"
 
-#: GeneralExercises.cpp:17 GeneralExercises.cpp:35
+#: GeneralExercises.cpp:20
 msgid "Intervals' identification"
 msgstr "Identification d'intervalles"
 
-#: GeneralExercises.cpp:13
-msgid "Introduction to general exercises"
-msgstr "Introduction aux exercices généraux"
-
-#: GeneralExercises.cpp:24 GeneralExercises.cpp:48
+#: GeneralExercises.cpp:33
 msgid "Key signatures' identification"
 msgstr "Identification des tonalités"
 
 #: GeneralExercises.cpp:3
 msgid "Licensed under the Creative Commons Attribution/Share-Alike License;"
-msgstr ""
+msgstr "Sous licence Creative Commons Attribution/Share-Alike License ;"
 
-#: GeneralExercises.cpp:37
+#: GeneralExercises.cpp:14
 msgid "Notes identification"
 msgstr "Identification de notes"
 
-#: GeneralExercises.cpp:18
-msgid "Notes' identification"
-msgstr "Identification de notes"
-
-#: GeneralExercises.cpp:30 GeneralExercises.cpp:58
+#: GeneralExercises.cpp:39
 msgid "Other exercises"
 msgstr "Autres exercices"
 
@@ -169,13 +134,17 @@ msgid ""
 "authors has been clearly marked. The text of the licence is available at "
 "<a-1> http://creativecommons.org/licenses/by-sa/3.0/</a-1>"
 msgstr ""
+"L'autorisation est accordée de copier, distribuer et/ou modifier ce document "
+"selon les termes de la Creative Commons Attribution-Share-Alike License 3.0 "
+"ou version ultérieure, à l'exception des pages où un autre auteur ou groupe "
+"d'auteurs a été clairement indiqué. Le texte de la licence est disponible "
+"sur <a-1> http://creativecommons.org/licenses/by-sa/3.0/</a-1>"
 
 #: GeneralExercises.cpp:8
 msgid "References"
 msgstr ""
 
-#: GeneralExercises.cpp:20 GeneralExercises.cpp:28 GeneralExercises.cpp:41
-#: GeneralExercises.cpp:54
+#: GeneralExercises.cpp:16 GeneralExercises.cpp:29
 msgid "Scales' identification"
 msgstr "Identification de gammes"
 
@@ -184,15 +153,15 @@ msgid "Send your comments and suggestions to the LenMus team (www.lenmus.org)"
 msgstr ""
 "Envoyez vos commentaires et suggestions à l'équipe LenMus (www.lenmus.org)"
 
-#: GeneralExercises.cpp:47
+#: GeneralExercises.cpp:28
 msgid "Theory exercises"
 msgstr "Exercices théoriques"
 
 #: GeneralExercises.cpp:9
 msgid "This lesson is based on materials from:"
-msgstr ""
+msgstr "Cette leçon est basée sur des matériaux de :"
 
-#: GeneralExercises.cpp:21 GeneralExercises.cpp:43
+#: GeneralExercises.cpp:22
 msgid "Tonality identification"
 msgstr "Identification de tonalité"
 
@@ -206,10 +175,34 @@ msgid ""
 "additional terms may apply. See cover page of this eBook for exceptions and "
 "details."
 msgstr ""
+"des conditions supplémentaires peuvent s'appliquer. Voir la page de "
+"couverture de cet eBook pour les exceptions et les détails."
 
 #: GeneralExercises.cpp:5
 msgid "the teacher of music"
 msgstr "le professeur de musique"
+
+#~ msgid ""
+#~ "Apart of exercises included in the eBooks, the following general "
+#~ "exercises (customizable to suit your needs at any moment) are available:"
+#~ msgstr ""
+#~ "Inclus dans les eBooks, les exercices généraux suivants (personnalisables "
+#~ "pour s'adapter à vos besoins, à n'importe quel moment) sont disponibles :"
+
+#~ msgid "Clefs reading"
+#~ msgstr "Lecture de clefs"
+
+#~ msgid "Exercises for aural training"
+#~ msgstr "Exercices pour l'entrainement oral"
+
+#~ msgid "Exercises to practise theory"
+#~ msgstr "Exercices théoriques"
+
+#~ msgid "Introduction to general exercises"
+#~ msgstr "Introduction aux exercices généraux"
+
+#~ msgid "Notes' identification"
+#~ msgstr "Identification de notes"
 
 #~ msgid "Licensed under the terms of the GNU Free Documentation License v1.3"
 #~ msgstr "Licencié sous les termes de la GNU Free Documentation License v1.3"

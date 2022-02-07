@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LenMus $VERS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-28 12:02+0100\n"
-"PO-Revision-Date: 2020-04-26 10:42+0200\n"
+"PO-Revision-Date: 2021-10-13 13:38+0200\n"
 "Last-Translator: Cecilio Salmeron <s.cecilio@gmail.com>\n"
 "Language-Team: <cecilios@gmail.com>\n"
 "Language: fr\n"
@@ -404,7 +404,7 @@ msgid ""
 "In this lesson a new rhythmic pattern is introduced: the 8th note tied to "
 "next beat:"
 msgstr ""
-"dans cette leçon, un nouveau patron rythmique est introduit : la croche liée "
+"Dans cette leçon, un nouveau patron rythmique est introduit : la croche liée "
 "à la pulsation suivante :"
 
 #: L2_MusicReading.cpp:43
@@ -460,7 +460,7 @@ msgstr ""
 
 #: L2_MusicReading.cpp:69
 msgid "Listen and observe the differences"
-msgstr "Ecoutez et observez les différences."
+msgstr "Écoutez et observez les différences"
 
 #: L2_MusicReading.cpp:31 L2_MusicReading.cpp:55 L2_MusicReading.cpp:82
 #: L2_MusicReading.cpp:95 L2_MusicReading.cpp:108 L2_MusicReading.cpp:121

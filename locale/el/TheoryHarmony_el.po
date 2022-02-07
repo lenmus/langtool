@@ -6,31 +6,31 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: LenMus $VERS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-28 13:03+0100\n"
-"PO-Revision-Date: 2020-02-02 20:36+0100\n"
+"POT-Creation-Date: 2021-10-13 12:42+0200\n"
+"PO-Revision-Date: 2021-10-13 12:59+0200\n"
+"Last-Translator: Avgeris Tsironis <avgeristsironis@gmail.com>\n"
 "Language-Team: Ελληνικά <avgeristsironis@gmail.com>\n"
+"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.0.6\n"
-"Last-Translator: Avgeris Tsironis <avgeristsironis@gmail.com>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: el\n"
 
-#: TheoryHarmony.cpp:219
+#: TheoryHarmony.cpp:222
 msgid " - Aural training. Listen a scale and identify if it is major or minor."
 msgstr ""
 " - Ακουστική εξάσκηση. Ακούστε μια κλίμακα και προσδιορίστε αν είναι μείζονα "
 "ή ελάσσονα."
 
-#: TheoryHarmony.cpp:253
+#: TheoryHarmony.cpp:256
 msgid " - Aural training. Listen a scale and identify its type."
 msgstr ""
 " - Ακουστική εξάσκηση. Ακούστε μια κλίμακα και προσδιορίστε τον τύπο της."
 
-#: TheoryHarmony.cpp:406
+#: TheoryHarmony.cpp:439
 msgid ""
 " - Aural training: identify the type of cadence: perfect, imperfect, plagal, "
 "half or deceptive."
@@ -38,7 +38,7 @@ msgstr ""
 " - Ακουστική εξάσκηση. Προσδιορίστε τον τύπο της πτώσης: τέλεια, ατελής, "
 "πλάγια, μισή ή απροσδόκητη."
 
-#: TheoryHarmony.cpp:275
+#: TheoryHarmony.cpp:278
 msgid ""
 " - Identify the type of scale: major or minor natural. Key signature "
 "displayed."
@@ -46,14 +46,14 @@ msgstr ""
 " - Προσδιορίστε τον τύπο της κλίμακας: μείζονα ή φυσική ελάσσονα. Ο οπλισμός "
 "δίνεται."
 
-#: TheoryHarmony.cpp:277
+#: TheoryHarmony.cpp:280
 msgid ""
 " - Identify the type of scale: major or minor natural. No key signature."
 msgstr ""
 " - Προσδιορίστε τον τύπο της κλίμακας: μείζονα ή φυσική ελάσσονα. Ο οπλισμός "
 "δεν δίνεται."
 
-#: TheoryHarmony.cpp:279
+#: TheoryHarmony.cpp:282
 msgid ""
 " - Identify the type of scale: major, minor natural, minor harmonic or minor "
 "melodic. Key signature displayed."
@@ -61,7 +61,7 @@ msgstr ""
 " - Προσδιορίστε τον τύπο της κλίμακας: μείζονα, φυσική ελάσσονα, αρμονική "
 "ελάσσονα ή μελωδική ελάσσονα. Ο οπλισμός δίνεται."
 
-#: TheoryHarmony.cpp:281
+#: TheoryHarmony.cpp:284
 msgid ""
 " - Identify the type of scale: major, minor natural, minor harmonic or minor "
 "melodic. No key signature."
@@ -69,13 +69,13 @@ msgstr ""
 " - Προσδιορίστε τον τύπο της κλίμακας: μείζονα, φυσική ελάσσονα, αρμονική "
 "ελάσσονα ή μελωδική ελάσσονα. Ο οπλισμός δεν δίνεται."
 
-#: TheoryHarmony.cpp:270
+#: TheoryHarmony.cpp:273
 msgid " - Listen a scale and identify if it is major or minor."
 msgstr ""
 " - Ακουστική εκπαίδευση. Ακούστε μια κλίμακα και προσδιορίστε αν είναι "
 "μείζονα ή ελλάσονα."
 
-#: TheoryHarmony.cpp:272
+#: TheoryHarmony.cpp:275
 msgid ""
 " - Listen a scale and identify if it is major, minor natural, minor melodic "
 "or minor harmonic."
@@ -83,17 +83,17 @@ msgstr ""
 " - Ακούστε μια κλίμακα και προσδιορίστε τον τύπο της κλίμακας: μείζονα, "
 "φυσική ελάσσονα, μελωδική ελάσσονα ή αρμονική ελάσσονα."
 
-#: TheoryHarmony.cpp:221 TheoryHarmony.cpp:255
+#: TheoryHarmony.cpp:224 TheoryHarmony.cpp:258
 msgid " - Theory. Identify the type of scale (key signature displayed)."
 msgstr ""
 " - Θεωρία. Προσδιορίστε τον τύπο της κλίμακας (ο οπλισμός εμφανίζεται)."
 
-#: TheoryHarmony.cpp:223 TheoryHarmony.cpp:257
+#: TheoryHarmony.cpp:226 TheoryHarmony.cpp:260
 msgid " - Theory. Identify the type of scale (key signature not displayed)."
 msgstr ""
 " - Θεωρία. Προσδιορίστε τον τύπο της κλίμακας (ο οπλισμός δεν εμφανίζεται)."
 
-#: TheoryHarmony.cpp:408
+#: TheoryHarmony.cpp:441
 msgid ""
 " - Theory: identify the type of cadence: perfect, imperfect, plagal, half or "
 "deceptive."
@@ -101,59 +101,73 @@ msgstr ""
 " - Θεωρία: προσδιορισμός του τύπου της πτώσης: τέλεια, ατελής, πλάγια, μισή "
 "ή απροσδόκητη."
 
-#: TheoryHarmony.cpp:114
+#: TheoryHarmony.cpp:117
 msgid "1st degree"
 msgstr "1η βαθμίδα"
 
-#: TheoryHarmony.cpp:320
+#: TheoryHarmony.cpp:323
 msgid "2nd"
 msgstr "2ας"
 
-#: TheoryHarmony.cpp:117
+#: TheoryHarmony.cpp:120
 msgid "2nd degree"
 msgstr "2η βαθμίδα"
 
-#: TheoryHarmony.cpp:315
+#: TheoryHarmony.cpp:318
 msgid "3rd"
 msgstr "3ης"
 
-#: TheoryHarmony.cpp:120
+#: TheoryHarmony.cpp:123
 msgid "3rd degree"
 msgstr "3η βαθμίδα"
 
-#: TheoryHarmony.cpp:318
+#: TheoryHarmony.cpp:365 TheoryHarmony.cpp:369 TheoryHarmony.cpp:371
+#: TheoryHarmony.cpp:372
+msgid "3rd major"
+msgstr ""
+
+#: TheoryHarmony.cpp:366 TheoryHarmony.cpp:368 TheoryHarmony.cpp:374
+#: TheoryHarmony.cpp:375
+msgid "3rd minor"
+msgstr ""
+
+#: TheoryHarmony.cpp:321
 msgid "4th"
 msgstr "4ης"
 
-#: TheoryHarmony.cpp:123
+#: TheoryHarmony.cpp:126
 msgid "4th degree"
 msgstr "4η βαθμίδα"
 
-#: TheoryHarmony.cpp:316
+#: TheoryHarmony.cpp:319
 msgid "5th"
 msgstr "5ης"
 
-#: TheoryHarmony.cpp:126
+#: TheoryHarmony.cpp:129
 msgid "5th degree"
 msgstr "5η βαθμίδα"
 
-#: TheoryHarmony.cpp:129
+#: TheoryHarmony.cpp:132
 msgid "6th degree"
 msgstr "6η βαθμίδα"
 
-#: TheoryHarmony.cpp:317 TheoryHarmony.cpp:334 TheoryHarmony.cpp:338
+#: TheoryHarmony.cpp:320 TheoryHarmony.cpp:337 TheoryHarmony.cpp:341
 msgid "7th"
 msgstr "7ης"
 
-#: TheoryHarmony.cpp:132
+#: TheoryHarmony.cpp:135
 msgid "7th degree"
 msgstr "7η βαθμίδα"
 
-#: TheoryHarmony.cpp:321
+#: TheoryHarmony.cpp:324
 msgid "8ve"
 msgstr "8βα"
 
-#: TheoryHarmony.cpp:329 TheoryHarmony.cpp:347
+#: TheoryHarmony.cpp:382
+msgid "<a-1>Aural training</a-1> - Listen a chord and identify its type."
+msgstr ""
+
+#: TheoryHarmony.cpp:332 TheoryHarmony.cpp:350
 msgid ""
 "<a-1>Aural training</a-1> - Listen two intervals and identify which one is "
 "greater."
@@ -161,7 +175,7 @@ msgstr ""
 "<a-1>Ακουστική εξάσκηση</a-1> - Ακούστε δύο διαστήματα και προσδιορίστε ποιο "
 "είναι μεγαλύτερο."
 
-#: TheoryHarmony.cpp:380
+#: TheoryHarmony.cpp:413
 msgid ""
 "<a-1>Aural training</a-1> - Train your ear and practise to identify if a "
 "terminal cadence is authentic perfect or plagal."
@@ -169,7 +183,7 @@ msgstr ""
 "<a-1>Ακουστική εξάσκηση</a-1> - Εξασκήστε το αυτί σας και προσπαθήστε να "
 "αναγνωρίσετε αν μια καταληκτική πτώση είναι τέλεια αυθεντική ή πλάγια."
 
-#: TheoryHarmony.cpp:396
+#: TheoryHarmony.cpp:429
 msgid ""
 "<a-1>Aural training</a-1> - Train your ear and practise to identify if a "
 "transient cadence is a half cadence or a deceptive cadence."
@@ -177,21 +191,25 @@ msgstr ""
 "<a-1>Ακουστική εξάσκηση</a-1> - Εξασκήστε το αυτί σας και προσπαθήστε να "
 "αναγνωρίσετε εάν μια ενδιάμεση πτώση είναι μισή ή απροσδόκητη."
 
-#: TheoryHarmony.cpp:343
+#: TheoryHarmony.cpp:346
 msgid "<a-1>Exercise</a-1> - Build intervals on a score."
 msgstr "<a-1>Άσκηση</a-1> - Δημιουργία διαστημάτων σε παρτιτούρα."
 
+#: TheoryHarmony.cpp:381
+msgid "<a-1>Music reading</a-1> - Identify the chord type."
+msgstr ""
+
 #
-#: TheoryHarmony.cpp:328 TheoryHarmony.cpp:345
+#: TheoryHarmony.cpp:331 TheoryHarmony.cpp:348
 msgid "<a-1>Music reading</a-1> - Name the interval (as a number only)."
 msgstr ""
 "<a-1>Μουσική ανάγνωση</a-1> - Αναγνωρίστε το διάστημα (μόνο αριθμητικά)."
 
-#: TheoryHarmony.cpp:346
+#: TheoryHarmony.cpp:349
 msgid "<a-1>Music writing</a-1> - Build intervals on a score."
 msgstr "<a-1>Μουσική γραφή</a-1> - Δημιουργία διαστημάτων σε παρτιτούρα."
 
-#: TheoryHarmony.cpp:379
+#: TheoryHarmony.cpp:412
 msgid ""
 "<a-1>Theory</a-1> - Practise to recognize in a score if a terminal cadence "
 "is authentic perfect or plagal."
@@ -199,7 +217,7 @@ msgstr ""
 "<a-1>Θεωρία</a-1> - Προσπαθήστε να αναγνωρίσετε σε μια παρτιτούρα εάν μια "
 "καταληκτική πτώση είναι τέλεια αυθεντική ή πλάγια."
 
-#: TheoryHarmony.cpp:395
+#: TheoryHarmony.cpp:428
 msgid ""
 "<a-1>Theory</a-1> - Practise to recognize in a score if a transient cadence "
 "is a half cadence or a deceptive one."
@@ -207,7 +225,7 @@ msgstr ""
 "<a-1>Θεωρία</a-1> - Προσπαθήστε να αναγνωρίσετε σε μια παρτιτούρα εάν η "
 "ενδιάμεση πτώση είναι μισή ή απροσδόκητη."
 
-#: TheoryHarmony.cpp:242
+#: TheoryHarmony.cpp:245
 msgid ""
 "<b>Melodic</b> minor scales are a bit more complicated, because they have "
 "one pattern on the way up, but another on the way down."
@@ -215,7 +233,7 @@ msgstr ""
 "<b>Μελωδικές</b> οι ελάσσονες κλίμακες είναι ελαφρώς πιο σύνθετες, διότι "
 "έχουν ένα μοτίβο στο ανέβασμα και διαφορετικό στο κατέβασμα."
 
-#: TheoryHarmony.cpp:361
+#: TheoryHarmony.cpp:394
 msgid ""
 "<b>Terminal cadences</b>. They create a sensation of stability, rest and "
 "ending of the musical phrase or sentence."
@@ -223,7 +241,7 @@ msgstr ""
 "<b>Καταληκτικές πτώσεις</b>. Δημιουργούν την αίσθηση της σταθερότητας, της "
 "παύσης και του τελειώματος μιας μουσικής φράσης ή μέρους."
 
-#: TheoryHarmony.cpp:362
+#: TheoryHarmony.cpp:395
 msgid ""
 "<b>Transient cadences</b>. They typically result in creating tension and a "
 "sensation of unstablility, as well as an expectation of continuation."
@@ -231,12 +249,19 @@ msgstr ""
 "<b>Ενδιάμεσες πτώσεις</b>. Συνήθως οδηγούν στη δημιουργία έντασης και "
 "αίσθησης αβεβαιότητας, καθώς και στην προσδοκία συνέχισης."
 
-#: TheoryHarmony.cpp:151 TheoryHarmony.cpp:156 TheoryHarmony.cpp:168
-#: TheoryHarmony.cpp:175
+#: TheoryHarmony.cpp:154 TheoryHarmony.cpp:159 TheoryHarmony.cpp:171
+#: TheoryHarmony.cpp:178
 msgid "A"
 msgstr "Λα"
 
-#: TheoryHarmony.cpp:53
+#: TheoryHarmony.cpp:358
+msgid ""
+"A chord is a set of three or more overlapping notes (sounding at the same "
+"time). The chords of three notes are called 'triads', those of four 'tetra "
+"chords' ..."
+msgstr ""
+
+#: TheoryHarmony.cpp:56
 msgid ""
 "A chromatic scale has the twelve notes, and each step of the scale is a "
 "semitone. Let's return to the piano keyboard. If you start on a C key and "
@@ -253,7 +278,7 @@ msgstr ""
 msgid "A collection of lessons and exercises on music theory."
 msgstr "Μια συλλογή από μαθήματα και ασκήσεις στη θεωρία της μουσικής."
 
-#: TheoryHarmony.cpp:392
+#: TheoryHarmony.cpp:425
 msgid ""
 "A deceptive cadence occurs when a V chord does not resolve to a I chord, as "
 "the ear is expecting, but instead resolves to any other chord, typically to "
@@ -264,7 +289,7 @@ msgstr ""
 "οποιαδήποτε άλλη συγχορδία, συνήθως σε μία που περιέχει την τονική (VI ή IV "
 "βαθμίδα)."
 
-#: TheoryHarmony.cpp:63
+#: TheoryHarmony.cpp:66
 msgid ""
 "A diatonic scale has seven notes but are usually played and written in "
 "groups of eight notes, so that they sound finished. The 8th note is the same "
@@ -276,11 +301,11 @@ msgstr ""
 "είναι ίδια με την 1η, αλλά μία οκτάβα ψηλότερα ή χαμηλότερα. Οι πρώτες επτά "
 "νότες <b>πρέπει να έχουν</b> διαφορετική ονομασία, Λα-Σολ."
 
-#: TheoryHarmony.cpp:297
+#: TheoryHarmony.cpp:300
 msgid "A great step in studying something is understanding its purpose."
 msgstr "Ένα σπουδαίο βήμα όταν μελετάς κάτι είναι η κατανόηση του σκοπού."
 
-#: TheoryHarmony.cpp:388
+#: TheoryHarmony.cpp:421
 msgid ""
 "A half cadence takes place when the harmony moves to the V degree (dominant) "
 "from any other degree, except the tonic (I). The ending on V causes it to "
@@ -294,7 +319,7 @@ msgstr ""
 "συγχορδίας. Θεωρείται η ασθενέστερη πτώση και δεν μπορεί να χρησιμοποιηθεί "
 "στο τέλος μιας μουσικής φράσης."
 
-#: TheoryHarmony.cpp:389
+#: TheoryHarmony.cpp:422
 msgid ""
 "A particular case of the half cadence is the Phrygian half cadence. It "
 "consists of a IV chord in first inversion that resolves to a V (or V7) chord "
@@ -309,7 +334,7 @@ msgstr ""
 "να τερματίσει μια αργή μουσική κίνηση σε ελάσσονα τρόπο, συνεχιζόμενη από "
 "μια γρήγορη κίνηση σε μείζονα τρόπο."
 
-#: TheoryHarmony.cpp:376
+#: TheoryHarmony.cpp:409
 msgid ""
 "A plagal cadence takes place when grade IV (subdominant) resolves in grade I "
 "(tonic), both in root position. The plagal cadence is less strong than the "
@@ -321,7 +346,7 @@ msgstr ""
 "από την αυθεντική πτώση, ενώ στα αγγλικά είναι γνωστή και ως πτώση «Amen», "
 "καθώς χρησιμοποιείται στο τέλος των περισσότερων εκκλησιαστικών ύμνων."
 
-#: TheoryHarmony.cpp:186
+#: TheoryHarmony.cpp:189
 msgid ""
 "A scale starts with the note that names the key, the tonic. This note is the "
 "<b>tonal center</b> of that key, the note where music in that key feels 'at "
@@ -343,7 +368,7 @@ msgstr ""
 "καταλαβαίνουν ότι το γνωρίζουν. Θα μάθετε σχετικά με αυτό σε πιο προχωρημένα "
 "μαθήματα."
 
-#: TheoryHarmony.cpp:42
+#: TheoryHarmony.cpp:45
 msgid ""
 "A scale, from Latin word 'scala' meaning 'ladder', is a predefined series of "
 "notes going up (ascending) or down (descending). People in different musical "
@@ -363,11 +388,17 @@ msgstr ""
 "παραδοσιακή κινέζικη μουσική– η οκτάβα διαιρείται διαφορετικά, και έτσι "
 "έχουν διαφορετικές κλίμακες."
 
-#: TheoryHarmony.cpp:409 TheoryHarmony.cpp:411
+#: TheoryHarmony.cpp:442 TheoryHarmony.cpp:444
 msgid "All cadences"
 msgstr "Όλες οι πτώσεις"
 
-#: TheoryHarmony.cpp:65
+#: TheoryHarmony.cpp:38
+msgid ""
+"All other texts, by LenMus proyect contributors. Licensed under Creative "
+"Commons Attribution-Share-Alike License 3.0."
+msgstr ""
+
+#: TheoryHarmony.cpp:68
 msgid ""
 "Altough they sound equal, the first one, A, B, C, D, E, F, G# and A, is a "
 "correct scale as all note names are different, but the second one, A, B, C, "
@@ -384,7 +415,7 @@ msgstr ""
 "Λαb είναι η ίδια νότα, δεν είναι, όπως θα μάθετε σε πιο προχωρημένα "
 "μαθήματα!)"
 
-#: TheoryHarmony.cpp:367
+#: TheoryHarmony.cpp:400
 msgid ""
 "An authentic cadence takes place when grade V, dominant, (or V7, a V chord "
 "with an added seventh) resolves in grade I (tonic). The authentic cadence is "
@@ -395,7 +426,7 @@ msgstr ""
 "είναι η ισχυρότερη καταληκτική πτώση, με ισχυρή δύναμη τελειώματος."
 
 # Εξετάστε ---> Μελετήστε
-#: TheoryHarmony.cpp:302
+#: TheoryHarmony.cpp:305
 msgid ""
 "An interval is the distance between two notes, measured as a number. "
 "Intervals are named by the number of steps between the two notes. When we "
@@ -408,19 +439,19 @@ msgstr ""
 "μετρώντας τη χαμηλότερη νότα. Στη συνέχεια μετράμε ανεβαίνοντας στην "
 "υψηλότερη νότα. Μελετήστε το ακόλουθο παράδειγμα:"
 
-#: TheoryHarmony.cpp:206
+#: TheoryHarmony.cpp:209
 msgid "And now in A minor"
 msgstr "Και τώρα σε Λα ελάσσονα"
 
-#: TheoryHarmony.cpp:183
+#: TheoryHarmony.cpp:186
 msgid "And now in D Major"
 msgstr "Και τώρα σε Ρε μείζονα"
 
-#: TheoryHarmony.cpp:237
+#: TheoryHarmony.cpp:240
 msgid "And now let's look at A minor harmonic descending (going down):"
 msgstr "Τώρα ας δούμε την αρμονική κατιούσα (που κατεβαίνει) της Λα ελάσσονας:"
 
-#: TheoryHarmony.cpp:390
+#: TheoryHarmony.cpp:423
 msgid ""
 "Another very specific case is the Andalusian cadence. It only occurs in "
 "minor keys and is given by the progression I-VII-VI-V, where the VI degree "
@@ -433,7 +464,7 @@ msgstr ""
 "χρώμα χάρη στο μισό χρωματικό βήμα μεταξύ της τονικής της VII και της τρίτης "
 "της V."
 
-#: TheoryHarmony.cpp:363
+#: TheoryHarmony.cpp:396
 msgid ""
 "As an exercise you will hear a cadence and based on the sensation it "
 "provokes, try to identify if the cadence is terminal or transient."
@@ -442,7 +473,7 @@ msgstr ""
 "σας δημιουργεί, προσπαθήστε να αναγνωρίσετε εάν η πτώση είναι καταληκτική ή "
 "ενδιάμεση."
 
-#: TheoryHarmony.cpp:198
+#: TheoryHarmony.cpp:201
 msgid ""
 "As with major scales, minor scales also share a common pattern of tones and "
 "semitones. Let's use again the piano keyboard and play all note names along "
@@ -453,12 +484,12 @@ msgstr ""
 "παίξουμε όλες τις νότες μιας οκτάβας, αρχίζοντας όμως αυτή τη φορά από τη "
 "Λα. Θα έχουμε τις νότες Λα-Σι-Ντο-Ρε-Μι-Φα-Σολ-Λα:"
 
-#: TheoryHarmony.cpp:238
+#: TheoryHarmony.cpp:241
 msgid "As you can see, it's exactly the same notes, but in reverse order."
 msgstr ""
 "Όπως παρατηρείτε, είναι ακριβώς οι ίδιες νότες αλλά σε αντίστροφη σειρά."
 
-#: TheoryHarmony.cpp:245
+#: TheoryHarmony.cpp:248
 msgid ""
 "As you can see, the descending scale is not just a back-to-front ascending "
 "scale, (as it was in the harmonic scale). The top end of the melodic scale "
@@ -472,11 +503,11 @@ msgstr ""
 "είναι πάντα η τονική της κλίμακας, αλλά οι δύο νότες ακριβώς από κάτω είναι "
 "αυτές που αλλάζουν ανάλογα με την κατεύθυνση που έχουν."
 
-#: TheoryHarmony.cpp:108
+#: TheoryHarmony.cpp:111
 msgid "Ascending and descending"
 msgstr "Αύξουσα και φθίνουσα"
 
-#: TheoryHarmony.cpp:322
+#: TheoryHarmony.cpp:325
 msgid ""
 "At first you may need to count the notes to determine the interval size but "
 "with practise you will learn to determine the intervals at first sight."
@@ -485,11 +516,15 @@ msgstr ""
 "την απόσταση του διαστήματος, ωστόσο με την εξάσκηση θα μάθετε να "
 "προσδιορίζετε τα διαστήματα με την πρώτη ματιά."
 
-#: TheoryHarmony.cpp:268
+#: TheoryHarmony.cpp:370
+msgid "Augmented fifth"
+msgstr ""
+
+#: TheoryHarmony.cpp:271
 msgid "Aural training exercises"
 msgstr "Ασκήσεις ακουστικής εξάσκησης"
 
-#: TheoryHarmony.cpp:384
+#: TheoryHarmony.cpp:417
 msgid ""
 "Aural training: Identify if a terminal cadence is authentic perfect or "
 "plagal."
@@ -497,7 +532,7 @@ msgstr ""
 "Ακουστική εξάσκηση: Αναγνωρίστε εάν μια καταληκτική πτώση είναι τέλεια "
 "αυθεντική ή πλάγια."
 
-#: TheoryHarmony.cpp:400
+#: TheoryHarmony.cpp:433
 msgid ""
 "Aural training: Identify if a transient cadence is a half cadence or a "
 "deceptive cadence."
@@ -505,49 +540,53 @@ msgstr ""
 "Ακουστική εξάσκηση: Αναγνωρίστε εάν μια ενδιάμεση πτώση είναι μισή ή "
 "απροσδόκητη."
 
-#: TheoryHarmony.cpp:226
+#: TheoryHarmony.cpp:229
 msgid "Aural training: Listen a scale and identify if it is major or minor"
 msgstr ""
 "Ακουστική εξάσκηση: Ακούστε μια κλίμακα και αναγνωρίστε εάν είναι μείζονα ή "
 "ελάσσονα"
 
-#: TheoryHarmony.cpp:261 TheoryHarmony.cpp:283 TheoryHarmony.cpp:285
+#: TheoryHarmony.cpp:264 TheoryHarmony.cpp:286 TheoryHarmony.cpp:288
 msgid "Aural training: Listen a scale and identify its type"
 msgstr "Ακουστική εξάσκηση: Ακούστε μια κλίμακα και προσδιορίστε τον τύπο της"
 
-#: TheoryHarmony.cpp:410
+#: TheoryHarmony.cpp:443
 msgid "Aural training: identify the type of cadence."
 msgstr "Ακουστική εξάσκηση: Αναγνωρίστε τον τύπο της πτώσης."
 
-#: TheoryHarmony.cpp:381 TheoryHarmony.cpp:383
+#: TheoryHarmony.cpp:414 TheoryHarmony.cpp:416
 msgid "Authentic and plagal cadences"
 msgstr "Αυθεντικές και πλάγιες πτώσεις"
 
-#: TheoryHarmony.cpp:366
+#: TheoryHarmony.cpp:399
 msgid "Authentic cadences"
 msgstr "Αυθεντικές πτώσεις"
 
-#: TheoryHarmony.cpp:152 TheoryHarmony.cpp:157 TheoryHarmony.cpp:169
+#: TheoryHarmony.cpp:155 TheoryHarmony.cpp:160 TheoryHarmony.cpp:172
 msgid "B"
 msgstr "Σι"
 
-#: TheoryHarmony.cpp:309
+#: TheoryHarmony.cpp:312
 msgid "B-D as a harmonic (vertical) interval"
 msgstr "Σι-Ρε ως αρμονικό (κάθετο) διάστημα"
 
-#: TheoryHarmony.cpp:308
+#: TheoryHarmony.cpp:311
 msgid "B-D as a melodic (horizontal) interval"
 msgstr "Σι-Ρε ως μελωδικό (οριζόντιο) διάστημα"
 
-#: TheoryHarmony.cpp:176
+#: TheoryHarmony.cpp:28 TheoryHarmony.cpp:357
+msgid "Basic ideas about chords"
+msgstr ""
+
+#: TheoryHarmony.cpp:179
 msgid "Bb"
 msgstr "Σιb"
 
-#: TheoryHarmony.cpp:90
+#: TheoryHarmony.cpp:93
 msgid "Building a major scale"
 msgstr "Φτιάχνοντας μια μείζονα κλίμακα"
 
-#: TheoryHarmony.cpp:299
+#: TheoryHarmony.cpp:302
 msgid ""
 "But even if you are not interested on harmony and on theory about music, "
 "understanding intervals and being able to quickly and accurately recognize "
@@ -560,36 +599,36 @@ msgstr ""
 "παρτιτούρας. Επίσης, είναι απαραίτητο για τη μουσική υπαγόρευση (γράφοντας "
 "τη μουσική που ακούτε)."
 
-#: TheoryHarmony.cpp:146 TheoryHarmony.cpp:153 TheoryHarmony.cpp:158
-#: TheoryHarmony.cpp:177
+#: TheoryHarmony.cpp:149 TheoryHarmony.cpp:156 TheoryHarmony.cpp:161
+#: TheoryHarmony.cpp:180
 msgid "C"
 msgstr "Ντο"
 
-#: TheoryHarmony.cpp:145
+#: TheoryHarmony.cpp:148
 msgid "C Major"
 msgstr "Ντο μείζονα"
 
-#: TheoryHarmony.cpp:213
+#: TheoryHarmony.cpp:216
 msgid "C major scale"
 msgstr "Ντο μείζονα κλίμακα"
 
-#: TheoryHarmony.cpp:202 TheoryHarmony.cpp:214
+#: TheoryHarmony.cpp:205 TheoryHarmony.cpp:217
 msgid "C minor scale"
 msgstr "Ντο ελάσσονα κλίμακα"
 
-#: TheoryHarmony.cpp:170
+#: TheoryHarmony.cpp:173
 msgid "C#"
 msgstr "Ντο#"
 
-#: TheoryHarmony.cpp:359
+#: TheoryHarmony.cpp:392
 msgid "Cadence types"
 msgstr "Τύποι πτώσεων"
 
-#: TheoryHarmony.cpp:28 TheoryHarmony.cpp:353 TheoryHarmony.cpp:354
+#: TheoryHarmony.cpp:30 TheoryHarmony.cpp:386 TheoryHarmony.cpp:387
 msgid "Cadences"
 msgstr "Πτώσεις"
 
-#: TheoryHarmony.cpp:32
+#: TheoryHarmony.cpp:34
 msgid ""
 "Cadences\n"
 "<ul>\n"
@@ -607,7 +646,7 @@ msgstr ""
 "<li> <a-9>Ασκήσεις στις πτώσεις</a-9></li>\n"
 "</ul>"
 
-#: TheoryHarmony.cpp:358
+#: TheoryHarmony.cpp:391
 msgid ""
 "Cadences are not difficult to recognize by ear but it is sometimes harder to "
 "recognize them in written music."
@@ -615,7 +654,14 @@ msgstr ""
 "Οι πτώσεις δεν είναι δύσκολο να αναγνωριστούν με το αυτί, ωστόσο είναι "
 "δύσκολο να αναγνωριστούν στη γραπτή μουσική."
 
-#: TheoryHarmony.cpp:259
+#: TheoryHarmony.cpp:199
+msgid ""
+"Catherine Schmidt-Jones, 'Major Keys and Scales', Connexions, December 16, "
+"2009, <a-1>http://cnx.org/content/m10851/2.22/</a-1>. Her work is licensed "
+"under a Creative Commons Attribution License (CC-BY 1.0)."
+msgstr ""
+
+#: TheoryHarmony.cpp:227 TheoryHarmony.cpp:262
 msgid ""
 "Catherine Schmidt-Jones, 'Minor Keys and Scales', Connexions, December 16, "
 "2009, <a-1>http://cnx.org/content/m10856/2.19/</a-1>. Her work is licensed "
@@ -625,15 +671,31 @@ msgstr ""
 "2009, <a-1>http://cnx.org/content/m10856/2.19/</a-1>. Το έργο της έχει "
 "πνευματικά δικαιώματα Αναφορά Δημιουργού 1.0 Γενικό (CC-BY 1.0)"
 
-#: TheoryHarmony.cpp:52
+#: TheoryHarmony.cpp:356
+msgid "Chords"
+msgstr ""
+
+#: TheoryHarmony.cpp:29
+msgid ""
+"Chords\n"
+"<ul>\n"
+"<li> <a-3>Basic ideas about chords</a-3></li>\n"
+"</ul>"
+msgstr ""
+
+#: TheoryHarmony.cpp:384
+msgid "Chords' identification"
+msgstr ""
+
+#: TheoryHarmony.cpp:55
 msgid "Chromatic scales"
 msgstr "Χρωματικές κλίμακες"
 
-#: TheoryHarmony.cpp:189
+#: TheoryHarmony.cpp:192
 msgid "Common Errors when writing a scale"
 msgstr "Κοινά λάθη όταν γράφουμε μια κλίμακα"
 
-#: TheoryHarmony.cpp:205
+#: TheoryHarmony.cpp:208
 msgid ""
 "Compare again the tune 'Row, Row, Row Your Boat', written in C major and in "
 "A minor. First in C major:"
@@ -641,19 +703,28 @@ msgstr ""
 "Συγκρίνετε και πάλι τη μελωδία «Row, Row, Row Your Boat», γραμμένη σε Ντο "
 "μείζονα και σε Λα ελάσσονα. Πρώτα σε Ντο μείζονα:"
 
-#: TheoryHarmony.cpp:212
+#: TheoryHarmony.cpp:378
+msgid ""
+"Compare and notice the dissonance between E4 and D5 introduced by the 7th:"
+msgstr ""
+
+#: TheoryHarmony.cpp:215
 msgid "Compare these three scales:"
 msgstr "Συγκρίνετε αυτές τις τρεις κλίμακες:"
+
+#: TheoryHarmony.cpp:39
+msgid "Copyright"
+msgstr ""
 
 #: TheoryHarmony.cpp:6
 msgid "Cover page"
 msgstr "Εξώφυλλο"
 
-#: TheoryHarmony.cpp:34
+#: TheoryHarmony.cpp:36
 msgid "Credits"
 msgstr "Αναφορές"
 
-#: TheoryHarmony.cpp:33
+#: TheoryHarmony.cpp:35
 msgid "Credits and Copyrights"
 msgstr "Αναφορές και Πνευματικά Δικαιώματα"
 
@@ -661,32 +732,32 @@ msgstr "Αναφορές και Πνευματικά Δικαιώματα"
 msgid "Credits and copyrights"
 msgstr "Αναφορές και Πνευματικά Δικαιώματα"
 
-#: TheoryHarmony.cpp:147 TheoryHarmony.cpp:159 TheoryHarmony.cpp:164
-#: TheoryHarmony.cpp:171 TheoryHarmony.cpp:178
+#: TheoryHarmony.cpp:150 TheoryHarmony.cpp:162 TheoryHarmony.cpp:167
+#: TheoryHarmony.cpp:174 TheoryHarmony.cpp:181
 msgid "D"
 msgstr "Ρε"
 
-#: TheoryHarmony.cpp:101 TheoryHarmony.cpp:163
+#: TheoryHarmony.cpp:104 TheoryHarmony.cpp:166
 msgid "D Major"
 msgstr "Ρε μείζονα"
 
-#: TheoryHarmony.cpp:103
+#: TheoryHarmony.cpp:106
 msgid "D major has two sharps - F sharp and C sharp."
 msgstr "Η Ρε μείζονα έχει δύο διέσεις – Φα δίεση και Ντο δίεση."
 
-#: TheoryHarmony.cpp:397 TheoryHarmony.cpp:399
+#: TheoryHarmony.cpp:430 TheoryHarmony.cpp:432
 msgid "Deceptive and half cadences"
 msgstr "Απροσδόκητες και μισές πτώσεις"
 
-#: TheoryHarmony.cpp:391
+#: TheoryHarmony.cpp:424
 msgid "Deceptive cadences"
 msgstr "Απροσδόκητες πτώσεις"
 
-#: TheoryHarmony.cpp:111
+#: TheoryHarmony.cpp:114
 msgid "Degrees of the scale"
 msgstr "Βαθμίδες της κλίμακας"
 
-#: TheoryHarmony.cpp:360
+#: TheoryHarmony.cpp:393
 msgid ""
 "Depending on the sensation they create, cadences are classified in two "
 "fundamental types:"
@@ -694,11 +765,11 @@ msgstr ""
 "Ανάλογα με το συναίσθημα που δημιουργούν, οι πτώσεις κατηγοριοποιούνται σε "
 "δύο βασικούς τύπους:"
 
-#: TheoryHarmony.cpp:58
+#: TheoryHarmony.cpp:61
 msgid "Diatonic Scales"
 msgstr "Διατονικές κλίμακες"
 
-#: TheoryHarmony.cpp
+#: TheoryHarmony.cpp:60
 msgid "Diatonic scales"
 msgstr "Διατονικές κλίμακες"
 
@@ -706,11 +777,15 @@ msgstr "Διατονικές κλίμακες"
 msgid "Diatonic scales. Tonal center"
 msgstr "Διατονικές κλίμακες. Τονικό κέντρο"
 
-#: TheoryHarmony.cpp:128
+#: TheoryHarmony.cpp:373
+msgid "Diminished fifth"
+msgstr ""
+
+#: TheoryHarmony.cpp:131
 msgid "Dominant"
 msgstr "Δεσπόζουσα"
 
-#: TheoryHarmony.cpp:337
+#: TheoryHarmony.cpp:340
 msgid ""
 "Don't forget that we were told to write a melodic interval, so in this case "
 "we will write the E after the F, and not directly above it:"
@@ -718,7 +793,7 @@ msgstr ""
 "Μην ξεχνάτε ότι πρέπει να γράψουμε ένα μελωδικό διάστημα, οπότε σε αυτή την "
 "περίπτωση θα γράψουμε το Μι μετά το Φα και όχι αμέσως από πάνω του:"
 
-#: TheoryHarmony.cpp:339
+#: TheoryHarmony.cpp:342
 msgid ""
 "Don't forget to look carefully at the clef, to place the note in the right "
 "line or space!."
@@ -726,16 +801,16 @@ msgstr ""
 "Μην ξεχάσετε να κοιτάξετε προσεκτικά το κλειδί, για να τοποθετήσετε τη νότα "
 "στη σωστή γραμμή ή στο σωστό διάστημα!."
 
-#: TheoryHarmony.cpp:148 TheoryHarmony.cpp:160 TheoryHarmony.cpp:165
-#: TheoryHarmony.cpp:179
+#: TheoryHarmony.cpp:151 TheoryHarmony.cpp:163 TheoryHarmony.cpp:168
+#: TheoryHarmony.cpp:182
 msgid "E"
 msgstr "Μι"
 
-#: TheoryHarmony.cpp:215
+#: TheoryHarmony.cpp:218
 msgid "E flat major scale"
 msgstr "Μιb μείζονα κλίμακα"
 
-#: TheoryHarmony.cpp:97
+#: TheoryHarmony.cpp:100
 msgid ""
 "E major has four sharps - F sharp, C sharp. G sharp and D sharp. You might "
 "be wondering why we choose, for instance, F sharp and not G flat, since they "
@@ -755,84 +830,92 @@ msgstr ""
 "χρησιμοποιούμε Φα#. Αν είχαμε βάλει Σολb, η Φα σαν ονομασία δεν θα μπορούσε "
 "να χρησιμοποιηθεί στην κλίμακα."
 
-#: TheoryHarmony.cpp:74
+#: TheoryHarmony.cpp:77
 msgid "E-F sharp is a tone. F natural sits between them."
 msgstr ""
 "Το Μι-Φα δίεση είναι διάστημα τόνου. Το Φα φυσικό βρίσκεται ανάμεσά τους."
 
-#: TheoryHarmony.cpp:218 TheoryHarmony.cpp:252 TheoryHarmony.cpp:269
-#: TheoryHarmony.cpp:405
+#: TheoryHarmony.cpp:221 TheoryHarmony.cpp:255 TheoryHarmony.cpp:272
+#: TheoryHarmony.cpp:438
 msgid "Exercise 1"
 msgstr "Άσκηση 1"
 
-#: TheoryHarmony.cpp:220 TheoryHarmony.cpp:254 TheoryHarmony.cpp:271
-#: TheoryHarmony.cpp:407
+#: TheoryHarmony.cpp:223 TheoryHarmony.cpp:257 TheoryHarmony.cpp:274
+#: TheoryHarmony.cpp:440
 msgid "Exercise 2"
 msgstr "Άσκηση 2"
 
-#: TheoryHarmony.cpp:222 TheoryHarmony.cpp:256 TheoryHarmony.cpp:274
+#: TheoryHarmony.cpp:225 TheoryHarmony.cpp:259 TheoryHarmony.cpp:277
 msgid "Exercise 3"
 msgstr "Άσκηση 3"
 
-#: TheoryHarmony.cpp:276
+#: TheoryHarmony.cpp:279
 msgid "Exercise 4"
 msgstr "Άσκηση 4"
 
-#: TheoryHarmony.cpp:278
+#: TheoryHarmony.cpp:281
 msgid "Exercise 5"
 msgstr "Άσκηση 5"
 
-#: TheoryHarmony.cpp:280
+#: TheoryHarmony.cpp:283
 msgid "Exercise 6"
 msgstr "Άσκηση 6"
 
-#: TheoryHarmony.cpp:351
+#: TheoryHarmony.cpp:383
+msgid "Exercise: Identify the chord type"
+msgstr ""
+
+#: TheoryHarmony.cpp:385
+msgid "Exercise: Listen a chord and identify its type"
+msgstr ""
+
+#: TheoryHarmony.cpp:354
 msgid "Exercise: Listen two intervals and identify which one is greater"
 msgstr "Άσκηση: Ακούστε δύο διαστήματα και αναγνωρίστε ποιο είναι μεγαλύτερο"
 
-#: TheoryHarmony.cpp:24 TheoryHarmony.cpp:217 TheoryHarmony.cpp:251
-#: TheoryHarmony.cpp:327 TheoryHarmony.cpp:378 TheoryHarmony.cpp:394
-#: TheoryHarmony.cpp:404
+#: TheoryHarmony.cpp:24 TheoryHarmony.cpp:220 TheoryHarmony.cpp:254
+#: TheoryHarmony.cpp:330 TheoryHarmony.cpp:380 TheoryHarmony.cpp:411
+#: TheoryHarmony.cpp:427 TheoryHarmony.cpp:437
 msgid "Exercises"
 msgstr "Ασκήσεις"
 
-#: TheoryHarmony.cpp:344
+#: TheoryHarmony.cpp:347
 msgid "Exercises in this lesson"
 msgstr "Ασκήσεις αυτού του μαθήματος"
 
-#: TheoryHarmony.cpp:31 TheoryHarmony.cpp:401
+#: TheoryHarmony.cpp:33 TheoryHarmony.cpp:434
 msgid "Exercises on cadences"
 msgstr "Ασκήσεις στις πτώσεις"
 
-#: TheoryHarmony.cpp:266
+#: TheoryHarmony.cpp:269
 msgid "Exercises on scales"
 msgstr "Ασκήσεις στις κλίμακες"
 
-#: TheoryHarmony.cpp:149 TheoryHarmony.cpp:173 TheoryHarmony.cpp:180
+#: TheoryHarmony.cpp:152 TheoryHarmony.cpp:176 TheoryHarmony.cpp:183
 msgid "F"
 msgstr "Φα"
 
-#: TheoryHarmony.cpp:172
+#: TheoryHarmony.cpp:175
 msgid "F Major"
 msgstr "Φα Μείζονα"
 
-#: TheoryHarmony.cpp:75
+#: TheoryHarmony.cpp:78
 msgid "F is between these two notes"
 msgstr "Η Φα βρίσκεται μεταξύ αυτών των δύο φθόγγων"
 
-#: TheoryHarmony.cpp:104
+#: TheoryHarmony.cpp:107
 msgid "F major"
 msgstr "Φα μείζονα"
 
-#: TheoryHarmony.cpp:106
+#: TheoryHarmony.cpp:109
 msgid "F major doesn't have any sharps, but it has one flat - B flat."
 msgstr "Η Φα μείζονα δεν έχει καθόλου διέσεις, αλλά έχει μία ύφεση – Σι ύφεση."
 
-#: TheoryHarmony.cpp:161 TheoryHarmony.cpp:166
+#: TheoryHarmony.cpp:164 TheoryHarmony.cpp:169
 msgid "F#"
 msgstr "Φα#"
 
-#: TheoryHarmony.cpp:48
+#: TheoryHarmony.cpp:51
 msgid ""
 "Find E and F on the piano keyboard. The distance between E and F is a "
 "semitone; it's not possible to squeeze another note in between them, because "
@@ -842,7 +925,7 @@ msgstr ""
 "είναι ένα ημιτόνιο. Δεν είναι δυνατόν να χωρέσουμε άλλη νότα μεταξύ τους, "
 "διότι δεν υπάρχει τίποτα ανάμεσά τους στο πληκτρολόγιο του πιάνου."
 
-#: TheoryHarmony.cpp:72
+#: TheoryHarmony.cpp:75
 msgid ""
 "Find G and A on the keyboard. G-A is a tone. We can squeeze a G sharp/A flat "
 "between them (there is a black key between them)"
@@ -851,7 +934,7 @@ msgstr ""
 "τόνου. Μπορούμε να χωρέσουμε μια Σολ δίεση/Λα ύφεση μεταξύ τους (υπάρχει ένα "
 "μαύρο πλήκτρο ανάμεσά τους)."
 
-#: TheoryHarmony.cpp:325
+#: TheoryHarmony.cpp:328
 msgid ""
 "First, the correct way: starting on the lower note (C), we count letter "
 "names to the higher note, (G), C-D-E-F-G =5, which gives us a 5th. This is "
@@ -861,7 +944,7 @@ msgstr ""
 "τις νότες στη σειρά μέχρι την υψηλότερη νότα (Σολ), Ντο-Ρε-Μι-Φα-Σολ=5, που "
 "μας δίνει μια 5η. Αυτή είναι η σωστή απάντηση!"
 
-#: TheoryHarmony.cpp:332
+#: TheoryHarmony.cpp:335
 msgid ""
 "First, you need to work out which notes you have to write, and secondly you "
 "need to write the notes clearly and accurately."
@@ -869,7 +952,7 @@ msgstr ""
 "Αρχικά, πρέπει να αναλογιστείτε ποιες νότες πρέπει να γράψετε και, "
 "ακολούθως, πρέπει να γράψετε τις νότες καθαρά και με ακρίβεια."
 
-#: TheoryHarmony.cpp:210
+#: TheoryHarmony.cpp:213
 msgid ""
 "For each major scale there is minor natural scale having the same notes and "
 "sharing the same accidentals in the key signature. This minor scale is "
@@ -883,7 +966,7 @@ msgstr ""
 "παράδειγμα της Ντο μείζονας και της Λα ελάσσονας. Η Λα ελάσσονα ονομάζεται "
 "σχετική ελάσσονα της Ντο μείζονας."
 
-#: TheoryHarmony.cpp:267
+#: TheoryHarmony.cpp:270
 msgid ""
 "For your convenience, in this lesson you have all the exercises included in "
 "previous lessons on scales."
@@ -891,42 +974,42 @@ msgstr ""
 "Για να διευκολυνθείτε, σε αυτό το μάθημα έχετε όλες τις ασκήσεις κλιμάκων "
 "που περιέχονται σε προηγούμενα μαθήματα."
 
-#: TheoryHarmony.cpp:150 TheoryHarmony.cpp:155 TheoryHarmony.cpp:162
-#: TheoryHarmony.cpp:167 TheoryHarmony.cpp:174
+#: TheoryHarmony.cpp:153 TheoryHarmony.cpp:158 TheoryHarmony.cpp:165
+#: TheoryHarmony.cpp:170 TheoryHarmony.cpp:177
 msgid "G"
 msgstr "Σολ"
 
-#: TheoryHarmony.cpp:98 TheoryHarmony.cpp:154
+#: TheoryHarmony.cpp:101 TheoryHarmony.cpp:157
 msgid "G Major"
 msgstr "Σολ μείζονα"
 
-#: TheoryHarmony.cpp:100
+#: TheoryHarmony.cpp:103
 msgid "G major has one sharp - F sharp."
 msgstr "Η Σολ μείζονα έχει μία δίεση – Φα δίεση."
 
-#: TheoryHarmony.cpp:73
+#: TheoryHarmony.cpp:76
 msgid "G# / Ab is between these two notes"
 msgstr "Το Σολ# / Λαb βρίσκεται ανάμεσα σε αυτές τις δύο νότες"
 
-#: TheoryHarmony.cpp:387
+#: TheoryHarmony.cpp:420
 msgid "Half cadences"
 msgstr "Μισές πτώσεις"
 
-#: TheoryHarmony.cpp:23 TheoryHarmony.cpp:231
+#: TheoryHarmony.cpp:23 TheoryHarmony.cpp:234
 msgid "Harmonic and melodic minor scales"
 msgstr "Αρμονικές και μελωδικές ελάσσονες κλίμακες"
 
-#: TheoryHarmony.cpp:83
+#: TheoryHarmony.cpp:86
 msgid "Here are two more examples, the G major and F# major scales:"
 msgstr ""
 "Ακολουθούν δύο παραδείγματα με τις κλίμακες της Σολ μείζονας και Φα# "
 "μείζονας:"
 
-#: TheoryHarmony.cpp:55
+#: TheoryHarmony.cpp:58
 msgid "Here is an ascending chromatic scale starting on B flat:"
 msgstr "Ακολουθεί μια ανιούσα χρωματική κλίμακα που ξεκινά από Σι ύφεση:"
 
-#: TheoryHarmony.cpp:201
+#: TheoryHarmony.cpp:204
 msgid ""
 "Here you have more examples of minor natural scales. Take paper and pencil, "
 "copy those scales, and find the pattern of tones and semitones."
@@ -935,7 +1018,7 @@ msgstr ""
 "χαρτί και μολύβι, αντιγράψτε αυτές τις κλίμακες και βρείτε τα μοτίβα των "
 "τόνων και των ημιτονίων."
 
-#: TheoryHarmony.cpp:244
+#: TheoryHarmony.cpp:247
 msgid ""
 "Here's A minor melodic, ascending and descending. Click the play button and "
 "concentrate on the notes in red -- they're the ones which change on the way "
@@ -945,18 +1028,18 @@ msgstr ""
 "αναπαραγωγής και συγκεντρωθείτε στις κόκκινες νότες – είναι αυτές που "
 "αλλάζουν στην κατιούσα κίνηση."
 
-#: TheoryHarmony.cpp:136
+#: TheoryHarmony.cpp:139
 msgid "Here's a summary of the notes of the scales of C, D, G and F major:"
 msgstr ""
 "Ακολουθεί μια σύνοψη των φθόγγων των Ντο, Ρε, Σολ, Φα μειζόνων κλιμάκων:"
 
-#: TheoryHarmony.cpp:110
+#: TheoryHarmony.cpp:113
 msgid "Here's an example of F major descending, using the bass clef."
 msgstr ""
 "Ακολουθεί ένα παράδειγμα της κατιούσας Φα μείζονας, χρησιμοποιώντας το "
 "κλειδί του Φα."
 
-#: TheoryHarmony.cpp:303
+#: TheoryHarmony.cpp:306
 msgid ""
 "Here, we start counting on the lower note, which is C. We count upwards to "
 "the higher note, E. This gives us C, D and E. We counted three notes, so "
@@ -966,7 +1049,7 @@ msgstr ""
 "Υπολογίζουμε προς τα πάνω ως την υψηλότερη νότα, τη Μι. Αυτό μας δίνει Ντο, "
 "Ρε και Μι. Μετρήσαμε τρεις νότες, έτσι αυτό το διάστημα ονομάζεται τρίτης."
 
-#: TheoryHarmony.cpp:96
+#: TheoryHarmony.cpp:99
 msgid ""
 "Hopefully by now you've got the idea, so here are the rest of the notes of "
 "the E major scale:"
@@ -974,7 +1057,7 @@ msgstr ""
 "Ας ελπίσουμε ότι μέχρι τώρα έχετε συλλάβει τη γενική ιδέα. Έτσι, ακολουθούν "
 "οι υπόλοιπες νότες της Μι μείζονας κλίμακας:"
 
-#: TheoryHarmony.cpp:188
+#: TheoryHarmony.cpp:191
 msgid ""
 "How are these moods produced? Music in a particular key tends to use only "
 "some of the many possible notes available; these notes are listed in the "
@@ -1009,31 +1092,31 @@ msgstr ""
 "μουσικοί, μπορούν να διακρίνουν τις μείζονες από τις ελάσσονες απλώς "
 "ακούγοντας τη μελωδία."
 
-#: TheoryHarmony.cpp:115
+#: TheoryHarmony.cpp:118
 msgid "I"
 msgstr "I"
 
-#: TheoryHarmony.cpp:137
+#: TheoryHarmony.cpp:140
 msgid "I (1st)"
 msgstr "I (1η)"
 
-#: TheoryHarmony.cpp:144
+#: TheoryHarmony.cpp:147
 msgid "I (Octave)"
 msgstr "I (Οκτάβα)"
 
-#: TheoryHarmony.cpp:118 TheoryHarmony.cpp:138
+#: TheoryHarmony.cpp:121 TheoryHarmony.cpp:141
 msgid "II"
 msgstr "II"
 
-#: TheoryHarmony.cpp:121 TheoryHarmony.cpp:139
+#: TheoryHarmony.cpp:124 TheoryHarmony.cpp:142
 msgid "III"
 msgstr "III"
 
-#: TheoryHarmony.cpp:124 TheoryHarmony.cpp:140
+#: TheoryHarmony.cpp:127 TheoryHarmony.cpp:143
 msgid "IV"
 msgstr "IV"
 
-#: TheoryHarmony.cpp:71
+#: TheoryHarmony.cpp:74
 msgid ""
 "If in the piano keyboard there is one note between the two notes we are "
 "looking at, the distance between those two notes is a tone. In the following "
@@ -1044,7 +1127,7 @@ msgstr ""
 "τόνου. Στην ακόλουθη εικόνα έχουν χρωματιστεί σε ζεύγη οι νότες των οποίων η "
 "απόσταση είναι ένας τόνος."
 
-#: TheoryHarmony.cpp:47
+#: TheoryHarmony.cpp:50
 msgid ""
 "If two notes are as close as possible on the piano keyboard (two "
 "neighbouring keys, whatever colour, black or white), we call the distance "
@@ -1056,7 +1139,7 @@ msgstr ""
 "μεταξύ τους <b>ημιτόνιο</b>. Στην ακόλουθη εικόνα έχουν χρωματιστεί σε ζεύγη "
 "οι νότες των οποίων η απόσταση είναι ένα ημιτόνιο."
 
-#: TheoryHarmony.cpp:304
+#: TheoryHarmony.cpp:307
 msgid ""
 "If we count four notes, the interval is a fourth, and so on, until we reach "
 "eight. If we count eight notes the interval is called an <b>octave</b>."
@@ -1065,7 +1148,7 @@ msgstr ""
 "φτάσουμε στην όγδοη. Αν μετρήσουμε οκτώ νότες, το διάστημα ονομάζεται "
 "<b>οκτάβα</b>."
 
-#: TheoryHarmony.cpp:80
+#: TheoryHarmony.cpp:83
 msgid ""
 "If we look again at the C major scale, we will see the following pattern of "
 "tones and semitones (T=tone and S=semitone):"
@@ -1073,7 +1156,7 @@ msgstr ""
 "Αν κοιτάξουμε πάλι την Ντο μείζονα κλίμακα, θα δούμε το ακόλουθο μοτίβο "
 "τόνων και ημιτονίων (Τ=τόνος και S=ημιτόνιο):"
 
-#: TheoryHarmony.cpp:298
+#: TheoryHarmony.cpp:301
 msgid ""
 "If you are interested in harmony and composition, you should know that "
 "intervals are the building blocks of harmony: you will not be able to "
@@ -1083,7 +1166,7 @@ msgstr ""
 "διαστήματα είναι το βασικό δομικό συστατικό της αρμονίας: δεν θα μπορέσετε "
 "να κατανοήσετε την αρμονία χωρίς να μελετήσετε τα περί διαστημάτων."
 
-#: TheoryHarmony.cpp:190
+#: TheoryHarmony.cpp:193
 msgid ""
 "If you have an examination, you might be asked to write any scale, ascending "
 "or descending, either with a key signature or using accidentals. Here are "
@@ -1094,7 +1177,7 @@ msgstr ""
 "χρησιμοποιώντας σημεία αλλοίωσης. Ακολουθούν ορισμένα κοινά <b>λάθη</b>: "
 "βεβαιωθείτε ότι δεν τα κάνετε!"
 
-#: TheoryHarmony.cpp:333
+#: TheoryHarmony.cpp:336
 msgid ""
 "If you have to write an interval, you will be given the first (lower) note "
 "of the two, and you will be told what interval to calculate; something like "
@@ -1103,7 +1186,7 @@ msgstr ""
 "Εάν έχετε να γράψετε ένα διάστημα, θα σας δοθεί η πρώτη (χαμηλότερη) νότα εκ "
 "των δύο και θα σας υποδειχθεί τι διάστημα να υπολογίσετε. Κάτι σαν και αυτό:"
 
-#: TheoryHarmony.cpp:41
+#: TheoryHarmony.cpp:44
 msgid ""
 "If you're learning an instrument you've probably played some scales already, "
 "but you might have learnt to play them without thinking about the actual "
@@ -1116,7 +1199,7 @@ msgstr ""
 "τη μουσική και να μάθετε σχετικά με την αρμονία, πρέπει να γνωρίζετε τις "
 "κλίμακες και πώς αυτές δομούνται."
 
-#: TheoryHarmony.cpp:89
+#: TheoryHarmony.cpp:92
 msgid ""
 "If you've ever wondered why we need notes like E sharp when F seems to be "
 "the same note, you'll see that we need them in keys like F sharp major!"
@@ -1125,7 +1208,7 @@ msgstr ""
 "Φα μοιάζει να είναι η ίδια νότα, θα δείτε ότι τους χρειαζόμαστε σε οπλισμούς "
 "όπως αυτόν της Φα δίεσης μείζονας!"
 
-#: TheoryHarmony.cpp:377
+#: TheoryHarmony.cpp:410
 msgid ""
 "In both cadence types, authentic and plagal, other chords playing the same "
 "harmonic functions can be used. For example, in the authentic cadence the V "
@@ -1140,7 +1223,7 @@ msgstr ""
 "μπορεί να παιχτεί από τη II. Αυτές οι αντικαταστάσεις προσθέτουν ποικιλία "
 "και αρμονικούς χρωματισμούς στην πτώση."
 
-#: TheoryHarmony.cpp:82
+#: TheoryHarmony.cpp:85
 msgid ""
 "In fact, all major scales follow the same pattern, so try to <b>remember it!"
 "</b> (tip: it is the pattern of white keys on the piano keyboard, starting "
@@ -1150,7 +1233,7 @@ msgstr ""
 "οπότε προσπαθήστε να <b>το θυμηθείτε!</b> (Συμβουλή: είναι το μοτίβο των "
 "λευκών πλήκτρων στο πληκτρολόγιο πιάνου, ξεκινώντας από το Ντο.)"
 
-#: TheoryHarmony.cpp:79
+#: TheoryHarmony.cpp:82
 msgid ""
 "In fact, what we need to know is the distance between each of the notes in "
 "the scale, measured in tones and semitones. Let's use again the piano "
@@ -1160,7 +1243,7 @@ msgstr ""
 "καθεμιάς από τις νότες στην κλίμακα, μετρούμενη σε τόνους και ημιτόνια. Ας "
 "χρησιμοποιήσουμε ξανά τα πλήκτρα του πιάνου:"
 
-#: TheoryHarmony.cpp:355
+#: TheoryHarmony.cpp:388
 msgid ""
 "In music, the term 'cadence' has several meanings. In harmony we are going "
 "to refer to a particular sequence of usually two chords whose function it is "
@@ -1181,7 +1264,7 @@ msgstr ""
 "εδραίωση της τονικότητας. Ακούστε για παράδειγμα τις ακόλουθες τρεις "
 "συγχορδίες:"
 
-#: TheoryHarmony.cpp:77
+#: TheoryHarmony.cpp:80
 msgid ""
 "In the C major scale, both the first and the last notes are Cs, but how do "
 "we know what the in-between notes are?"
@@ -1189,7 +1272,7 @@ msgstr ""
 "Στην Ντο μείζονα κλίμακα, η πρώτη και η τελευταία νότα είναι Ντο. Πώς "
 "ξέρουμε, όμως, ποιες είναι οι νότες μεταξύ αυτών των δύο Ντο;"
 
-#: TheoryHarmony.cpp:250
+#: TheoryHarmony.cpp:253
 msgid ""
 "In the melodic minor scale, the sixth and seventh notes of the scale are "
 "each raised by one half step when going up the scale, but return to the "
@@ -1203,7 +1286,7 @@ msgstr ""
 "συχνά χρησιμοποιούν αυτό το ιδιαίτερο μοτίβο αλλοιώσεων, έτσι θα βρείτε πολύ "
 "χρήσιμο να εξασκηθείτε σε μελωδικές ελάσσονες κλίμακες στο όργανό σας."
 
-#: TheoryHarmony.cpp:403
+#: TheoryHarmony.cpp:436
 msgid ""
 "In this theme we just propose you some additional exercises to identify "
 "cadences, both aurally and in written music."
@@ -1211,11 +1294,11 @@ msgstr ""
 "Σε αυτό το θέμα προτείνουμε κάποιες επιπλέον ασκήσεις αναγνώρισης πτώσεων, "
 "τόσο σε ακουστικό όσο και σε γραπτό επίπεδο."
 
-#: TheoryHarmony.cpp:311
+#: TheoryHarmony.cpp:314
 msgid "Interval Numbers"
 msgstr "Αρίθμηση διαστημάτων"
 
-#: TheoryHarmony.cpp:294
+#: TheoryHarmony.cpp:297
 msgid "Intervals"
 msgstr "Διαστήματα"
 
@@ -1231,11 +1314,11 @@ msgstr ""
 "<li> <a-3>Τι είναι ένα διάστημα;</a-3></li>\n"
 "</ul>"
 
-#: TheoryHarmony.cpp:350
+#: TheoryHarmony.cpp:353
 msgid "Intervals' comparison"
 msgstr "Σύγκριση διαστημάτων"
 
-#: TheoryHarmony.cpp:113
+#: TheoryHarmony.cpp:116
 msgid ""
 "It is customary to refer to the scale degrees by Roman numerals as well as "
 "by name. You already know that the first note, the one that gives name to "
@@ -1245,7 +1328,7 @@ msgstr ""
 "Γνωρίζετε ήδη ότι η πρώτη νότα, αυτή που δίνει το όνομα της κλίμακας, "
 "ονομάζεται «τονική». Οι άλλες νότες ονομάζονται ως εξής:"
 
-#: TheoryHarmony.cpp:211
+#: TheoryHarmony.cpp:214
 msgid ""
 "It is easy to predict where the relative minor of a major key can be found. "
 "Notice that the pattern for minor scales overlaps the pattern for major "
@@ -1268,7 +1351,7 @@ msgstr ""
 "οπλισμό με τη Μι ύφεση μείζονα, αφού η νότα Μι ύφεση είναι κατά μία τρίτη "
 "μικρή υψηλότερη από την Ντο."
 
-#: TheoryHarmony.cpp:199
+#: TheoryHarmony.cpp:202
 msgid ""
 "It is the scale of <b>A minor natural</b>. If we analyse it we will find the "
 "following pattern of tones and semitones (T=tone and S=semitone):"
@@ -1276,7 +1359,7 @@ msgstr ""
 "Είναι η κλίμακα της <b>Λα αρμονικής ελάσσονας</b>. Αν την αναλύσουμε, θα "
 "βρούμε το ακόλουθο μοτίβο τόνων και ημιτονίων (Τ=τόνος και S=ημιτόνιο):"
 
-#: TheoryHarmony.cpp:62
+#: TheoryHarmony.cpp:65
 msgid ""
 "It is the scale of <b>C major</b>, and it is an example of a diatonic scale. "
 "Most of the scales you will have played up to now will have been diatonic "
@@ -1287,11 +1370,11 @@ msgstr ""
 "διατονικές. Είναι ο πλέον συνηθισμένος τύπος κλίμακας στη Δυτική κλασική "
 "μουσική."
 
-#: TheoryHarmony.cpp:134
+#: TheoryHarmony.cpp:137
 msgid "Leading note"
 msgstr "Προσαγωγέας"
 
-#: TheoryHarmony.cpp:348
+#: TheoryHarmony.cpp:351
 msgid ""
 "Lesson based on materials from <a-1>www.mymusictheory.com</a-1>. Copyright "
 "(c) Victoria K. Williams. Used here with her permission."
@@ -1300,11 +1383,11 @@ msgstr ""
 "Πνευματική ιδιοκτησία (c) της Victoria K. Williams. Χρησιμοποιήθηκε με την "
 "άδειά της."
 
-#: TheoryHarmony.cpp:102
+#: TheoryHarmony.cpp:105
 msgid "Let's look at D major next:"
 msgstr "Ας δούμε τη Ρε μείζονα που ακολουθεί:"
 
-#: TheoryHarmony.cpp:239
+#: TheoryHarmony.cpp:242
 msgid ""
 "Let's look at two other examples: E minor harmonic and D minor harmonic. "
 "Look carefully at how many semitones there are between each note."
@@ -1312,7 +1395,7 @@ msgstr ""
 "Ας δούμε δύο άλλα παραδείγματα: τη Μι αρμονική ελάσσονα και τη Ρε αρμονική "
 "ελάσσονα. Κοιτάξτε προσεκτικά πόσα ημιτόνια υπάρχουν ανάμεσα σε κάθε νότα."
 
-#: TheoryHarmony.cpp:61
+#: TheoryHarmony.cpp:64
 msgid ""
 "Let's play all note names along one octave, starting on C. We will get the "
 "notes C-D-E-F-G-B-A-C:"
@@ -1320,20 +1403,20 @@ msgstr ""
 "Ας παίξουμε όλες τις νότες μίας οκτάβας, ξεκινώντας από το Ντο. Θα έχουμε "
 "τις νότες Ντο-Ρε-Μι-Φα-Σολ-Λα-Σι-Ντο:"
 
-#: TheoryHarmony.cpp:246
+#: TheoryHarmony.cpp:249
 msgid "Let's see two more examples, E minor melodic and D minor melodic:"
 msgstr ""
 "Ας δούμε δύο ακόμα παραδείγματα, Μι μελωδική ελάσσονα και Ρε μελωδική "
 "ελάσσονα:"
 
-#: TheoryHarmony.cpp:236
+#: TheoryHarmony.cpp:239
 msgid ""
 "Let's start by building a scale of A minor harmonic ascending (going up):"
 msgstr ""
 "Ας αρχίσουμε φτιάχνοντας μια ανιούσα Λα αρμονική ελάσσονα (πηγαίνει προς τα "
 "πάνω):"
 
-#: TheoryHarmony.cpp:43
+#: TheoryHarmony.cpp:46
 msgid ""
 "Let's start learning about the 'bricks' for building scales: <b>tones</b> "
 "and <b>semitones</b>."
@@ -1341,7 +1424,7 @@ msgstr ""
 "Ας ξεκινήσουμε να μαθαίνουμε για τα «δομικά συστατικά» στο χτίσιμο μιας "
 "κλίμακας: τους <b>τόνους</b> και τα <b>ημιτόνια</b>."
 
-#: TheoryHarmony.cpp:240
+#: TheoryHarmony.cpp:243
 msgid ""
 "Let's write again the E minor harmonic and D minor harmonic but using key "
 "signatures. It's easy to see that <b>the harmonic minor scale raises the "
@@ -1352,7 +1435,7 @@ msgstr ""
 "αρμονική ελάσσονα κλίμακα υψώνει την έβδομη νότα της φυσικής κλίμακας κατά "
 "μισό βήμα (ημιτόνιο)</b>:"
 
-#: TheoryHarmony.cpp:247
+#: TheoryHarmony.cpp:250
 msgid ""
 "Let's write again the E minor melodic and D minor melodic but using key "
 "signatures. It's easy to see that <b>the sixth and seventh notes of the "
@@ -1365,7 +1448,7 @@ msgstr ""
 "ανεβαίνουμε την κλίμακα, και επιστρέφουν στη φυσική ελάσσονα όταν "
 "κατεβαίνουμε την κλίμακα</b>:"
 
-#: TheoryHarmony.cpp:87
+#: TheoryHarmony.cpp:90
 msgid "Let's write again the G Major and F# Major but using key signatures:"
 msgstr ""
 "Ας γράψουμε ξανά τη Σολ μείζονα και τη Φα# μείζονα χρησιμοποιώντας τώρα τον "
@@ -1376,7 +1459,7 @@ msgid "Licensed under the Creative Commons Attribution/Share-Alike License;"
 msgstr ""
 "Υπόκειται σε Πνευματικά Δικαιώματα Αναφορά Δημιουργού - Παρόμοια Διανομή,"
 
-#: TheoryHarmony.cpp:184
+#: TheoryHarmony.cpp:187
 msgid ""
 "Listen to this tune in G major and in D major. The music may look quite "
 "different, but the only difference when you listen is that one sounds higher "
@@ -1400,19 +1483,19 @@ msgstr ""
 "λόγος που επιλέγουμε έναν συγκεκριμένο τόνο κλίμακας είναι απλώς διότι η "
 "μελωδία είναι ευκολότερο να τραγουδηθεί ή να παιχτεί σε αυτή την τονικότητα."
 
-#: TheoryHarmony.cpp:76
+#: TheoryHarmony.cpp:79
 msgid "Major Scales"
 msgstr "Μείζονες κλίμακες"
 
-#: TheoryHarmony.cpp:122
+#: TheoryHarmony.cpp:125
 msgid "Mediant"
 msgstr "Μέση"
 
-#: TheoryHarmony.cpp:305
+#: TheoryHarmony.cpp:308
 msgid "Melodic and Harmonic Intervals"
 msgstr "Μελωδικά και αρμονικά διαστήματα"
 
-#: TheoryHarmony.cpp:310
+#: TheoryHarmony.cpp:313
 msgid ""
 "Melodic intervals are read horizontally and are found in melodies, whereas "
 "harmonic intervals are read vertically, and are found in chords. But, in any "
@@ -1423,27 +1506,27 @@ msgstr ""
 "συγχορδίες. Σε κάθε περίπτωση, όμως, μετριούνται και ονομάζονται με τον ίδιο "
 "τρόπο."
 
-#: TheoryHarmony.cpp:234
+#: TheoryHarmony.cpp:237
 msgid "Minor harmonic scales"
 msgstr "Αρμονικές ελάσσονες κλίμακες"
 
-#: TheoryHarmony.cpp:241
+#: TheoryHarmony.cpp:244
 msgid "Minor melodic scales"
 msgstr "Μελωδικές ελάσσονες κλίμακες"
 
-#: TheoryHarmony.cpp:22 TheoryHarmony.cpp:197
+#: TheoryHarmony.cpp:22 TheoryHarmony.cpp:200
 msgid "Minor natural scales"
 msgstr "Φυσικές ελάσσονες κλίμακες"
 
-#: TheoryHarmony.cpp:181
+#: TheoryHarmony.cpp:184
 msgid "Music in different major keys"
 msgstr "Μελωδίες σε διαφορετικούς μείζονες οπλισμούς"
 
-#: TheoryHarmony.cpp:203
+#: TheoryHarmony.cpp:206
 msgid "Music in minor keys"
 msgstr "Μελωδίες σε ελάσσονες τονικότητες"
 
-#: TheoryHarmony.cpp:204
+#: TheoryHarmony.cpp:207
 msgid ""
 "Music in minor keys has a different sound and emotional feel than music that "
 "is in a major key. Music in a major key sounds bright and cheerful while "
@@ -1455,7 +1538,7 @@ msgstr ""
 "ηχεί λαμπρά και χαρούμενα, ενώ η μελωδία σε μια ελάσσονα τονικότητα κάποιες "
 "φορές περιγράφεται ως σοβαρή, θλιβερή, μυστηριώδης ή δυσοίωνη."
 
-#: TheoryHarmony.cpp:249
+#: TheoryHarmony.cpp:252
 msgid ""
 "Music in minor keys is usually described as sad, mysterious, solemn, or "
 "ominous. When using the minor natural scale the music has also and ancient "
@@ -1475,7 +1558,7 @@ msgstr ""
 "προχωρημένα μαθήματα), αποφεύγοντας τη δημιουργία αυτού του «μεσαιωνικού» "
 "συναισθήματος."
 
-#: TheoryHarmony.cpp:248
+#: TheoryHarmony.cpp:251
 msgid "Music in minor scales"
 msgstr "Μελωδίες σε ελάσσονες κλίμακες"
 
@@ -1496,7 +1579,7 @@ msgstr ""
 "αποφάσισα να δημοσιεύσω τα μαθήματα αμέσως μόλις τα γράψω, αντί να περιμένω "
 "να ολοκληρωθεί όλο το βιβλίο."
 
-#: TheoryHarmony.cpp:95
+#: TheoryHarmony.cpp:98
 msgid ""
 "Next we meet our first semitone: A. (There is nothing we can squeeze in "
 "between #G and A)."
@@ -1504,7 +1587,7 @@ msgstr ""
 "Στη συνέχεια θα γνωρίσουμε το πρώτο μας ημιτόνιο: Λα (δεν υπάρχει τίποτα να "
 "χωρέσουμε μεταξύ του #Σολ και του Λα)."
 
-#: TheoryHarmony.cpp:192
+#: TheoryHarmony.cpp:195
 msgid ""
 "Not noticing whether the question asks for a <b>key signature</b> or "
 "<b>accidentals</b>."
@@ -1512,15 +1595,15 @@ msgstr ""
 "Δεν έχει γίνει κατανοητό εάν η άσκηση ζητά <b>οπλισμό</b> ή <b>αλλοιώσεις</"
 "b>."
 
-#: TheoryHarmony.cpp:191
+#: TheoryHarmony.cpp:194
 msgid "Not using a <b>different</b> letter name for each note."
 msgstr "Να μη χρησιμοποιείτε <b>διαφορετική</b> ονομασία για κάθε νότα."
 
-#: TheoryHarmony.cpp:49 TheoryHarmony.cpp:51
+#: TheoryHarmony.cpp:52 TheoryHarmony.cpp:54
 msgid "Nothing possible here!"
 msgstr "Τίποτα δεν είναι δυνατόν εδώ!"
 
-#: TheoryHarmony.cpp:307
+#: TheoryHarmony.cpp:310
 msgid ""
 "Notice that the words 'harmonic' and 'melodic' used to describe intervals "
 "has nothing to do with its meaning when we use them to talk about harmonic "
@@ -1530,14 +1613,14 @@ msgstr ""
 "περιγράψουμε διαστήματα δεν έχει καμία σχέση με τη σημασία που έχουν αυτές "
 "οι λέξεις όταν περιγράφουμε αρμονικές και μελωδικές ελάσσονες κλίμακες."
 
-#: TheoryHarmony.cpp:50
+#: TheoryHarmony.cpp:53
 msgid ""
 "Now find A and B flat. The distance between A and B flat is also a semitone."
 msgstr ""
 "Τώρα βρείτε τη Λα και τη Σι ύφεση. Η απόσταση μεταξύ Λα και Σι ύφεσης είναι "
 "επίσης ένα ημιτόνιο."
 
-#: TheoryHarmony.cpp:357
+#: TheoryHarmony.cpp:390
 msgid ""
 "Now the sensation is not conclusive. It is more like a short pause and it "
 "creates an expectation of continuation. If we end the music piece at the "
@@ -1548,7 +1631,7 @@ msgstr ""
 "στην τελευταία συγχορδία, θα αφήσουμε τον ακροατή με μια λαχτάρα για "
 "περισσότερα."
 
-#: TheoryHarmony.cpp:326
+#: TheoryHarmony.cpp:329
 msgid ""
 "Now the wrong way. Starting on the first note (G), we count the letter names "
 "to the second note (C), G-A-B-C =4, which gives us a 4th. This is the wrong "
@@ -1558,7 +1641,7 @@ msgstr ""
 "των φθόγγων ως τη δεύτερη νότα (Ντο), Σολ-Λα-Σι-Ντο=4, η οποία μας δίνει μια "
 "4η. Αυτή είναι η λανθασμένη απάντηση!"
 
-#: TheoryHarmony.cpp:88
+#: TheoryHarmony.cpp:91
 msgid ""
 "Observe that if you write a major scale with its key signature <b>there are "
 "no accidentals to add!</b>"
@@ -1566,7 +1649,15 @@ msgstr ""
 "Παρατηρήστε ότι, εάν γράψετε μια μείζονα κλίμακα με τον οπλισμό της, <b>δεν "
 "υπάρχουν αλλοιώσεις για να προσθέσετε!</b>"
 
-#: TheoryHarmony.cpp:78
+#: TheoryHarmony.cpp:376
+msgid ""
+"Obviously, any chord can be built on any of the 12 notes of the chromatic "
+"scale and, depending on the tonality in which we are, the chord will have "
+"the range that expresses its root note: 1st degree (I - tonic); 4th degree "
+"(IV - subdominant); 5th degree (V - dominant), etc."
+msgstr ""
+
+#: TheoryHarmony.cpp:81
 msgid ""
 "On the piano, a C major scale uses all the white notes (so it doesn't have "
 "any sharps or flats), but on other instruments, we don't have white notes, "
@@ -1576,7 +1667,7 @@ msgstr ""
 "έχει καμία δίεση ή ύφεση), αλλά σε άλλα όργανα δεν έχουμε λευκά πλήκτρα. "
 "Οπότε πώς ξέρουμε ποιες νότες πρέπει να χρησιμοποιήσουμε;"
 
-#: TheoryHarmony.cpp:243
+#: TheoryHarmony.cpp:246
 msgid ""
 "On the way up (ascending), the sixth and seventh degrees of the scale are "
 "each raised by one half step, creating the pattern <b>T-S-T-T-T-T-S</b>, but "
@@ -1588,7 +1679,7 @@ msgstr ""
 "S</b>, κατεβαίνοντας όμως το μοτίβο είναι αυτό της φυσικής ελάσσονας: <b>Τ-Τ-"
 "S-Τ-Τ-S-Τ</b>."
 
-#: TheoryHarmony.cpp:402
+#: TheoryHarmony.cpp:435
 msgid ""
 "Once you have reviewed all cadence types it is important to learn to "
 "recognize and identify them. A useful trick is to associate each cadence "
@@ -1600,7 +1691,7 @@ msgstr ""
 "συνδέετε κάθε πτώση με μια μελωδία ή με ένα τραγούδι που γνωρίζετε καλά. "
 "Εξασκηθείτε στην αναγνώριση πτώσεων ενόσω ακούτε μουσική."
 
-#: TheoryHarmony.cpp:340
+#: TheoryHarmony.cpp:343
 msgid ""
 "One interval is a bit more awkward to write than the others, and that is the "
 "harmonic 2nd. Harmonic intervals are written directly above the given note, "
@@ -1615,9 +1706,28 @@ msgstr ""
 "Αν προσπαθήσετε να το γράψετε ακριβώς από πάνω, θα δημιουργήσετε κάτι που "
 "δεν διαβάζεται, όπως αυτό:"
 
-#: TheoryHarmony.cpp:342
+#: TheoryHarmony.cpp:364
+msgid "Perfect major"
+msgstr ""
+
+#: TheoryHarmony.cpp:367
+msgid "Perfect minor"
+msgstr ""
+
+#: TheoryHarmony.cpp:345
 msgid "Perfect!"
 msgstr "Τέλεια!"
+
+#: TheoryHarmony.cpp:40
+msgid ""
+"Permission is granted to copy, distribute and/or modify this book under the "
+"terms of the Creative Commons Attribution-Share-Alike License 3.0, with the "
+"exception of those pages where the author or group of authors has been "
+"clearly marked. Those pages are subject to the limitations described in the "
+"previous 'credits' section. The text of the Creative Commons Attribution-"
+"Share-Alike licence is available at <a-1>http://creativecommons.org/licenses/"
+"by-sa/3.0/</a-1>"
+msgstr ""
 
 #: TheoryHarmony.cpp:12
 msgid ""
@@ -1636,15 +1746,15 @@ msgstr ""
 "Παρόμοια Διανομή 3.0 Μη εισαγόμενο είναι διαθέσιμο στη διεύθυνση <a-2> "
 "http://creativecommons.org/licenses/by-sa/3.0/</a-2>"
 
-#: TheoryHarmony.cpp:375
+#: TheoryHarmony.cpp:408
 msgid "Plagal cadences"
 msgstr "Πλάγιες πτώσεις"
 
-#: TheoryHarmony.cpp:85
+#: TheoryHarmony.cpp:88
 msgid ""
 "Play both scales and listen. You will notice that both sound 'similar' and "
-"remains you the C major scale: the scale formed by all note names <b>without "
-"accidentals</b>. But, wait!. G major and F# major <b>do have</b> "
+"reminds you of the C major scale: the scale formed by all note names "
+"<b>without accidentals</b>. But, wait!. G major and F# major <b>do have</b> "
 "accidentals. How is that they sound 'similar' if we have introduced new "
 "different sounds?"
 msgstr ""
@@ -1654,7 +1764,7 @@ msgstr ""
 "μείζονα <b>έχουν</b> αλλοιώσεις. Πώς είναι δυνατόν να ακούγονται «παρόμοιες» "
 "εφόσον έχουμε εισαγάγει καινούριους διαφορετικούς ήχους;"
 
-#: TheoryHarmony.cpp:64
+#: TheoryHarmony.cpp:67
 msgid "Play the two following scores"
 msgstr "Αναπαραγωγή των επόμενων δύο παρτιτούρων"
 
@@ -1662,7 +1772,7 @@ msgstr "Αναπαραγωγή των επόμενων δύο παρτιτούρ
 msgid "Presentation"
 msgstr "Παρουσίαση"
 
-#: TheoryHarmony.cpp:349
+#: TheoryHarmony.cpp:352
 msgid "Recognize intervals on a score"
 msgstr "Αναγνώριση διαστημάτων σε παρτιτούρα"
 
@@ -1670,11 +1780,11 @@ msgstr "Αναγνώριση διαστημάτων σε παρτιτούρα"
 msgid "References"
 msgstr "Αναφορές"
 
-#: TheoryHarmony.cpp:209
+#: TheoryHarmony.cpp:212
 msgid "Relative minor and major keys"
 msgstr "Σχετικές ελάσσονες και μείζονες τονικότητες"
 
-#: TheoryHarmony.cpp:336
+#: TheoryHarmony.cpp:339
 msgid ""
 "Remember that we start counting on the lower note, which is F in our "
 "example. We've been told to write a 7th, so we count seven notes upwards: F, "
@@ -1686,7 +1796,7 @@ msgstr ""
 "μετράμε επτά νότες προς τα πάνω: Φα, Σολ, Λα, Σι ύφεση, Ντο, Ρε, Μι. Η "
 "έβδομη νότα είναι η Μι, άρα αυτή είναι η νότα που πρέπει να γράψουμε."
 
-#: TheoryHarmony.cpp:107
+#: TheoryHarmony.cpp:110
 msgid ""
 "Remember, we can't use A sharp instead of B flat, because we've already got "
 "an A in the scale."
@@ -1694,7 +1804,7 @@ msgstr ""
 "Θυμηθείτε, δεν μπορούμε να χρησιμοποιήσουμε Λα δίεση αντί για Σι ύφεση, "
 "διότι έχουμε ήδη μια Λα στην κλίμακα."
 
-#: TheoryHarmony.cpp:38 TheoryHarmony.cpp:40
+#: TheoryHarmony.cpp:41 TheoryHarmony.cpp:43
 msgid "Scales"
 msgstr "Κλίμακες"
 
@@ -1720,7 +1830,7 @@ msgstr ""
 "<li> <a-13>Ασκήσεις</a-13></li>\n"
 "</ul>"
 
-#: TheoryHarmony.cpp:109
+#: TheoryHarmony.cpp:112
 msgid ""
 "Scales can be written going up or going down. Scales which go up are called "
 "'ascending', and scales which go down are 'descending'. When we write a "
@@ -1733,18 +1843,18 @@ msgstr ""
 "τόνων και των ημιτονίων είναι ανεστραμμένο, και έτσι αντί για Τ-Τ-S-Τ-Τ-Τ-S "
 "έχουμε S-Τ-Τ-Τ-S-Τ-Τ."
 
-#: TheoryHarmony.cpp:225 TheoryHarmony.cpp:227 TheoryHarmony.cpp:229
-#: TheoryHarmony.cpp:260 TheoryHarmony.cpp:262 TheoryHarmony.cpp:264
-#: TheoryHarmony.cpp:282 TheoryHarmony.cpp:284 TheoryHarmony.cpp:286
-#: TheoryHarmony.cpp:288 TheoryHarmony.cpp:290 TheoryHarmony.cpp:292
+#: TheoryHarmony.cpp:228 TheoryHarmony.cpp:230 TheoryHarmony.cpp:232
+#: TheoryHarmony.cpp:263 TheoryHarmony.cpp:265 TheoryHarmony.cpp:267
+#: TheoryHarmony.cpp:285 TheoryHarmony.cpp:287 TheoryHarmony.cpp:289
+#: TheoryHarmony.cpp:291 TheoryHarmony.cpp:293 TheoryHarmony.cpp:295
 msgid "Scales' identification"
 msgstr "Αναγνώριση κλίμακας"
 
-#: TheoryHarmony.cpp:44
+#: TheoryHarmony.cpp:47
 msgid "Semitones"
 msgstr "Ημιτόνια"
 
-#: TheoryHarmony.cpp:19 TheoryHarmony.cpp:39
+#: TheoryHarmony.cpp:19 TheoryHarmony.cpp:42
 msgid "Semitones. The chromatic scale"
 msgstr "Ημιτόνια. Η χρωματική κλίμακα"
 
@@ -1754,7 +1864,7 @@ msgstr ""
 "Στείλτε τα σχόλιά σας και τις προτάσεις σας στην ομάδα LenMus (www.lenmus."
 "org)"
 
-#: TheoryHarmony.cpp:35
+#: TheoryHarmony.cpp:37
 msgid ""
 "Some texts have been taken from Catherine Schmidt-Jones music theory lessons "
 "at 'Connexions' ( <a-1>http://cnx.org/content/col10208/latest/</a-1>). Her "
@@ -1766,19 +1876,19 @@ msgstr ""
 "latest/ </a-1>). Η δουλειά της έχει άδεια χρήσης Αναφορά Δημιουργού 1.0 "
 "Γενικό (CC-BY 1.0) και είναι Ανοικτός Εκπαιδευτικός Πόρος."
 
-#: TheoryHarmony.cpp:323
+#: TheoryHarmony.cpp:326
 msgid "Starting on the higher note: a very common mistake!"
 msgstr "Ξεκινώντας από την υψηλότερη νότα: ένα σύνηθες λάθος!"
 
-#: TheoryHarmony.cpp:125
+#: TheoryHarmony.cpp:128
 msgid "Sub-dominant"
 msgstr "Υποδεσπόζουσα"
 
-#: TheoryHarmony.cpp:131
+#: TheoryHarmony.cpp:134
 msgid "Sub-mediant"
 msgstr "Υπομέση"
 
-#: TheoryHarmony.cpp:119
+#: TheoryHarmony.cpp:122
 msgid "Supertonic"
 msgstr "Eπιτονική"
 
@@ -1786,7 +1896,7 @@ msgstr "Eπιτονική"
 msgid "Table of content"
 msgstr "Πίνακας Περιεχομένων"
 
-#: TheoryHarmony.cpp:84
+#: TheoryHarmony.cpp:87
 msgid ""
 "Take paper and pencil, copy those scales, and find the pattern of tones and "
 "semitones."
@@ -1794,11 +1904,11 @@ msgstr ""
 "Πάρτε χαρτί και μολύβι, αντιγράψτε αυτές τις κλίμακες και βρείτε το μοτίβο "
 "των τόνων και των ημιτονίων."
 
-#: TheoryHarmony.cpp:29 TheoryHarmony.cpp:364
+#: TheoryHarmony.cpp:31 TheoryHarmony.cpp:397
 msgid "Terminal cadences"
 msgstr "Καταληκτικές πτώσεις"
 
-#: TheoryHarmony.cpp:365
+#: TheoryHarmony.cpp:398
 msgid ""
 "Terminal cadences create a sensation of stability and conclusion of the "
 "musical phrase or sentence. This feeling is achieved by moving to the tonic "
@@ -1813,6 +1923,15 @@ msgstr ""
 "δύο τύποι πτώσεων: οι <a-1>αυθεντικές πτώσεις</a-1> και οι <a-2> πλάγιες "
 "πτώσεις</a-2>."
 
+#: TheoryHarmony.cpp:377
+msgid ""
+"Tetra chords are also formed by overlapping thirds, and the fouth note forms "
+"a 7th that is dissonant with the root. They are known as 'seventh "
+"chords' (which can be major, minor, etc.). The dissonace introduces dynamism "
+"and tension in the harmony that tends to resolve over the tonic chord or "
+"another chord that does not contain dissonance."
+msgstr ""
+
 #: TheoryHarmony.cpp:14
 msgid ""
 "The 'Theory and harmony' eBook is not yet finished and, currently, it is "
@@ -1821,7 +1940,7 @@ msgstr ""
 "Το βιβλίο «Θεωρία και αρμονία» δεν έχει ολοκληρωθεί ακόμα και, επί του "
 "παρόντος, είναι απλώς μια συλλογή μαθημάτων μουσικής θεωρίας."
 
-#: TheoryHarmony.cpp:216
+#: TheoryHarmony.cpp:219
 msgid ""
 "The C major and C minor scales start on the same note, but have different "
 "key signatures. C minor and E flat major start on different notes, but have "
@@ -1832,7 +1951,7 @@ msgstr ""
 "ξεκινούν από διαφορετικές νότες αλλά έχουν τον ίδιο οπλισμό. Η Ντο ελάσσονα "
 "είναι σχετική της Μι ύφεσης μείζονας."
 
-#: TheoryHarmony.cpp:86
+#: TheoryHarmony.cpp:89
 msgid ""
 "The answer is in the pattern of tones and semitones. <b>What our brain is "
 "recognizing is this pattern of sound intervals! And that is what "
@@ -1844,7 +1963,7 @@ msgstr ""
 "αυτό είναι που χαρακτηρίζει και προσδιορίζει κάθε κλίμακα.</b> Για τη "
 "μείζονα κλίμακα το μοτίβο είναι Τ-Τ-S-Τ-Τ-Τ-S. Απομνημονεύστε το!"
 
-#: TheoryHarmony.cpp:208
+#: TheoryHarmony.cpp:211
 msgid ""
 "The answer is in two details: they have a different tonal center (C in C "
 "major and A in A minor) and although both scales share the same notes, the "
@@ -1860,7 +1979,7 @@ msgstr ""
 "μεταξύ τους. Επομένως, οι αρμονίες και η πρόοδος των συγχορδιών που "
 "χτίζονται γύρω από τα (διαφορετικά) τονικά κέντρα δημιουργούν τη διαφορά."
 
-#: TheoryHarmony.cpp:393
+#: TheoryHarmony.cpp:426
 msgid ""
 "The deceptive cadence is considered a weak cadence because of the 'surprise' "
 "and 'hanging' feelings it invokes. Therefore, it is never used to end a "
@@ -1878,7 +1997,7 @@ msgstr ""
 "στη διατήρηση του μουσικού ενδιαφέροντος τη στιγμή που αναμένεται η τελική "
 "αυθεντική πτώση."
 
-#: TheoryHarmony.cpp:46
+#: TheoryHarmony.cpp:49
 msgid ""
 "The first thing to notice is that, as said, we have twelve notes within an "
 "octave, represented by seven white keys and five black keys. But only seven "
@@ -1897,11 +2016,11 @@ msgstr ""
 "πλήκτρα είναι οι <b>φυσικές νότες</b>. Τα μαύρα πλήκτρα μπορούν μόνο να "
 "ονομαστούν χρησιμοποιώντας διέσεις ή υφέσεις."
 
-#: TheoryHarmony.cpp:314
+#: TheoryHarmony.cpp:317
 msgid "The following score shows some examples of intervals within one octave:"
 msgstr "Η επόμενη παρτιτούρα δείχνει κάποια παραδείγματα μέσα σε μία οκτάβα:"
 
-#: TheoryHarmony.cpp:235
+#: TheoryHarmony.cpp:238
 msgid ""
 "The harmonic minor scale raises the seventh note of the natural scale by one "
 "half step, whether you are going up or down the scale. Therefore, harmonic "
@@ -1914,11 +2033,11 @@ msgstr ""
 "S-3S-S (Τ=Τόνος ή «ολόκληρο βήμα», S=Ημιτόνιο ή «μισό βήμα» και "
 "3Η=Τριημιτόνιο)."
 
-#: TheoryHarmony.cpp:105
+#: TheoryHarmony.cpp:108
 msgid "The last scale we will look at is F major:"
 msgstr "Η τελευταία κλίμακα που θα δούμε είναι η Φα μείζονα:"
 
-#: TheoryHarmony.cpp:45
+#: TheoryHarmony.cpp:48
 msgid ""
 "The minimum distance between two pitches that we will consider in the "
 "Western musical tradition is called a <b>semitone</b>, also named <b>half "
@@ -1929,7 +2048,13 @@ msgstr ""
 "b>. Ας χρησιμοποιήσουμε τα πλήκτρα του πιάνου για να δούμε κάποια "
 "παραδείγματα."
 
-#: TheoryHarmony.cpp:60
+#: TheoryHarmony.cpp:379
+msgid ""
+"The most 'powerful' tetra chord is the one whose root note is the V degree. "
+"It is known as 'dominant 7th' chord, and it contains a minor seventh."
+msgstr ""
+
+#: TheoryHarmony.cpp:63
 msgid ""
 "The most important scales are the <b>diatonic</b> scales. A diatonic scale "
 "has seven notes and each of those notes is given different letter name, A-G."
@@ -1938,7 +2063,7 @@ msgstr ""
 "διατονική κλίμακα έχει επτά νότες και καθεμία από αυτές έχει διαφορετική "
 "ονομασία, Λα-Σολ."
 
-#: TheoryHarmony.cpp:93
+#: TheoryHarmony.cpp:96
 msgid ""
 "The next note we need, as you can see from the pattern T-T-S-T-T-T-S, is a "
 "tone higher than E. The note which is a tone higher than E is <b>F sharp</"
@@ -1949,15 +2074,15 @@ msgstr ""
 "από τη Μι είναι η <b>Φα δίεση</b> (διότι μπορούμε να χωρέσουμε μια Φα "
 "ανάμεσά τους). Συνεπώς, η Φα δίεση είναι η επόμενη νότα μας:"
 
-#: TheoryHarmony.cpp:200
+#: TheoryHarmony.cpp:203
 msgid "The pattern is <b>T-S-T-T-S-T-T</b>."
 msgstr "Το μοτίβο είναι <b>Τ-S-Τ-Τ-S-Τ-Τ</b>."
 
-#: TheoryHarmony.cpp:81
+#: TheoryHarmony.cpp:84
 msgid "The pattern is <b>T-T-S-T-T-T-S</b>."
 msgstr "Το μοτίβο είναι <b>Τ-Τ-S-Τ-Τ-Τ-S</b>."
 
-#: TheoryHarmony.cpp:374
+#: TheoryHarmony.cpp:407
 msgid ""
 "The perfect cadence is usually found at the end of a piece of music and the "
 "end of significant sections."
@@ -1965,7 +2090,7 @@ msgstr ""
 "Η τέλεια πτώση συνήθως συναντάται στο τέλος ενός μουσικού κομματιού και στο "
 "τέλος των σημαντικών μερών."
 
-#: TheoryHarmony.cpp:232
+#: TheoryHarmony.cpp:235
 msgid ""
 "The scales studied in previous lesson are natural minor scales. They contain "
 "only the notes in the minor key signature and are built on pattern T-S-T-T-S-"
@@ -1975,7 +2100,7 @@ msgstr ""
 "ελάσσονες κλίμακες. Περιέχουν μόνο νότες σε ελάσσονες τονικότητες και είναι "
 "βασισμένες στο μοτίβο Τ-S-Τ-Τ-S-Τ-Τ."
 
-#: TheoryHarmony.cpp:187
+#: TheoryHarmony.cpp:190
 msgid ""
 "The simple, sing-along, nursery rhymes and folk songs we learn as children; "
 "the 'catchy' tunes used in advertising jingles; the cheerful, toe-tapping "
@@ -1990,7 +2115,7 @@ msgstr ""
 "τις περιγράφουν ως ευχάριστες, εμπνευσμένες, συναρπαστικές ή απλώς "
 "διασκεδαστικές."
 
-#: TheoryHarmony.cpp:313
+#: TheoryHarmony.cpp:316
 msgid ""
 "The smallest interval we can consider is the interval between two identical "
 "notes - e.g. E and E. This interval is called a 'unison'. We can also say "
@@ -2000,7 +2125,7 @@ msgstr ""
 "παρόμοιες νότες – π.χ. Μι και Μι. Αυτό το διάστημα ονομάζεται «ταυτοφωνία». "
 "Μπορούμε επίσης να πούμε ότι οι νότες βρίσκονται σε «ταυτοφωνία»."
 
-#: TheoryHarmony.cpp:94
+#: TheoryHarmony.cpp:97
 msgid ""
 "The third note is, again, a tone up. From F sharp, the next tone up is G "
 "sharp, (we can squeeze G in between them)."
@@ -2013,33 +2138,40 @@ msgstr ""
 msgid "Theory and harmony"
 msgstr "Θεωρία και αρμονία"
 
-#: TheoryHarmony.cpp:273
+#: TheoryHarmony.cpp:276
 msgid "Theory exercises"
 msgstr "Ασκήσεις θεωρίας"
 
-#: TheoryHarmony.cpp:382
+#: TheoryHarmony.cpp:415
 msgid "Theory: Identify if a terminal cadence is authentic perfect or plagal."
 msgstr ""
 "Θεωρία: Αναγνωρίστε εάν μια καταληκτική πτώση είναι τέλεια αυθεντική ή "
 "πλάγια."
 
-#: TheoryHarmony.cpp:398
+#: TheoryHarmony.cpp:431
 msgid ""
 "Theory: Identify if a transient cadence is a half cadence or a deceptive "
 "cadence."
 msgstr "Θεωρία: Αναγνωρίστε εάν μια ενδιάμεση πτώση είναι μισή ή απροσδόκητη."
 
-#: TheoryHarmony.cpp:228 TheoryHarmony.cpp:230 TheoryHarmony.cpp:263
-#: TheoryHarmony.cpp:265 TheoryHarmony.cpp:287 TheoryHarmony.cpp:289
-#: TheoryHarmony.cpp:291 TheoryHarmony.cpp:293
+#: TheoryHarmony.cpp:231 TheoryHarmony.cpp:233 TheoryHarmony.cpp:266
+#: TheoryHarmony.cpp:268 TheoryHarmony.cpp:290 TheoryHarmony.cpp:292
+#: TheoryHarmony.cpp:294 TheoryHarmony.cpp:296
 msgid "Theory: Identify the scale shown"
 msgstr "Θεωρία: Αναγνωρίστε την κλίμακα που εμφανίζεται"
 
-#: TheoryHarmony.cpp:412
+#: TheoryHarmony.cpp:445
 msgid "Theory: identify the type of cadence."
 msgstr "Θεωρία: Αναγνωρίστε τον τύπο της πτώσης."
 
-#: TheoryHarmony.cpp:54
+#: TheoryHarmony.cpp:363
+msgid ""
+"There are four different types of triad chords: perfect major, perfect "
+"minor, augmented fifth and diminished fifth. Next we show you them built on "
+"the C note and indicating their composition."
+msgstr ""
+
+#: TheoryHarmony.cpp:57
 msgid ""
 "There are no different types of chromatic scales. Either, we don't talk "
 "about chromatic scales as being in a particular key; we just talk about the "
@@ -2049,7 +2181,7 @@ msgstr ""
 "χρωματικές κλίμακες σε μια συγκεκριμένη τονικότητα. Απλώς μιλάμε για τη νότα "
 "από την οποία αρχίζουν – και μπορούν να ξεκινήσουν από οποιαδήποτε νότα."
 
-#: TheoryHarmony.cpp:373
+#: TheoryHarmony.cpp:406
 msgid ""
 "There are theoretical discussions about considering the imperfect cadence as "
 "a terminal cadence. Nevertheless, we have opted to include it in the "
@@ -2060,13 +2192,13 @@ msgstr ""
 "συμπεριληφθεί στην ομάδα των καταληκτικών πτώσεων λόγω των συναισθημάτων που "
 "δημιουργεί."
 
-#: TheoryHarmony.cpp:331
+#: TheoryHarmony.cpp:334
 msgid "There are two important steps to follow when you write intervals."
 msgstr ""
 "Υπάρχουν δύο σημαντικά βήματα που πρέπει να ακολουθείτε όταν γράφετε "
 "διαστήματα."
 
-#: TheoryHarmony.cpp:67
+#: TheoryHarmony.cpp:70
 msgid ""
 "There are two main types of diatonic scales: major and minor. And you need "
 "to know how to recognize, write and play all of them. We will learn about "
@@ -2077,7 +2209,7 @@ msgstr ""
 "γράφετε και πώς να τις παίζετε όλες. Θα μάθουμε σχετικά με τις μείζονες "
 "κλίμακες σε επόμενο μάθημα."
 
-#: TheoryHarmony.cpp:233
+#: TheoryHarmony.cpp:236
 msgid ""
 "There are two other kinds of minor scales that are commonly used: the minor "
 "harmonic and the minor melodic scales. We are going to study them in this "
@@ -2087,7 +2219,7 @@ msgstr ""
 "αρμονική ελάσσονα και η μελωδική ελάσσονα κλίμακα. Θα τις μελετήσουμε σε "
 "αυτό το μάθημα."
 
-#: TheoryHarmony.cpp:300
+#: TheoryHarmony.cpp:303
 msgid ""
 "Therefore, I encourage you to study intervals and do all proposed exercises "
 "until you master recognition of intervals, both aurally and on written music."
@@ -2096,7 +2228,7 @@ msgstr ""
 "τις προτεινόμενες ασκήσεις μέχρι να κατακτήσετε την αναγνώριση διαστημάτων, "
 "τόσο ακουστικά όσο και στη γραπτή μουσική."
 
-#: TheoryHarmony.cpp:135
+#: TheoryHarmony.cpp:138
 msgid ""
 "These technical names are worked out from ascending scales. For example, in "
 "C major ascending, the second note we write is D, so D is the supertonic in "
@@ -2115,7 +2247,7 @@ msgstr ""
 msgid "This lesson is based on materials from:"
 msgstr "Αυτό το μάθημα είναι βασισμένο σε υλικό από:"
 
-#: TheoryHarmony.cpp:312
+#: TheoryHarmony.cpp:315
 msgid ""
 "To find the number of an interval, first find the note names of the two "
 "notes, (ignore any sharps and flats for now), and count the letter names, "
@@ -2128,7 +2260,7 @@ msgstr ""
 "πεντάγραμμο (θα μπορούσε να είναι η πρώτη ή η δεύτερη νότα κατά μήκος του "
 "πενταγράμμου, αν πρόκειται για ένα μελωδικό διάστημα)."
 
-#: TheoryHarmony.cpp:70
+#: TheoryHarmony.cpp:73
 msgid ""
 "To understand how to build diatonic scales you need to know what is a "
 "<b>tone</b>. In <a-2>a previous lesson</a-2> we've learnt about semitones or "
@@ -2139,27 +2271,31 @@ msgstr ""
 "ημιτόνια ή, αλλιώς, τα μισά βήματα. Τώρα θα μάθετε για τους τόνους: Ένας "
 "τόνος είναι απλώς δύο ημιτόνια!."
 
-#: TheoryHarmony.cpp:185
+#: TheoryHarmony.cpp:188
 msgid "Tonal center"
 msgstr "Τονικό κέντρο"
 
-#: TheoryHarmony.cpp:69
+#: TheoryHarmony.cpp:72
 msgid "Tones"
 msgstr "Τόνοι"
 
-#: TheoryHarmony.cpp:21
+#: TheoryHarmony.cpp:71
 msgid "Tones. Major scales"
 msgstr "Τόνοι. Μείζονες κλίμακες"
 
-#: TheoryHarmony.cpp:116
+#: TheoryHarmony.cpp:21
+msgid "Tones.Major scales"
+msgstr ""
+
+#: TheoryHarmony.cpp:119
 msgid "Tonic"
 msgstr "Τονική"
 
-#: TheoryHarmony.cpp:30 TheoryHarmony.cpp:385
+#: TheoryHarmony.cpp:32 TheoryHarmony.cpp:418
 msgid "Transient cadences"
 msgstr "Ενδιάμεσες πτώσεις"
 
-#: TheoryHarmony.cpp:386
+#: TheoryHarmony.cpp:419
 msgid ""
 "Transient cadences are not conclusive. They create a sensation of tension "
 "and unstability and an expectation of continuation. They are more like a "
@@ -2176,11 +2312,18 @@ msgid ""
 "Translated to #REPLACE BY YOUR LANGUAGE NAME# by #REPLACE BY YOUR NAME#."
 msgstr "Μεταφράστηκε στα ελληνικά από τον Αυγέρη Τσιρώνη."
 
-#: TheoryHarmony.cpp:319
+#: TheoryHarmony.cpp:359
+msgid ""
+"Triad chords are formed by superimposing thirds on a note that we call the "
+"'root' note. The second note forms on it a 3rd and the third note forms a "
+"5th."
+msgstr ""
+
+#: TheoryHarmony.cpp:322
 msgid "Unison"
 msgstr "Ταυτοφωνία"
 
-#: TheoryHarmony.cpp:195
+#: TheoryHarmony.cpp:198
 msgid ""
 "Using the wrong note value - usually you are asked to use <b>whole notes</b> "
 "(semibreves)."
@@ -2188,25 +2331,25 @@ msgstr ""
 "Χρησιμοποιώντας τη λάθος αξία του φθόγγου – συνήθως σας ζητείται η χρήση "
 "<b>ολόκληρου</b>."
 
-#: TheoryHarmony.cpp:127 TheoryHarmony.cpp:141
+#: TheoryHarmony.cpp:130 TheoryHarmony.cpp:144
 msgid "V"
 msgstr "V"
 
-#: TheoryHarmony.cpp:130 TheoryHarmony.cpp:142
+#: TheoryHarmony.cpp:133 TheoryHarmony.cpp:145
 msgid "VI"
 msgstr "VI"
 
-#: TheoryHarmony.cpp:133 TheoryHarmony.cpp:143
+#: TheoryHarmony.cpp:136 TheoryHarmony.cpp:146
 msgid "VII"
 msgstr "VII"
 
-#: TheoryHarmony.cpp:258
+#: TheoryHarmony.cpp:261
 msgid ""
 "Victoria K. Williams music theory lessons. <a-1>www.mymusictheory.com</a-1>"
 msgstr ""
 "Victoria K. Williams music theory lessons. <a-1>www.mymusictheory.com</a-1>"
 
-#: TheoryHarmony.cpp:99
+#: TheoryHarmony.cpp:102
 msgid ""
 "We already know how to build any other major scale. And we already know C "
 "major (all notes, no accidentals). For level 1 you will have to know three "
@@ -2217,7 +2360,7 @@ msgstr ""
 "έχετε να μάθετε άλλες τρεις κλίμακες: τη Σολ μείζονα, τη Φα μείζονα και τη "
 "Ρε μείζονα. Ας ξεκινήσουμε με τη Σολ μείζονα."
 
-#: TheoryHarmony.cpp:91
+#: TheoryHarmony.cpp:94
 msgid ""
 "We already know that all major scales follow the same pattern <b>T-T-S-T-T-T-"
 "S</b>. Therefore, it is easy to build any major scale. As an example, we'll "
@@ -2227,7 +2370,7 @@ msgstr ""
 "Τ-Τ-Τ-S</b>. Ως εκ τούτου, είναι εύκολο να φτιάξουμε οποιαδήποτε μείζονα "
 "κλίμακα. Για παράδειγμα, θα φτιάξουμε τη Μι μείζονα."
 
-#: TheoryHarmony.cpp:306
+#: TheoryHarmony.cpp:309
 msgid ""
 "We can measure the distance between two notes which are played together at "
 "the same time. The distance between these notes is called a 'harmonic' "
@@ -2241,7 +2384,7 @@ msgstr ""
 "παίζονται χωριστά, ο ένας μετά τον άλλο. Σε αυτή την περίπτωση η απόσταση "
 "μεταξύ τους ονομάζεται «μελωδικό» διάστημα."
 
-#: TheoryHarmony.cpp:341
+#: TheoryHarmony.cpp:344
 msgid ""
 "We move the higher note to the right, but keep it close enough to the lower "
 "note that they are just touching:"
@@ -2249,7 +2392,7 @@ msgstr ""
 "Μετακινούμε την υψηλότερη νότα προς τα δεξιά, αλλά την κρατάμε αρκετά κοντά "
 "στη χαμηλότερη, έτσι ώστε να αγγίζει ίσα ίσα η μία την άλλη:"
 
-#: TheoryHarmony.cpp:66
+#: TheoryHarmony.cpp:69
 msgid ""
 "We talk about diatonic scales as <b>being in a certain key</b>, for example, "
 "in 'C Major' or in 'B flat minor'."
@@ -2257,7 +2400,7 @@ msgstr ""
 "Μιλάμε για διατονικές κλίμακες <b>που βρίσκονται σε μια συγκεκριμένη "
 "τονικότητα</b>, για παράδειγμα στην «Ντο Μείζονα» ή στη «Σι ύφεση ελάσσονα»."
 
-#: TheoryHarmony.cpp:112
+#: TheoryHarmony.cpp:115
 msgid ""
 "We use technical names to talk about each note of the diatonic scale, "
 "instead of saying 'first note', 'third note' and so on. The first and last "
@@ -2280,7 +2423,7 @@ msgstr ""
 "φθόγγων, από το χαμηλό Ντο ως το υψηλό Ντο για παράδειγμα, ονομάζεται "
 "«οκτάβα»."
 
-#: TheoryHarmony.cpp:92
+#: TheoryHarmony.cpp:95
 msgid ""
 "We'll start by putting the the tonic of E major, that is, an E note. We're "
 "using the treble clef, but it works just the same way in any other clef."
@@ -2289,7 +2432,7 @@ msgstr ""
 "Χρησιμοποιούμε το κλειδί του Σολ, αλλά είναι ακριβώς το ίδιο και σε "
 "οποιοδήποτε άλλο κλειδί."
 
-#: TheoryHarmony.cpp:59
+#: TheoryHarmony.cpp:62
 msgid ""
 "We've learnt that the octave is divided into twelve notes, spaced by one "
 "semitone. When played one after the other we get the chromatic scale. But "
@@ -2315,7 +2458,7 @@ msgstr ""
 "άνθρωποι από διαφορετικές μουσικές παραδόσεις έχουν διαφορετική άποψη "
 "σχετικά με το ποιες νότες ηχούν καλύτερα μαζί!."
 
-#: TheoryHarmony.cpp:182
+#: TheoryHarmony.cpp:185
 msgid ""
 "What difference does key make? Since the major scales all follow the same "
 "pattern, they all sound very much alike. Here is the tune 'Row, Row, Row "
@@ -2326,7 +2469,7 @@ msgstr ""
 "μελωδία «Row, Row, Row Your Boat», γραμμένη σε Σολ μείζονα και επίσης σε Ρε "
 "μείζονα. Πρώτα σε Ρε μείζονα:"
 
-#: TheoryHarmony.cpp:324
+#: TheoryHarmony.cpp:327
 msgid ""
 "What happens if you try to calculate an interval by starting with the higher "
 "note on the stave? You will get the wrong answer! This is a common mistake, "
@@ -2338,11 +2481,11 @@ msgstr ""
 "λάθος. Γι' αυτό ας δούμε ένα παράδειγμα σχετικά με το τι μπορεί να πάει "
 "στραβά. Ποιο είναι το ακόλουθο αρμονικό διάστημα;"
 
-#: TheoryHarmony.cpp:26 TheoryHarmony.cpp:295 TheoryHarmony.cpp:301
+#: TheoryHarmony.cpp:26 TheoryHarmony.cpp:298 TheoryHarmony.cpp:304
 msgid "What is an interval?"
 msgstr "Τι είναι ένα διάστημα;"
 
-#: TheoryHarmony.cpp:207
+#: TheoryHarmony.cpp:210
 msgid ""
 "What main difference does major or minor key make? In C major key it sounds "
 "cheerful but in A minor key it sounds sad. Probably you have noticed that "
@@ -2356,30 +2499,30 @@ msgstr ""
 "υπάρχει αυτή η διαφορά στο συναίσθημα που προκαλούν;"
 
 # ικανοποιεί τις ακόλουθες συνθήκες ---> πληροί τις ακόλουθες προϋποθέσεις
-#: TheoryHarmony.cpp:368
+#: TheoryHarmony.cpp:401
 msgid "When the authentic cadence satisfies the following conditions:"
 msgstr "Όταν η αυθεντική πτώση πληροί τις ακόλουθες προϋποθέσεις:"
 
-#: TheoryHarmony.cpp:296
+#: TheoryHarmony.cpp:299
 msgid "Why should you learn about 'intervals'?"
 msgstr "Γιατί πρέπει να μάθετε για τα «διαστήματα»;"
 
-#: TheoryHarmony.cpp:352
+#: TheoryHarmony.cpp:355
 msgid "Write intervals on a score"
 msgstr "Γράψτε διαστήματα σε παρτιτούρα"
 
-#: TheoryHarmony.cpp:330
+#: TheoryHarmony.cpp:333
 msgid "Writing Intervals"
 msgstr "Γράφοντας διαστήματα"
 
-#: TheoryHarmony.cpp:193
+#: TheoryHarmony.cpp:196
 msgid ""
 "Writing accidentals/key signatures on the <b>wrong space</b> or <b>line</b>."
 msgstr ""
 "Γράφοντας αλλοιώσεις/οπλισμούς στο <b>λάθος διάστημα</b> ή στη <b>λάθος "
 "γραμμή</b>."
 
-#: TheoryHarmony.cpp:194
+#: TheoryHarmony.cpp:197
 msgid ""
 "Writing an <b>ascending</b> scale when the question asks for a "
 "<b>descending</b> one, and vice versa."
@@ -2387,7 +2530,7 @@ msgstr ""
 "Γράφοντας μια <b>ανιούσα</b> κλίμακα όταν η ερώτηση ζητά μια <b>κατιούσα</"
 "b>, και αντίστροφα."
 
-#: TheoryHarmony.cpp:56
+#: TheoryHarmony.cpp:59
 msgid ""
 "You need to be able to recognise chromatic scales, as well as sections of a "
 "chromatic scale within a piece of music. To find a section of a chromatic "
@@ -2398,7 +2541,7 @@ msgstr ""
 "ένα τμήμα χρωματικής κλίμακας, απλώς αναζητήστε μια σειρά φθόγγων που έχουν "
 "όλες μεταξύ τους απόσταση ημιτονίου."
 
-#: TheoryHarmony.cpp:356
+#: TheoryHarmony.cpp:389
 msgid ""
 "You will notice the feeling of conclusion, of reaching the end of a musical "
 "piece. The chord sequence does not create expectations of continuation. The "
@@ -2414,7 +2557,7 @@ msgstr ""
 "έχει φτάσει και παραμένει «ικανοποιημένος» με την ολοκλήρωση σε εκείνο το "
 "σημείο. Αντίθετα, ακούστε την επόμενη ακολουθία συγχορδιών:"
 
-#: TheoryHarmony.cpp:335
+#: TheoryHarmony.cpp:338
 msgid ""
 "You'll also be told if you have to write a harmonic, or melodic interval. "
 "This one is a melodic interval, so we'll write the second note after the "
@@ -2432,21 +2575,23 @@ msgstr ""
 "μπορεί να ισχύουν πρόσθετοι όροι. Δείτε το εξώφυλλο αυτού του ηλεκτρονικού "
 "βιβλίου για εξαιρέσεις και λεπτομέρειες."
 
-#: TheoryHarmony.cpp:369
+#: TheoryHarmony.cpp:402
 msgid "both chords are in root position;"
 msgstr "Και οι δύο συγχορδίες είναι στην κύρια θέση,"
 
-#: TheoryHarmony.cpp:224 TheoryHarmony.cpp:196 TheoryHarmony.cpp:68
-#: TheoryHarmony.cpp:57 TheoryHarmony.cpp:37 TheoryHarmony.cpp:36
-#: TheoryHarmony.cpp:35
-msgid "sTxt = _("
-msgstr "sTxt = _("
+#: TheoryHarmony.cpp:360
+msgid "fifth"
+msgstr ""
 
-#: TheoryHarmony.cpp:370
+#: TheoryHarmony.cpp:362
+msgid "root"
+msgstr ""
+
+#: TheoryHarmony.cpp:403
 msgid "the first chord is the V or the V7 ; and"
 msgstr "η πρώτη συγχορδία είναι V ή V7· και"
 
-#: TheoryHarmony.cpp:371
+#: TheoryHarmony.cpp:404
 msgid "the melody (soprano voice) ends on the tonic pitch."
 msgstr "η μελωδία (φωνή σοπράνο) τελειώνει στην τονική."
 
@@ -2454,7 +2599,7 @@ msgstr "η μελωδία (φωνή σοπράνο) τελειώνει στην 
 msgid "the teacher of music"
 msgstr "ο καθηγητής μουσικής"
 
-#: TheoryHarmony.cpp:372
+#: TheoryHarmony.cpp:405
 msgid ""
 "then the cadence has its strongest conclusive power and it creates the most "
 "final sounding of all cadences. Due to this fact, if the previously listed "
@@ -2469,3 +2614,10 @@ msgstr ""
 "πτώση» ή απλώς «τέλεια πτώση». Αν δεν πληρούνται, η καταληκτική αίσθηση της "
 "πτώσης είναι λιγότερο ισχυρή, και έτσι η πτώση ονομάζεται «ατελής αυθεντική "
 "πτώση» ή απλώς «ατελής πτώση»."
+
+#: TheoryHarmony.cpp:361
+msgid "third"
+msgstr ""
+
+#~ msgid "sTxt = _("
+#~ msgstr "sTxt = _("

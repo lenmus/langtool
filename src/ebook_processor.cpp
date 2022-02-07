@@ -153,6 +153,7 @@ const wxString lmTags::m_aJustReplaceTags[] =
     _T("font-name"),
     _T("font-size"),
     _T("font-style"),
+    _T("font-weight"),
     _T("color"),
     _T("margin-bottom"),
 };
@@ -1255,8 +1256,9 @@ void lmEbookProcessor::load_tags()
     m_lmdTags.add_replacement( _T("font-name"),    _T("      <font-name>"),   _T("</font-name>\n") );
     m_lmdTags.add_replacement( _T("font-size"),    _T("      <font-size>"),   _T("</font-size>\n") );
     m_lmdTags.add_replacement( _T("font-style"),   _T("      <font-style>"),  _T("</font-style>\n") );
+    m_lmdTags.add_replacement( _T("font-weight"),  _T("      <font-weight>"), _T("</font-weight>\n") );
     m_lmdTags.add_replacement( _T("color"),        _T("      <color>"),       _T("</color>\n") );
-    m_lmdTags.add_replacement( _T("margin-bottom"), _T("      <margin-bottom>"), _T("</margin-bottom>\n") );
+    m_lmdTags.add_replacement( _T("margin-bottom"), _T("     <margin-bottom>"), _T("</margin-bottom>\n") );
 
     //LDP replacements
     m_ldpTags.add_replacement( _T(""),             _T(""),         _T("") );     //empty lmElement, for errors
@@ -1268,11 +1270,12 @@ void lmEbookProcessor::load_tags()
     m_ldpTags.add_replacement( _T("subscript"),    _T(" "),   _T(" ") );
     m_ldpTags.add_replacement( _T("superscript"),  _T(" "),   _T(" ") );
     m_ldpTags.add_replacement( _T("simplelist"),   _T("<ul>\n"),   _T("</ul>\n") );
-    m_lmdTags.add_replacement( _T("font-name"),    _T("(font-name "),   _T(")\n") );
-    m_lmdTags.add_replacement( _T("font-size"),    _T("(font-size "),   _T(")\n") );
-    m_lmdTags.add_replacement( _T("font-style"),   _T("(font-style "),  _T(")\n") );
-    m_lmdTags.add_replacement( _T("color"),        _T("(color "),       _T(")\n") );
-    m_lmdTags.add_replacement( _T("margin-bottom"), _T("(margin-bottom "), _T(")\n") );
+    m_ldpTags.add_replacement( _T("font-name"),    _T("(font-name "),   _T(")\n") );
+    m_ldpTags.add_replacement( _T("font-size"),    _T("(font-size "),   _T(")\n") );
+    m_ldpTags.add_replacement( _T("font-style"),   _T("(font-style "),  _T(")\n") );
+    m_ldpTags.add_replacement( _T("font-weight"),  _T("(font-weight "), _T(")\n") );
+    m_ldpTags.add_replacement( _T("color"),        _T("(color "),       _T(")\n") );
+    m_ldpTags.add_replacement( _T("margin-bottom"), _T("(margin-bottom "), _T(")\n") );
 }
 
 //---------------------------------------------------------------------------------------

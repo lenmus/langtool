@@ -2,229 +2,304 @@ msgid ""
 msgstr ""
 "Project-Id-Version: LenMus $VERS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-26 10:52+0200\n"
-"PO-Revision-Date: 2016-02-29 16:15+0100\n"
+"POT-Creation-Date: 2021-10-13 12:42+0200\n"
+"PO-Revision-Date: 2021-10-13 12:50+0200\n"
 "Last-Translator: Cecilio Salmeron <s.cecilio@gmail.com>\n"
-"Language-Team:  <cecilios@gmail.com>\n"
+"Language-Team: <cecilios@gmail.com>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: ../src\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 2.0.6\n"
 "X-Poedit-SearchPath-0: TheoryHarmony\n"
 
-#: TheoryHarmony.cpp:219
+#: TheoryHarmony.cpp:222
 msgid " - Aural training. Listen a scale and identify if it is major or minor."
 msgstr ""
+" - Gehörbildung. Hören Sie eine Tonleiter und unterscheiden Sie zwischen Dur "
+"und Moll."
 
-#: TheoryHarmony.cpp:253
+#: TheoryHarmony.cpp:256
 msgid " - Aural training. Listen a scale and identify its type."
-msgstr ""
+msgstr " - Gehörbildung. Hören Sie eine Tonleiter und bestimmen Sie ihre Art."
 
-#: TheoryHarmony.cpp:406
+#: TheoryHarmony.cpp:439
 msgid ""
 " - Aural training: identify the type of cadence: perfect, imperfect, plagal, "
 "half or deceptive."
 msgstr ""
+" - Gehörbildung: Identifizieren Sie die Art der Kadenz: vollkommen, "
+"unvollkommen, Plagal-, Halb- oder Trugschluss."
 
-#: TheoryHarmony.cpp:275
+#: TheoryHarmony.cpp:278
 msgid ""
 " - Identify the type of scale: major or minor natural. Key signature "
 "displayed."
 msgstr ""
+" - Bestimmen Sie die Art der Tonleiter: Dur oder Natürlich Moll. Die "
+"Vorzeichen sind angegeben."
 
-#: TheoryHarmony.cpp:277
+#: TheoryHarmony.cpp:280
 msgid ""
 " - Identify the type of scale: major or minor natural. No key signature."
 msgstr ""
+" - Bestimmen Sie die Art der Tonleiter: Dur oder Natürlich Moll. Die "
+"Vorzeichen sind nicht angegeben."
 
-#: TheoryHarmony.cpp:279
+#: TheoryHarmony.cpp:282
 msgid ""
 " - Identify the type of scale: major, minor natural, minor harmonic or minor "
 "melodic. Key signature displayed."
 msgstr ""
+" - Bestimmen Sie die Art der Tonleiter: Dur, Natürlich, Harmonisch oder "
+"Melodisch Moll. Die Vorzeichen sind angegeben."
 
-#: TheoryHarmony.cpp:281
+#: TheoryHarmony.cpp:284
 msgid ""
 " - Identify the type of scale: major, minor natural, minor harmonic or minor "
 "melodic. No key signature."
 msgstr ""
+" - Bestimmen Sie die Art der Tonleiter: Dur, Natürlich, Harmonisch oder "
+"Melodisch Moll. Keine Vorzeichen sind angegeben."
 
-#: TheoryHarmony.cpp:270
+#: TheoryHarmony.cpp:273
 msgid " - Listen a scale and identify if it is major or minor."
 msgstr ""
+" - Hören Sie eine Tonleiter und unterscheiden Sie zwischen Dur und Moll."
 
-#: TheoryHarmony.cpp:272
+#: TheoryHarmony.cpp:275
 msgid ""
 " - Listen a scale and identify if it is major, minor natural, minor melodic "
 "or minor harmonic."
 msgstr ""
+" - Hören Sie eine Tonleiter und unterscheiden Sie zwischen Dur und Moll."
 
-#: TheoryHarmony.cpp:221 TheoryHarmony.cpp:255
+#: TheoryHarmony.cpp:224 TheoryHarmony.cpp:258
 msgid " - Theory. Identify the type of scale (key signature displayed)."
 msgstr ""
+" - Theorie. Bestimmen Sie die Art der Tonleiter (die Vorzeichen sind "
+"angegeben)."
 
-#: TheoryHarmony.cpp:223 TheoryHarmony.cpp:257
+#: TheoryHarmony.cpp:226 TheoryHarmony.cpp:260
 msgid " - Theory. Identify the type of scale (key signature not displayed)."
 msgstr ""
+" - Theorie. Bestimmen Sie die Art der Tonleiter (die Vorzeichen sind nicht "
+"angegeben)."
 
-#: TheoryHarmony.cpp:408
+#: TheoryHarmony.cpp:441
 msgid ""
 " - Theory: identify the type of cadence: perfect, imperfect, plagal, half or "
 "deceptive."
 msgstr ""
-
-#: TheoryHarmony.cpp:114
-msgid "1st degree"
-msgstr ""
-
-#: TheoryHarmony.cpp:320
-msgid "2nd"
-msgstr ""
+" - Theorie: Bestimmen Sie die Art der Kadenz: vollkommen, unvollkommen, "
+"Plagal-, Halb- oder Trugschluss."
 
 #: TheoryHarmony.cpp:117
-msgid "2nd degree"
-msgstr ""
+msgid "1st degree"
+msgstr "Erste Stufe"
 
-#: TheoryHarmony.cpp:315
-msgid "3rd"
-msgstr ""
+#: TheoryHarmony.cpp:323
+msgid "2nd"
+msgstr "Sekund"
 
 #: TheoryHarmony.cpp:120
-msgid "3rd degree"
-msgstr ""
+msgid "2nd degree"
+msgstr "Zweite Stufe"
 
 #: TheoryHarmony.cpp:318
-msgid "4th"
-msgstr ""
+msgid "3rd"
+msgstr "Terz"
 
 #: TheoryHarmony.cpp:123
-msgid "4th degree"
+msgid "3rd degree"
+msgstr "Dritte Stufe"
+
+#: TheoryHarmony.cpp:365 TheoryHarmony.cpp:369 TheoryHarmony.cpp:371
+#: TheoryHarmony.cpp:372
+msgid "3rd major"
 msgstr ""
 
-#: TheoryHarmony.cpp:316
-msgid "5th"
-msgstr ""
-
-#: TheoryHarmony.cpp:126
-msgid "5th degree"
-msgstr ""
-
-#: TheoryHarmony.cpp:129
-msgid "6th degree"
-msgstr ""
-
-#: TheoryHarmony.cpp:317 TheoryHarmony.cpp:334 TheoryHarmony.cpp:338
-msgid "7th"
-msgstr ""
-
-#: TheoryHarmony.cpp:132
-msgid "7th degree"
+#: TheoryHarmony.cpp:366 TheoryHarmony.cpp:368 TheoryHarmony.cpp:374
+#: TheoryHarmony.cpp:375
+msgid "3rd minor"
 msgstr ""
 
 #: TheoryHarmony.cpp:321
+msgid "4th"
+msgstr "Quart"
+
+#: TheoryHarmony.cpp:126
+msgid "4th degree"
+msgstr "Vierte Stufe"
+
+#: TheoryHarmony.cpp:319
+msgid "5th"
+msgstr "Quint"
+
+#: TheoryHarmony.cpp:129
+msgid "5th degree"
+msgstr "Fünfte Stufe"
+
+#: TheoryHarmony.cpp:132
+msgid "6th degree"
+msgstr "Sechste Stufe"
+
+#: TheoryHarmony.cpp:320 TheoryHarmony.cpp:337 TheoryHarmony.cpp:341
+msgid "7th"
+msgstr "Septim"
+
+#: TheoryHarmony.cpp:135
+msgid "7th degree"
+msgstr "Siebte Stufe"
+
+#: TheoryHarmony.cpp:324
 msgid "8ve"
+msgstr "Oktave"
+
+#: TheoryHarmony.cpp:382
+msgid "<a-1>Aural training</a-1> - Listen a chord and identify its type."
 msgstr ""
 
-#: TheoryHarmony.cpp:329 TheoryHarmony.cpp:347
+#: TheoryHarmony.cpp:332 TheoryHarmony.cpp:350
 msgid ""
 "<a-1>Aural training</a-1> - Listen two intervals and identify which one is "
 "greater."
 msgstr ""
+"<a-1>Gehörbildung</a-1> - Hören Sie zwei Intervalle und bestimmen Sie "
+"welches grösser ist."
 
-#: TheoryHarmony.cpp:380
+#: TheoryHarmony.cpp:413
 msgid ""
 "<a-1>Aural training</a-1> - Train your ear and practise to identify if a "
 "terminal cadence is authentic perfect or plagal."
 msgstr ""
+"<a-1>Gehörbildung</a-1> - Trainieren Sie Ihr Gehör und entscheiden Sie ob "
+"die jeweilige Schlusskadenz vollkommen oder plagal ist."
 
-#: TheoryHarmony.cpp:396
+#: TheoryHarmony.cpp:429
 msgid ""
 "<a-1>Aural training</a-1> - Train your ear and practise to identify if a "
 "transient cadence is a half cadence or a deceptive cadence."
 msgstr ""
-
-#: TheoryHarmony.cpp:343
-msgid "<a-1>Exercise</a-1> - Build intervals on a score."
-msgstr ""
-
-#: TheoryHarmony.cpp:328 TheoryHarmony.cpp:345
-msgid "<a-1>Music reading</a-1> - Name the interval (as a number only)."
-msgstr ""
+"<a-1>Gehörbildung</a-1> - Trainieren Sie Ihr Gehör und entscheiden Sie, ob "
+"diese Übergangskadenz ein Halb- oder Trugschluss ist."
 
 #: TheoryHarmony.cpp:346
-msgid "<a-1>Music writing</a-1> - Build intervals on a score."
+msgid "<a-1>Exercise</a-1> - Build intervals on a score."
+msgstr "<a-1>Übung</a-1> - Baue die Intervalle über eine Tonleiter."
+
+#: TheoryHarmony.cpp:381
+msgid "<a-1>Music reading</a-1> - Identify the chord type."
 msgstr ""
 
-#: TheoryHarmony.cpp:379
+#: TheoryHarmony.cpp:331 TheoryHarmony.cpp:348
+msgid "<a-1>Music reading</a-1> - Name the interval (as a number only)."
+msgstr "<a-1>Partiturlesen</a-1> - Bestimmen Sie das Intervall (nur grob)."
+
+#: TheoryHarmony.cpp:349
+msgid "<a-1>Music writing</a-1> - Build intervals on a score."
+msgstr "<a-1>Notenschreiben</a-1>. Bauen Sie das Intervall über der Tonleiter."
+
+#: TheoryHarmony.cpp:412
 msgid ""
 "<a-1>Theory</a-1> - Practise to recognize in a score if a terminal cadence "
 "is authentic perfect or plagal."
 msgstr ""
+"<a-1>Theorie</a-1> - Trainieren Sie ihr Auge und unterscheiden Sie, ob in "
+"einer Partitur die Schlusskadenz vollkommen oder plagal ist."
 
-#: TheoryHarmony.cpp:395
+#: TheoryHarmony.cpp:428
 msgid ""
 "<a-1>Theory</a-1> - Practise to recognize in a score if a transient cadence "
 "is a half cadence or a deceptive one."
 msgstr ""
+"<a-1>Theorie</a-1> - Üben Sie die Unterscheidung, ob in einer Partitur die "
+"Schlusskadenz vollkommen oder plagal ist."
 
-#: TheoryHarmony.cpp:242
+#: TheoryHarmony.cpp:245
 msgid ""
 "<b>Melodic</b> minor scales are a bit more complicated, because they have "
 "one pattern on the way up, but another on the way down."
 msgstr ""
+"<b>Melodische</b> Molltonleitern sind ein wenig komplizierter, weil sie "
+"aufsteigend einem anderen Muster folgen als absteigend."
 
-#: TheoryHarmony.cpp:361
+#: TheoryHarmony.cpp:394
 msgid ""
 "<b>Terminal cadences</b>. They create a sensation of stability, rest and "
 "ending of the musical phrase or sentence."
 msgstr ""
+"<b>Schlusskadenzen</b>. Sie erwecken einen Eindruck von Stabilität, Ruhe und "
+"Abschluss einer musikalischen Phrase."
 
-#: TheoryHarmony.cpp:362
+#: TheoryHarmony.cpp:395
 msgid ""
 "<b>Transient cadences</b>. They typically result in creating tension and a "
 "sensation of unstablility, as well as an expectation of continuation."
 msgstr ""
+"<b>Übergangskadenzen</b>. Sie enden meist in mit dem Eindruck von Spannung "
+"und Unstabilität, sowie mit einer Erwartung nach Weiterführung."
 
-#: TheoryHarmony.cpp:151 TheoryHarmony.cpp:156 TheoryHarmony.cpp:168
-#: TheoryHarmony.cpp:175
+#: TheoryHarmony.cpp:154 TheoryHarmony.cpp:159 TheoryHarmony.cpp:171
+#: TheoryHarmony.cpp:178
 msgid "A"
+msgstr "A"
+
+#: TheoryHarmony.cpp:358
+msgid ""
+"A chord is a set of three or more overlapping notes (sounding at the same "
+"time). The chords of three notes are called 'triads', those of four 'tetra "
+"chords' ..."
 msgstr ""
 
-#: TheoryHarmony.cpp:53
+#: TheoryHarmony.cpp:56
 msgid ""
 "A chromatic scale has the twelve notes, and each step of the scale is a "
 "semitone. Let's return to the piano keyboard. If you start on a C key and "
 "play every available key, black and white, until you arrive at the next C, "
 "you have played a chromatic scale:"
 msgstr ""
+"Eine chromatische Tonleiter hat die 12 Töne und jeder Abstand ist ein "
+"Halbton. Kehren wir zur Klaviertastatur zurück. Wenn Sie auf C starten und "
+"dann jede darauf folgende (schwarze und weisse) Taste drücken bis zum "
+"nächsten C, dann haben Sie eine chromatische Tonleiter gespielt:"
 
 #: TheoryHarmony.cpp:11
 msgid "A collection of lessons and exercises on music theory."
-msgstr ""
+msgstr "Eine Sammlung von Lektionen und Übungen zur Musiktheorie."
 
-#: TheoryHarmony.cpp:392
+#: TheoryHarmony.cpp:425
 msgid ""
 "A deceptive cadence occurs when a V chord does not resolve to a I chord, as "
 "the ear is expecting, but instead resolves to any other chord, typically to "
 "one containing the tonic pitch (the VI or the IV degrees)."
 msgstr ""
+"Ein Trugschluss nennt man, wenn ein V-Akkord sich nicht in einem I-Akkord "
+"auflöst, so wie das Gehör es erwarten würde, sondern sich in irgendeinen "
+"anderen Akkord auflöst, der typischerweise den Grundton enthält (die VI oder "
+"IV Stufe)."
 
-#: TheoryHarmony.cpp:63
+#: TheoryHarmony.cpp:66
 msgid ""
 "A diatonic scale has seven notes but are usually played and written in "
 "groups of eight notes, so that they sound finished. The 8th note is the same "
 "as the 1st note, but an octave higher or lower. And the first seven notes "
 "<b>must have</b> different letter name, A-G."
 msgstr ""
+"Eine diatonische Tonleiter hat sieben Töne, wird aber normalerweise in "
+"Gruppen von acht Tönen gespielt und geschrieben, so dass sie abgeschlossen "
+"klingt. Die 8. Note ist die gleiche wie die 1. Note, aber eine Oktave höher "
+"oder tiefer. Und die ersten sieben Noten <b>müssen </b> einen anderen "
+"Buchstabennamen haben, A-G."
 
-#: TheoryHarmony.cpp:297
+#: TheoryHarmony.cpp:300
 msgid "A great step in studying something is understanding its purpose."
 msgstr ""
+"Wenn man etwas genau studieren will, hilft es, seinen Zweck zu verstehen."
 
-#: TheoryHarmony.cpp:388
+#: TheoryHarmony.cpp:421
 msgid ""
 "A half cadence takes place when the harmony moves to the V degree (dominant) "
 "from any other degree, except the tonic (I). The ending on V causes it to "
@@ -232,8 +307,13 @@ msgid ""
 "chord. It is considered as the weakest cadence and cannot be used to end a "
 "musical phrase."
 msgstr ""
+"Ein Halbschluss findet statt, wenn sich die Harmonie von jeder Stufe ausser "
+"der Tonika (I) auf die V. Stufe (Dominante) bewegt. Der Schluss auf V lässt "
+"sie aufgrund der Instabilität des Dominantakkords unvollständig oder "
+"\"ausgesetzt\" klingen. Sie gilt als die schwächste Kadenz und kann nicht "
+"zum Abschluss einer musikalischen Phrase verwendet werden."
 
-#: TheoryHarmony.cpp:389
+#: TheoryHarmony.cpp:422
 msgid ""
 "A particular case of the half cadence is the Phrygian half cadence. It "
 "consists of a IV chord in first inversion that resolves to a V (or V7) chord "
@@ -241,16 +321,27 @@ msgid ""
 "widely used during the Baroque period to end a slow musical movement in "
 "minor mode, continued by a fast movement in major mode."
 msgstr ""
+"Ein besonderer Fall des Halbschluss' ist der phrygische Halbschluss. Er "
+"besteht aus einem IV-Akkord in erster Umkehrung, der sich in der "
+"Grundstellung in einen V- (oder V7-) Akkord auflöst. Er kommt nur in Moll-"
+"Tonarten vor (die IV ist Moll) und wurde in der Barockzeit häufig verwendet, "
+"um einen langsamen musikalischen Satz in Moll zu beenden, der durch einen "
+"schnellen Satz in Dur fortgesetzt wird."
 
-#: TheoryHarmony.cpp:376
+#: TheoryHarmony.cpp:409
 msgid ""
 "A plagal cadence takes place when grade IV (subdominant) resolves in grade I "
 "(tonic), both in root position. The plagal cadence is less strong than the "
 "authentic cadence and it is also known as the 'Amen' cadence as it is used "
 "at the end of most church hymns."
 msgstr ""
+"Ein plagaler Schluss findet statt, wenn die IV Stufe (Subdominante) sich in "
+"die I Stufe (Tonika) auflöst, beide in der Grundstellung. Der plagale "
+"Schluss ist weniger stark als der authentische Schluss und wird auch als "
+"\"Amen\"-Kadenz bezeichnet, da sie am Ende der meisten Kirchenlieder "
+"verwendet wird."
 
-#: TheoryHarmony.cpp:186
+#: TheoryHarmony.cpp:189
 msgid ""
 "A scale starts with the note that names the key, the tonic. This note is the "
 "<b>tonal center</b> of that key, the note where music in that key feels 'at "
@@ -261,8 +352,17 @@ msgid ""
 "the tonal center of the music is, even if they don't realize that they know "
 "it. You will learn about this in more advanced lessons."
 msgstr ""
+"Eine Tonleiter beginnt mit der Note, welche die Tonart benennt. Diese Note "
+"ist das <b>Tonale Zentrum</b>, die Note, bei der sich die Musik in dieser "
+"Tonart \"in Ruhe\" anfühlt. Zum Beispiel endet Musik in der Tonart A-Dur "
+"fast immer auf einem A-Dur-Akkord, dem Akkord, der auf der Note A aufgebaut "
+"ist. Sie beginnt oft auch auf diesem Akkord, kehrt oft zu diesem Akkord "
+"zurück und weist eine Melodie und eine Basslinie auf, die ebenfalls oft "
+"genug zur Note A zurückkehren, so dass die Zuhörer hören, wo das tonale "
+"Zentrum der Musik liegt, auch wenn sie es nicht wissen. Sie werden dies in "
+"fortgeschritteneren Lektionen lernen."
 
-#: TheoryHarmony.cpp:42
+#: TheoryHarmony.cpp:45
 msgid ""
 "A scale, from Latin word 'scala' meaning 'ladder', is a predefined series of "
 "notes going up (ascending) or down (descending). People in different musical "
@@ -273,12 +373,27 @@ msgid ""
 "for example - have divided the octave differently and so they use different "
 "scales."
 msgstr ""
+"Eine Tonleiter, vom lateinischen Wort 'scala', das 'Leiter' bedeutet, ist "
+"eine vordefinierte Reihe von Noten, die nach oben (aufsteigend) oder unten "
+"(absteigend) gehen. Menschen in verschiedenen Musiktraditionen haben "
+"unterschiedliche Vorstellungen darüber, welche Noten ihrer Meinung nach am "
+"besten zusammen klingen. In der westlichen Musiktradition - zu der auch die "
+"bekannteste Musik aus Europa und Amerika gehört - wird die Oktave in zwölf "
+"gleich große Noten aufgeteilt. Andere Musiktraditionen - zum Beispiel die "
+"traditionelle chinesische Musik - haben die Oktave anders aufgeteilt und "
+"verwenden daher andere Tonleiter."
 
-#: TheoryHarmony.cpp:409 TheoryHarmony.cpp:411
+#: TheoryHarmony.cpp:442 TheoryHarmony.cpp:444
 msgid "All cadences"
+msgstr "Alle Kadenzen"
+
+#: TheoryHarmony.cpp:38
+msgid ""
+"All other texts, by LenMus proyect contributors. Licensed under Creative "
+"Commons Attribution-Share-Alike License 3.0."
 msgstr ""
 
-#: TheoryHarmony.cpp:65
+#: TheoryHarmony.cpp:68
 msgid ""
 "Altough they sound equal, the first one, A, B, C, D, E, F, G# and A, is a "
 "correct scale as all note names are different, but the second one, A, B, C, "
@@ -287,60 +402,92 @@ msgid ""
 "might think that G# and Ab are the same note, they aren't, as you will learn "
 "in more advanced levels!)"
 msgstr ""
+"Obwohl sie gleich klingen, ist die erste Tonleiter, A, B, C, D, E, F, Gis "
+"und A, eine korrekte Tonleiter, da alle Notennamen unterschiedlich sind, "
+"aber die zweite Tonleiter, A, B, C, D, E, F, Ab, A ist <b>nicht</b> eine "
+"korrekte Tonleiter, da der Buchstabenname A zweimal verwendet wurde: einmal "
+"als As und einmal als A natürlich. (Auch wenn Sie vielleicht denken, dass "
+"Gis und Ab die gleiche Note sind, sind sie es nicht, wie Sie in "
+"fortgeschritteneren Lektionen lernen werden)."
 
-#: TheoryHarmony.cpp:367
+#: TheoryHarmony.cpp:400
 msgid ""
 "An authentic cadence takes place when grade V, dominant, (or V7, a V chord "
 "with an added seventh) resolves in grade I (tonic). The authentic cadence is "
 "the strongest terminal cadence, with great conclusive power."
 msgstr ""
+"Eine authentische Kadenz findet statt, wenn die Dominantseptakkord (oder V7, "
+"die V. Stufe mit einer hinzugefügten Septime) auf die I. Stufe (Tonika) "
+"aufgelöst wird. Die authentische Kadenz ist die stärkste Schlusskadenz mit "
+"großer Schlusskraft."
 
-#: TheoryHarmony.cpp:302
+#: TheoryHarmony.cpp:305
 msgid ""
 "An interval is the distance between two notes, measured as a number. "
 "Intervals are named by the number of steps between the two notes. When we "
 "measure an interval, we always start counting at the lower note. We then "
 "count upwards to the higher note. Consider the following example:"
 msgstr ""
+"Ein Intervall ist der Abstand zwischen zwei Noten, gemessen als Zahl. "
+"Intervalle werden nach der Anzahl der Halbtonschritte zwischen den beiden "
+"Noten benannt. Wenn wir ein Intervall messen, beginnen wir immer bei der "
+"tieferen Note zu zählen. Dann zählen wir aufwärts bis zur höheren Note. "
+"Betrachten Sie das folgende Beispiel:"
 
-#: TheoryHarmony.cpp:206
+#: TheoryHarmony.cpp:209
 msgid "And now in A minor"
-msgstr ""
+msgstr "Und jetzt in A-Dur"
 
-#: TheoryHarmony.cpp:183
+#: TheoryHarmony.cpp:186
 msgid "And now in D Major"
-msgstr ""
+msgstr "Und jetzt in D-Dur"
 
-#: TheoryHarmony.cpp:237
+#: TheoryHarmony.cpp:240
 msgid "And now let's look at A minor harmonic descending (going down):"
 msgstr ""
+"Und nun wollen wir uns die A-Harmonisch-Molltonleiter in absteigender "
+"Richtung ansehen:"
 
-#: TheoryHarmony.cpp:390
+#: TheoryHarmony.cpp:423
 msgid ""
 "Another very specific case is the Andalusian cadence. It only occurs in "
 "minor keys and is given by the progression I-VII-VI-V, where the VI degree "
 "can be replaced. This cadence has a particular colour due to the chromatic "
 "half step between the root of the VII and the third of the V."
 msgstr ""
+"Ein weiterer sehr spezifischer Fall ist die andalusische Kadenz. Sie kommt "
+"nur in Molltonarten vor und ist durch die Progression I-VII-VI-V gegeben, "
+"bei der die VI. Stufe ersetzt werden kann. Diese Kadenz hat eine besondere "
+"Farbe aufgrund des chromatischen Halbtonschrittes zwischen dem Grundton der "
+"VII und der Terz der V."
 
-#: TheoryHarmony.cpp:363
+#: TheoryHarmony.cpp:396
 msgid ""
 "As an exercise you will hear a cadence and based on the sensation it "
 "provokes, try to identify if the cadence is terminal or transient."
 msgstr ""
+"Als Übung werden Sie eine Kadenz hören und anhand des Eindrucks, den sie "
+"hervorruft, versuchen zu erkennen, ob die Kadenz abschließend oder "
+"vorübergehend ist."
 
-#: TheoryHarmony.cpp:198
+#: TheoryHarmony.cpp:201
 msgid ""
 "As with major scales, minor scales also share a common pattern of tones and "
 "semitones. Let's use again the piano keyboard and play all note names along "
 "one octave, but now starting on A. We will get the notes A-B-C-D-E-F-G-A-B:"
 msgstr ""
+"Wie bei den Durtonleitern gibt es auch bei den Molltonleitern ein "
+"gemeinsames Muster von Ganztönen und Halbtönen. Benutzen wir wieder die "
+"Klaviertastatur und spielen alle Notennamen entlang einer Oktave, aber jetzt "
+"beginnen wir mit A. Wir werden die Noten A-B-C-D-E-F-G-A-H erhalten:"
 
-#: TheoryHarmony.cpp:238
+#: TheoryHarmony.cpp:241
 msgid "As you can see, it's exactly the same notes, but in reverse order."
 msgstr ""
+"Wie Sie sehen können, sind es genau dieselben Noten, aber in umgekehrter "
+"Reihenfolge."
 
-#: TheoryHarmony.cpp:245
+#: TheoryHarmony.cpp:248
 msgid ""
 "As you can see, the descending scale is not just a back-to-front ascending "
 "scale, (as it was in the harmonic scale). The top end of the melodic scale "
@@ -348,111 +495,139 @@ msgid ""
 "tonic (keynote) of the scale, but the two notes just below it are the ones "
 "which change, depending on which direction you're going in."
 msgstr ""
+"Wie Sie sehen, handelt es sich bei der absteigenden Tonleiter nicht einfach "
+"um eine umgekehrte aufsteigende Tonleiter (wie es bei der Harmonischen "
+"Molltonleiter der Fall war). Das obere Ende der Melodischen Tonleiter "
+"verwendet ein völlig anderes Muster. Der oberste Ton wird immer die Tonika "
+"(Grundton) der Tonleiter sein, aber die beiden Töne direkt darunter sind "
+"diejenigen, die sich ändern, je nachdem, in welche Richtung Sie gehen."
 
-#: TheoryHarmony.cpp:108
+#: TheoryHarmony.cpp:111
 msgid "Ascending and descending"
-msgstr ""
+msgstr "Aufsteigend und absteigend"
 
-#: TheoryHarmony.cpp:322
+#: TheoryHarmony.cpp:325
 msgid ""
 "At first you may need to count the notes to determine the interval size but "
 "with practise you will learn to determine the intervals at first sight."
 msgstr ""
+"Zuerst müssen Sie vielleicht die Noten zählen, um das Intervall zu "
+"bestimmen, aber mit etwas Übung werden Sie lernen, die Intervalle auf den "
+"ersten Blick zu bestimmen."
 
-#: TheoryHarmony.cpp:268
-msgid "Aural training exercises"
+#: TheoryHarmony.cpp:370
+msgid "Augmented fifth"
 msgstr ""
 
-#: TheoryHarmony.cpp:384
+#: TheoryHarmony.cpp:271
+msgid "Aural training exercises"
+msgstr "Übungen zur Gehörbildung"
+
+#: TheoryHarmony.cpp:417
 msgid ""
 "Aural training: Identify if a terminal cadence is authentic perfect or "
 "plagal."
 msgstr ""
+"- Gehörbildung: Bestimmen Sie die Art der Kadenz: vollkommen, unvollkommen, "
+"Plagal-, Halb- oder Trugschluss."
 
-#: TheoryHarmony.cpp:400
+#: TheoryHarmony.cpp:433
 msgid ""
 "Aural training: Identify if a transient cadence is a half cadence or a "
 "deceptive cadence."
 msgstr ""
+"- Gehörbildung: Bestimmen Sie, ob ein Übergangskadenz ein Halb- oder "
+"Trugschluss ist."
 
-#: TheoryHarmony.cpp:226
+#: TheoryHarmony.cpp:229
 msgid "Aural training: Listen a scale and identify if it is major or minor"
 msgstr ""
+"- Gehörbildung. Hören Sie eine Tonleiter und unterscheiden Sie zwischen Dur "
+"und Moll"
 
-#: TheoryHarmony.cpp:261 TheoryHarmony.cpp:283 TheoryHarmony.cpp:285
+#: TheoryHarmony.cpp:264 TheoryHarmony.cpp:286 TheoryHarmony.cpp:288
 msgid "Aural training: Listen a scale and identify its type"
-msgstr ""
+msgstr "- Gehörbildung. Hören Sie eine Tonleiter und bestimmen Sie ihre Art"
 
-#: TheoryHarmony.cpp:410
+#: TheoryHarmony.cpp:443
 msgid "Aural training: identify the type of cadence."
-msgstr ""
+msgstr "- Gehörbildung: Identifizieren Sie die Art der Kadenz."
 
-#: TheoryHarmony.cpp:381 TheoryHarmony.cpp:383
+#: TheoryHarmony.cpp:414 TheoryHarmony.cpp:416
 msgid "Authentic and plagal cadences"
-msgstr ""
+msgstr "Authentische und plagale Kadenzen"
 
-#: TheoryHarmony.cpp:366
+#: TheoryHarmony.cpp:399
 msgid "Authentic cadences"
-msgstr ""
+msgstr "Authentische Kadenzen"
 
-#: TheoryHarmony.cpp:152 TheoryHarmony.cpp:157 TheoryHarmony.cpp:169
+#: TheoryHarmony.cpp:155 TheoryHarmony.cpp:160 TheoryHarmony.cpp:172
 msgid "B"
-msgstr ""
+msgstr "H"
 
-#: TheoryHarmony.cpp:309
+#: TheoryHarmony.cpp:312
 msgid "B-D as a harmonic (vertical) interval"
-msgstr ""
+msgstr "H-D als harmonisches (vertikales) Intervall"
 
-#: TheoryHarmony.cpp:308
+#: TheoryHarmony.cpp:311
 msgid "B-D as a melodic (horizontal) interval"
+msgstr "H-D als melodisches (horizontales) Intervall"
+
+#: TheoryHarmony.cpp:28 TheoryHarmony.cpp:357
+msgid "Basic ideas about chords"
 msgstr ""
 
-#: TheoryHarmony.cpp:176
+#: TheoryHarmony.cpp:179
 msgid "Bb"
-msgstr ""
+msgstr "B"
 
-#: TheoryHarmony.cpp:90
+#: TheoryHarmony.cpp:93
 msgid "Building a major scale"
-msgstr ""
+msgstr "Eine Durtonleiter aufbauen"
 
-#: TheoryHarmony.cpp:299
+#: TheoryHarmony.cpp:302
 msgid ""
 "But even if you are not interested on harmony and on theory about music, "
 "understanding intervals and being able to quickly and accurately recognize "
 "them is vital for reading and singing a score accurately. Also, it is "
 "essential for music dictation (writing the music you hear)."
 msgstr ""
+"Aber auch wenn Sie sich nicht für Harmonie und Musiktheorie interessieren, "
+"ist das Verstehen von Intervallen und die Fähigkeit, sie schnell und genau "
+"zu erkennen, für das genaue Lesen und Singen einer Partitur unerlässlich. "
+"Auch für das Musikdiktat (das Schreiben der Musik, die Sie hören) ist es "
+"unerlässlich."
 
-#: TheoryHarmony.cpp:146 TheoryHarmony.cpp:153 TheoryHarmony.cpp:158
-#: TheoryHarmony.cpp:177
+#: TheoryHarmony.cpp:149 TheoryHarmony.cpp:156 TheoryHarmony.cpp:161
+#: TheoryHarmony.cpp:180
 msgid "C"
-msgstr ""
+msgstr "C"
 
-#: TheoryHarmony.cpp:145
+#: TheoryHarmony.cpp:148
 msgid "C Major"
-msgstr ""
+msgstr "C-Dur"
 
-#: TheoryHarmony.cpp:213
+#: TheoryHarmony.cpp:216
 msgid "C major scale"
-msgstr ""
+msgstr "C-Durtonleiter"
 
-#: TheoryHarmony.cpp:202 TheoryHarmony.cpp:214
+#: TheoryHarmony.cpp:205 TheoryHarmony.cpp:217
 msgid "C minor scale"
-msgstr ""
+msgstr "C-Molltonleiter"
 
-#: TheoryHarmony.cpp:170
+#: TheoryHarmony.cpp:173
 msgid "C#"
-msgstr ""
+msgstr "C#"
 
-#: TheoryHarmony.cpp:359
+#: TheoryHarmony.cpp:392
 msgid "Cadence types"
-msgstr ""
+msgstr "Arten von Kadenzen"
 
-#: TheoryHarmony.cpp:28 TheoryHarmony.cpp:353 TheoryHarmony.cpp:354
+#: TheoryHarmony.cpp:30 TheoryHarmony.cpp:386 TheoryHarmony.cpp:387
 msgid "Cadences"
-msgstr ""
+msgstr "Kadenzen"
 
-#: TheoryHarmony.cpp:32
+#: TheoryHarmony.cpp:34
 msgid ""
 "Cadences\n"
 "<ul>\n"
@@ -462,134 +637,183 @@ msgid ""
 "<li> <a-9>Exercises on cadences</a-9></li>\n"
 "</ul>"
 msgstr ""
+"Kadenzen\n"
+"<ul>\n"
+"<li> <a-3>Kadenzen</a-3></li>\n"
+"<li> <a-5>Schlusskadenzen</a-5></li>\n"
+"<li> <a-7>Übergangskadenzen</a-7></li>\n"
+"<li> <a-9>Übungen zu den Kadenzen</a-9></li>\n"
+"</ul>"
 
-#: TheoryHarmony.cpp:358
+#: TheoryHarmony.cpp:391
 msgid ""
 "Cadences are not difficult to recognize by ear but it is sometimes harder to "
 "recognize them in written music."
 msgstr ""
+"Wie wir bemerkten, sind Kadenzen mit dem Gehör nicht schwer zu unterscheiden "
+"aber im Notenbild schon."
 
-#: TheoryHarmony.cpp:196
+#: TheoryHarmony.cpp:199
 msgid ""
 "Catherine Schmidt-Jones, 'Major Keys and Scales', Connexions, December 16, "
 "2009, <a-1>http://cnx.org/content/m10851/2.22/</a-1>. Her work is licensed "
 "under a Creative Commons Attribution License (CC-BY 1.0)."
 msgstr ""
+"Catherine Schmidt-Jones, 'Major Keys and Scales', Connexions, 16. Dezember "
+"2009, <a-1>http://cnx.org/content/m10851/2.22/</a-1>. Ihre Arbeit ist unter "
+"einer Creative Commons Attribution License (CC-BY 1.0) lizenziert."
 
-#: TheoryHarmony.cpp:224 TheoryHarmony.cpp:259
+#: TheoryHarmony.cpp:227 TheoryHarmony.cpp:262
 msgid ""
 "Catherine Schmidt-Jones, 'Minor Keys and Scales', Connexions, December 16, "
 "2009, <a-1>http://cnx.org/content/m10856/2.19/</a-1>. Her work is licensed "
 "under a Creative Commons Attribution License (CC-BY 1.0)."
 msgstr ""
+"Catherine Schmidt-Jones, \"Moll-Tonleitern und Tonleitern\", Connexions, 16. "
+"Dezember 2009, <a-1>http://cnx.org/content/m10856/2.19/</a-1>. Ihre Arbeit "
+"ist unter einer Creative Commons Attribution License (CC-BY 1.0) lizenziert."
 
-#: TheoryHarmony.cpp:52
+#: TheoryHarmony.cpp:356
+msgid "Chords"
+msgstr ""
+
+#: TheoryHarmony.cpp:29
+msgid ""
+"Chords\n"
+"<ul>\n"
+"<li> <a-3>Basic ideas about chords</a-3></li>\n"
+"</ul>"
+msgstr ""
+
+#: TheoryHarmony.cpp:384
+msgid "Chords' identification"
+msgstr ""
+
+#: TheoryHarmony.cpp:55
 msgid "Chromatic scales"
-msgstr ""
+msgstr "Chromatische Tonleiter"
 
-#: TheoryHarmony.cpp:189
+#: TheoryHarmony.cpp:192
 msgid "Common Errors when writing a scale"
-msgstr ""
+msgstr "Häufige Fehler beim Schreiben einer Tonleiter"
 
-#: TheoryHarmony.cpp:205
+#: TheoryHarmony.cpp:208
 msgid ""
 "Compare again the tune 'Row, Row, Row Your Boat', written in C major and in "
 "A minor. First in C major:"
 msgstr ""
+"Vergleichen Sie noch einmal die Melodie 'Row, Row, Row Your Boat', "
+"geschrieben in C-Dur und in a-Moll. Zuerst in C-Dur:"
 
-#: TheoryHarmony.cpp:212
+#: TheoryHarmony.cpp:378
+msgid ""
+"Compare and notice the dissonance between E4 and D5 introduced by the 7th:"
+msgstr ""
+
+#: TheoryHarmony.cpp:215
 msgid "Compare these three scales:"
-msgstr ""
+msgstr "Vergleichen Sie diese drei Tonleitern:"
 
-#: TheoryHarmony.cpp:36
+#: TheoryHarmony.cpp:39
 msgid "Copyright"
-msgstr ""
+msgstr "Copyright"
 
 #: TheoryHarmony.cpp:6
 msgid "Cover page"
-msgstr ""
+msgstr "Buchcover"
 
-#: TheoryHarmony.cpp:34
+#: TheoryHarmony.cpp:36
 msgid "Credits"
-msgstr ""
+msgstr "Credits"
 
-#: TheoryHarmony.cpp:33
+#: TheoryHarmony.cpp:35
 msgid "Credits and Copyrights"
-msgstr ""
+msgstr "Credits und Copyrights"
 
 #: TheoryHarmony.cpp:18
 msgid "Credits and copyrights"
-msgstr ""
+msgstr "Credits und copyrights"
 
-#: TheoryHarmony.cpp:147 TheoryHarmony.cpp:159 TheoryHarmony.cpp:164
-#: TheoryHarmony.cpp:171 TheoryHarmony.cpp:178
+#: TheoryHarmony.cpp:150 TheoryHarmony.cpp:162 TheoryHarmony.cpp:167
+#: TheoryHarmony.cpp:174 TheoryHarmony.cpp:181
 msgid "D"
-msgstr ""
+msgstr "D"
 
-#: TheoryHarmony.cpp:101 TheoryHarmony.cpp:163
+#: TheoryHarmony.cpp:104 TheoryHarmony.cpp:166
 msgid "D Major"
-msgstr ""
+msgstr "D-Dur"
 
-#: TheoryHarmony.cpp:103
+#: TheoryHarmony.cpp:106
 msgid "D major has two sharps - F sharp and C sharp."
-msgstr ""
+msgstr "D-Dur hat zwei Kreuze - Fis und Cis."
 
-#: TheoryHarmony.cpp:397 TheoryHarmony.cpp:399
+#: TheoryHarmony.cpp:430 TheoryHarmony.cpp:432
 msgid "Deceptive and half cadences"
-msgstr ""
+msgstr "Trugschluss und Halbkadenzen"
 
-#: TheoryHarmony.cpp:391
+#: TheoryHarmony.cpp:424
 msgid "Deceptive cadences"
-msgstr ""
+msgstr "Trugschluss"
 
-#: TheoryHarmony.cpp:111
+#: TheoryHarmony.cpp:114
 msgid "Degrees of the scale"
-msgstr ""
+msgstr "Stufen der Durtonleiter"
 
-#: TheoryHarmony.cpp:360
+#: TheoryHarmony.cpp:393
 msgid ""
 "Depending on the sensation they create, cadences are classified in two "
 "fundamental types:"
 msgstr ""
+"Entsprechend der Wirkung, die sie erzielen, werden Kadenzen in zwei "
+"fundamentale Typen eingeteilt:"
 
-#: TheoryHarmony.cpp:58
+#: TheoryHarmony.cpp:61
 msgid "Diatonic Scales"
-msgstr ""
+msgstr "Diatonische Tonleitern"
 
-#: TheoryHarmony.cpp:57
+#: TheoryHarmony.cpp:60
 msgid "Diatonic scales"
-msgstr ""
+msgstr "Diatonische Tonleitern"
 
 #: TheoryHarmony.cpp:20
 msgid "Diatonic scales. Tonal center"
+msgstr "Diatonische Tonleitern. Tonales Zentrum"
+
+#: TheoryHarmony.cpp:373
+msgid "Diminished fifth"
 msgstr ""
 
-#: TheoryHarmony.cpp:128
+#: TheoryHarmony.cpp:131
 msgid "Dominant"
-msgstr ""
+msgstr "Dominant"
 
-#: TheoryHarmony.cpp:337
+#: TheoryHarmony.cpp:340
 msgid ""
 "Don't forget that we were told to write a melodic interval, so in this case "
 "we will write the E after the F, and not directly above it:"
 msgstr ""
+"Vergessen Sie nicht, dass wir ein melodisches Intervall schreiben sollen, "
+"daher schreiben wir in diesem Fall das E nach dem F, und nicht direkt "
+"darüber:"
 
-#: TheoryHarmony.cpp:339
+#: TheoryHarmony.cpp:342
 msgid ""
 "Don't forget to look carefully at the clef, to place the note in the right "
 "line or space!."
 msgstr ""
+"Vergessen Sie nicht, genau auf den Notenschlüssel zu achten, die Note in die "
+"richtige Zeile oder den richtigen Abstand zu setzen!"
 
-#: TheoryHarmony.cpp:148 TheoryHarmony.cpp:160 TheoryHarmony.cpp:165
-#: TheoryHarmony.cpp:179
+#: TheoryHarmony.cpp:151 TheoryHarmony.cpp:163 TheoryHarmony.cpp:168
+#: TheoryHarmony.cpp:182
 msgid "E"
-msgstr ""
+msgstr "E"
 
-#: TheoryHarmony.cpp:215
+#: TheoryHarmony.cpp:218
 msgid "E flat major scale"
-msgstr ""
+msgstr "Eb-Durtonleiter"
 
-#: TheoryHarmony.cpp:97
+#: TheoryHarmony.cpp:100
 msgid ""
 "E major has four sharps - F sharp, C sharp. G sharp and D sharp. You might "
 "be wondering why we choose, for instance, F sharp and not G flat, since they "
@@ -599,110 +823,139 @@ msgid ""
 "with that letter. The next note we need to use is F so we used F sharp. If "
 "we had used G flat, F would have not be used in the scale."
 msgstr ""
+"E-Dur hat somit vier Kreuze - Fis, Cis. Gis und Dis. Sie fragen sich "
+"vielleicht, warum wir zum Beispiel Fis und nicht Ges wählen, da sie auf dem "
+"Klavier derselbe Ton sind. Denken Sie daran, dass wir in diatonischen "
+"Tonleitern jeden Notennamen <b>nur einmal</b> verwenden, mit Ausnahme der "
+"ersten und letzten Note, die den gleichen Buchstaben haben müssen. E-Dur "
+"muss mit <b>E</b> beginnen und enden, also haben wir mit diesem Buchstaben "
+"begonnen. Die nächste Note, die wir verwenden müssen, ist F, also benutzten "
+"wir Fis. Hätten wir Ges verwendet, wäre F in der Tonleiter nicht verwendet "
+"worden."
 
-#: TheoryHarmony.cpp:74
+#: TheoryHarmony.cpp:77
 msgid "E-F sharp is a tone. F natural sits between them."
-msgstr ""
+msgstr "E-Fis ist ein Ganzton. F sitzt dazwischen."
 
-#: TheoryHarmony.cpp:218 TheoryHarmony.cpp:252 TheoryHarmony.cpp:269
-#: TheoryHarmony.cpp:405
+#: TheoryHarmony.cpp:221 TheoryHarmony.cpp:255 TheoryHarmony.cpp:272
+#: TheoryHarmony.cpp:438
 msgid "Exercise 1"
-msgstr ""
+msgstr "Übung 1"
 
-#: TheoryHarmony.cpp:220 TheoryHarmony.cpp:254 TheoryHarmony.cpp:271
-#: TheoryHarmony.cpp:407
+#: TheoryHarmony.cpp:223 TheoryHarmony.cpp:257 TheoryHarmony.cpp:274
+#: TheoryHarmony.cpp:440
 msgid "Exercise 2"
-msgstr ""
+msgstr "Übung 2"
 
-#: TheoryHarmony.cpp:222 TheoryHarmony.cpp:256 TheoryHarmony.cpp:274
+#: TheoryHarmony.cpp:225 TheoryHarmony.cpp:259 TheoryHarmony.cpp:277
 msgid "Exercise 3"
-msgstr ""
+msgstr "Übung 3"
 
-#: TheoryHarmony.cpp:276
+#: TheoryHarmony.cpp:279
 msgid "Exercise 4"
-msgstr ""
+msgstr "Übung 4"
 
-#: TheoryHarmony.cpp:278
+#: TheoryHarmony.cpp:281
 msgid "Exercise 5"
-msgstr ""
+msgstr "Übung 5"
 
-#: TheoryHarmony.cpp:280
+#: TheoryHarmony.cpp:283
 msgid "Exercise 6"
+msgstr "Übung 6"
+
+#: TheoryHarmony.cpp:383
+msgid "Exercise: Identify the chord type"
 msgstr ""
 
-#: TheoryHarmony.cpp:351
+#: TheoryHarmony.cpp:385
+msgid "Exercise: Listen a chord and identify its type"
+msgstr ""
+
+#: TheoryHarmony.cpp:354
 msgid "Exercise: Listen two intervals and identify which one is greater"
 msgstr ""
+"Übung: Hören Sie sich zwei Intervalle an und stellen Sie fest, welches "
+"größer ist"
 
-#: TheoryHarmony.cpp:24 TheoryHarmony.cpp:217 TheoryHarmony.cpp:251
-#: TheoryHarmony.cpp:327 TheoryHarmony.cpp:378 TheoryHarmony.cpp:394
-#: TheoryHarmony.cpp:404
+#: TheoryHarmony.cpp:24 TheoryHarmony.cpp:220 TheoryHarmony.cpp:254
+#: TheoryHarmony.cpp:330 TheoryHarmony.cpp:380 TheoryHarmony.cpp:411
+#: TheoryHarmony.cpp:427 TheoryHarmony.cpp:437
 msgid "Exercises"
-msgstr ""
+msgstr "Übungen"
 
-#: TheoryHarmony.cpp:344
+#: TheoryHarmony.cpp:347
 msgid "Exercises in this lesson"
-msgstr ""
+msgstr "Übungen in dieser Lektion"
 
-#: TheoryHarmony.cpp:31 TheoryHarmony.cpp:401
+#: TheoryHarmony.cpp:33 TheoryHarmony.cpp:434
 msgid "Exercises on cadences"
-msgstr ""
+msgstr "Übungen zu den Kadenzen"
 
-#: TheoryHarmony.cpp:266
+#: TheoryHarmony.cpp:269
 msgid "Exercises on scales"
-msgstr ""
+msgstr "Übungen zu den Tonleitern"
 
-#: TheoryHarmony.cpp:149 TheoryHarmony.cpp:173 TheoryHarmony.cpp:180
+#: TheoryHarmony.cpp:152 TheoryHarmony.cpp:176 TheoryHarmony.cpp:183
 msgid "F"
-msgstr ""
+msgstr "F"
 
-#: TheoryHarmony.cpp:172
+#: TheoryHarmony.cpp:175
 msgid "F Major"
-msgstr ""
+msgstr "F-Dur"
 
-#: TheoryHarmony.cpp:75
+#: TheoryHarmony.cpp:78
 msgid "F is between these two notes"
-msgstr ""
+msgstr "F liegt zwischen diesen beiden Noten"
 
-#: TheoryHarmony.cpp:104
+#: TheoryHarmony.cpp:107
 msgid "F major"
-msgstr ""
+msgstr "F-Dur"
 
-#: TheoryHarmony.cpp:106
+#: TheoryHarmony.cpp:109
 msgid "F major doesn't have any sharps, but it has one flat - B flat."
-msgstr ""
+msgstr "F-Dur hat keine Kreuze, aber es hat ein b, nämlich B."
 
-#: TheoryHarmony.cpp:161 TheoryHarmony.cpp:166
+#: TheoryHarmony.cpp:164 TheoryHarmony.cpp:169
 msgid "F#"
-msgstr ""
+msgstr "F#"
 
-#: TheoryHarmony.cpp:48
+#: TheoryHarmony.cpp:51
 msgid ""
 "Find E and F on the piano keyboard. The distance between E and F is a "
 "semitone; it's not possible to squeeze another note in between them, because "
 "there is nothing between them on the piano keyboard."
 msgstr ""
+"Finden Sie E und F auf der Klaviertastatur. Der Abstand zwischen E und F ist "
+"ein Halbton; es ist nicht möglich, eine weitere Note dazwischen zu "
+"quetschen, da auf der Klaviertastatur nichts dazwischen liegt."
 
-#: TheoryHarmony.cpp:72
+#: TheoryHarmony.cpp:75
 msgid ""
 "Find G and A on the keyboard. G-A is a tone. We can squeeze a G sharp/A flat "
 "between them (there is a black key between them)"
 msgstr ""
+"Suchen Sie G und A auf der Tastatur. G-A ist ein Ton. Wir können ein Gis/As "
+"dazwischen quetschen (es gibt eine schwarze Taste zwischen ihnen)."
 
-#: TheoryHarmony.cpp:325
+#: TheoryHarmony.cpp:328
 msgid ""
 "First, the correct way: starting on the lower note (C), we count letter "
 "names to the higher note, (G), C-D-E-F-G =5, which gives us a 5th. This is "
 "the right answer!"
 msgstr ""
+"Zuerst der richtige Weg: Wir beginnen mit der tieferen Note (C) und zählen "
+"die Buchstabennamen bis zur höheren Note, (G), C-D-E-F-G =5, was uns eine "
+"Quinte ergibt. Das ist die richtige Antwort!"
 
-#: TheoryHarmony.cpp:332
+#: TheoryHarmony.cpp:335
 msgid ""
 "First, you need to work out which notes you have to write, and secondly you "
 "need to write the notes clearly and accurately."
 msgstr ""
+"Erstens müssen Sie herausfinden, welche Noten Sie schreiben müssen, und "
+"zweitens müssen Sie die Notizen klar und genau schreiben."
 
-#: TheoryHarmony.cpp:210
+#: TheoryHarmony.cpp:213
 msgid ""
 "For each major scale there is minor natural scale having the same notes and "
 "sharing the same accidentals in the key signature. This minor scale is "
@@ -710,81 +963,101 @@ msgid ""
 "example with C major and A minor. A minor key is called the relative minor "
 "of C major."
 msgstr ""
+"Für jede Dur-Tonleiter gibt es eine Natürliche Molltonleiter mit denselben "
+"Noten und denselben Vorzeichen. Diese Molltonleiter wird als <b>relatives "
+"Moll</b> der Durtonleiter bezeichnet. Wir haben ein Beispiel mit C-Dur und A-"
+"Moll gesehen. A-Moll wird als die relative Molltonart von C-Dur bezeichnet."
 
-#: TheoryHarmony.cpp:267
+#: TheoryHarmony.cpp:270
 msgid ""
 "For your convenience, in this lesson you have all the exercises included in "
 "previous lessons on scales."
 msgstr ""
+"Zur Vereinfachung sind in dieser Lektion alle Übungen aus früheren Lektionen "
+"über Tonleitern."
 
-#: TheoryHarmony.cpp:150 TheoryHarmony.cpp:155 TheoryHarmony.cpp:162
-#: TheoryHarmony.cpp:167 TheoryHarmony.cpp:174
+#: TheoryHarmony.cpp:153 TheoryHarmony.cpp:158 TheoryHarmony.cpp:165
+#: TheoryHarmony.cpp:170 TheoryHarmony.cpp:177
 msgid "G"
-msgstr ""
+msgstr "G"
 
-#: TheoryHarmony.cpp:98 TheoryHarmony.cpp:154
+#: TheoryHarmony.cpp:101 TheoryHarmony.cpp:157
 msgid "G Major"
-msgstr ""
+msgstr "G-Dur"
 
-#: TheoryHarmony.cpp:100
+#: TheoryHarmony.cpp:103
 msgid "G major has one sharp - F sharp."
-msgstr ""
+msgstr "G--Dur hat ein Kreuz - Fis."
 
-#: TheoryHarmony.cpp:73
+#: TheoryHarmony.cpp:76
 msgid "G# / Ab is between these two notes"
-msgstr ""
+msgstr "G#/Ab ist zwischen diesen beiden Noten"
 
-#: TheoryHarmony.cpp:387
+#: TheoryHarmony.cpp:420
 msgid "Half cadences"
-msgstr ""
+msgstr "Halbschluss"
 
-#: TheoryHarmony.cpp:23 TheoryHarmony.cpp:231
+#: TheoryHarmony.cpp:23 TheoryHarmony.cpp:234
 msgid "Harmonic and melodic minor scales"
-msgstr ""
+msgstr "Harmonische und Melodische Molltonleitern"
 
-#: TheoryHarmony.cpp:83
+#: TheoryHarmony.cpp:86
 msgid "Here are two more examples, the G major and F# major scales:"
-msgstr ""
+msgstr "Hier sind zwei weitere Beispiele, die G- und die F#-Durtonleiter:"
 
-#: TheoryHarmony.cpp:55
+#: TheoryHarmony.cpp:58
 msgid "Here is an ascending chromatic scale starting on B flat:"
-msgstr ""
+msgstr "Hier eine aufsteigende Chromatische Tonleiter von B aus:"
 
-#: TheoryHarmony.cpp:201
+#: TheoryHarmony.cpp:204
 msgid ""
 "Here you have more examples of minor natural scales. Take paper and pencil, "
 "copy those scales, and find the pattern of tones and semitones."
 msgstr ""
+"Hier haben Sie weitere Beispiele für natürliche Molltonleitern. Nehmen Sie "
+"Papier und Bleistift, schreiben Sie diese Tonleiter ab und suchen Sie das "
+"Muster der Töne und Halbtöne."
 
-#: TheoryHarmony.cpp:244
+#: TheoryHarmony.cpp:247
 msgid ""
 "Here's A minor melodic, ascending and descending. Click the play button and "
 "concentrate on the notes in red -- they're the ones which change on the way "
 "down."
 msgstr ""
+"Hier folgt A-Melodisch-Moll, auf- und absteigend. Klicken Sie auf den Play-"
+"Knopf und konzentrieren Sie sich auf die Noten in Rot - das sind die, die "
+"sich auf dem Weg nach unten verändern."
 
-#: TheoryHarmony.cpp:136
+#: TheoryHarmony.cpp:139
 msgid "Here's a summary of the notes of the scales of C, D, G and F major:"
 msgstr ""
+"Hier ist eine Zusammenfassung der Noten der Tonleiter von C-, D-, G- und F-"
+"Dur:"
 
-#: TheoryHarmony.cpp:110
+#: TheoryHarmony.cpp:113
 msgid "Here's an example of F major descending, using the bass clef."
 msgstr ""
+"Hier ist ein Beispiel für die absteigende F-Durtonleiter im Bassschlüssel."
 
-#: TheoryHarmony.cpp:303
+#: TheoryHarmony.cpp:306
 msgid ""
 "Here, we start counting on the lower note, which is C. We count upwards to "
 "the higher note, E. This gives us C, D and E. We counted three notes, so "
 "this interval is called a third."
 msgstr ""
+"Hier beginnen wir mit der Zählung des tieferen Tons, also C. Wir zählen "
+"aufwärts bis zum höheren Ton, E. Das ergibt C, D und E. Wir haben drei Töne "
+"gezählt, deshalb nennt man dieses Intervall eine Terz."
 
-#: TheoryHarmony.cpp:96
+#: TheoryHarmony.cpp:99
 msgid ""
 "Hopefully by now you've got the idea, so here are the rest of the notes of "
 "the E major scale:"
 msgstr ""
+"Hoffentlich haben Sie die Idee dahinter inzwischen verstanden. Hier sind "
+"also die restlichen Noten der E-Dur-Tonleiter:"
 
-#: TheoryHarmony.cpp:188
+#: TheoryHarmony.cpp:191
 msgid ""
 "How are these moods produced? Music in a particular key tends to use only "
 "some of the many possible notes available; these notes are listed in the "
@@ -801,94 +1074,141 @@ msgid ""
 "musicians, and even many non-musicians, can distinguish major and minor keys "
 "just by listening to the music."
 msgstr ""
+"Wie wird diese Stimmung erzeugt? Tonale Musik verwendet in der Regel nur "
+"einige der vielen möglichen Noten; diese Noten sind in der Tonleiter "
+"aufgeführt, die dieser Tonart zugeordnet ist. In Dur-Tonarten werden die "
+"Noten der Dur-Tonleiter dazu verwendet. Sie vermitteln das starke Gefühl, in "
+"dieser Tonart ein tonales Zentrum, einen Ton oder Akkord zu haben, der sich "
+"wie \"zu Hause\" oder als Ruhepunkt anfühlt. Die \"hell\" klingenden Dur-"
+"Akkorde und das starke Gefühl der Tonalität sind es, die den Dur-Tonarten "
+"ihre glückliche, angenehme Wirkung verleiht. Dies steht im Gegensatz zur "
+"Wirkung, die normalerweise auf Molltonarten , -tonleiter und -akkorde "
+"basierende Musik verwendet, wie Sie in der nächsten Lektion sehen werden. "
+"Obwohl sie auch ein starkes tonales Zentrum hat (die westliche Tradition der "
+"tonalen Harmonie basiert auf Dur- und Molltonarten und -tonleitern), klingt "
+"Musik in einer Molltonart eher traurig, unheilvoll oder geheimnisvoll. "
+"Tatsächlich können die meisten Musiker und sogar viele Nicht-Musiker allein "
+"durch das Hören der Musik Dur- und Molltonarten unterscheiden."
 
-#: TheoryHarmony.cpp:115
+#: TheoryHarmony.cpp:118
 msgid "I"
-msgstr ""
+msgstr "I"
 
-#: TheoryHarmony.cpp:137
+#: TheoryHarmony.cpp:140
 msgid "I (1st)"
-msgstr ""
+msgstr "I (Prim)"
 
-#: TheoryHarmony.cpp:144
+#: TheoryHarmony.cpp:147
 msgid "I (Octave)"
-msgstr ""
+msgstr "I (Oktave)"
 
-#: TheoryHarmony.cpp:118 TheoryHarmony.cpp:138
+#: TheoryHarmony.cpp:121 TheoryHarmony.cpp:141
 msgid "II"
-msgstr ""
+msgstr "II"
 
-#: TheoryHarmony.cpp:121 TheoryHarmony.cpp:139
+#: TheoryHarmony.cpp:124 TheoryHarmony.cpp:142
 msgid "III"
-msgstr ""
+msgstr "III"
 
-#: TheoryHarmony.cpp:124 TheoryHarmony.cpp:140
+#: TheoryHarmony.cpp:127 TheoryHarmony.cpp:143
 msgid "IV"
-msgstr ""
+msgstr "IV"
 
-#: TheoryHarmony.cpp:71
+#: TheoryHarmony.cpp:74
 msgid ""
 "If in the piano keyboard there is one note between the two notes we are "
 "looking at, the distance between those two notes is a tone. In the following "
 "picture I have coloured pairs of notes whose distance is a tone."
 msgstr ""
+"Wenn sich auf der Klaviertastatur zwischen den beiden Noten, die wir "
+"betrachten, ein weiterer Ton befindet, ist der Abstand zwischen diesen "
+"beiden Noten ein Ganzton. In der folgenden Abbildung habe ich Paare farblich "
+"gekennzeichnet, deren Abstand ein Ganzton ist."
 
-#: TheoryHarmony.cpp:47
+#: TheoryHarmony.cpp:50
 msgid ""
 "If two notes are as close as possible on the piano keyboard (two "
 "neighbouring keys, whatever colour, black or white), we call the distance "
 "between them a <b>semitone</b>. In the following picture I have coloured "
 "pairs of notes whose distance is a semitone."
 msgstr ""
+"Wenn zwei Töne auf der Klaviertastatur so nahe wie möglich beieinander "
+"liegen (zwei benachbarte Tasten, egal welcher Farbe, schwarz oder weiß), "
+"nennen wir den Abstand zwischen ihnen <b>Halbton</b>. In der folgenden "
+"Abbildung haben wir farbige Tonpaare, deren Abstand ein Halbton ist."
 
-#: TheoryHarmony.cpp:304
+#: TheoryHarmony.cpp:307
 msgid ""
 "If we count four notes, the interval is a fourth, and so on, until we reach "
 "eight. If we count eight notes the interval is called an <b>octave</b>."
 msgstr ""
+"Wenn wir vier Noten zählen, ist das Intervall eine Quarte, und so weiter, "
+"bis wir acht erreichen. Wenn wir acht Noten zählen, ist das Intervall eine "
+"<b>Oktave</b>."
 
-#: TheoryHarmony.cpp:80
+#: TheoryHarmony.cpp:83
 msgid ""
 "If we look again at the C major scale, we will see the following pattern of "
 "tones and semitones (T=tone and S=semitone):"
 msgstr ""
+"Wenn wir uns die C-Dur-Tonleiter noch einmal ansehen, sehen wir folgendes "
+"Muster von Ganztönen und Halbtönen (T=Ganzton und S=Halbton):"
 
-#: TheoryHarmony.cpp:298
+#: TheoryHarmony.cpp:301
 msgid ""
 "If you are interested in harmony and composition, you should know that "
 "intervals are the building blocks of harmony: you will not be able to "
 "understand harmony without studying about intervals."
 msgstr ""
+"Wenn Sie sich für Harmonie und Komposition interessieren, sollten Sie "
+"wissen, dass Intervalle die Bausteine der Harmonie sind: Sie werden die "
+"Harmonie nicht verstehen können, ohne sich mit Intervallen "
+"auseinanderzusetzen."
 
-#: TheoryHarmony.cpp:190
+#: TheoryHarmony.cpp:193
 msgid ""
 "If you have an examination, you might be asked to write any scale, ascending "
 "or descending, either with a key signature or using accidentals. Here are "
 "some common <b>mistakes</b>: make sure you don't make them!"
 msgstr ""
+"Bei einer Prüfung können Sie aufgefordert werden, eine beliebige Tonleiter "
+"zu schreiben, aufsteigend oder absteigend, entweder mit einer Tonart oder "
+"mit Vorzeichen. Hier sind einige häufige <b>Fehler</b>: Stellen Sie sicher, "
+"dass Sie sie nicht machen!"
 
-#: TheoryHarmony.cpp:333
+#: TheoryHarmony.cpp:336
 msgid ""
 "If you have to write an interval, you will be given the first (lower) note "
 "of the two, and you will be told what interval to calculate; something like "
 "this:"
 msgstr ""
+"Wenn Sie ein Intervall schreiben müssen, erhalten Sie die erste (untere) "
+"Note der beiden, und es wird Ihnen gesagt, welches Intervall zu berechnen "
+"ist; so etwas in der Art:"
 
-#: TheoryHarmony.cpp:41
+#: TheoryHarmony.cpp:44
 msgid ""
 "If you're learning an instrument you've probably played some scales already, "
 "but you might have learnt to play them without thinking about the actual "
 "notes, (your fingers do the thinking!). But to understand music and learn "
 "about harmony you need to know the scales and how they are built."
 msgstr ""
+"Wenn Sie ein Instrument lernen, haben Sie wahrscheinlich schon einige "
+"Tonleitern gespielt, aber vielleicht haben Sie sie auch gelernt, ohne über "
+"die eigentlichen Noten nachzudenken (das Denken übernehmen Ihre Finger!). "
+"Aber um Musik zu verstehen und etwas über Harmonie zu lernen, müssen Sie die "
+"Tonleiter kennen und wissen, wie sie gebaut sind."
 
-#: TheoryHarmony.cpp:89
+#: TheoryHarmony.cpp:92
 msgid ""
 "If you've ever wondered why we need notes like E sharp when F seems to be "
 "the same note, you'll see that we need them in keys like F sharp major!"
 msgstr ""
+"Wenn Sie sich jemals gefragt haben, warum wir Noten wie Eis brauchen, wenn F "
+"dieselbe Note zu sein scheint, werden Sie sehen, dass wir sie in Tonarten "
+"wie Fis-Dur brauchen!"
 
-#: TheoryHarmony.cpp:377
+#: TheoryHarmony.cpp:410
 msgid ""
 "In both cadence types, authentic and plagal, other chords playing the same "
 "harmonic functions can be used. For example, in the authentic cadence the V "
@@ -896,22 +1216,34 @@ msgid ""
 "IV (subdominant function) can be played by the II. These replacements add "
 "variety and harmonic colour to the cadence."
 msgstr ""
+"In beiden Kadenztypen, authentisch und plagal, können andere Akkorde mit den "
+"gleichen harmonischen Funktionen verwendet werden. Zum Beispiel kann in der "
+"authentischen Kadenz die V (Dominante) von der VII gespielt werden. Und in "
+"der plagalen Kadenz kann die IV (Subdominante) von der II gespielt werden. "
+"Diese Ersetzungen sorgen für Abwechslung und harmonische Farben in der "
+"Kadenz."
 
-#: TheoryHarmony.cpp:82
+#: TheoryHarmony.cpp:85
 msgid ""
 "In fact, all major scales follow the same pattern, so try to <b>remember it!"
 "</b> (tip: it is the pattern of white keys on the piano keyboard, starting "
 "on C)."
 msgstr ""
+"Tatsächlich folgen alle Tonleiter dem gleichen Muster, also versuchen Sie, "
+"sich <b>daran zu erinnern!</b> (Tipp: Es ist das Muster der weißen Tasten "
+"auf der Klaviertastatur, beginnend auf C)."
 
-#: TheoryHarmony.cpp:79
+#: TheoryHarmony.cpp:82
 msgid ""
 "In fact, what we need to know is the distance between each of the notes in "
 "the scale, measured in tones and semitones. Let's use again the piano "
 "keyboard:"
 msgstr ""
+"Was wir in der Tat wissen müssen, ist der Abstand zwischen den einzelnen "
+"Tönen der Tonleiter, gemessen in Tönen und Halbtönen. Lassen Sie uns wieder "
+"die Klaviertastatur verwenden:"
 
-#: TheoryHarmony.cpp:355
+#: TheoryHarmony.cpp:388
 msgid ""
 "In music, the term 'cadence' has several meanings. In harmony we are going "
 "to refer to a particular sequence of usually two chords whose function it is "
@@ -922,14 +1254,25 @@ msgid ""
 "phrases and they also help to establish tonality. Listen for example to the "
 "following three chords:"
 msgstr ""
+"In der Musik hat der Begriff \"Kadenz\" mehrere Bedeutungen. In der Harmonie "
+"beziehen wir uns auf eine bestimmte Folge von normalerweise zwei Akkorden, "
+"deren Funktion es ist, entweder ein Gefühl von Stabilität, Ruhe und "
+"Abschluss oder von Pause, Spannung und Unstabilität zu erzeugen. Kadenzen "
+"haben eine ähnliche Funktion wie die Interpunktionszeichen (Komma, Punkt "
+"usw.) in der Schriftsprache: sie kennzeichnen Atempausen und Pausen in der "
+"Musik, sie dienen der Strukturierung der musikalischen Phrasen und helfen "
+"auch bei der Festlegung der Tonalität. Hören Sie sich zum Beispiel die "
+"folgenden drei Akkorde an:"
 
-#: TheoryHarmony.cpp:77
+#: TheoryHarmony.cpp:80
 msgid ""
 "In the C major scale, both the first and the last notes are Cs, but how do "
 "we know what the in-between notes are?"
 msgstr ""
+"In der C-Dur-Tonleiter sind sowohl die erste als auch die letzte Note ein C, "
+"aber woher wissen wir, was die Töne dazwischen sind?"
 
-#: TheoryHarmony.cpp:250
+#: TheoryHarmony.cpp:253
 msgid ""
 "In the melodic minor scale, the sixth and seventh notes of the scale are "
 "each raised by one half step when going up the scale, but return to the "
@@ -937,20 +1280,28 @@ msgid ""
 "use this particular pattern of accidentals, so you will find very useful to "
 "practice melodic minor scales in your instrument."
 msgstr ""
+"In der melodischen Moll-Tonleiter werden der sechste und siebte Ton der "
+"Tonleiter jeweils um einen Halbtonschritt erhöht, kehren aber beim Absteigen "
+"in die natürliche Molltonart zurück. Melodien in melodisch Moll verwenden "
+"sehr oft dieses besondere Muster von Vorzeichen, was sehr hilfreich ist, um "
+"melodische Molltonleitern auf Ihrem Instrument zu üben."
 
-#: TheoryHarmony.cpp:403
+#: TheoryHarmony.cpp:436
 msgid ""
 "In this theme we just propose you some additional exercises to identify "
 "cadences, both aurally and in written music."
 msgstr ""
+"Zu diesem Thema schlagen wir Ihnen lediglich einige zusätzliche Übungen vor, "
+"um Kadenzen zu identifizieren, sowohl klanglich als auch in geschriebener "
+"Musik."
 
-#: TheoryHarmony.cpp:311
+#: TheoryHarmony.cpp:314
 msgid "Interval Numbers"
-msgstr ""
+msgstr "Intervall-Nummern"
 
-#: TheoryHarmony.cpp:294
+#: TheoryHarmony.cpp:297
 msgid "Intervals"
-msgstr ""
+msgstr "Intervalle"
 
 #: TheoryHarmony.cpp:27
 msgid ""
@@ -959,19 +1310,26 @@ msgid ""
 "<li> <a-3>What is an interval?</a-3></li>\n"
 "</ul>"
 msgstr ""
+"Intervalle\n"
+"<ul>\n"
+"<li> <a-3>Was ist ein Intervall?</a-3></li>\n"
+"</ul>"
 
-#: TheoryHarmony.cpp:350
+#: TheoryHarmony.cpp:353
 msgid "Intervals' comparison"
-msgstr ""
+msgstr "Intervalle vergleichen"
 
-#: TheoryHarmony.cpp:113
+#: TheoryHarmony.cpp:116
 msgid ""
 "It is customary to refer to the scale degrees by Roman numerals as well as "
 "by name. You already know that the first note, the one that gives name to "
 "the scale, is called 'the tonic'. The other notes are named as follows:"
 msgstr ""
+"Es ist üblich, die Tonleiter sowohl mit römischen Ziffern als auch mit dem "
+"Namen zu bezeichnen. Sie wissen bereits, dass der erste Ton jeder Tonleiter "
+"\"die Tonika\" genannt wird. Die anderen Töne werden wie folgt benannt:"
 
-#: TheoryHarmony.cpp:211
+#: TheoryHarmony.cpp:214
 msgid ""
 "It is easy to predict where the relative minor of a major key can be found. "
 "Notice that the pattern for minor scales overlaps the pattern for major "
@@ -983,85 +1341,124 @@ msgid ""
 "For example, C minor has the same key signature as E flat major, since E "
 "flat is a minor third higher than C."
 msgstr ""
+"Es ist leicht vorherzusagen, wo das relative Moll einer Dur-Tonart zu finden "
+"ist. Beachten Sie, dass das Muster für die Moll-Tonleiter und das Muster für "
+"die Dur-Tonleiter überlappen. Mit anderen Worten, es handelt sich um "
+"dasselbe Muster, das aber an einer anderen Stelle beginnt. (Wenn die Muster "
+"sehr unterschiedlich wären, wäre die Moll-Tonleiter nicht verwandt mit der "
+"Dur-Tonleiter). Das Muster für die Molltonleiter beginnt einen Halbton plus "
+"einen Ganzton tiefer als das Muster für die Dur-Tonleiter, so dass <b>ein "
+"relatives Moll immer drei Halbtonschritte tiefer liegt als sein relatives "
+"Dur</b>. Zum Beispiel hat c-Moll die gleichen Töne wie Es-Dur, da C eine "
+"kleine Terz tiefer als Es ist."
 
-#: TheoryHarmony.cpp:199
+#: TheoryHarmony.cpp:202
 msgid ""
 "It is the scale of <b>A minor natural</b>. If we analyse it we will find the "
 "following pattern of tones and semitones (T=tone and S=semitone):"
 msgstr ""
+"Es ist die Tonleiter von <b>A-Natürlich-Moll </b>. Wenn wir sie analysieren, "
+"finden wir das folgende Muster von Ganztönen und Halbtönen (T=Ganzton und "
+"S=Halbton):"
 
-#: TheoryHarmony.cpp:62
+#: TheoryHarmony.cpp:65
 msgid ""
 "It is the scale of <b>C major</b>, and it is an example of a diatonic scale. "
 "Most of the scales you will have played up to now will have been diatonic "
 "scales. They are the most common type of scale in Western classical music."
 msgstr ""
+"Es handelt sich um die Tonleiter <b>C-Dur</b>, und es ist ein Beispiel für "
+"eine diatonische Tonleiter. Die meisten Tonleiter, die Sie bisher gespielt "
+"haben, werden diatonische Tonleitern gewesen sein. Sie sind der häufigste "
+"Tonleitertyp in der westlichen klassischen Musik."
 
-#: TheoryHarmony.cpp:134
+#: TheoryHarmony.cpp:137
 msgid "Leading note"
-msgstr ""
+msgstr "Leitton"
 
-#: TheoryHarmony.cpp:348
+#: TheoryHarmony.cpp:351
 msgid ""
 "Lesson based on materials from <a-1>www.mymusictheory.com</a-1>. Copyright "
 "(c) Victoria K. Williams. Used here with her permission."
 msgstr ""
+"Die Lektion basiert auf Materialien von <a-1>www.mymusictheory.com</a-1>. "
+"Copyright (c) Victoria K. Williams. Mit freundlicher Genehmigung."
 
-#: TheoryHarmony.cpp:102
+#: TheoryHarmony.cpp:105
 msgid "Let's look at D major next:"
-msgstr ""
+msgstr "Schauen wir einmal D-Dur als nächstes an:"
 
-#: TheoryHarmony.cpp:239
+#: TheoryHarmony.cpp:242
 msgid ""
 "Let's look at two other examples: E minor harmonic and D minor harmonic. "
 "Look carefully at how many semitones there are between each note."
 msgstr ""
+"Sehen wir uns zwei weitere Beispiele an: E-Harmonisch-Moll und D-Harmonisch-"
+"Moll. Sehen Sie sich genau an, wie viele Halbtöne zwischen den einzelnen "
+"Noten liegen."
 
-#: TheoryHarmony.cpp:61
+#: TheoryHarmony.cpp:64
 msgid ""
 "Let's play all note names along one octave, starting on C. We will get the "
 "notes C-D-E-F-G-B-A-C:"
 msgstr ""
+"Lassen Sie uns alle Notennamen entlang einer Oktave spielen, beginnend mit "
+"C. Wir werden die Noten C-D-E-F-G-A-H-C erhalten:"
 
-#: TheoryHarmony.cpp:246
+#: TheoryHarmony.cpp:249
 msgid "Let's see two more examples, E minor melodic and D minor melodic:"
 msgstr ""
+"Sehen wir uns zwei weitere Beispiele an, E-Melodisch-Moll und D-Melodisch-"
+"Moll:"
 
-#: TheoryHarmony.cpp:236
+#: TheoryHarmony.cpp:239
 msgid ""
 "Let's start by building a scale of A minor harmonic ascending (going up):"
 msgstr ""
+"Beginnen wir mit dem Aufbau einer Tonleiter in A-Moll, harmonisch "
+"aufsteigend (nach oben):"
 
-#: TheoryHarmony.cpp:43
+#: TheoryHarmony.cpp:46
 msgid ""
 "Let's start learning about the 'bricks' for building scales: <b>tones</b> "
 "and <b>semitones</b>."
 msgstr ""
+"Fangen wir an, etwas über die \"Bausteine\" für Tonleiter zu lernen: "
+"<b>Ganztöne</b> und <b>Halbtöne</b>."
 
-#: TheoryHarmony.cpp:240
+#: TheoryHarmony.cpp:243
 msgid ""
 "Let's write again the E minor harmonic and D minor harmonic but using key "
 "signatures. It's easy to see that <b>the harmonic minor scale raises the "
 "seventh note of the natural scale by one half step</b>:"
 msgstr ""
+"Lassen Sie uns noch einmal die E-Harmonisch-Moll- und die D-Harmonisch-Moll "
+"aufschreiben, aber mit Vorzeichen. Es ist leicht zu erkennen, dass <b>die "
+"Harmonische Molltonleiter den siebten Ton der Natürlichen Molltonleiter um "
+"einen Halbtonschritt erhöht</b>:"
 
-#: TheoryHarmony.cpp:247
+#: TheoryHarmony.cpp:250
 msgid ""
 "Let's write again the E minor melodic and D minor melodic but using key "
 "signatures. It's easy to see that <b>the sixth and seventh notes of the "
 "scale are each raised by one half step when going up the scale, but return "
 "to the natural minor when going down the scale</b>:"
 msgstr ""
+"Schreiben wir noch einmal die Melodie in E-Moll und die Melodie in D-Moll, "
+"aber mit Vorzeichen. Es ist leicht zu erkennen, dass <b>der sechste und "
+"siebte Ton der Tonleiter jeweils um einen Halbtonschritt angehoben wird, "
+"wenn man die Tonleiter hinaufgeht, aber zur natürlichen Molltonart "
+"zurückkehrt, wenn man die Tonleiter hinuntergeht</b>:"
 
-#: TheoryHarmony.cpp:87
+#: TheoryHarmony.cpp:90
 msgid "Let's write again the G Major and F# Major but using key signatures:"
-msgstr ""
+msgstr "Schreiben wir noch einmal G-Dur und Fis-Dur, aber mit Vorzeichen:"
 
 #: TheoryHarmony.cpp:3
 msgid "Licensed under the Creative Commons Attribution/Share-Alike License;"
-msgstr ""
+msgstr "Lizenziert unter der Creative Commons Attribution/Share-Alike-Lizenz;"
 
-#: TheoryHarmony.cpp:184
+#: TheoryHarmony.cpp:187
 msgid ""
 "Listen to this tune in G major and in D major. The music may look quite "
 "different, but the only difference when you listen is that one sounds higher "
@@ -1073,55 +1470,74 @@ msgid ""
 "voices involved. But today the most common reason to choose a particular key "
 "is simply that the music is easiest to sing or play in that key."
 msgstr ""
+"Hören Sie sich diese Melodie in G-Dur und in D-Dur an. Die Musik mag ganz "
+"anders aussehen, aber der einzige Unterschied beim Hören ist, dass die eine "
+"höher klingt als die andere. Warum sich also überhaupt mit verschiedenen "
+"Tonarten herumschlagen? Bevor die wohltemperierte Stimmung zum Standard-"
+"Stimmsystem wurde, klangen die Dur-Tonarten unterschiedlicher als heute. "
+"Auch heute noch gibt es subtile Unterschiede zwischen dem Klang eines "
+"Stückes in der einen oder anderen Tonart, meist aufgrund von Unterschieden "
+"in der Klangfarbe der verschiedenen Noten auf den beteiligten Instrumenten "
+"oder Stimmen. Aber heute ist der häufigste Grund für die Wahl einer "
+"bestimmten Tonart einfach der, dass die Musik in dieser Tonart am "
+"einfachsten zu singen oder zu spielen ist."
 
-#: TheoryHarmony.cpp:76
+#: TheoryHarmony.cpp:79
 msgid "Major Scales"
-msgstr ""
+msgstr "Durtonleitern"
 
-#: TheoryHarmony.cpp:122
+#: TheoryHarmony.cpp:125
 msgid "Mediant"
-msgstr ""
+msgstr "Mediante"
 
-#: TheoryHarmony.cpp:305
+#: TheoryHarmony.cpp:308
 msgid "Melodic and Harmonic Intervals"
-msgstr ""
+msgstr "Melodische und harmonische Intervalle"
 
-#: TheoryHarmony.cpp:310
+#: TheoryHarmony.cpp:313
 msgid ""
 "Melodic intervals are read horizontally and are found in melodies, whereas "
 "harmonic intervals are read vertically, and are found in chords. But, in any "
 "case, they are measured and named in the same way."
 msgstr ""
+"Melodische Intervalle werden horizontal gelesen und finden sich in Melodien, "
+"während harmonische Intervalle vertikal gelesen werden und sich in Akkorden "
+"befinden. Aber in jedem Fall werden sie auf die gleiche Weise gemessen und "
+"benannt."
 
-#: TheoryHarmony.cpp:234
+#: TheoryHarmony.cpp:237
 msgid "Minor harmonic scales"
-msgstr ""
+msgstr "Harmonische Molltonleitern"
 
-#: TheoryHarmony.cpp:241
+#: TheoryHarmony.cpp:244
 msgid "Minor melodic scales"
-msgstr ""
+msgstr "Melodische Molltonleitern"
 
-#: TheoryHarmony.cpp:22 TheoryHarmony.cpp:197
+#: TheoryHarmony.cpp:22 TheoryHarmony.cpp:200
 msgid "Minor natural scales"
-msgstr ""
+msgstr "Natürliche Molltonleitern"
 
-#: TheoryHarmony.cpp:181
+#: TheoryHarmony.cpp:184
 msgid "Music in different major keys"
-msgstr ""
+msgstr "Musik in verschiedenen Dur-Tonarten"
 
-#: TheoryHarmony.cpp:203
+#: TheoryHarmony.cpp:206
 msgid "Music in minor keys"
-msgstr ""
+msgstr "Musik in Molltonleitern"
 
-#: TheoryHarmony.cpp:204
+#: TheoryHarmony.cpp:207
 msgid ""
 "Music in minor keys has a different sound and emotional feel than music that "
 "is in a major key. Music in a major key sounds bright and cheerful while "
 "music that is in a minor key is sometimes described as sounding more solemn, "
 "sad, mysterious, or ominous."
 msgstr ""
+"Musik in Molltonarten hat einen anderen Klang und ein anderes emotionales "
+"Gefühl als Musik in Durtonarten. Musik in Dur klingt hell und fröhlich, "
+"während Musik in Moll manchmal als feierlicher, traurig, geheimnisvoll oder "
+"ominöser beschrieben wird."
 
-#: TheoryHarmony.cpp:249
+#: TheoryHarmony.cpp:252
 msgid ""
 "Music in minor keys is usually described as sad, mysterious, solemn, or "
 "ominous. When using the minor natural scale the music has also and ancient "
@@ -1131,10 +1547,18 @@ msgid ""
 "(you will learn about this in more advanced lessons) avoiding this "
 "'medieval' feeling."
 msgstr ""
+"Musik in Molltonarten wird gewöhnlich als traurig, geheimnisvoll, feierlich "
+"oder ominös beschrieben. Bei Verwendung der Natürlichen Molltonleiter hat "
+"die Musik auch einen antiken Klang, wie mittelalterliche Musik. Durch die "
+"Anhebung der siebten Stufe um einen Halbton, sowohl in den Harmonischen als "
+"auch in den Melodischen Molltonleitern, stellten die Musiker fest, dass die "
+"erzeugten Harmonien der Musik das Gefühl geben, stärker auf die Tonika "
+"zentriert zu sein (Sie werden dies in fortgeschritteneren Lektionen lernen), "
+"wodurch dieses \"mittelalterliche\" Gefühl vermieden wird."
 
-#: TheoryHarmony.cpp:248
+#: TheoryHarmony.cpp:251
 msgid "Music in minor scales"
-msgstr ""
+msgstr "Musik in Molltonleitern"
 
 #: TheoryHarmony.cpp:15
 msgid ""
@@ -1145,83 +1569,130 @@ msgid ""
 "publish the lessons as soon as I write them, instead of waiting until the "
 "whole book is finished."
 msgstr ""
+"Mein Hauptziel ist es nicht, über Musiktheorie zu schreiben (es gibt viele "
+"gute Bücher darüber, die Sie verwenden können), sondern meine Zeit mit dem "
+"Schreiben von Software zu verbringen. Aber einige Texte sind notwendig, ich "
+"habe nicht viel Zeit zum Schreiben von Texten und es kostet viel Zeit, ein "
+"eBook vorzubereiten. Deshalb habe ich beschlossen, die Lektionen zu "
+"veröffentlichen, sobald ich sie schreibe, anstatt zu warten, bis das ganze "
+"Buch fertig ist."
 
-#: TheoryHarmony.cpp:95
+#: TheoryHarmony.cpp:98
 msgid ""
 "Next we meet our first semitone: A. (There is nothing we can squeeze in "
 "between #G and A)."
 msgstr ""
+"Als nächstes treffen wir auf unseren ersten Halbton: A. (Es gibt nichts, was "
+"wir zwischen Gis und A quetschen können)."
 
-#: TheoryHarmony.cpp:192
+#: TheoryHarmony.cpp:195
 msgid ""
 "Not noticing whether the question asks for a <b>key signature</b> or "
 "<b>accidentals</b>."
 msgstr ""
+"Man merkt nicht, ob die Frage nach <b>Vorzeichen</b> oder "
+"<b>Versetzungszeichen</b> verlangt."
 
-#: TheoryHarmony.cpp:191
+#: TheoryHarmony.cpp:194
 msgid "Not using a <b>different</b> letter name for each note."
 msgstr ""
+"Man hat nicht immer <b>unterschiedliche</b> Buchstaben für jede Note "
+"verwendet."
 
-#: TheoryHarmony.cpp:49 TheoryHarmony.cpp:51
+#: TheoryHarmony.cpp:52 TheoryHarmony.cpp:54
 msgid "Nothing possible here!"
-msgstr ""
+msgstr "Hier ist nichts möglich!"
 
-#: TheoryHarmony.cpp:307
+#: TheoryHarmony.cpp:310
 msgid ""
 "Notice that the words 'harmonic' and 'melodic' used to describe intervals "
 "has nothing to do with its meaning when we use them to talk about harmonic "
 "and melodic minor scales."
 msgstr ""
+"Beachten Sie, dass die Worte \"harmonisch\" und \"melodisch\", die zur "
+"Beschreibung von Intervallen verwendet werden, nichts mit ihrer weiteren "
+"Bedeutung zu tun haben, wenn wir sie verwenden, um über harmonische und "
+"melodische Tonleiter zu sprechen."
 
-#: TheoryHarmony.cpp:50
+#: TheoryHarmony.cpp:53
 msgid ""
 "Now find A and B flat. The distance between A and B flat is also a semitone."
 msgstr ""
+"Suchen Sie nun A und B. Der Abstand zwischen A und B ist ebenfalls ein "
+"Halbton."
 
-#: TheoryHarmony.cpp:357
+#: TheoryHarmony.cpp:390
 msgid ""
 "Now the sensation is not conclusive. It is more like a short pause and it "
 "creates an expectation of continuation. If we end the music piece at the "
 "last chord, we will leave the listener with a longing for more."
 msgstr ""
+"Nun ist die Empfindung nicht abschließend. Es handelt sich eher um eine "
+"kurze Pause, und sie weckt die Erwartung einer Fortsetzung. Wenn wir das "
+"Musikstück beim letzten Akkord beenden, verlassen wir den Zuhörer mit der "
+"Sehnsucht nach mehr."
 
-#: TheoryHarmony.cpp:326
+#: TheoryHarmony.cpp:329
 msgid ""
 "Now the wrong way. Starting on the first note (G), we count the letter names "
 "to the second note (C), G-A-B-C =4, which gives us a 4th. This is the wrong "
 "answer!"
 msgstr ""
+"Jetzt in die falsche Richtung. Beginnend mit der ersten Note (G) zählen wir "
+"die Buchstabennamen bis zur zweiten Note (C), G-A-B-C = 4, was uns eine "
+"Quarte gibt. Das ist die falsche Antwort!"
 
-#: TheoryHarmony.cpp:88
+#: TheoryHarmony.cpp:91
 msgid ""
 "Observe that if you write a major scale with its key signature <b>there are "
 "no accidentals to add!</b>"
 msgstr ""
+"Beachten Sie, dass, wenn Sie eine Dur-Tonleiter mit ihrem Vorzeichen <b> "
+"schreiben, keine Versetzungszeichen hinzuzufügen sind!</b>"
 
-#: TheoryHarmony.cpp:78
+#: TheoryHarmony.cpp:376
+msgid ""
+"Obviously, any chord can be built on any of the 12 notes of the chromatic "
+"scale and, depending on the tonality in which we are, the chord will have "
+"the range that expresses its root note: 1st degree (I - tonic); 4th degree "
+"(IV - subdominant); 5th degree (V - dominant), etc."
+msgstr ""
+
+#: TheoryHarmony.cpp:81
 msgid ""
 "On the piano, a C major scale uses all the white notes (so it doesn't have "
 "any sharps or flats), but on other instruments, we don't have white notes, "
 "so how do we know which notes to use?"
 msgstr ""
+"Auf dem Klavier verwendet eine C-Dur-Tonleiter alle weißen Tasten (aber "
+"keine schwarzen), aber auf anderen Instrumenten haben wir keine weißen und "
+"schwarzen Tasten, woher wissen wir also, welche Töne wir verwenden sollen?"
 
-#: TheoryHarmony.cpp:243
+#: TheoryHarmony.cpp:246
 msgid ""
 "On the way up (ascending), the sixth and seventh degrees of the scale are "
 "each raised by one half step, creating the pattern <b>T-S-T-T-T-T-S</b>, but "
 "on the way down the pattern is that of the minor natural: <b>T-T-S-T-T-S-T</"
 "b>."
 msgstr ""
+"Auf dem Weg nach oben (aufsteigend) werden die sechste und siebte Note der "
+"Tonleiter jeweils um einen Halbton angehoben, wodurch das Muster <b>T-S-T-T-"
+"T-T-S</b> entsteht, aber auf dem Weg nach unten ist es das Muster von "
+"Natürlich Moll: <b>T-T-S-T-T-S-T</b>."
 
-#: TheoryHarmony.cpp:402
+#: TheoryHarmony.cpp:435
 msgid ""
 "Once you have reviewed all cadence types it is important to learn to "
 "recognize and identify them. A useful trick is to associate each cadence "
 "with a melody or song you know well. Practise to recognise cadences while "
 "you listen to music."
 msgstr ""
+"Wenn Sie alle Kadenztypen durchgearbeitet haben, ist es wichtig zu lernen, "
+"sie zu erkennen und zu identifizieren. Ein nützlicher Trick ist es, jede "
+"Kadenz mit einer Melodie oder einem Lied zu assoziieren, das Sie gut kennen. "
+"Üben Sie, Kadenzen zu erkennen, während Sie Musik hören."
 
-#: TheoryHarmony.cpp:340
+#: TheoryHarmony.cpp:343
 msgid ""
 "One interval is a bit more awkward to write than the others, and that is the "
 "harmonic 2nd. Harmonic intervals are written directly above the given note, "
@@ -1229,12 +1700,26 @@ msgid ""
 "side a little. If you try to write it directly above, you will produce "
 "something unreadable like this:"
 msgstr ""
+"Bei einem Intervall ist die Schreibweise etwas anders als bei den anderen "
+"und das ist die Sekund. Harmonische Intervalle werden direkt über die "
+"gegebene Note geschrieben, aber die Sekund ist zu nah, um sie direkt zu "
+"schreiben, also müssen wir sie etwas zur Seite schieben. Wenn Sie versuchen, "
+"sie direkt darüber zu schreiben, werden Sie etwas Unlesbares wie das hier "
+"erzeugen:"
 
-#: TheoryHarmony.cpp:342
-msgid "Perfect!"
+#: TheoryHarmony.cpp:364
+msgid "Perfect major"
 msgstr ""
 
-#: TheoryHarmony.cpp:37
+#: TheoryHarmony.cpp:367
+msgid "Perfect minor"
+msgstr ""
+
+#: TheoryHarmony.cpp:345
+msgid "Perfect!"
+msgstr "Perfekt!"
+
+#: TheoryHarmony.cpp:40
 msgid ""
 "Permission is granted to copy, distribute and/or modify this book under the "
 "terms of the Creative Commons Attribution-Share-Alike License 3.0, with the "
@@ -1244,6 +1729,14 @@ msgid ""
 "Share-Alike licence is available at <a-1>http://creativecommons.org/licenses/"
 "by-sa/3.0/</a-1>"
 msgstr ""
+"Es wird die Erlaubnis erteilt, dieses Buch unter den Bedingungen der "
+"Creative Commons Attribution-Share-Alike License 3.0 zu kopieren, zu "
+"verteilen und/oder zu modifizieren, mit Ausnahme der Seiten, auf denen der "
+"Autor oder die Gruppe von Autoren deutlich gekennzeichnet ist. Diese Seiten "
+"unterliegen den im vorhergehenden Abschnitt \"Credits\" beschriebenen "
+"Einschränkungen. Der Text der Creative-Commons-Lizenz \"Creative Commons "
+"Attribution-Share-Alike\" ist unter <a-1>http://creativecommons.org/licenses/"
+"by-sa/3.0/</a-1> verfügbar"
 
 #: TheoryHarmony.cpp:12
 msgid ""
@@ -1254,57 +1747,74 @@ msgid ""
 "Alike License 3.0 is available at <a-2> http://creativecommons.org/licenses/"
 "by-sa/3.0/</a-2>"
 msgstr ""
+"Es wird die Erlaubnis erteilt, dieses Dokument unter den Bedingungen der "
+"Creative Commons Attribution-Share-Alike License 3.0 oder später zu "
+"kopieren, zu verteilen und/oder zu modifizieren, mit den Ausnahmen, die auf "
+"der Seite <a-1>Credits und Copyrights</a-1> dieses Buches beschrieben sind. "
+"Der Text der Creative Commons Attribution-Share-Alike License 3.0 ist unter "
+"<a-2> http://creativecommons.org/licenses/by-sa/3.0/</a-2> verfügbar"
 
-#: TheoryHarmony.cpp:375
+#: TheoryHarmony.cpp:408
 msgid "Plagal cadences"
-msgstr ""
+msgstr "Plagale Schlusskadenzen"
 
-#: TheoryHarmony.cpp:85
+#: TheoryHarmony.cpp:88
 msgid ""
 "Play both scales and listen. You will notice that both sound 'similar' and "
-"remains you the C major scale: the scale formed by all note names <b>without "
-"accidentals</b>. But, wait!. G major and F# major <b>do have</b> "
+"reminds you of the C major scale: the scale formed by all note names "
+"<b>without accidentals</b>. But, wait!. G major and F# major <b>do have</b> "
 "accidentals. How is that they sound 'similar' if we have introduced new "
 "different sounds?"
 msgstr ""
+"Spielen Sie beide Tonleitern ab und hören Sie zu. Sie werden feststellen, "
+"dass beide 'ähnlich' klingen und sie an die C-Dur-Tonleiter erinnert, die "
+"Tonleiter, die von allen Notennamen <b>ohne Vorzeichen</b> gebildet wird. "
+"Aber, Halt! G-Dur und Fis-Dur <b>haben </b> doch Vorzeichen. Wie kann es "
+"sein, dass sie \"ähnlich\" klingen, wenn wir neue Töne eingeführt haben?"
 
-#: TheoryHarmony.cpp:64
+#: TheoryHarmony.cpp:67
 msgid "Play the two following scores"
-msgstr ""
+msgstr "Spielen Sie die beiden folgenden Partituren"
 
 #: TheoryHarmony.cpp:13 TheoryHarmony.cpp:17
 msgid "Presentation"
-msgstr ""
+msgstr "Präsentation"
 
-#: TheoryHarmony.cpp:349
+#: TheoryHarmony.cpp:352
 msgid "Recognize intervals on a score"
-msgstr ""
+msgstr "Intervalle in einer Partitur erkennen"
 
 #: TheoryHarmony.cpp:8
 msgid "References"
-msgstr ""
+msgstr "Referenzen"
 
-#: TheoryHarmony.cpp:209
+#: TheoryHarmony.cpp:212
 msgid "Relative minor and major keys"
-msgstr ""
+msgstr "Relative Dur- und Molltonarten"
 
-#: TheoryHarmony.cpp:336
+#: TheoryHarmony.cpp:339
 msgid ""
 "Remember that we start counting on the lower note, which is F in our "
 "example. We've been told to write a 7th, so we count seven notes upwards: F, "
 "G, A, B flat, C, D, E. The seventh note is E, so that's the note we need to "
 "write."
 msgstr ""
+"Denken Sie daran, dass wir bei der unteren Note zu zählen beginnen, die in "
+"unserem Beispiel F ist. Es wird gefordert, eine Septim schreiben, also "
+"zählen wir sieben Noten nach oben: F, G, A, B, C, D, E. Die siebte Note ist "
+"E, also ist das die Note, die wir schreiben müssen."
 
-#: TheoryHarmony.cpp:107
+#: TheoryHarmony.cpp:110
 msgid ""
 "Remember, we can't use A sharp instead of B flat, because we've already got "
 "an A in the scale."
 msgstr ""
+"Denken Sie daran, dass wir kein Ais anstelle von B verwenden können, weil "
+"wir bereits ein A in der Tonleiter haben."
 
-#: TheoryHarmony.cpp:38 TheoryHarmony.cpp:40
+#: TheoryHarmony.cpp:41 TheoryHarmony.cpp:43
 msgid "Scales"
-msgstr ""
+msgstr "Tonleitern"
 
 #: TheoryHarmony.cpp:25
 msgid ""
@@ -1318,73 +1828,94 @@ msgid ""
 "<li> <a-13>Exercises</a-13></li>\n"
 "</ul>"
 msgstr ""
+"Tonleiter\n"
+"<ul>\n"
+"<li> <a-3>Halbtöne. Die chromatische Tonleiter</a-3><</li>\n"
+"<li> <a-5>Diatonische Tonleiter. Tonales Zentrum </a-5><</li>\n"
+"<li> <a-7>Ganztöne. Durtonleitern</a-7></li>\n"
+"<li> <a-9>Natürliche Molltonleiter</a-9></li>\n"
+"<li> <a-11>Harmonische und Melodische Molltonleiter</a-11></li>\n"
+"<li> <a-13>Übungen</a-13></li>\n"
+"</ul>"
 
-#: TheoryHarmony.cpp:109
+#: TheoryHarmony.cpp:112
 msgid ""
 "Scales can be written going up or going down. Scales which go up are called "
 "'ascending', and scales which go down are 'descending'. When we write a "
 "descending scale, the pattern of tones and semitones is reversed, so instead "
 "of being T-T-S-T-T-T-S, it is S-T-T-T-S-T-T."
 msgstr ""
+"Tonleitern können nach oben oder nach unten geschrieben werden. Eine "
+"Tonleiter, die nach oben geht, wird 'aufsteigend' und eine, die nach unten "
+"geht, 'absteigend' genannt. Wenn wir eine absteigende Tonleiter schreiben, "
+"wird das Muster der Töne und Halbtöne umgekehrt, so dass es statt T-T-S-T-T-"
+"T-S heißt, S-T-T-T-S-T-T."
 
-#: TheoryHarmony.cpp:225 TheoryHarmony.cpp:227 TheoryHarmony.cpp:229
-#: TheoryHarmony.cpp:260 TheoryHarmony.cpp:262 TheoryHarmony.cpp:264
-#: TheoryHarmony.cpp:282 TheoryHarmony.cpp:284 TheoryHarmony.cpp:286
-#: TheoryHarmony.cpp:288 TheoryHarmony.cpp:290 TheoryHarmony.cpp:292
+#: TheoryHarmony.cpp:228 TheoryHarmony.cpp:230 TheoryHarmony.cpp:232
+#: TheoryHarmony.cpp:263 TheoryHarmony.cpp:265 TheoryHarmony.cpp:267
+#: TheoryHarmony.cpp:285 TheoryHarmony.cpp:287 TheoryHarmony.cpp:289
+#: TheoryHarmony.cpp:291 TheoryHarmony.cpp:293 TheoryHarmony.cpp:295
 msgid "Scales' identification"
-msgstr ""
+msgstr "Tonleitern bestimmen"
 
-#: TheoryHarmony.cpp:44
+#: TheoryHarmony.cpp:47
 msgid "Semitones"
-msgstr ""
+msgstr "Halbtöne"
 
-#: TheoryHarmony.cpp:19 TheoryHarmony.cpp:39
+#: TheoryHarmony.cpp:19 TheoryHarmony.cpp:42
 msgid "Semitones. The chromatic scale"
-msgstr ""
+msgstr "Halbtöne. Die Chromatische Tonleiter"
 
 #: TheoryHarmony.cpp:2
 msgid "Send your comments and suggestions to the LenMus team (www.lenmus.org)"
 msgstr ""
+"Senden Sie Ihre Kommentare und Vorschläge an das LenMus-Team (www.lenmus.org)"
 
-#: TheoryHarmony.cpp:35
+#: TheoryHarmony.cpp:37
 msgid ""
 "Some texts have been taken from Catherine Schmidt-Jones music theory lessons "
 "at 'Connexions' ( <a-1>http://cnx.org/content/col10208/latest/</a-1>). Her "
 "work is licensed under a Creative Commons Attribution License (CC-BY 1.0), "
 "and is an Open Educational Resource."
 msgstr ""
+"Einige Texte wurden dem Musiktheorie-Lektionen von Catherine Schmidt-Jones "
+"bei 'Connexions' entnommen ( <a-1>http://cnx.org/content/col10208/latest/</"
+"a-1>). Ihr Werk steht unter einer Creative Commons Attribution License (CC-"
+"BY 1.0) und ist eine Open Educational Resource."
 
-#: TheoryHarmony.cpp:323
+#: TheoryHarmony.cpp:326
 msgid "Starting on the higher note: a very common mistake!"
-msgstr ""
+msgstr "Mit dem höheren Ton beginnen: ein sehr häufiger Fehler!"
 
-#: TheoryHarmony.cpp:125
+#: TheoryHarmony.cpp:128
 msgid "Sub-dominant"
-msgstr ""
+msgstr "Subdominante"
 
-#: TheoryHarmony.cpp:131
+#: TheoryHarmony.cpp:134
 msgid "Sub-mediant"
-msgstr ""
+msgstr "Submediante"
 
-#: TheoryHarmony.cpp:119
+#: TheoryHarmony.cpp:122
 msgid "Supertonic"
-msgstr ""
+msgstr "Supertonika"
 
 #: TheoryHarmony.cpp:16
 msgid "Table of content"
-msgstr ""
+msgstr "Inhaltsverzeichnis"
 
-#: TheoryHarmony.cpp:84
+#: TheoryHarmony.cpp:87
 msgid ""
 "Take paper and pencil, copy those scales, and find the pattern of tones and "
 "semitones."
 msgstr ""
+"Nehmen Sie Papier und Bleistift, schreiben Sie diese Tonleiter ab und suchen "
+"Sie das Muster der Ganztöne und Halbtöne."
 
-#: TheoryHarmony.cpp:29 TheoryHarmony.cpp:364
+#: TheoryHarmony.cpp:31 TheoryHarmony.cpp:397
 msgid "Terminal cadences"
-msgstr ""
+msgstr "Schlusskadenzen"
 
-#: TheoryHarmony.cpp:365
+#: TheoryHarmony.cpp:398
 msgid ""
 "Terminal cadences create a sensation of stability and conclusion of the "
 "musical phrase or sentence. This feeling is achieved by moving to the tonic "
@@ -1392,29 +1923,53 @@ msgid ""
 "grade, two types of cadences are considered: <a-1> authentic cadences</a-1> "
 "and <a-2> plagal cadences</a-2>."
 msgstr ""
+"Schlusskadenzen erzeugen ein Gefühl der Stabilität und des Abschlusses der "
+"musikalischen Phrase oder des Satzes. Dieses Gefühl wird erreicht, indem man "
+"von jeder anderen Akkordstufe in die Tonika (Stufe I) wechselt. Abhängig von "
+"der Stufe des Anfangsakkords werden zwei Arten von Kadenzen in Betracht "
+"gezogen: <a-1>authentische Kadenzen</a-1> und <a-2>plagale Kadenzen</a-2>."
+
+#: TheoryHarmony.cpp:377
+msgid ""
+"Tetra chords are also formed by overlapping thirds, and the fouth note forms "
+"a 7th that is dissonant with the root. They are known as 'seventh "
+"chords' (which can be major, minor, etc.). The dissonace introduces dynamism "
+"and tension in the harmony that tends to resolve over the tonic chord or "
+"another chord that does not contain dissonance."
+msgstr ""
 
 #: TheoryHarmony.cpp:14
 msgid ""
 "The 'Theory and harmony' eBook is not yet finished and, currently, it is "
 "just a collection of lessons on music theory."
 msgstr ""
+"Das eBook \"Theorie und Harmonielehre\" ist noch nicht fertig gestellt, und "
+"derzeit ist es nur eine Sammlung von Lektionen zur Musiktheorie."
 
-#: TheoryHarmony.cpp:216
+#: TheoryHarmony.cpp:219
 msgid ""
 "The C major and C minor scales start on the same note, but have different "
 "key signatures. C minor and E flat major start on different notes, but have "
 "the same key signature. C minor is the relative minor of E flat major."
 msgstr ""
+"Die C-Dur- und die c-Moll-Tonleiter beginnen auf dem gleichen Ton, haben "
+"aber unterschiedliche Vorzeichen. Die c-Moll- und die Es-Dur-Tonleiter "
+"beginnen auf verschiedenen Noten, haben aber die gleiche Tonart. c-Moll ist "
+"die relative Molltonart von Es-Dur."
 
-#: TheoryHarmony.cpp:86
+#: TheoryHarmony.cpp:89
 msgid ""
 "The answer is in the pattern of tones and semitones. <b>What our brain is "
 "recognizing is this pattern of sound intervals! And that is what "
 "characterizes and defines any scale.</b>For a major scale the pattern is T-T-"
 "S-T-T-T-S. Memorize it!"
 msgstr ""
+"Die Antwort liegt im Muster von Ganztönen und Halbtönen. <b>Was unser Gehirn "
+"erkennt, ist dieses Muster von Tonintervallen! Und das ist es, was jede "
+"Tonleiter charakterisiert und definiert. </b>Für eine Dur-Tonleiter ist das "
+"Muster T-T-S-T-T-T-S. Prägen Sie es sich ein!"
 
-#: TheoryHarmony.cpp:208
+#: TheoryHarmony.cpp:211
 msgid ""
 "The answer is in two details: they have a different tonal center (C in C "
 "major and A in A minor) and although both scales share the same notes, the "
@@ -1423,8 +1978,15 @@ msgid ""
 "harmonies and chord progressions built around their (different) tonal "
 "centers creates the difference."
 msgstr ""
+"Die Antwort liegt in zwei Details: Sie haben ein unterschiedliches tonales "
+"Zentrum (C in C-Dur und A in A-Moll), und obwohl beide Tonleiter die "
+"gleichen Töne haben, folgen die Töne in der Molltonleiter einem "
+"unterschiedlichen Muster von Ganztönen und Halbtönen und stehen so in "
+"unterschiedlichen Beziehungen zueinander; daher erzeugen die Harmonien und "
+"Akkordfolgen, die um ihre (unterschiedlichen) tonalen Zentren herum "
+"aufgebaut sind, den Unterschied."
 
-#: TheoryHarmony.cpp:393
+#: TheoryHarmony.cpp:426
 msgid ""
 "The deceptive cadence is considered a weak cadence because of the 'surprise' "
 "and 'hanging' feelings it invokes. Therefore, it is never used to end a "
@@ -1433,8 +1995,15 @@ msgid ""
 "near the end of a piece, it helps to sustain the musical interest at the "
 "moment when the final authentic cadence is expected."
 msgstr ""
+"Die Trugschlußkadenz wird wegen dem Überraschungs- und Schwebegefühl, das "
+"sie hervorruft, als schwache Kadenz angesehen. Daher wird sie nie zum "
+"Beenden eines Musikstücks verwendet. Sie sorgt jedoch für Abwechslung und "
+"Überraschung, indem sie zu einem Moll-Akkord in Dur-Tonarten und zu einem "
+"Dur-Akkord in Moll-Tonarten aufgelöst wird. Und wenn sie gegen Ende eines "
+"Stücks verwendet wird, hilft sie, das musikalische Interesse in dem Moment "
+"aufrechtzuerhalten, in dem die endgültige authentische Kadenz erwartet wird."
 
-#: TheoryHarmony.cpp:46
+#: TheoryHarmony.cpp:49
 msgid ""
 "The first thing to notice is that, as said, we have twelve notes within an "
 "octave, represented by seven white keys and five black keys. But only seven "
@@ -1444,65 +2013,102 @@ msgid ""
 "flat sign. The white keys are the <b>natural notes</b>. Black keys can only "
 "be named using sharps or flats."
 msgstr ""
+"Als erstes fällt auf, dass wir zwölf Töne innerhalb einer Oktave haben, die "
+"durch sieben weiße und fünf schwarze Tasten repräsentiert werden. Aber nur "
+"sieben Buchstabennamen werden zur Benennung der Noten verwendet: C, D, E, F, "
+"G, A und H. Die achte Note wäre natürlich das nächste C, mit dem die nächste "
+"Oktave beginnt. Um die anderen Noten, die Noten auf den schwarzen "
+"Klaviertasten zu benennen, müssen Sie ein Kreuz oder b als Vorzeichen "
+"verwenden. Die weißen Tasten sind die <b>Stammtöne</b>. Schwarze Tasten "
+"können nur mit einem Kreuz (-is) oder einem B (-es) benannt werden."
 
-#: TheoryHarmony.cpp:314
+#: TheoryHarmony.cpp:317
 msgid "The following score shows some examples of intervals within one octave:"
 msgstr ""
+"Die folgende Partitur zeigt einige Beispiele für Intervalle innerhalb einer "
+"Oktave:"
 
-#: TheoryHarmony.cpp:235
+#: TheoryHarmony.cpp:238
 msgid ""
 "The harmonic minor scale raises the seventh note of the natural scale by one "
 "half step, whether you are going up or down the scale. Therefore, harmonic "
 "minor scales are built on pattern T - S - T - T - S - 3S - S (T=Tone or "
 "'whole step'; S=Semitone or 'half step'; and 3S = three semitones)."
 msgstr ""
+"Die harmonische Molltonleiter hebt den siebten Ton der Naturtonleiter um "
+"einen Halbtonschritt an, unabhängig davon, ob Sie die Tonleiter aufwärts "
+"oder abwärts spielen. Daher ist die Harmonische Molltonleiter nach dem "
+"Muster T-S-T-T-S-3S-S aufgebaut (T=Ganzton, S=Halbton und 3S = drei "
+"Halbtöne)."
 
-#: TheoryHarmony.cpp:105
+#: TheoryHarmony.cpp:108
 msgid "The last scale we will look at is F major:"
-msgstr ""
+msgstr "Die letzte Tonleiter, den wir uns ansehen werden, ist F-Dur:"
 
-#: TheoryHarmony.cpp:45
+#: TheoryHarmony.cpp:48
 msgid ""
 "The minimum distance between two pitches that we will consider in the "
 "Western musical tradition is called a <b>semitone</b>, also named <b>half "
 "step</b>. Let's use a piano keyboard to look at some examples."
 msgstr ""
+"Der Mindestabstand zwischen zwei Tonhöhen, den wir in der westlichen "
+"Musiktradition berücksichtigen werden, wird <b>Halbton</b> oder "
+"<b>Halbtonschritt</b> genannt. Benutzen wir eine Klaviertastatur, um uns "
+"einige Beispiele anzuschauen."
 
-#: TheoryHarmony.cpp:60
+#: TheoryHarmony.cpp:379
+msgid ""
+"The most 'powerful' tetra chord is the one whose root note is the V degree. "
+"It is known as 'dominant 7th' chord, and it contains a minor seventh."
+msgstr ""
+
+#: TheoryHarmony.cpp:63
 msgid ""
 "The most important scales are the <b>diatonic</b> scales. A diatonic scale "
 "has seven notes and each of those notes is given different letter name, A-G."
 msgstr ""
+"Die wichtigsten Tonleitern sind die <b>diatonischen</b> Tonleitern. Eine "
+"diatonische Tonleiter hat sieben Töne, und jeder dieser Töne wird mit einem "
+"anderen Buchstaben A-G bezeichnet."
 
-#: TheoryHarmony.cpp:93
+#: TheoryHarmony.cpp:96
 msgid ""
 "The next note we need, as you can see from the pattern T-T-S-T-T-T-S, is a "
 "tone higher than E. The note which is a tone higher than E is <b>F sharp</"
 "b>, (because we can squeeze an F between them). So F sharp is our next note:"
 msgstr ""
+"Der nächste Ton, den wir benötigen, ist, wie Sie aus dem Muster T-T-S-T-T-T-"
+"S erkennen können, einen Ganzton höher als E. Ein Ganzton höher als E ist "
+"<b>Fis</b>, (weil wir ein F dazwischen quetschen können). Fis ist also unser "
+"nächster Ton:"
 
-#: TheoryHarmony.cpp:200
+#: TheoryHarmony.cpp:203
 msgid "The pattern is <b>T-S-T-T-S-T-T</b>."
-msgstr ""
+msgstr "Das Muster ist <b>T-S-T-T-S-T-T</b>."
 
-#: TheoryHarmony.cpp:81
+#: TheoryHarmony.cpp:84
 msgid "The pattern is <b>T-T-S-T-T-T-S</b>."
-msgstr ""
+msgstr "Das Muster ist <b>T-T-S-T-T-T-S</b>."
 
-#: TheoryHarmony.cpp:374
+#: TheoryHarmony.cpp:407
 msgid ""
 "The perfect cadence is usually found at the end of a piece of music and the "
 "end of significant sections."
 msgstr ""
+"Die vollkommene Kadenz findet sich gewöhnlich am Ende eines Musikstücks und "
+"am Ende wichtiger Abschnitte."
 
-#: TheoryHarmony.cpp:232
+#: TheoryHarmony.cpp:235
 msgid ""
 "The scales studied in previous lesson are natural minor scales. They contain "
 "only the notes in the minor key signature and are built on pattern T-S-T-T-S-"
 "T-T."
 msgstr ""
+"Die in der vorhergehenden Lektion untersuchten Tonleiter sind natürliche "
+"Molltonleitern. Sie enthalten nur die Noten der entsprechenden Molltonart "
+"und sind auf dem Muster T-S-T-T-S-T-T aufgebaut."
 
-#: TheoryHarmony.cpp:187
+#: TheoryHarmony.cpp:190
 msgid ""
 "The simple, sing-along, nursery rhymes and folk songs we learn as children; "
 "the 'catchy' tunes used in advertising jingles; the cheerful, toe-tapping "
@@ -1510,87 +2116,125 @@ msgid ""
 "a major key has a bright sound that people often describe as cheerful, "
 "inspiring, exciting, or just plain fun."
 msgstr ""
+"Diese einfachen Kinderreime und Volkslieder, die wir als Kinder lernen; die "
+"\"eingängigen\" Melodien, die in Werbejingles verwendet werden; die "
+"fröhlichen, eingängigen Popsongs, zu denen wir tanzen; die erhebenden Klänge "
+"einer Symphonie: Die meiste Musik in einer Dur-Tonart hat einen hellen "
+"Klang, den die Menschen oft als fröhlich, inspirierend, aufregend oder "
+"einfach nur als vergnüglich beschreiben."
 
-#: TheoryHarmony.cpp:313
+#: TheoryHarmony.cpp:316
 msgid ""
 "The smallest interval we can consider is the interval between two identical "
 "notes - e.g. E and E. This interval is called a 'unison'. We can also say "
 "that the notes are 'in unison'."
 msgstr ""
+"Das kleinste Intervall ist das Intervall zwischen zwei identischen Tönen - z."
+"B. E und E. Dieses Intervall wird 'Prim' genannt. Man kann auch sagen, dass "
+"die Töne \"unisono\" sind."
 
-#: TheoryHarmony.cpp:94
+#: TheoryHarmony.cpp:97
 msgid ""
 "The third note is, again, a tone up. From F sharp, the next tone up is G "
 "sharp, (we can squeeze G in between them)."
 msgstr ""
+"Die dritte Note ist wieder ein Ton höher. Ab Fis ist der nächste Ton nach "
+"oben Gis, (wir können G dazwischen quetschen)."
 
 #: TheoryHarmony.cpp:10
 msgid "Theory and harmony"
-msgstr ""
+msgstr "Theorie und Harmonie"
 
-#: TheoryHarmony.cpp:273
+#: TheoryHarmony.cpp:276
 msgid "Theory exercises"
-msgstr ""
+msgstr "Theorie-Übungen"
 
-#: TheoryHarmony.cpp:382
+#: TheoryHarmony.cpp:415
 msgid "Theory: Identify if a terminal cadence is authentic perfect or plagal."
 msgstr ""
+"Theorie: Bestimmen Sie ob eine Schlusskadenz authentisch vollkommen oder "
+"plagal ist."
 
-#: TheoryHarmony.cpp:398
+#: TheoryHarmony.cpp:431
 msgid ""
 "Theory: Identify if a transient cadence is a half cadence or a deceptive "
 "cadence."
 msgstr ""
+"- Theorie: Bestimmen Sie, ob eine Übergangskadenz ein Halb- oder Trugschluss "
+"ist."
 
-#: TheoryHarmony.cpp:228 TheoryHarmony.cpp:230 TheoryHarmony.cpp:263
-#: TheoryHarmony.cpp:265 TheoryHarmony.cpp:287 TheoryHarmony.cpp:289
-#: TheoryHarmony.cpp:291 TheoryHarmony.cpp:293
+#: TheoryHarmony.cpp:231 TheoryHarmony.cpp:233 TheoryHarmony.cpp:266
+#: TheoryHarmony.cpp:268 TheoryHarmony.cpp:290 TheoryHarmony.cpp:292
+#: TheoryHarmony.cpp:294 TheoryHarmony.cpp:296
 msgid "Theory: Identify the scale shown"
-msgstr ""
+msgstr "Theorie: Bestimmen Sie die angezeigte Tonleiter"
 
-#: TheoryHarmony.cpp:412
+#: TheoryHarmony.cpp:445
 msgid "Theory: identify the type of cadence."
+msgstr "Theorie: Bestimmen Sie die Art der Kadenz."
+
+#: TheoryHarmony.cpp:363
+msgid ""
+"There are four different types of triad chords: perfect major, perfect "
+"minor, augmented fifth and diminished fifth. Next we show you them built on "
+"the C note and indicating their composition."
 msgstr ""
 
-#: TheoryHarmony.cpp:54
+#: TheoryHarmony.cpp:57
 msgid ""
 "There are no different types of chromatic scales. Either, we don't talk "
 "about chromatic scales as being in a particular key; we just talk about the "
 "note they start on - and they can start on any note."
 msgstr ""
+"Es gibt keine verschiedenen Arten bei der chromatischen Tonleiter. Wir "
+"sprechen auch nicht von chromatischen Tonleitern in einer bestimmten Tonart; "
+"wir sprechen nur von dem Ton, auf dem sie beginnt - und sie kann auf jedem "
+"beliebigen Ton beginnen."
 
-#: TheoryHarmony.cpp:373
+#: TheoryHarmony.cpp:406
 msgid ""
 "There are theoretical discussions about considering the imperfect cadence as "
 "a terminal cadence. Nevertheless, we have opted to include it in the "
 "terminal group due to sonority considerations."
 msgstr ""
+"Es gibt Diskussionen darüber, die unvollkommene Kadenz nicht als eine "
+"Schlusskadenz zu betrachten. Dennoch haben wir uns aus klanglichen Gründen "
+"dafür entschieden, sie in die Gruppe der Schlusskadenzen einzubeziehen."
 
-#: TheoryHarmony.cpp:331
+#: TheoryHarmony.cpp:334
 msgid "There are two important steps to follow when you write intervals."
-msgstr ""
+msgstr "Es gelten zwei wichtige Schritte, wenn Sie Intervalle schreiben."
 
-#: TheoryHarmony.cpp:67
+#: TheoryHarmony.cpp:70
 msgid ""
 "There are two main types of diatonic scales: major and minor. And you need "
 "to know how to recognize, write and play all of them. We will learn about "
 "major scales in next lesson."
 msgstr ""
+"Es gibt zwei Haupttypen von diatonischen Tonleitern: Dur und Moll. Und Sie "
+"müssen wissen, wie man sie alle erkennt, schreibt und spielt. Wir werden in "
+"der nächsten Lektion die Dur-Tonleiter lernen."
 
-#: TheoryHarmony.cpp:233
+#: TheoryHarmony.cpp:236
 msgid ""
 "There are two other kinds of minor scales that are commonly used: the minor "
 "harmonic and the minor melodic scales. We are going to study them in this "
 "lesson."
 msgstr ""
+"Es gibt zwei weitere Arten von Moll-Tonleitern, die häufig verwendet werden: "
+"die harmonische Moll-Tonleiter und die melodische Moll-Tonleiter. Wir werden "
+"sie in dieser Lektion studieren."
 
-#: TheoryHarmony.cpp:300
+#: TheoryHarmony.cpp:303
 msgid ""
 "Therefore, I encourage you to study intervals and do all proposed exercises "
 "until you master recognition of intervals, both aurally and on written music."
 msgstr ""
+"Deshalb ermutige ich Sie, die Intervalle zu studieren und alle "
+"vorgeschlagenen Übungen zu machen, bis Sie die Erkennung der Intervalle "
+"beherrschen, sowohl akustisch als auch bei geschriebener Musik."
 
-#: TheoryHarmony.cpp:135
+#: TheoryHarmony.cpp:138
 msgid ""
 "These technical names are worked out from ascending scales. For example, in "
 "C major ascending, the second note we write is D, so D is the supertonic in "
@@ -1598,105 +2242,141 @@ msgid ""
 "write is B. But B is not the supertonic. The supertonic is still D; B is the "
 "leading note, because it is the 7th note in the ascending scale."
 msgstr ""
+"Diese technischen Namen werden aus der aufsteigenden Tonleiter gebildet. Zum "
+"Beispiel ist in C-Dur aufsteigend die zweite Note D, also ist D die "
+"Supertonika in C-Dur. Wenn wir die Tonleiter in C-Dur absteigend schreiben, "
+"ist die zweite Note, die wir schreiben, H. Aber H ist nicht die Supertonika. "
+"Die Supertonika ist immer noch D; H ist der Leitton, da es die siebte Note "
+"in der aufsteigenden Tonleiter ist."
 
 #: TheoryHarmony.cpp:9
 msgid "This lesson is based on materials from:"
-msgstr ""
+msgstr "Diese Lektion basiert auf Materialien aus:"
 
-#: TheoryHarmony.cpp:312
+#: TheoryHarmony.cpp:315
 msgid ""
 "To find the number of an interval, first find the note names of the two "
 "notes, (ignore any sharps and flats for now), and count the letter names, "
 "starting with the lower note on the stave, (it could be the first or second "
 "note along on the stave if it is a melodic interval)."
 msgstr ""
+"Um ein Intervall zu bestimmen, suchen Sie zuerst die Notennamen der beiden "
+"Noten (ignorieren Sie vorerst alle Vorzeichen), und zählen Sie die "
+"Buchstaben, beginnend mit der tieferen Note auf dem Notensystem (es könnte "
+"die erste oder zweite Note auf dem Notensystem sein, wenn es sich um ein "
+"melodisches Intervall handelt)."
 
-#: TheoryHarmony.cpp:70
+#: TheoryHarmony.cpp:73
 msgid ""
 "To understand how to build diatonic scales you need to know what is a "
 "<b>tone</b>. In <a-2>a previous lesson</a-2> we've learnt about semitones or "
 "half steps. Now you will learn about tones: A tone is just two semitones!."
 msgstr ""
+"Um zu verstehen, wie man diatonische Tonleiter bildet, muss man wissen, was "
+"ein <b>Ganzton</b> ist. In <a-2>einer früheren Lektion</a-2> haben wir über "
+"Halbtöne oder Halbtonschritte gelernt. Jetzt lernen wir Ganztöne kennen: Ein "
+"Ganzton sind zwei Halbtöne!."
 
-#: TheoryHarmony.cpp:185
+#: TheoryHarmony.cpp:188
 msgid "Tonal center"
-msgstr ""
+msgstr "Tonales Zentrum"
 
-#: TheoryHarmony.cpp:69
+#: TheoryHarmony.cpp:72
 msgid "Tones"
-msgstr ""
+msgstr "Ganztöne"
 
-#: TheoryHarmony.cpp:68
+#: TheoryHarmony.cpp:71
 msgid "Tones. Major scales"
-msgstr ""
+msgstr "Ganztöne. Durtonleiter"
 
 #: TheoryHarmony.cpp:21
 msgid "Tones.Major scales"
-msgstr ""
+msgstr "Töne. Durtonleiter"
 
-#: TheoryHarmony.cpp:116
+#: TheoryHarmony.cpp:119
 msgid "Tonic"
-msgstr ""
+msgstr "Tonika"
 
-#: TheoryHarmony.cpp:30 TheoryHarmony.cpp:385
+#: TheoryHarmony.cpp:32 TheoryHarmony.cpp:418
 msgid "Transient cadences"
-msgstr ""
+msgstr "Übergangskadenzen"
 
-#: TheoryHarmony.cpp:386
+#: TheoryHarmony.cpp:419
 msgid ""
 "Transient cadences are not conclusive. They create a sensation of tension "
 "and unstability and an expectation of continuation. They are more like a "
 "short pause in the musical flow. There are two types of transient cadences: "
 "<a-1> half cadences</a-1> and <a-2> deceptive cadences</a-2>."
 msgstr ""
+"Übergangskadenzen sind nicht abschliessend. Sie schaffen ein Gefühl von "
+"Spannung, Instabilität und eine Erwartung nach Fortsetzung. Sie sind "
+"vielmehr eine kurze Pause im musikalischen Fluss. Es gibt zwei Arten von "
+"Übergangskadenzen: <a-1>Halbschluss</a-1> und <a-2>Trugschluss</a-2>."
 
 #: TheoryHarmony.cpp:7
 msgid ""
 "Translated to #REPLACE BY YOUR LANGUAGE NAME# by #REPLACE BY YOUR NAME#."
+msgstr "Übersetzt nach Deutsch von Daniel Schär."
+
+#: TheoryHarmony.cpp:359
+msgid ""
+"Triad chords are formed by superimposing thirds on a note that we call the "
+"'root' note. The second note forms on it a 3rd and the third note forms a "
+"5th."
 msgstr ""
 
-#: TheoryHarmony.cpp:319
+#: TheoryHarmony.cpp:322
 msgid "Unison"
-msgstr ""
+msgstr "Unisono"
 
-#: TheoryHarmony.cpp:195
+#: TheoryHarmony.cpp:198
 msgid ""
 "Using the wrong note value - usually you are asked to use <b>whole notes</b> "
 "(semibreves)."
 msgstr ""
+"Verwendung des falschen Notenwertes - normalerweise werden Sie aufgefordert, "
+"<b>Ganze</b> (Semibreves) zu verwenden."
 
-#: TheoryHarmony.cpp:127 TheoryHarmony.cpp:141
+#: TheoryHarmony.cpp:130 TheoryHarmony.cpp:144
 msgid "V"
-msgstr ""
+msgstr "V"
 
-#: TheoryHarmony.cpp:130 TheoryHarmony.cpp:142
+#: TheoryHarmony.cpp:133 TheoryHarmony.cpp:145
 msgid "VI"
-msgstr ""
+msgstr "VI"
 
-#: TheoryHarmony.cpp:133 TheoryHarmony.cpp:143
+#: TheoryHarmony.cpp:136 TheoryHarmony.cpp:146
 msgid "VII"
-msgstr ""
+msgstr "VII"
 
-#: TheoryHarmony.cpp:258
+#: TheoryHarmony.cpp:261
 msgid ""
 "Victoria K. Williams music theory lessons. <a-1>www.mymusictheory.com</a-1>"
 msgstr ""
+"Victoria K. Williams music theory lessons. <a-1>www.mymusictheory.com</a-1>"
 
-#: TheoryHarmony.cpp:99
+#: TheoryHarmony.cpp:102
 msgid ""
 "We already know how to build any other major scale. And we already know C "
 "major (all notes, no accidentals). For level 1 you will have to know three "
 "other scales : G major, F major and D major. Let's start with G major.."
 msgstr ""
+"Wir wissen bereits, wie wir jede andere Tonleiter bauen können. Und wir "
+"kennen bereits C-Dur (alle Stammtöne, keine Vorzeichen). Für Level 1 müssen "
+"Sie drei weitere Tonleiter kennen: G-Dur, F-Dur und D-Dur. Fangen wir mit G-"
+"Dur an."
 
-#: TheoryHarmony.cpp:91
+#: TheoryHarmony.cpp:94
 msgid ""
 "We already know that all major scales follow the same pattern <b>T-T-S-T-T-T-"
 "S</b>. Therefore, it is easy to build any major scale. As an example, we'll "
 "construct E major."
 msgstr ""
+"Wir wissen bereits, dass alle Dur-Tonleitern dem gleichen Muster folgen <b>T-"
+"T-S-T-T-T-S</b>. Daher ist es einfach, jede beliebige Dur-Tonleiter zu "
+"bilden. Als Beispiel werden wir die E-Durtonleiter bilden."
 
-#: TheoryHarmony.cpp:306
+#: TheoryHarmony.cpp:309
 msgid ""
 "We can measure the distance between two notes which are played together at "
 "the same time. The distance between these notes is called a 'harmonic' "
@@ -1704,20 +2384,29 @@ msgid ""
 "played separately, one after the other. In this case, the distance between "
 "these notes is called a 'melodic' interval."
 msgstr ""
+"Wir können den Abstand zwischen zwei Noten messen, die gleichzeitig zusammen "
+"gespielt werden. Der Abstand zwischen diesen Noten wird als \"harmonisches\" "
+"Intervall bezeichnet. Wir können auch den Abstand zwischen zwei Noten "
+"messen, die getrennt nacheinander gespielt werden. In diesem Fall wird der "
+"Abstand zwischen diesen Noten \"melodisches\" Intervall genannt."
 
-#: TheoryHarmony.cpp:341
+#: TheoryHarmony.cpp:344
 msgid ""
 "We move the higher note to the right, but keep it close enough to the lower "
 "note that they are just touching:"
 msgstr ""
+"Wir verschieben die höhere Note nach rechts, halten sie aber nahe genug an "
+"der tieferen Note, so dass sie sich nur berühren:"
 
-#: TheoryHarmony.cpp:66
+#: TheoryHarmony.cpp:69
 msgid ""
 "We talk about diatonic scales as <b>being in a certain key</b>, for example, "
 "in 'C Major' or in 'B flat minor'."
 msgstr ""
+"Wir sprechen von diatonischen Skalen als <b>in einer bestimmten Tonart sein</"
+"b>, zum Beispiel in 'C-Dur' oder in 'B-Moll'."
 
-#: TheoryHarmony.cpp:112
+#: TheoryHarmony.cpp:115
 msgid ""
 "We use technical names to talk about each note of the diatonic scale, "
 "instead of saying 'first note', 'third note' and so on. The first and last "
@@ -1729,14 +2418,26 @@ msgid ""
 "distance of eight notes, from low C to top C for example, is called an "
 "'octave'."
 msgstr ""
+"Wir verwenden technische Namen für jede Note der diatonischen Tonleiter, "
+"anstatt \"erste Note\", \"dritte Note\" und so weiter zu sagen. Die erste "
+"und die letzte Note in jeder Tonleiter werden \"Tonika\" genannt. Die "
+"anderen Töne können mit einer <b>Stufe</b> bezeichnet werden. In C-Dur ist "
+"der zweite Ton in der Tonleiter D, so dass wir sagen können, dass D die "
+"<b>2. Stufe der Tonleiter von C-Dur</b> ist. Wir verwenden immer die "
+"Tonleiter <b>aufsteigend</b>, um die Grade einer Tonleiter auszuarbeiten. "
+"Jede Tonleiter hat sieben Stufen, weil es sieben verschiedene Noten gibt. "
+"Der Abstand von acht Noten, zum Beispiel vom tiefen C bis zum oberen C, wird "
+"als \"Oktave\" bezeichnet."
 
-#: TheoryHarmony.cpp:92
+#: TheoryHarmony.cpp:95
 msgid ""
 "We'll start by putting the the tonic of E major, that is, an E note. We're "
 "using the treble clef, but it works just the same way in any other clef."
 msgstr ""
+"Wir beginnen mit der Tonika von E-Dur, also dem Ton E. Wir verwenden den "
+"Violinschlüssel, aber es funktioniert in jedem anderen Schlüssel genauso."
 
-#: TheoryHarmony.cpp:59
+#: TheoryHarmony.cpp:62
 msgid ""
 "We've learnt that the octave is divided into twelve notes, spaced by one "
 "semitone. When played one after the other we get the chromatic scale. But "
@@ -1749,69 +2450,103 @@ msgid ""
 "that people in different musical traditions have different ideas about what "
 "notes they think sound best together!."
 msgstr ""
+"Wir haben gelernt, dass die Oktave in zwölf Töne unterteilt ist, die durch "
+"einen Halbton voneinander getrennt sind. Wenn wir sie nacheinander spielen, "
+"erhalten wir die chromatische Tonleiter. Aber chromatische Skalen sind nicht "
+"sehr interessant, um Musik zu komponieren. In der westlichen Musiktradition "
+"würde man normalerweise nicht alle zwölf Töne zum Komponieren einer Melodie "
+"verwenden, da sie nicht \"gut\" klingen wird. Deshalb lernten Musiker, die "
+"\"richtigen\" Noten zu wählen, die dazu dienen, eine \"gut klingende\" "
+"Melodien komponieren, und gruppierten diese Noten in \"Tonleitern\". Also "
+"lernen wir, wie man die \"richtigen\" zu verwendenden Noten auswählt und "
+"welche Skalen sie bilden. Aber denken Sie bitte daran, dass Menschen in "
+"verschiedenen Musiktraditionen unterschiedliche Vorstellungen davon haben, "
+"welche Noten ihrer Meinung nach am besten zusammen klingen!."
 
-#: TheoryHarmony.cpp:182
+#: TheoryHarmony.cpp:185
 msgid ""
 "What difference does key make? Since the major scales all follow the same "
 "pattern, they all sound very much alike. Here is the tune 'Row, Row, Row "
 "Your Boat', written in G major and also in D major. First in G major:"
 msgstr ""
+"Welchen Unterschied macht die Tonart aus? Da die Dur-Tonleitern alle dem "
+"gleichen Muster folgen, klingen sie alle sehr ähnlich. Hier ist die Melodie "
+"'Row, Row, Row, Row Your Boat', geschrieben in G-Dur und auch in D-Dur. Die "
+"erste in G-Dur:"
 
-#: TheoryHarmony.cpp:324
+#: TheoryHarmony.cpp:327
 msgid ""
 "What happens if you try to calculate an interval by starting with the higher "
 "note on the stave? You will get the wrong answer! This is a common mistake, "
 "so let's look at an example of what can go wrong. What is the following "
 "harmonic interval?"
 msgstr ""
+"Was passiert, wenn Sie versuchen, ein Intervall zu berechnen, indem Sie mit "
+"der höheren Note auf dem Notensystem beginnen? Sie werden die falsche "
+"Antwort erhalten! Dies ist ein häufiger Fehler, also sehen wir uns ein "
+"Beispiel dafür an, was schief gehen kann. Was ist das folgende harmonische "
+"Intervall?"
 
-#: TheoryHarmony.cpp:26 TheoryHarmony.cpp:295 TheoryHarmony.cpp:301
+#: TheoryHarmony.cpp:26 TheoryHarmony.cpp:298 TheoryHarmony.cpp:304
 msgid "What is an interval?"
-msgstr ""
+msgstr "Was ist ein Intervall?"
 
-#: TheoryHarmony.cpp:207
+#: TheoryHarmony.cpp:210
 msgid ""
 "What main difference does major or minor key make? In C major key it sounds "
 "cheerful but in A minor key it sounds sad. Probably you have noticed that "
 "the A minor scale is using the same notes than the C major scale: the white "
 "keys of the piano keyboard. Then, why this difference in emotional feel?"
 msgstr ""
+"Welchen Hauptunterschied macht Dur und Moll? In C-Dur klingt es fröhlich, "
+"aber in A-Moll klingt es traurig. Wahrscheinlich haben Sie bemerkt, dass die "
+"A-Moll-Tonleiter die gleichen Noten wie die C-Dur-Tonleiter verwendet: die "
+"weißen Tasten der Klaviertastatur. Warum dann dieser Unterschied im "
+"emotionalen Empfinden?"
 
-#: TheoryHarmony.cpp:368
+#: TheoryHarmony.cpp:401
 msgid "When the authentic cadence satisfies the following conditions:"
-msgstr ""
+msgstr "Wenn die authentische Kadenz die folgenden Bedingungen erfüllt:"
 
-#: TheoryHarmony.cpp:296
+#: TheoryHarmony.cpp:299
 msgid "Why should you learn about 'intervals'?"
-msgstr ""
+msgstr "Warum sollten Sie \"Intervalle\" studieren?"
 
-#: TheoryHarmony.cpp:352
+#: TheoryHarmony.cpp:355
 msgid "Write intervals on a score"
-msgstr ""
+msgstr "Schreiben Sie Intervalle in eine Partitur"
 
-#: TheoryHarmony.cpp:330
+#: TheoryHarmony.cpp:333
 msgid "Writing Intervals"
-msgstr ""
+msgstr "Intervalle schreiben"
 
-#: TheoryHarmony.cpp:193
+#: TheoryHarmony.cpp:196
 msgid ""
 "Writing accidentals/key signatures on the <b>wrong space</b> or <b>line</b>."
 msgstr ""
+"Vorzeichen/Versetzungszeichen sind im <b>falschen Zwischenraum</b> oder auf "
+"der <b>falschen Linie</b>."
 
-#: TheoryHarmony.cpp:194
+#: TheoryHarmony.cpp:197
 msgid ""
 "Writing an <b>ascending</b> scale when the question asks for a "
 "<b>descending</b> one, and vice versa."
 msgstr ""
+"Das Schreiben einer <b>aufsteigenden </b> Tonleiter, wenn die Frage nach "
+"einer <b>absteigenden</b> verlangt, und umgekehrt."
 
-#: TheoryHarmony.cpp:56
+#: TheoryHarmony.cpp:59
 msgid ""
 "You need to be able to recognise chromatic scales, as well as sections of a "
 "chromatic scale within a piece of music. To find a section of a chromatic "
 "scale, just look for a series of notes that are all one semitone apart."
 msgstr ""
+"Sie müssen in der Lage sein, chromatische Tonleitern sowie Abschnitte einer "
+"chromatischen Tonleiter innerhalb eines Musikstücks zu erkennen. Um einen "
+"Abschnitt einer chromatischen Tonleiter zu finden, suchen Sie einfach nach "
+"einer Abfolge von Noten, die alle einen Halbtonabstand haben."
 
-#: TheoryHarmony.cpp:356
+#: TheoryHarmony.cpp:389
 msgid ""
 "You will notice the feeling of conclusion, of reaching the end of a musical "
 "piece. The chord sequence does not create expectations of continuation. The "
@@ -1820,37 +2555,56 @@ msgid ""
 "with finishing at that point. On the contrary, listen to the following chord "
 "sequence:"
 msgstr ""
+"Sie bemerken das Gefühl des Abschlusses, des Erreichens des Endes eines "
+"Musikstücks. Die Akkordfolge erweckt keine Erwartungen auf eine Fortsetzung. "
+"Der Komponist könnte die musikalische Komposition mit dem letzten Akkord "
+"beenden, und der Zuhörer wird wahrnehmen, dass das Ende erreicht ist und mit "
+"dem Abschluss an dieser Stelle \"zufrieden\" sein. Im Gegenteil dazu hören "
+"Sie sich die folgende Akkordfolge an:"
 
-#: TheoryHarmony.cpp:335
+#: TheoryHarmony.cpp:338
 msgid ""
 "You'll also be told if you have to write a harmonic, or melodic interval. "
 "This one is a melodic interval, so we'll write the second note after the "
 "given note."
 msgstr ""
+"Es wird Ihnen auch gesagt, ob Sie ein harmonisches oder melodisches "
+"Intervall schreiben müssen. Da es sich um ein melodisches Intervall handelt, "
+"werden wir die zweite Note nach der vorhandenen Note schreiben."
 
 #: TheoryHarmony.cpp:4
 msgid ""
 "additional terms may apply. See cover page of this eBook for exceptions and "
 "details."
 msgstr ""
+"zusätzliche Bedingungen können angewendet werden. Siehe Buchcover für "
+"Ausnahmen und Details."
 
-#: TheoryHarmony.cpp:369
+#: TheoryHarmony.cpp:402
 msgid "both chords are in root position;"
+msgstr "beide Akkorde sind in Grundposition"
+
+#: TheoryHarmony.cpp:360
+msgid "fifth"
 msgstr ""
 
-#: TheoryHarmony.cpp:370
+#: TheoryHarmony.cpp:362
+msgid "root"
+msgstr ""
+
+#: TheoryHarmony.cpp:403
 msgid "the first chord is the V or the V7 ; and"
-msgstr ""
+msgstr "der erste Akkord ist die V oder V7 und"
 
-#: TheoryHarmony.cpp:371
+#: TheoryHarmony.cpp:404
 msgid "the melody (soprano voice) ends on the tonic pitch."
-msgstr ""
+msgstr "die Melodie (Sopran-Stimme) endet auf dem Grundton."
 
 #: TheoryHarmony.cpp:5
 msgid "the teacher of music"
-msgstr ""
+msgstr "der Musiklehrer"
 
-#: TheoryHarmony.cpp:372
+#: TheoryHarmony.cpp:405
 msgid ""
 "then the cadence has its strongest conclusive power and it creates the most "
 "final sounding of all cadences. Due to this fact, if the previously listed "
@@ -1858,4 +2612,15 @@ msgid ""
 "or just 'perfect cadence'. If the conditions are not satisfied, the "
 "conclusive sensation of the cadence is less strong and then the cadence is "
 "named 'imperfect authentic cadence' or just 'imperfect cadence'."
+msgstr ""
+"dann hat die Kadenz ihre stärkste Schlusskraft und erzeugt den endgültigsten "
+"Klang aller Kadenzen. Aufgrund dieser Tatsache wird die Kadenz, wenn die "
+"zuvor aufgeführten Bedingungen erfüllt sind, \"vollkommene authentische "
+"Kadenz\" oder einfach \"vollkommene Kadenz\" genannt. Wenn die Bedingungen "
+"nicht erfüllt sind, ist die abschließende Empfindung der Kadenz weniger "
+"stark, und dann wird die Kadenz als \"unvollkommene authentische Kadenz\" "
+"oder einfach als \"unvollkommene Kadenz\" bezeichnet."
+
+#: TheoryHarmony.cpp:361
+msgid "third"
 msgstr ""

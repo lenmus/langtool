@@ -2,189 +2,210 @@ msgid ""
 msgstr ""
 "Project-Id-Version: LenMus $VERS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-26 10:52+0200\n"
-"PO-Revision-Date: 2016-02-29 15:50+0100\n"
+"POT-Creation-Date: 2021-10-13 12:42+0200\n"
+"PO-Revision-Date: 2021-10-13 14:02+0200\n"
 "Last-Translator: Cecilio Salmeron <s.cecilio@gmail.com>\n"
-"Language-Team:  <cecilios@gmail.com>\n"
+"Language-Team: <cecilios@gmail.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-Basepath: ../src\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 2.0.6\n"
 "X-Poedit-SearchPath-0: TheoryHarmony\n"
 
-#: TheoryHarmony.cpp:219
+#: TheoryHarmony.cpp:222
 msgid " - Aural training. Listen a scale and identify if it is major or minor."
 msgstr " - 练耳：听辨音阶，辨认是大调还是小调"
 
-#: TheoryHarmony.cpp:253
+#: TheoryHarmony.cpp:256
 msgid " - Aural training. Listen a scale and identify its type."
 msgstr " - 练耳：听音阶辨别其类型"
 
-#: TheoryHarmony.cpp:406
+#: TheoryHarmony.cpp:439
 msgid ""
 " - Aural training: identify the type of cadence: perfect, imperfect, plagal, "
 "half or deceptive."
 msgstr " - 练耳：辨别终止式的类型：完全，不完全，变格，半终止或者伪终止。"
 
-#: TheoryHarmony.cpp:275
+#: TheoryHarmony.cpp:278
 msgid ""
 " - Identify the type of scale: major or minor natural. Key signature "
 "displayed."
 msgstr " - 辨别音阶类型：大调或自然小调。调号如下。"
 
-#: TheoryHarmony.cpp:277
+#: TheoryHarmony.cpp:280
 msgid ""
 " - Identify the type of scale: major or minor natural. No key signature."
 msgstr " - 辨别音阶类型：大调或自然小调。没有调号。"
 
-#: TheoryHarmony.cpp:279
+#: TheoryHarmony.cpp:282
 msgid ""
 " - Identify the type of scale: major, minor natural, minor harmonic or minor "
 "melodic. Key signature displayed."
 msgstr " - 辨别音阶类型：大调，自然小调，和声小调和旋律小调。调号如下。"
 
-#: TheoryHarmony.cpp:281
+#: TheoryHarmony.cpp:284
 msgid ""
 " - Identify the type of scale: major, minor natural, minor harmonic or minor "
 "melodic. No key signature."
 msgstr " - 辨别音阶类型：大调，自然小调，和声小调和旋律小调。没有调号。"
 
-#: TheoryHarmony.cpp:270
+#: TheoryHarmony.cpp:273
 msgid " - Listen a scale and identify if it is major or minor."
 msgstr " - 练耳：听辨音阶，辨认是大调还是小调"
 
-#: TheoryHarmony.cpp:272
+#: TheoryHarmony.cpp:275
 msgid ""
 " - Listen a scale and identify if it is major, minor natural, minor melodic "
 "or minor harmonic."
 msgstr " - 听音阶，辨别它是大调，自然小调，旋律小调还是和声小调。"
 
-#: TheoryHarmony.cpp:221 TheoryHarmony.cpp:255
+#: TheoryHarmony.cpp:224 TheoryHarmony.cpp:258
 msgid " - Theory. Identify the type of scale (key signature displayed)."
 msgstr " - 理论。辨别音阶的类型（已给出调号）。"
 
-#: TheoryHarmony.cpp:223 TheoryHarmony.cpp:257
+#: TheoryHarmony.cpp:226 TheoryHarmony.cpp:260
 msgid " - Theory. Identify the type of scale (key signature not displayed)."
 msgstr " - 理论。辨别音阶的类型（未给出调号）"
 
-#: TheoryHarmony.cpp:408
+#: TheoryHarmony.cpp:441
 msgid ""
 " - Theory: identify the type of cadence: perfect, imperfect, plagal, half or "
 "deceptive."
 msgstr ""
 
-#: TheoryHarmony.cpp:114
+#: TheoryHarmony.cpp:117
 msgid "1st degree"
 msgstr "第一度"
 
-#: TheoryHarmony.cpp:320
+#: TheoryHarmony.cpp:323
 msgid "2nd"
 msgstr "2度"
 
-#: TheoryHarmony.cpp:117
+#: TheoryHarmony.cpp:120
 msgid "2nd degree"
 msgstr "第2度"
 
-#: TheoryHarmony.cpp:315
+#: TheoryHarmony.cpp:318
 msgid "3rd"
 msgstr "3度"
 
-#: TheoryHarmony.cpp:120
+#: TheoryHarmony.cpp:123
 msgid "3rd degree"
 msgstr "第3度"
 
-#: TheoryHarmony.cpp:318
+#: TheoryHarmony.cpp:365 TheoryHarmony.cpp:369 TheoryHarmony.cpp:371
+#: TheoryHarmony.cpp:372
+#, fuzzy
+msgid "3rd major"
+msgstr "F大调"
+
+#: TheoryHarmony.cpp:366 TheoryHarmony.cpp:368 TheoryHarmony.cpp:374
+#: TheoryHarmony.cpp:375
+msgid "3rd minor"
+msgstr ""
+
+#: TheoryHarmony.cpp:321
 msgid "4th"
 msgstr "4度"
 
-#: TheoryHarmony.cpp:123
+#: TheoryHarmony.cpp:126
 msgid "4th degree"
 msgstr "第4度"
 
-#: TheoryHarmony.cpp:316
+#: TheoryHarmony.cpp:319
 msgid "5th"
 msgstr "5度"
 
-#: TheoryHarmony.cpp:126
+#: TheoryHarmony.cpp:129
 msgid "5th degree"
 msgstr "第5度"
 
-#: TheoryHarmony.cpp:129
+#: TheoryHarmony.cpp:132
 msgid "6th degree"
 msgstr "第6度"
 
-#: TheoryHarmony.cpp:317 TheoryHarmony.cpp:334 TheoryHarmony.cpp:338
+#: TheoryHarmony.cpp:320 TheoryHarmony.cpp:337 TheoryHarmony.cpp:341
 msgid "7th"
 msgstr "7度"
 
-#: TheoryHarmony.cpp:132
+#: TheoryHarmony.cpp:135
 msgid "7th degree"
 msgstr "第七度"
 
-#: TheoryHarmony.cpp:321
+#: TheoryHarmony.cpp:324
 msgid "8ve"
 msgstr "8度"
 
-#: TheoryHarmony.cpp:329 TheoryHarmony.cpp:347
+#: TheoryHarmony.cpp:382
+#, fuzzy
+msgid "<a-1>Aural training</a-1> - Listen a chord and identify its type."
+msgstr " - 练耳：听音阶辨别其类型"
+
+#: TheoryHarmony.cpp:332 TheoryHarmony.cpp:350
 msgid ""
 "<a-1>Aural training</a-1> - Listen two intervals and identify which one is "
 "greater."
 msgstr "<a-1>练耳</a-1> - 听两个音程，辨别哪一个更大。"
 
-#: TheoryHarmony.cpp:380
+#: TheoryHarmony.cpp:413
 msgid ""
 "<a-1>Aural training</a-1> - Train your ear and practise to identify if a "
 "terminal cadence is authentic perfect or plagal."
 msgstr "<a-1>练耳</a-1> - 练耳，练习辨别终端终止式是正格终止式还是变格终止式。"
 
-#: TheoryHarmony.cpp:396
+#: TheoryHarmony.cpp:429
 msgid ""
 "<a-1>Aural training</a-1> - Train your ear and practise to identify if a "
 "transient cadence is a half cadence or a deceptive cadence."
 msgstr "<a-1>练耳</a-1> - 训练你的耳朵，练习辨别瞬态终止式是半终止还是伪终止。"
 
-#: TheoryHarmony.cpp:343
+#: TheoryHarmony.cpp:346
 msgid "<a-1>Exercise</a-1> - Build intervals on a score."
 msgstr "<a-1>练习</a-1> - 在乐谱中构建音程。"
 
-#: TheoryHarmony.cpp:328 TheoryHarmony.cpp:345
+#: TheoryHarmony.cpp:381
+#, fuzzy
+msgid "<a-1>Music reading</a-1> - Identify the chord type."
+msgstr "<a-1>音乐书写</a-1> - 在乐谱中构建音程。"
+
+#: TheoryHarmony.cpp:331 TheoryHarmony.cpp:348
 msgid "<a-1>Music reading</a-1> - Name the interval (as a number only)."
 msgstr "<a-1>读谱</a-1> - 数下面的音程（用数字标出）。"
 
-#: TheoryHarmony.cpp:346
+#: TheoryHarmony.cpp:349
 msgid "<a-1>Music writing</a-1> - Build intervals on a score."
 msgstr "<a-1>音乐书写</a-1> - 在乐谱中构建音程。"
 
-#: TheoryHarmony.cpp:379
+#: TheoryHarmony.cpp:412
 msgid ""
 "<a-1>Theory</a-1> - Practise to recognize in a score if a terminal cadence "
 "is authentic perfect or plagal."
 msgstr "<a-1>理论</a-1> - 练习在乐谱中辨别终端终止时是完全终止或变格终止式。"
 
-#: TheoryHarmony.cpp:395
+#: TheoryHarmony.cpp:428
 msgid ""
 "<a-1>Theory</a-1> - Practise to recognize in a score if a transient cadence "
 "is a half cadence or a deceptive one."
 msgstr "<a-1>理论</a-1> - 练习辨别乐谱中的瞬时终止式是半终止还是伪终止。"
 
-#: TheoryHarmony.cpp:242
+#: TheoryHarmony.cpp:245
 msgid ""
 "<b>Melodic</b> minor scales are a bit more complicated, because they have "
 "one pattern on the way up, but another on the way down."
 msgstr ""
 "<b>旋律</b>小调音阶相比之下稍微复杂一些，因为它们向上和向下的模式不同。"
 
-#: TheoryHarmony.cpp:361
+#: TheoryHarmony.cpp:394
 msgid ""
 "<b>Terminal cadences</b>. They create a sensation of stability, rest and "
 "ending of the musical phrase or sentence."
 msgstr ""
 "<b>终端终止式</b>。它们营造出一种稳定的感觉，音乐段落或者句子的休止和结束。"
 
-#: TheoryHarmony.cpp:362
+#: TheoryHarmony.cpp:395
 msgid ""
 "<b>Transient cadences</b>. They typically result in creating tension and a "
 "sensation of unstablility, as well as an expectation of continuation."
@@ -192,12 +213,19 @@ msgstr ""
 "<b>瞬态终止式</b>。它们的特点是营造出一种张力和不稳定的感觉，以及对继续的期"
 "望。"
 
-#: TheoryHarmony.cpp:151 TheoryHarmony.cpp:156 TheoryHarmony.cpp:168
-#: TheoryHarmony.cpp:175
+#: TheoryHarmony.cpp:154 TheoryHarmony.cpp:159 TheoryHarmony.cpp:171
+#: TheoryHarmony.cpp:178
 msgid "A"
 msgstr "A"
 
-#: TheoryHarmony.cpp:53
+#: TheoryHarmony.cpp:358
+msgid ""
+"A chord is a set of three or more overlapping notes (sounding at the same "
+"time). The chords of three notes are called 'triads', those of four 'tetra "
+"chords' ..."
+msgstr ""
+
+#: TheoryHarmony.cpp:56
 msgid ""
 "A chromatic scale has the twelve notes, and each step of the scale is a "
 "semitone. Let's return to the piano keyboard. If you start on a C key and "
@@ -212,7 +240,7 @@ msgstr ""
 msgid "A collection of lessons and exercises on music theory."
 msgstr "音乐理论的一些课程和练习的集合"
 
-#: TheoryHarmony.cpp:392
+#: TheoryHarmony.cpp:425
 msgid ""
 "A deceptive cadence occurs when a V chord does not resolve to a I chord, as "
 "the ear is expecting, but instead resolves to any other chord, typically to "
@@ -221,7 +249,7 @@ msgstr ""
 "伪终止式出现于当一个V和弦没有像耳朵期望的那样在I和弦中结束的时候，而是在其他"
 "和弦中结束，特别是包含了基音的和弦（VI或者IV度）。"
 
-#: TheoryHarmony.cpp:63
+#: TheoryHarmony.cpp:66
 msgid ""
 "A diatonic scale has seven notes but are usually played and written in "
 "groups of eight notes, so that they sound finished. The 8th note is the same "
@@ -232,11 +260,11 @@ msgstr ""
 "完结的。第八个音符和第一个音符一样，但是高一个或者第一个八度，并且前七个音符"
 "<b>必须</b>有不同的音名，A——G。"
 
-#: TheoryHarmony.cpp:297
+#: TheoryHarmony.cpp:300
 msgid "A great step in studying something is understanding its purpose."
 msgstr "学习某一只是的最好方法是明白它的意义。"
 
-#: TheoryHarmony.cpp:388
+#: TheoryHarmony.cpp:421
 msgid ""
 "A half cadence takes place when the harmony moves to the V degree (dominant) "
 "from any other degree, except the tonic (I). The ending on V causes it to "
@@ -248,7 +276,7 @@ msgstr ""
 "听起来不完全或者是“暂停的”，因为属七和弦的不稳定。它被认为是最弱的终止式，并"
 "且不能用于音乐段落的结束处。"
 
-#: TheoryHarmony.cpp:389
+#: TheoryHarmony.cpp:422
 msgid ""
 "A particular case of the half cadence is the Phrygian half cadence. It "
 "consists of a IV chord in first inversion that resolves to a V (or V7) chord "
@@ -260,7 +288,7 @@ msgstr ""
 "V（V7）和弦的根位置处结束。它只在小调中出现（IV是小调），并且在巴洛克时期被广"
 "泛地用于结束一个节奏缓慢的小调音乐段落，并由大调模式的快速的旋律所延续。"
 
-#: TheoryHarmony.cpp:376
+#: TheoryHarmony.cpp:409
 msgid ""
 "A plagal cadence takes place when grade IV (subdominant) resolves in grade I "
 "(tonic), both in root position. The plagal cadence is less strong than the "
@@ -271,7 +299,7 @@ msgstr ""
 "正格终止式弱，并且也被称为“祈祷”终止式，因为它通常用于大多数的教堂赞美诗的末"
 "端。"
 
-#: TheoryHarmony.cpp:186
+#: TheoryHarmony.cpp:189
 msgid ""
 "A scale starts with the note that names the key, the tonic. This note is the "
 "<b>tonal center</b> of that key, the note where music in that key feels 'at "
@@ -288,7 +316,7 @@ msgstr ""
 "到音符A，因此听者一听便知道音乐的主音是哪一个，即使他们并不知道自己了解。在接"
 "下来的课程中你将了解更多。"
 
-#: TheoryHarmony.cpp:42
+#: TheoryHarmony.cpp:45
 msgid ""
 "A scale, from Latin word 'scala' meaning 'ladder', is a predefined series of "
 "notes going up (ascending) or down (descending). People in different musical "
@@ -305,11 +333,18 @@ msgstr ""
 "被十二个等间距的音符划分开。在其他的音乐传统中，例如中国传统音乐，八度音阶的"
 "划分是不同的，因此使用不同的音阶。"
 
-#: TheoryHarmony.cpp:409 TheoryHarmony.cpp:411
+#: TheoryHarmony.cpp:442 TheoryHarmony.cpp:444
 msgid "All cadences"
 msgstr "所有终止式"
 
-#: TheoryHarmony.cpp:65
+#: TheoryHarmony.cpp:38
+#, fuzzy
+msgid ""
+"All other texts, by LenMus proyect contributors. Licensed under Creative "
+"Commons Attribution-Share-Alike License 3.0."
+msgstr "其他的内容、书籍设计及准备来自Cecilio Salmerón。满足知识共享条款3.0"
+
+#: TheoryHarmony.cpp:68
 msgid ""
 "Altough they sound equal, the first one, A, B, C, D, E, F, G# and A, is a "
 "correct scale as all note names are different, but the second one, A, B, C, "
@@ -323,7 +358,7 @@ msgstr ""
 "被使用了两次：一次作为降A一次作为原调A。（虽然你可能认为G#和Ab是不同的音，但"
 "它们却是是同一个音，你会在接下来的等级中学习到！）"
 
-#: TheoryHarmony.cpp:367
+#: TheoryHarmony.cpp:400
 msgid ""
 "An authentic cadence takes place when grade V, dominant, (or V7, a V chord "
 "with an added seventh) resolves in grade I (tonic). The authentic cadence is "
@@ -332,7 +367,7 @@ msgstr ""
 "整个终止在第V级中出现，占据主要地位，（或者V7，一个V和弦和一个加7度）在第I级"
 "（基音）中结束。正格终止式是最强的终端终止式，有决定性的最后效果。"
 
-#: TheoryHarmony.cpp:302
+#: TheoryHarmony.cpp:305
 msgid ""
 "An interval is the distance between two notes, measured as a number. "
 "Intervals are named by the number of steps between the two notes. When we "
@@ -342,19 +377,19 @@ msgstr ""
 "音程是两个音符之间的距离，由数字来衡量。音程由两个音符之间音阶的数量来命名。"
 "当我们测量音程时，我们总是从低的音开始。我们向上数到高的音。参看以下例子："
 
-#: TheoryHarmony.cpp:206
+#: TheoryHarmony.cpp:209
 msgid "And now in A minor"
 msgstr "然后是A小调"
 
-#: TheoryHarmony.cpp:183
+#: TheoryHarmony.cpp:186
 msgid "And now in D Major"
 msgstr "现在是D大调"
 
-#: TheoryHarmony.cpp:237
+#: TheoryHarmony.cpp:240
 msgid "And now let's look at A minor harmonic descending (going down):"
 msgstr "让我们来看看下降和声A小调（向下）："
 
-#: TheoryHarmony.cpp:390
+#: TheoryHarmony.cpp:423
 msgid ""
 "Another very specific case is the Andalusian cadence. It only occurs in "
 "minor keys and is given by the progression I-VII-VI-V, where the VI degree "
@@ -365,7 +400,7 @@ msgstr ""
 "的形式，VI级可以被替换。由于VII的根音和V的第三音之间的半音阶，该终止式的音色"
 "很特别。"
 
-#: TheoryHarmony.cpp:363
+#: TheoryHarmony.cpp:396
 msgid ""
 "As an exercise you will hear a cadence and based on the sensation it "
 "provokes, try to identify if the cadence is terminal or transient."
@@ -373,7 +408,7 @@ msgstr ""
 "作为一个练习，你将听到一个终止式，并且给予它营造出的感觉，尝试辨别它是终端终"
 "止时还是瞬态终止式。"
 
-#: TheoryHarmony.cpp:198
+#: TheoryHarmony.cpp:201
 msgid ""
 "As with major scales, minor scales also share a common pattern of tones and "
 "semitones. Let's use again the piano keyboard and play all note names along "
@@ -382,11 +417,11 @@ msgstr ""
 "小调音阶和大调音阶同样共享全音和半音的模式。让我们再次使用钢琴键盘，然后参奏"
 "一个八度内的所有音符，但是从A开始，我们将得到的音符组是A-B-C-D-E-F-G-A-B:"
 
-#: TheoryHarmony.cpp:238
+#: TheoryHarmony.cpp:241
 msgid "As you can see, it's exactly the same notes, but in reverse order."
 msgstr "如你所看到的，它使用的音符一样，不过顺序颠倒。"
 
-#: TheoryHarmony.cpp:245
+#: TheoryHarmony.cpp:248
 msgid ""
 "As you can see, the descending scale is not just a back-to-front ascending "
 "scale, (as it was in the harmonic scale). The top end of the melodic scale "
@@ -398,11 +433,11 @@ msgstr ""
 "律音阶的顶端的模式完全不同。最顶端的音永远是音阶的主音（基调），但是接下来的"
 "两个音会发生改变，其改变取决于方向。"
 
-#: TheoryHarmony.cpp:108
+#: TheoryHarmony.cpp:111
 msgid "Ascending and descending"
 msgstr "上升和下降"
 
-#: TheoryHarmony.cpp:322
+#: TheoryHarmony.cpp:325
 msgid ""
 "At first you may need to count the notes to determine the interval size but "
 "with practise you will learn to determine the intervals at first sight."
@@ -410,63 +445,71 @@ msgstr ""
 "首先要决定音程的度数你可能需要数一下音符，不过通过练习你将会学习到如果一眼辨"
 "别音程。"
 
-#: TheoryHarmony.cpp:268
+#: TheoryHarmony.cpp:370
+msgid "Augmented fifth"
+msgstr ""
+
+#: TheoryHarmony.cpp:271
 msgid "Aural training exercises"
 msgstr "练耳"
 
-#: TheoryHarmony.cpp:384
+#: TheoryHarmony.cpp:417
 msgid ""
 "Aural training: Identify if a terminal cadence is authentic perfect or "
 "plagal."
 msgstr "练耳：辨别终止式是正格完全还是变格。"
 
-#: TheoryHarmony.cpp:400
+#: TheoryHarmony.cpp:433
 msgid ""
 "Aural training: Identify if a transient cadence is a half cadence or a "
 "deceptive cadence."
 msgstr "练耳：辨别瞬态终止式是半终止还是伪终止。"
 
-#: TheoryHarmony.cpp:226
+#: TheoryHarmony.cpp:229
 msgid "Aural training: Listen a scale and identify if it is major or minor"
 msgstr "练耳：听辨音阶，辨认是大调还是小调"
 
-#: TheoryHarmony.cpp:261 TheoryHarmony.cpp:283 TheoryHarmony.cpp:285
+#: TheoryHarmony.cpp:264 TheoryHarmony.cpp:286 TheoryHarmony.cpp:288
 msgid "Aural training: Listen a scale and identify its type"
 msgstr "练耳：听音阶辨别其类型"
 
-#: TheoryHarmony.cpp:410
+#: TheoryHarmony.cpp:443
 msgid "Aural training: identify the type of cadence."
 msgstr "练耳：辨别终止式类型。"
 
-#: TheoryHarmony.cpp:381 TheoryHarmony.cpp:383
+#: TheoryHarmony.cpp:414 TheoryHarmony.cpp:416
 msgid "Authentic and plagal cadences"
 msgstr "正格和变格终止式"
 
-#: TheoryHarmony.cpp:366
+#: TheoryHarmony.cpp:399
 msgid "Authentic cadences"
 msgstr "正格终止式"
 
-#: TheoryHarmony.cpp:152 TheoryHarmony.cpp:157 TheoryHarmony.cpp:169
+#: TheoryHarmony.cpp:155 TheoryHarmony.cpp:160 TheoryHarmony.cpp:172
 msgid "B"
 msgstr "B"
 
-#: TheoryHarmony.cpp:309
+#: TheoryHarmony.cpp:312
 msgid "B-D as a harmonic (vertical) interval"
 msgstr "B-D为一个和声（垂直位置相同）音程"
 
-#: TheoryHarmony.cpp:308
+#: TheoryHarmony.cpp:311
 msgid "B-D as a melodic (horizontal) interval"
 msgstr "B-D为一个旋律（水平位置相同）音程"
 
-#: TheoryHarmony.cpp:176
+#: TheoryHarmony.cpp:28 TheoryHarmony.cpp:357
+msgid "Basic ideas about chords"
+msgstr ""
+
+#: TheoryHarmony.cpp:179
 msgid "Bb"
 msgstr "Bb"
 
-#: TheoryHarmony.cpp:90
+#: TheoryHarmony.cpp:93
 msgid "Building a major scale"
 msgstr "构建大调音阶"
 
-#: TheoryHarmony.cpp:299
+#: TheoryHarmony.cpp:302
 msgid ""
 "But even if you are not interested on harmony and on theory about music, "
 "understanding intervals and being able to quickly and accurately recognize "
@@ -476,36 +519,36 @@ msgstr ""
 "但是即使你对和声和音乐理论不感兴趣，了解音程并且能够快速准确地辨别它们对正确"
 "视唱乐谱而言是至关重要的。同时，对音乐听写也很关键（写下你听到的音乐）。"
 
-#: TheoryHarmony.cpp:146 TheoryHarmony.cpp:153 TheoryHarmony.cpp:158
-#: TheoryHarmony.cpp:177
+#: TheoryHarmony.cpp:149 TheoryHarmony.cpp:156 TheoryHarmony.cpp:161
+#: TheoryHarmony.cpp:180
 msgid "C"
 msgstr "C"
 
-#: TheoryHarmony.cpp:145
+#: TheoryHarmony.cpp:148
 msgid "C Major"
 msgstr "C大调"
 
-#: TheoryHarmony.cpp:213
+#: TheoryHarmony.cpp:216
 msgid "C major scale"
 msgstr "C大调音阶"
 
-#: TheoryHarmony.cpp:202 TheoryHarmony.cpp:214
+#: TheoryHarmony.cpp:205 TheoryHarmony.cpp:217
 msgid "C minor scale"
 msgstr "C小调音阶"
 
-#: TheoryHarmony.cpp:170
+#: TheoryHarmony.cpp:173
 msgid "C#"
 msgstr "C#"
 
-#: TheoryHarmony.cpp:359
+#: TheoryHarmony.cpp:392
 msgid "Cadence types"
 msgstr "终止式类型"
 
-#: TheoryHarmony.cpp:28 TheoryHarmony.cpp:353 TheoryHarmony.cpp:354
+#: TheoryHarmony.cpp:30 TheoryHarmony.cpp:386 TheoryHarmony.cpp:387
 msgid "Cadences"
 msgstr "终止式"
 
-#: TheoryHarmony.cpp:32
+#: TheoryHarmony.cpp:34
 msgid ""
 "Cadences\n"
 "<ul>\n"
@@ -516,13 +559,13 @@ msgid ""
 "</ul>"
 msgstr ""
 
-#: TheoryHarmony.cpp:358
+#: TheoryHarmony.cpp:391
 msgid ""
 "Cadences are not difficult to recognize by ear but it is sometimes harder to "
 "recognize them in written music."
 msgstr "终止式通过耳朵并不难辨认，但是有时候在乐谱中辨别中它们显得更加艰难。"
 
-#: TheoryHarmony.cpp:196
+#: TheoryHarmony.cpp:199
 msgid ""
 "Catherine Schmidt-Jones, 'Major Keys and Scales', Connexions, December 16, "
 "2009, <a-1>http://cnx.org/content/m10851/2.22/</a-1>. Her work is licensed "
@@ -531,7 +574,7 @@ msgstr ""
 "Catherine Schmidt-Jones,'大调和音阶'，连接，2009年12月16日，<a-1>http://cnx."
 "org/content/m10851/2.22/</a-1>。她的文章收到知识共享协议的保护（CC-BY 1.0）。"
 
-#: TheoryHarmony.cpp:224 TheoryHarmony.cpp:259
+#: TheoryHarmony.cpp:227 TheoryHarmony.cpp:262
 msgid ""
 "Catherine Schmidt-Jones, 'Minor Keys and Scales', Connexions, December 16, "
 "2009, <a-1>http://cnx.org/content/m10856/2.19/</a-1>. Her work is licensed "
@@ -540,25 +583,47 @@ msgstr ""
 "Catherine Schmidt-Jones，“小调和音阶”，连结，2009年12月16号，<a-1>http://cnx."
 "org/content/m10856/2.19/</a-1>。她的作品满足知识共享条款（CC-BY 1.0）。"
 
-#: TheoryHarmony.cpp:52
+#: TheoryHarmony.cpp:356
+msgid "Chords"
+msgstr ""
+
+#: TheoryHarmony.cpp:29
+msgid ""
+"Chords\n"
+"<ul>\n"
+"<li> <a-3>Basic ideas about chords</a-3></li>\n"
+"</ul>"
+msgstr ""
+
+#: TheoryHarmony.cpp:384
+#, fuzzy
+msgid "Chords' identification"
+msgstr "音阶识别"
+
+#: TheoryHarmony.cpp:55
 msgid "Chromatic scales"
 msgstr "半音音阶"
 
-#: TheoryHarmony.cpp:189
+#: TheoryHarmony.cpp:192
 msgid "Common Errors when writing a scale"
 msgstr "写音阶的时候的常见错误"
 
-#: TheoryHarmony.cpp:205
+#: TheoryHarmony.cpp:208
 msgid ""
 "Compare again the tune 'Row, Row, Row Your Boat', written in C major and in "
 "A minor. First in C major:"
 msgstr "再比较一下以C大调和A小调写成的调子“划，划，划你的船”，首先是C大调："
 
-#: TheoryHarmony.cpp:212
+#: TheoryHarmony.cpp:378
+msgid ""
+"Compare and notice the dissonance between E4 and D5 introduced by the 7th:"
+msgstr ""
+
+#: TheoryHarmony.cpp:215
 msgid "Compare these three scales:"
 msgstr "比较下列三个音阶："
 
-#: TheoryHarmony.cpp:36
+#: TheoryHarmony.cpp:39
 msgid "Copyright"
 msgstr "版权"
 
@@ -566,11 +631,11 @@ msgstr "版权"
 msgid "Cover page"
 msgstr "封面"
 
-#: TheoryHarmony.cpp:34
+#: TheoryHarmony.cpp:36
 msgid "Credits"
 msgstr "工作人员"
 
-#: TheoryHarmony.cpp:33
+#: TheoryHarmony.cpp:35
 msgid "Credits and Copyrights"
 msgstr "工作人员及版权"
 
@@ -578,42 +643,42 @@ msgstr "工作人员及版权"
 msgid "Credits and copyrights"
 msgstr "工作人员及版权"
 
-#: TheoryHarmony.cpp:147 TheoryHarmony.cpp:159 TheoryHarmony.cpp:164
-#: TheoryHarmony.cpp:171 TheoryHarmony.cpp:178
+#: TheoryHarmony.cpp:150 TheoryHarmony.cpp:162 TheoryHarmony.cpp:167
+#: TheoryHarmony.cpp:174 TheoryHarmony.cpp:181
 msgid "D"
 msgstr "D"
 
-#: TheoryHarmony.cpp:101 TheoryHarmony.cpp:163
+#: TheoryHarmony.cpp:104 TheoryHarmony.cpp:166
 msgid "D Major"
 msgstr "D大调"
 
-#: TheoryHarmony.cpp:103
+#: TheoryHarmony.cpp:106
 msgid "D major has two sharps - F sharp and C sharp."
 msgstr "D大调有两个升号——升F和升C。"
 
-#: TheoryHarmony.cpp:397 TheoryHarmony.cpp:399
+#: TheoryHarmony.cpp:430 TheoryHarmony.cpp:432
 msgid "Deceptive and half cadences"
 msgstr "伪终止和半终止"
 
-#: TheoryHarmony.cpp:391
+#: TheoryHarmony.cpp:424
 msgid "Deceptive cadences"
 msgstr "伪终止式"
 
-#: TheoryHarmony.cpp:111
+#: TheoryHarmony.cpp:114
 msgid "Degrees of the scale"
 msgstr "音阶的度。"
 
-#: TheoryHarmony.cpp:360
+#: TheoryHarmony.cpp:393
 msgid ""
 "Depending on the sensation they create, cadences are classified in two "
 "fundamental types:"
 msgstr "取决于它们营造出的感觉，终止式可以被分成两种基本的类型："
 
-#: TheoryHarmony.cpp:58
+#: TheoryHarmony.cpp:61
 msgid "Diatonic Scales"
 msgstr "全音阶"
 
-#: TheoryHarmony.cpp:57
+#: TheoryHarmony.cpp:60
 msgid "Diatonic scales"
 msgstr "全音阶"
 
@@ -621,11 +686,15 @@ msgstr "全音阶"
 msgid "Diatonic scales. Tonal center"
 msgstr "全音阶。主调。"
 
-#: TheoryHarmony.cpp:128
+#: TheoryHarmony.cpp:373
+msgid "Diminished fifth"
+msgstr ""
+
+#: TheoryHarmony.cpp:131
 msgid "Dominant"
 msgstr "主音"
 
-#: TheoryHarmony.cpp:337
+#: TheoryHarmony.cpp:340
 msgid ""
 "Don't forget that we were told to write a melodic interval, so in this case "
 "we will write the E after the F, and not directly above it:"
@@ -633,22 +702,22 @@ msgstr ""
 "记住我们需要写旋律音程，因此在这一个例子中我们将在F后面写一个E，不是直接写在"
 "它上方："
 
-#: TheoryHarmony.cpp:339
+#: TheoryHarmony.cpp:342
 msgid ""
 "Don't forget to look carefully at the clef, to place the note in the right "
 "line or space!."
 msgstr "别忘了仔细看一下谱号，把音符放置在正确的线或间上。"
 
-#: TheoryHarmony.cpp:148 TheoryHarmony.cpp:160 TheoryHarmony.cpp:165
-#: TheoryHarmony.cpp:179
+#: TheoryHarmony.cpp:151 TheoryHarmony.cpp:163 TheoryHarmony.cpp:168
+#: TheoryHarmony.cpp:182
 msgid "E"
 msgstr "E"
 
-#: TheoryHarmony.cpp:215
+#: TheoryHarmony.cpp:218
 msgid "E flat major scale"
 msgstr "降E大调音阶"
 
-#: TheoryHarmony.cpp:97
+#: TheoryHarmony.cpp:100
 msgid ""
 "E major has four sharps - F sharp, C sharp. G sharp and D sharp. You might "
 "be wondering why we choose, for instance, F sharp and not G flat, since they "
@@ -664,83 +733,93 @@ msgstr ""
 "以<b>E</b>开始和结束，因此我们将以该字母开始。下一个我们需要用到的字母是F，因"
 "此我们用升F。如果我们使用将G，那么在音阶中用不到F。"
 
-#: TheoryHarmony.cpp:74
+#: TheoryHarmony.cpp:77
 msgid "E-F sharp is a tone. F natural sits between them."
 msgstr "E-升F是一个全音程。中间有一个F。"
 
-#: TheoryHarmony.cpp:218 TheoryHarmony.cpp:252 TheoryHarmony.cpp:269
-#: TheoryHarmony.cpp:405
+#: TheoryHarmony.cpp:221 TheoryHarmony.cpp:255 TheoryHarmony.cpp:272
+#: TheoryHarmony.cpp:438
 msgid "Exercise 1"
 msgstr "练习 1"
 
-#: TheoryHarmony.cpp:220 TheoryHarmony.cpp:254 TheoryHarmony.cpp:271
-#: TheoryHarmony.cpp:407
+#: TheoryHarmony.cpp:223 TheoryHarmony.cpp:257 TheoryHarmony.cpp:274
+#: TheoryHarmony.cpp:440
 msgid "Exercise 2"
 msgstr "练习 2"
 
-#: TheoryHarmony.cpp:222 TheoryHarmony.cpp:256 TheoryHarmony.cpp:274
+#: TheoryHarmony.cpp:225 TheoryHarmony.cpp:259 TheoryHarmony.cpp:277
 msgid "Exercise 3"
 msgstr "练习 3"
 
-#: TheoryHarmony.cpp:276
+#: TheoryHarmony.cpp:279
 msgid "Exercise 4"
 msgstr "练习 4"
 
-#: TheoryHarmony.cpp:278
+#: TheoryHarmony.cpp:281
 msgid "Exercise 5"
 msgstr "练习 5"
 
-#: TheoryHarmony.cpp:280
+#: TheoryHarmony.cpp:283
 msgid "Exercise 6"
 msgstr "练习 6"
 
-#: TheoryHarmony.cpp:351
+#: TheoryHarmony.cpp:383
+#, fuzzy
+msgid "Exercise: Identify the chord type"
+msgstr "理论：辨别已显示的音阶"
+
+#: TheoryHarmony.cpp:385
+#, fuzzy
+msgid "Exercise: Listen a chord and identify its type"
+msgstr "练耳：听音阶辨别其类型"
+
+#: TheoryHarmony.cpp:354
 msgid "Exercise: Listen two intervals and identify which one is greater"
 msgstr "练习：听两个音程辨别哪一个更高"
 
-#: TheoryHarmony.cpp:24 TheoryHarmony.cpp:217 TheoryHarmony.cpp:251
-#: TheoryHarmony.cpp:327 TheoryHarmony.cpp:378 TheoryHarmony.cpp:394
-#: TheoryHarmony.cpp:404
+#: TheoryHarmony.cpp:24 TheoryHarmony.cpp:220 TheoryHarmony.cpp:254
+#: TheoryHarmony.cpp:330 TheoryHarmony.cpp:380 TheoryHarmony.cpp:411
+#: TheoryHarmony.cpp:427 TheoryHarmony.cpp:437
 msgid "Exercises"
 msgstr "练习"
 
-#: TheoryHarmony.cpp:344
+#: TheoryHarmony.cpp:347
 msgid "Exercises in this lesson"
 msgstr "在本课中练习"
 
-#: TheoryHarmony.cpp:31 TheoryHarmony.cpp:401
+#: TheoryHarmony.cpp:33 TheoryHarmony.cpp:434
 msgid "Exercises on cadences"
 msgstr "终止式练习"
 
-#: TheoryHarmony.cpp:266
+#: TheoryHarmony.cpp:269
 msgid "Exercises on scales"
 msgstr "音阶练习"
 
-#: TheoryHarmony.cpp:149 TheoryHarmony.cpp:173 TheoryHarmony.cpp:180
+#: TheoryHarmony.cpp:152 TheoryHarmony.cpp:176 TheoryHarmony.cpp:183
 msgid "F"
 msgstr "F"
 
-#: TheoryHarmony.cpp:172
+#: TheoryHarmony.cpp:175
 msgid "F Major"
 msgstr "F大调"
 
-#: TheoryHarmony.cpp:75
+#: TheoryHarmony.cpp:78
 msgid "F is between these two notes"
 msgstr "两个音符中间有一个F"
 
-#: TheoryHarmony.cpp:104
+#: TheoryHarmony.cpp:107
 msgid "F major"
 msgstr "F大调"
 
-#: TheoryHarmony.cpp:106
+#: TheoryHarmony.cpp:109
 msgid "F major doesn't have any sharps, but it has one flat - B flat."
 msgstr "F大调没有任何升号，但是有一个降号——降B。"
 
-#: TheoryHarmony.cpp:161 TheoryHarmony.cpp:166
+#: TheoryHarmony.cpp:164 TheoryHarmony.cpp:169
 msgid "F#"
 msgstr "F#"
 
-#: TheoryHarmony.cpp:48
+#: TheoryHarmony.cpp:51
 msgid ""
 "Find E and F on the piano keyboard. The distance between E and F is a "
 "semitone; it's not possible to squeeze another note in between them, because "
@@ -749,7 +828,7 @@ msgstr ""
 "在钢琴键盘上找到E和F。E和F之间的距离是一个半音程；它们之间不能再放置其他的音"
 "符，因为钢琴键盘上它们之间没有多余的键。"
 
-#: TheoryHarmony.cpp:72
+#: TheoryHarmony.cpp:75
 msgid ""
 "Find G and A on the keyboard. G-A is a tone. We can squeeze a G sharp/A flat "
 "between them (there is a black key between them)"
@@ -757,7 +836,7 @@ msgstr ""
 "在键盘上找到G和A，G-A是一个全音程。我们可以在它们之间放置一个升G或者降A（它们"
 "之间有一个黑键）"
 
-#: TheoryHarmony.cpp:325
+#: TheoryHarmony.cpp:328
 msgid ""
 "First, the correct way: starting on the lower note (C), we count letter "
 "names to the higher note, (G), C-D-E-F-G =5, which gives us a 5th. This is "
@@ -766,13 +845,13 @@ msgstr ""
 "首先，正确的方法：从低音（C）开始数到高音上（G）,C-D-E-F-G=5，因此我们得到5"
 "度。这是正确的答案！"
 
-#: TheoryHarmony.cpp:332
+#: TheoryHarmony.cpp:335
 msgid ""
 "First, you need to work out which notes you have to write, and secondly you "
 "need to write the notes clearly and accurately."
 msgstr "首先，你需要明白你需要写的音符，然后你需要正确清楚地写下这些音符。"
 
-#: TheoryHarmony.cpp:210
+#: TheoryHarmony.cpp:213
 msgid ""
 "For each major scale there is minor natural scale having the same notes and "
 "sharing the same accidentals in the key signature. This minor scale is "
@@ -784,53 +863,53 @@ msgstr ""
 "相同。小调音阶被称为大调音阶的<b>相对小调</b>。我们以及学习了C大调和A小调的例"
 "子。A小调被称为C大调的相对小调。"
 
-#: TheoryHarmony.cpp:267
+#: TheoryHarmony.cpp:270
 msgid ""
 "For your convenience, in this lesson you have all the exercises included in "
 "previous lessons on scales."
 msgstr "为了便利，本课中你将完成之前的课文中涉及到的音阶的全部练习。"
 
-#: TheoryHarmony.cpp:150 TheoryHarmony.cpp:155 TheoryHarmony.cpp:162
-#: TheoryHarmony.cpp:167 TheoryHarmony.cpp:174
+#: TheoryHarmony.cpp:153 TheoryHarmony.cpp:158 TheoryHarmony.cpp:165
+#: TheoryHarmony.cpp:170 TheoryHarmony.cpp:177
 msgid "G"
 msgstr "G"
 
-#: TheoryHarmony.cpp:98 TheoryHarmony.cpp:154
+#: TheoryHarmony.cpp:101 TheoryHarmony.cpp:157
 msgid "G Major"
 msgstr "G大调"
 
-#: TheoryHarmony.cpp:100
+#: TheoryHarmony.cpp:103
 msgid "G major has one sharp - F sharp."
 msgstr "G大调有一个升号——升F。"
 
-#: TheoryHarmony.cpp:73
+#: TheoryHarmony.cpp:76
 msgid "G# / Ab is between these two notes"
 msgstr "升G/降A在这两个音符之间。"
 
-#: TheoryHarmony.cpp:387
+#: TheoryHarmony.cpp:420
 msgid "Half cadences"
 msgstr "半终止"
 
-#: TheoryHarmony.cpp:23 TheoryHarmony.cpp:231
+#: TheoryHarmony.cpp:23 TheoryHarmony.cpp:234
 msgid "Harmonic and melodic minor scales"
 msgstr "和谐旋律小调"
 
-#: TheoryHarmony.cpp:83
+#: TheoryHarmony.cpp:86
 msgid "Here are two more examples, the G major and F# major scales:"
 msgstr "这儿有另外两个例子，G大调和F#大调音阶："
 
-#: TheoryHarmony.cpp:55
+#: TheoryHarmony.cpp:58
 msgid "Here is an ascending chromatic scale starting on B flat:"
 msgstr "下面是一个从降B开始的上升半音音阶："
 
-#: TheoryHarmony.cpp:201
+#: TheoryHarmony.cpp:204
 msgid ""
 "Here you have more examples of minor natural scales. Take paper and pencil, "
 "copy those scales, and find the pattern of tones and semitones."
 msgstr ""
 "这里有更多小调自然音阶的例子。拿起笔和纸，写这些音阶，了解全音和半音的模式。"
 
-#: TheoryHarmony.cpp:244
+#: TheoryHarmony.cpp:247
 msgid ""
 "Here's A minor melodic, ascending and descending. Click the play button and "
 "concentrate on the notes in red -- they're the ones which change on the way "
@@ -839,15 +918,15 @@ msgstr ""
 "这里是一个旋律小调，上升和下降。点击播放按钮，注意红色的音符——它们在下降时有"
 "改变。"
 
-#: TheoryHarmony.cpp:136
+#: TheoryHarmony.cpp:139
 msgid "Here's a summary of the notes of the scales of C, D, G and F major:"
 msgstr "这里有C，D，G，和F大调的音符的总结："
 
-#: TheoryHarmony.cpp:110
+#: TheoryHarmony.cpp:113
 msgid "Here's an example of F major descending, using the bass clef."
 msgstr "这里有一个下降F大调的例子，使用低音谱号。"
 
-#: TheoryHarmony.cpp:303
+#: TheoryHarmony.cpp:306
 msgid ""
 "Here, we start counting on the lower note, which is C. We count upwards to "
 "the higher note, E. This gives us C, D and E. We counted three notes, so "
@@ -856,13 +935,13 @@ msgstr ""
 "这里，我们从低的音开始，是C。向上数到高的音，E。得到C，D和E。我们数三个音符，"
 "因此该音程为3度音程。"
 
-#: TheoryHarmony.cpp:96
+#: TheoryHarmony.cpp:99
 msgid ""
 "Hopefully by now you've got the idea, so here are the rest of the notes of "
 "the E major scale:"
 msgstr "希望你已经了解这一概念，以下是E大调音阶中剩下的所有音符："
 
-#: TheoryHarmony.cpp:188
+#: TheoryHarmony.cpp:191
 msgid ""
 "How are these moods produced? Music in a particular key tends to use only "
 "some of the many possible notes available; these notes are listed in the "
@@ -888,31 +967,31 @@ msgstr ""
 "及音阶的），小调音乐听起来是伤心的，不吉利的或者是神秘的。实际上，大多数音乐"
 "人，甚至很多非音乐人，可以通过听音乐来分辨是大调还是小调。"
 
-#: TheoryHarmony.cpp:115
+#: TheoryHarmony.cpp:118
 msgid "I"
 msgstr "I"
 
-#: TheoryHarmony.cpp:137
+#: TheoryHarmony.cpp:140
 msgid "I (1st)"
 msgstr "I（第1个）"
 
-#: TheoryHarmony.cpp:144
+#: TheoryHarmony.cpp:147
 msgid "I (Octave)"
 msgstr "I（八度）"
 
-#: TheoryHarmony.cpp:118 TheoryHarmony.cpp:138
+#: TheoryHarmony.cpp:121 TheoryHarmony.cpp:141
 msgid "II"
 msgstr "II"
 
-#: TheoryHarmony.cpp:121 TheoryHarmony.cpp:139
+#: TheoryHarmony.cpp:124 TheoryHarmony.cpp:142
 msgid "III"
 msgstr "III"
 
-#: TheoryHarmony.cpp:124 TheoryHarmony.cpp:140
+#: TheoryHarmony.cpp:127 TheoryHarmony.cpp:143
 msgid "IV"
 msgstr "IV"
 
-#: TheoryHarmony.cpp:71
+#: TheoryHarmony.cpp:74
 msgid ""
 "If in the piano keyboard there is one note between the two notes we are "
 "looking at, the distance between those two notes is a tone. In the following "
@@ -921,7 +1000,7 @@ msgstr ""
 "如果钢琴键盘上有一个音符在两个音符之间，那么这两个音符之间的距离就是一个全音"
 "程。在接下来的途中，我将之间的距离为全音程的音符对用颜色标出。"
 
-#: TheoryHarmony.cpp:47
+#: TheoryHarmony.cpp:50
 msgid ""
 "If two notes are as close as possible on the piano keyboard (two "
 "neighbouring keys, whatever colour, black or white), we call the distance "
@@ -932,7 +1011,7 @@ msgstr ""
 "则称它们之间的距离为一个 <b>半音</b>。在下图中我已将距离为半音程的音符对用颜"
 "色标识了出来。"
 
-#: TheoryHarmony.cpp:304
+#: TheoryHarmony.cpp:307
 msgid ""
 "If we count four notes, the interval is a fourth, and so on, until we reach "
 "eight. If we count eight notes the interval is called an <b>octave</b>."
@@ -940,7 +1019,7 @@ msgstr ""
 "如果我们数了四个音符，则该音程为4度，诸如此类，知道我们得到8度音程。如果我们"
 "数了八个音符，则音程被称为<b>8度</b>。"
 
-#: TheoryHarmony.cpp:80
+#: TheoryHarmony.cpp:83
 msgid ""
 "If we look again at the C major scale, we will see the following pattern of "
 "tones and semitones (T=tone and S=semitone):"
@@ -948,7 +1027,7 @@ msgstr ""
 "如果我们再看看C大调音阶，我们将会看到全音和半音接下来的模式（T=全音，S=半"
 "音）："
 
-#: TheoryHarmony.cpp:298
+#: TheoryHarmony.cpp:301
 msgid ""
 "If you are interested in harmony and composition, you should know that "
 "intervals are the building blocks of harmony: you will not be able to "
@@ -957,7 +1036,7 @@ msgstr ""
 "如果你对和声和作曲感兴趣，你应该了解音程是和声的构建基础：如果不学习音程你将"
 "无法明白和声。"
 
-#: TheoryHarmony.cpp:190
+#: TheoryHarmony.cpp:193
 msgid ""
 "If you have an examination, you might be asked to write any scale, ascending "
 "or descending, either with a key signature or using accidentals. Here are "
@@ -967,7 +1046,7 @@ msgstr ""
 "阶，无论是上升音阶还是下降音阶。这里有一些常犯的<b>错误</b>：确保你不要犯它"
 "们！"
 
-#: TheoryHarmony.cpp:333
+#: TheoryHarmony.cpp:336
 msgid ""
 "If you have to write an interval, you will be given the first (lower) note "
 "of the two, and you will be told what interval to calculate; something like "
@@ -976,7 +1055,7 @@ msgstr ""
 "如果你需要写一个音程，你将被给出两个音中的第一个（低的）音，然后你将被告知要"
 "写的音程数；类似下面这样："
 
-#: TheoryHarmony.cpp:41
+#: TheoryHarmony.cpp:44
 msgid ""
 "If you're learning an instrument you've probably played some scales already, "
 "but you might have learnt to play them without thinking about the actual "
@@ -987,7 +1066,7 @@ msgstr ""
 "的时候并没有考虑实际的音符（你的手指帮你完成了思考！）。但是要了解音乐，学习"
 "和声，你需要了解什么是音阶以及如何构造音阶。"
 
-#: TheoryHarmony.cpp:89
+#: TheoryHarmony.cpp:92
 msgid ""
 "If you've ever wondered why we need notes like E sharp when F seems to be "
 "the same note, you'll see that we need them in keys like F sharp major!"
@@ -995,7 +1074,7 @@ msgstr ""
 "如果你不知道为什么我们需要升E或者F音符，而它们是同一个音符，你会发现我们需要"
 "在F大调中使用它们！"
 
-#: TheoryHarmony.cpp:377
+#: TheoryHarmony.cpp:410
 msgid ""
 "In both cadence types, authentic and plagal, other chords playing the same "
 "harmonic functions can be used. For example, in the authentic cadence the V "
@@ -1007,7 +1086,7 @@ msgstr ""
 "格终止式中，V（主音）可通过VII表现出来。在变格终止式中，IV（次主音）可以通过"
 "II表现。这些替代为终止式的的和声音色添加了更多的多样性。"
 
-#: TheoryHarmony.cpp:82
+#: TheoryHarmony.cpp:85
 msgid ""
 "In fact, all major scales follow the same pattern, so try to <b>remember it!"
 "</b> (tip: it is the pattern of white keys on the piano keyboard, starting "
@@ -1016,7 +1095,7 @@ msgstr ""
 "实际上，所有的大调音阶的模式均相同，所以尝试<b>记住它!</b>（提示：其遵循钢琴"
 "键盘上白键的模式，从C开始）。"
 
-#: TheoryHarmony.cpp:79
+#: TheoryHarmony.cpp:82
 msgid ""
 "In fact, what we need to know is the distance between each of the notes in "
 "the scale, measured in tones and semitones. Let's use again the piano "
@@ -1025,7 +1104,7 @@ msgstr ""
 "实际上，我们需要知道音阶中的每个音符之间的距离提供过全音和半音来度量。让我们"
 "再次使用钢琴键盘："
 
-#: TheoryHarmony.cpp:355
+#: TheoryHarmony.cpp:388
 msgid ""
 "In music, the term 'cadence' has several meanings. In harmony we are going "
 "to refer to a particular sequence of usually two chords whose function it is "
@@ -1042,7 +1121,7 @@ msgstr ""
 "呼吸和停顿的地方，它们用于构建音乐段落，同时也可以帮助建立调性。听下面三个和"
 "弦的例子："
 
-#: TheoryHarmony.cpp:77
+#: TheoryHarmony.cpp:80
 msgid ""
 "In the C major scale, both the first and the last notes are Cs, but how do "
 "we know what the in-between notes are?"
@@ -1050,7 +1129,7 @@ msgstr ""
 "在C大调音阶中，第一个和最后一个音均为C，但是我们如何知道两个音符之间包含哪些"
 "音符？"
 
-#: TheoryHarmony.cpp:250
+#: TheoryHarmony.cpp:253
 msgid ""
 "In the melodic minor scale, the sixth and seventh notes of the scale are "
 "each raised by one half step when going up the scale, but return to the "
@@ -1062,18 +1141,18 @@ msgstr ""
 "调。小调的旋律通常使用这一特定的临时记号的模式，因此你会发现在你的乐器上练习"
 "旋律小调音阶非常有用。"
 
-#: TheoryHarmony.cpp:403
+#: TheoryHarmony.cpp:436
 msgid ""
 "In this theme we just propose you some additional exercises to identify "
 "cadences, both aurally and in written music."
 msgstr ""
 "在这一主题中，我们提议你完成一些额外的练习来辨别终止式，通过听或者书面音乐。"
 
-#: TheoryHarmony.cpp:311
+#: TheoryHarmony.cpp:314
 msgid "Interval Numbers"
 msgstr "音程数"
 
-#: TheoryHarmony.cpp:294
+#: TheoryHarmony.cpp:297
 msgid "Intervals"
 msgstr "音程"
 
@@ -1085,18 +1164,18 @@ msgid ""
 "</ul>"
 msgstr ""
 
-#: TheoryHarmony.cpp:350
+#: TheoryHarmony.cpp:353
 msgid "Intervals' comparison"
 msgstr "音程比较"
 
-#: TheoryHarmony.cpp:113
+#: TheoryHarmony.cpp:116
 msgid ""
 "It is customary to refer to the scale degrees by Roman numerals as well as "
 "by name. You already know that the first note, the one that gives name to "
 "the scale, is called 'the tonic'. The other notes are named as follows:"
 msgstr "习惯使用罗马数字来指代音阶度。你已经知道第一个音符，音阶给予"
 
-#: TheoryHarmony.cpp:211
+#: TheoryHarmony.cpp:214
 msgid ""
 "It is easy to predict where the relative minor of a major key can be found. "
 "Notice that the pattern for minor scales overlaps the pattern for major "
@@ -1113,7 +1192,7 @@ msgstr ""
 "调的调号将不会相同。）小调音阶的模式起始于比大调模式低一个半音加一个全音的地"
 "方。"
 
-#: TheoryHarmony.cpp:199
+#: TheoryHarmony.cpp:202
 msgid ""
 "It is the scale of <b>A minor natural</b>. If we analyse it we will find the "
 "following pattern of tones and semitones (T=tone and S=semitone):"
@@ -1121,18 +1200,18 @@ msgstr ""
 "以下是<b>自然小调</b>音阶。如果我们分析它我们会发现以下半音和全音的模式（T=全"
 "音，S=半音）："
 
-#: TheoryHarmony.cpp:62
+#: TheoryHarmony.cpp:65
 msgid ""
 "It is the scale of <b>C major</b>, and it is an example of a diatonic scale. "
 "Most of the scales you will have played up to now will have been diatonic "
 "scales. They are the most common type of scale in Western classical music."
 msgstr "这是<b>C大调的音阶</b>，"
 
-#: TheoryHarmony.cpp:134
+#: TheoryHarmony.cpp:137
 msgid "Leading note"
 msgstr "导音"
 
-#: TheoryHarmony.cpp:348
+#: TheoryHarmony.cpp:351
 msgid ""
 "Lesson based on materials from <a-1>www.mymusictheory.com</a-1>. Copyright "
 "(c) Victoria K. Williams. Used here with her permission."
@@ -1140,39 +1219,39 @@ msgstr ""
 "以下课程基于<a-1>www.mymusictheory.com</a-1>中的资料。版权所有 © Victoria K. "
 "Williams。使用经过其本人许可。"
 
-#: TheoryHarmony.cpp:102
+#: TheoryHarmony.cpp:105
 msgid "Let's look at D major next:"
 msgstr "让我们接下来看看D大调："
 
-#: TheoryHarmony.cpp:239
+#: TheoryHarmony.cpp:242
 msgid ""
 "Let's look at two other examples: E minor harmonic and D minor harmonic. "
 "Look carefully at how many semitones there are between each note."
 msgstr "让我们看看其他的两个例子：和声A小调和和声D小调。仔细"
 
-#: TheoryHarmony.cpp:61
+#: TheoryHarmony.cpp:64
 msgid ""
 "Let's play all note names along one octave, starting on C. We will get the "
 "notes C-D-E-F-G-B-A-C:"
 msgstr ""
 "让我们来依次弹奏一个八度中的所有音符名，从C开始。我们将得到C-D-E-F-G-A-B-C："
 
-#: TheoryHarmony.cpp:246
+#: TheoryHarmony.cpp:249
 msgid "Let's see two more examples, E minor melodic and D minor melodic:"
 msgstr "让我们再看两个例子，旋律E小调和旋律D小调："
 
-#: TheoryHarmony.cpp:236
+#: TheoryHarmony.cpp:239
 msgid ""
 "Let's start by building a scale of A minor harmonic ascending (going up):"
 msgstr "让我们从构建一个上升和声A小调开始（向上）："
 
-#: TheoryHarmony.cpp:43
+#: TheoryHarmony.cpp:46
 msgid ""
 "Let's start learning about the 'bricks' for building scales: <b>tones</b> "
 "and <b>semitones</b>."
 msgstr "让我们来学习创建音阶的“砖块”：<b>全音</b> and <b>半音</b>"
 
-#: TheoryHarmony.cpp:240
+#: TheoryHarmony.cpp:243
 msgid ""
 "Let's write again the E minor harmonic and D minor harmonic but using key "
 "signatures. It's easy to see that <b>the harmonic minor scale raises the "
@@ -1181,7 +1260,7 @@ msgstr ""
 "让我们重写和声E小调和和声D小调，但是使用调号。很容易看到<b>和声小调音阶和自然"
 "音阶相比第七个音上升了半个音阶</b>:"
 
-#: TheoryHarmony.cpp:247
+#: TheoryHarmony.cpp:250
 msgid ""
 "Let's write again the E minor melodic and D minor melodic but using key "
 "signatures. It's easy to see that <b>the sixth and seventh notes of the "
@@ -1191,7 +1270,7 @@ msgstr ""
 "让我们使用调号重写旋律E小调和旋律D小调。很容易看到<b>向上时音阶的第6个和第7个"
 "音符上升半个音阶，向下时变回自然小调音阶</b>:"
 
-#: TheoryHarmony.cpp:87
+#: TheoryHarmony.cpp:90
 msgid "Let's write again the G Major and F# Major but using key signatures:"
 msgstr "让我们再写一遍G大调和F#大调，但是使用调号："
 
@@ -1199,7 +1278,7 @@ msgstr "让我们再写一遍G大调和F#大调，但是使用调号："
 msgid "Licensed under the Creative Commons Attribution/Share-Alike License;"
 msgstr "满足GNU自由文档许可证1.3版的条款"
 
-#: TheoryHarmony.cpp:184
+#: TheoryHarmony.cpp:187
 msgid ""
 "Listen to this tune in G major and in D major. The music may look quite "
 "different, but the only difference when you listen is that one sounds higher "
@@ -1217,19 +1296,19 @@ msgstr ""
 "大多数是因为不同的音符由不同的乐器或者声音表现出的音色不同。但是如今，选择某"
 "一个特殊的音调的最常见的原因只是那个调的音乐更容易演唱或者演奏。"
 
-#: TheoryHarmony.cpp:76
+#: TheoryHarmony.cpp:79
 msgid "Major Scales"
 msgstr "大音阶"
 
-#: TheoryHarmony.cpp:122
+#: TheoryHarmony.cpp:125
 msgid "Mediant"
 msgstr "中音"
 
-#: TheoryHarmony.cpp:305
+#: TheoryHarmony.cpp:308
 msgid "Melodic and Harmonic Intervals"
 msgstr "旋律音程和和声音程"
 
-#: TheoryHarmony.cpp:310
+#: TheoryHarmony.cpp:313
 msgid ""
 "Melodic intervals are read horizontally and are found in melodies, whereas "
 "harmonic intervals are read vertically, and are found in chords. But, in any "
@@ -1238,27 +1317,27 @@ msgstr ""
 "旋律音程是水平着读，可以在旋律中发现，然而和声音程是垂直着读，可以在和弦中发"
 "现。但是，在任何情况下，它们的命名方式都相同。"
 
-#: TheoryHarmony.cpp:234
+#: TheoryHarmony.cpp:237
 msgid "Minor harmonic scales"
 msgstr "和声小调音阶"
 
-#: TheoryHarmony.cpp:241
+#: TheoryHarmony.cpp:244
 msgid "Minor melodic scales"
 msgstr "旋律小调音阶"
 
-#: TheoryHarmony.cpp:22 TheoryHarmony.cpp:197
+#: TheoryHarmony.cpp:22 TheoryHarmony.cpp:200
 msgid "Minor natural scales"
 msgstr "自然小调"
 
-#: TheoryHarmony.cpp:181
+#: TheoryHarmony.cpp:184
 msgid "Music in different major keys"
 msgstr "其他不同大调"
 
-#: TheoryHarmony.cpp:203
+#: TheoryHarmony.cpp:206
 msgid "Music in minor keys"
 msgstr "小调音乐"
 
-#: TheoryHarmony.cpp:204
+#: TheoryHarmony.cpp:207
 msgid ""
 "Music in minor keys has a different sound and emotional feel than music that "
 "is in a major key. Music in a major key sounds bright and cheerful while "
@@ -1268,7 +1347,7 @@ msgstr ""
 "小调的音乐和大调音乐的声音体现的情感不同。大调音乐听起来更加明亮且令人愉快，"
 "然而小调音乐有时会被描述为听起来更加严肃，悲伤，充满神秘气息或者不吉利的。"
 
-#: TheoryHarmony.cpp:249
+#: TheoryHarmony.cpp:252
 msgid ""
 "Music in minor keys is usually described as sad, mysterious, solemn, or "
 "ominous. When using the minor natural scale the music has also and ancient "
@@ -1283,7 +1362,7 @@ msgstr ""
 "个音符提升半个音程，音乐家发现和声使音乐听起来更强调基音从而避免音乐的“中世"
 "纪”感（我们会在进阶课程中学习到）"
 
-#: TheoryHarmony.cpp:248
+#: TheoryHarmony.cpp:251
 msgid "Music in minor scales"
 msgstr "小调音阶"
 
@@ -1300,27 +1379,27 @@ msgstr ""
 "一些文字是必须的，我没有太多的时间写文字，而写电子书往往需要花费很多时间，因"
 "此我觉得每写完一课就发布一课，而不是等整本书写完再发布。"
 
-#: TheoryHarmony.cpp:95
+#: TheoryHarmony.cpp:98
 msgid ""
 "Next we meet our first semitone: A. (There is nothing we can squeeze in "
 "between #G and A)."
 msgstr "接下来是第一个半音：A。（#G和A中没有其他的音符）。"
 
-#: TheoryHarmony.cpp:192
+#: TheoryHarmony.cpp:195
 msgid ""
 "Not noticing whether the question asks for a <b>key signature</b> or "
 "<b>accidentals</b>."
 msgstr "没有留意问题是要求使用<b>调号</b>还是<b>临时记号</b>。"
 
-#: TheoryHarmony.cpp:191
+#: TheoryHarmony.cpp:194
 msgid "Not using a <b>different</b> letter name for each note."
 msgstr "不为每个音符使用<b>不同的</b>字母。"
 
-#: TheoryHarmony.cpp:49 TheoryHarmony.cpp:51
+#: TheoryHarmony.cpp:52 TheoryHarmony.cpp:54
 msgid "Nothing possible here!"
 msgstr "这没什么可能！"
 
-#: TheoryHarmony.cpp:307
+#: TheoryHarmony.cpp:310
 msgid ""
 "Notice that the words 'harmonic' and 'melodic' used to describe intervals "
 "has nothing to do with its meaning when we use them to talk about harmonic "
@@ -1329,12 +1408,12 @@ msgstr ""
 "主音“和声”和“旋律”两个词用于形如音程时和形容和声和旋律小调音阶时的意义完全不"
 "同。"
 
-#: TheoryHarmony.cpp:50
+#: TheoryHarmony.cpp:53
 msgid ""
 "Now find A and B flat. The distance between A and B flat is also a semitone."
 msgstr "找到A和降B。A和降B之间的距离是一个半音程。"
 
-#: TheoryHarmony.cpp:357
+#: TheoryHarmony.cpp:390
 msgid ""
 "Now the sensation is not conclusive. It is more like a short pause and it "
 "creates an expectation of continuation. If we end the music piece at the "
@@ -1343,7 +1422,7 @@ msgstr ""
 "现在感觉不够有决定性。更像是一个短暂的暂停，并且它创造出一种继续的感觉。如果"
 "我们在最后一个和弦中结束了音乐，听者会渴望听到更多。"
 
-#: TheoryHarmony.cpp:326
+#: TheoryHarmony.cpp:329
 msgid ""
 "Now the wrong way. Starting on the first note (G), we count the letter names "
 "to the second note (C), G-A-B-C =4, which gives us a 4th. This is the wrong "
@@ -1352,13 +1431,21 @@ msgstr ""
 "下面是作物的方法。从高的音（G）开始数音程，我们数到第二个音符（C）的音名，G-"
 "A-B-C=4，得到4度。这是错误的答案！"
 
-#: TheoryHarmony.cpp:88
+#: TheoryHarmony.cpp:91
 msgid ""
 "Observe that if you write a major scale with its key signature <b>there are "
 "no accidentals to add!</b>"
 msgstr "如果你写一个大调音阶是用到调号<b>那么就不需要加临时记号！</b>"
 
-#: TheoryHarmony.cpp:78
+#: TheoryHarmony.cpp:376
+msgid ""
+"Obviously, any chord can be built on any of the 12 notes of the chromatic "
+"scale and, depending on the tonality in which we are, the chord will have "
+"the range that expresses its root note: 1st degree (I - tonic); 4th degree "
+"(IV - subdominant); 5th degree (V - dominant), etc."
+msgstr ""
+
+#: TheoryHarmony.cpp:81
 msgid ""
 "On the piano, a C major scale uses all the white notes (so it doesn't have "
 "any sharps or flats), but on other instruments, we don't have white notes, "
@@ -1367,7 +1454,7 @@ msgstr ""
 "在钢琴上，C大调音阶使用所有的白键（因此它不包含任何升号或讲好），但在其他的乐"
 "器上，我们没有白键，那么我们怎么知道弹奏哪个音符呢？"
 
-#: TheoryHarmony.cpp:243
+#: TheoryHarmony.cpp:246
 msgid ""
 "On the way up (ascending), the sixth and seventh degrees of the scale are "
 "each raised by one half step, creating the pattern <b>T-S-T-T-T-T-S</b>, but "
@@ -1377,7 +1464,7 @@ msgstr ""
 "向上（上升）的时候，音阶的第6和第7度每个上升了半个音阶，模式为<b>T-S-T-T-T-T-"
 "S</b>，但是向下的时候，其模式是自然小调：<b>T-T-S-T-T-S-T</b>。"
 
-#: TheoryHarmony.cpp:402
+#: TheoryHarmony.cpp:435
 msgid ""
 "Once you have reviewed all cadence types it is important to learn to "
 "recognize and identify them. A useful trick is to associate each cadence "
@@ -1388,7 +1475,7 @@ msgstr ""
 "方法是将每个终止式和一段你熟知的旋律或者歌曲联系起来。在你听音乐的时候练习辨"
 "别终止式。"
 
-#: TheoryHarmony.cpp:340
+#: TheoryHarmony.cpp:343
 msgid ""
 "One interval is a bit more awkward to write than the others, and that is the "
 "harmonic 2nd. Harmonic intervals are written directly above the given note, "
@@ -1400,11 +1487,21 @@ msgstr ""
 "音符下方写，但是二度音程直接写起来非常靠近，因此我们会把它稍微向一边移一下。"
 "如果你直接在上方写，写出来的内容将很难读："
 
-#: TheoryHarmony.cpp:342
+#: TheoryHarmony.cpp:364
+#, fuzzy
+msgid "Perfect major"
+msgstr "完全！"
+
+#: TheoryHarmony.cpp:367
+#, fuzzy
+msgid "Perfect minor"
+msgstr "完全！"
+
+#: TheoryHarmony.cpp:345
 msgid "Perfect!"
 msgstr "完全！"
 
-#: TheoryHarmony.cpp:37
+#: TheoryHarmony.cpp:40
 msgid ""
 "Permission is granted to copy, distribute and/or modify this book under the "
 "terms of the Creative Commons Attribution-Share-Alike License 3.0, with the "
@@ -1432,15 +1529,15 @@ msgstr ""
 "和版权</a-1>页中。许可文档可以在<a-2> http://creativecommons.org/licenses/by-"
 "sa/3.0/</a-2>中获得。"
 
-#: TheoryHarmony.cpp:375
+#: TheoryHarmony.cpp:408
 msgid "Plagal cadences"
 msgstr "变格终止"
 
-#: TheoryHarmony.cpp:85
+#: TheoryHarmony.cpp:88
 msgid ""
 "Play both scales and listen. You will notice that both sound 'similar' and "
-"remains you the C major scale: the scale formed by all note names <b>without "
-"accidentals</b>. But, wait!. G major and F# major <b>do have</b> "
+"reminds you of the C major scale: the scale formed by all note names "
+"<b>without accidentals</b>. But, wait!. G major and F# major <b>do have</b> "
 "accidentals. How is that they sound 'similar' if we have introduced new "
 "different sounds?"
 msgstr ""
@@ -1448,7 +1545,7 @@ msgstr ""
 "<b>不包含临时记号</b>而构成。但是，G大调和F#大调<b>包含</b>临时记号。如果我们"
 "介绍了新的不同的音，它们是如何听起来“相似”的？"
 
-#: TheoryHarmony.cpp:64
+#: TheoryHarmony.cpp:67
 msgid "Play the two following scores"
 msgstr "播放下面两个乐谱"
 
@@ -1456,7 +1553,7 @@ msgstr "播放下面两个乐谱"
 msgid "Presentation"
 msgstr "介绍"
 
-#: TheoryHarmony.cpp:349
+#: TheoryHarmony.cpp:352
 msgid "Recognize intervals on a score"
 msgstr "乐谱中辨别音程。"
 
@@ -1464,11 +1561,11 @@ msgstr "乐谱中辨别音程。"
 msgid "References"
 msgstr "参考资料"
 
-#: TheoryHarmony.cpp:209
+#: TheoryHarmony.cpp:212
 msgid "Relative minor and major keys"
 msgstr "相对小调和大调"
 
-#: TheoryHarmony.cpp:336
+#: TheoryHarmony.cpp:339
 msgid ""
 "Remember that we start counting on the lower note, which is F in our "
 "example. We've been told to write a 7th, so we count seven notes upwards: F, "
@@ -1479,13 +1576,13 @@ msgstr ""
 "们向上数8个音：F，G，A和降B，C，D，E。第七个音符是E，因此我们需要写的音符是"
 "E。"
 
-#: TheoryHarmony.cpp:107
+#: TheoryHarmony.cpp:110
 msgid ""
 "Remember, we can't use A sharp instead of B flat, because we've already got "
 "an A in the scale."
 msgstr "记住，我们不能使用升A代替降B，因为我们已经在音阶中有一个A。"
 
-#: TheoryHarmony.cpp:38 TheoryHarmony.cpp:40
+#: TheoryHarmony.cpp:41 TheoryHarmony.cpp:43
 msgid "Scales"
 msgstr "音程"
 
@@ -1502,7 +1599,7 @@ msgid ""
 "</ul>"
 msgstr ""
 
-#: TheoryHarmony.cpp:109
+#: TheoryHarmony.cpp:112
 msgid ""
 "Scales can be written going up or going down. Scales which go up are called "
 "'ascending', and scales which go down are 'descending'. When we write a "
@@ -1513,18 +1610,18 @@ msgstr ""
 "为“下降音阶”。当我们写一个下降音阶时，全音和半音的模式是相反地，S-T-T-T-S-T-"
 "T，而不是T-T-S-T-T-T-S。"
 
-#: TheoryHarmony.cpp:225 TheoryHarmony.cpp:227 TheoryHarmony.cpp:229
-#: TheoryHarmony.cpp:260 TheoryHarmony.cpp:262 TheoryHarmony.cpp:264
-#: TheoryHarmony.cpp:282 TheoryHarmony.cpp:284 TheoryHarmony.cpp:286
-#: TheoryHarmony.cpp:288 TheoryHarmony.cpp:290 TheoryHarmony.cpp:292
+#: TheoryHarmony.cpp:228 TheoryHarmony.cpp:230 TheoryHarmony.cpp:232
+#: TheoryHarmony.cpp:263 TheoryHarmony.cpp:265 TheoryHarmony.cpp:267
+#: TheoryHarmony.cpp:285 TheoryHarmony.cpp:287 TheoryHarmony.cpp:289
+#: TheoryHarmony.cpp:291 TheoryHarmony.cpp:293 TheoryHarmony.cpp:295
 msgid "Scales' identification"
 msgstr "音阶识别"
 
-#: TheoryHarmony.cpp:44
+#: TheoryHarmony.cpp:47
 msgid "Semitones"
 msgstr "半音"
 
-#: TheoryHarmony.cpp:19 TheoryHarmony.cpp:39
+#: TheoryHarmony.cpp:19 TheoryHarmony.cpp:42
 msgid "Semitones. The chromatic scale"
 msgstr "半音。半音音阶。"
 
@@ -1532,7 +1629,7 @@ msgstr "半音。半音音阶。"
 msgid "Send your comments and suggestions to the LenMus team (www.lenmus.org)"
 msgstr "给LenMus团队（www.lenmus.org）提意见和建议"
 
-#: TheoryHarmony.cpp:35
+#: TheoryHarmony.cpp:37
 msgid ""
 "Some texts have been taken from Catherine Schmidt-Jones music theory lessons "
 "at 'Connexions' ( <a-1>http://cnx.org/content/col10208/latest/</a-1>). Her "
@@ -1543,19 +1640,19 @@ msgstr ""
 "org/content/col10208/latest/</a-1>）。她的作品满足知识共享条款（CC-BY 1.0），"
 "是开源的教学资源。"
 
-#: TheoryHarmony.cpp:323
+#: TheoryHarmony.cpp:326
 msgid "Starting on the higher note: a very common mistake!"
 msgstr "从高的音开始：一个常见的错误！"
 
-#: TheoryHarmony.cpp:125
+#: TheoryHarmony.cpp:128
 msgid "Sub-dominant"
 msgstr "次主音"
 
-#: TheoryHarmony.cpp:131
+#: TheoryHarmony.cpp:134
 msgid "Sub-mediant"
 msgstr "次中音"
 
-#: TheoryHarmony.cpp:119
+#: TheoryHarmony.cpp:122
 msgid "Supertonic"
 msgstr "上主音"
 
@@ -1563,17 +1660,17 @@ msgstr "上主音"
 msgid "Table of content"
 msgstr "目录表"
 
-#: TheoryHarmony.cpp:84
+#: TheoryHarmony.cpp:87
 msgid ""
 "Take paper and pencil, copy those scales, and find the pattern of tones and "
 "semitones."
 msgstr "拿出纸和笔，抄写这些音阶，查看全音和半音的模式。"
 
-#: TheoryHarmony.cpp:29 TheoryHarmony.cpp:364
+#: TheoryHarmony.cpp:31 TheoryHarmony.cpp:397
 msgid "Terminal cadences"
 msgstr "末端终止式"
 
-#: TheoryHarmony.cpp:365
+#: TheoryHarmony.cpp:398
 msgid ""
 "Terminal cadences create a sensation of stability and conclusion of the "
 "musical phrase or sentence. This feeling is achieved by moving to the tonic "
@@ -1585,13 +1682,22 @@ msgstr ""
 "他的和弦级移至基音级（第I级）得到。取决于开始的和弦级，有两种类型的终止式被认"
 "为是这样的：<a-1>正格终止式</a-1>和<a-2>变格终止式</a-2>。"
 
+#: TheoryHarmony.cpp:377
+msgid ""
+"Tetra chords are also formed by overlapping thirds, and the fouth note forms "
+"a 7th that is dissonant with the root. They are known as 'seventh "
+"chords' (which can be major, minor, etc.). The dissonace introduces dynamism "
+"and tension in the harmony that tends to resolve over the tonic chord or "
+"another chord that does not contain dissonance."
+msgstr ""
+
 #: TheoryHarmony.cpp:14
 msgid ""
 "The 'Theory and harmony' eBook is not yet finished and, currently, it is "
 "just a collection of lessons on music theory."
 msgstr "“乐理与和声”电子书还没未完成，目前它只是音乐理论的一些课程的集合。"
 
-#: TheoryHarmony.cpp:216
+#: TheoryHarmony.cpp:219
 msgid ""
 "The C major and C minor scales start on the same note, but have different "
 "key signatures. C minor and E flat major start on different notes, but have "
@@ -1600,7 +1706,7 @@ msgstr ""
 "C大调音阶和C小调音阶从同一个音开始，但是调号不同。C小调和降E大调开始的音符不"
 "同，但是有相同的调号。C小调是降E大调的相对小调。"
 
-#: TheoryHarmony.cpp:86
+#: TheoryHarmony.cpp:89
 msgid ""
 "The answer is in the pattern of tones and semitones. <b>What our brain is "
 "recognizing is this pattern of sound intervals! And that is what "
@@ -1610,7 +1716,7 @@ msgstr ""
 "答案在全音和半音的模式中。<b>我们的大脑是如何辨别这一声音间隔的模式的！以及是"
 "什么特性定义一音阶。</b>对大调音阶而言模式是T-T-S-T-T-T-S。记住！"
 
-#: TheoryHarmony.cpp:208
+#: TheoryHarmony.cpp:211
 msgid ""
 "The answer is in two details: they have a different tonal center (C in C "
 "major and A in A minor) and although both scales share the same notes, the "
@@ -1623,7 +1729,7 @@ msgstr ""
 "个音阶的音符相同，小调音阶的全音和半音的模式不同，因此彼此之间的关系不一样；"
 "因此围绕它们的（不同的）主音而构建的和谐度和弦进程造成了这一不同。"
 
-#: TheoryHarmony.cpp:393
+#: TheoryHarmony.cpp:426
 msgid ""
 "The deceptive cadence is considered a weak cadence because of the 'surprise' "
 "and 'hanging' feelings it invokes. Therefore, it is never used to end a "
@@ -1637,7 +1743,7 @@ msgstr ""
 "而带来了多样性和意外感。当在音乐的结尾处使用时，它能够在最后正格终止的时候维"
 "持一种对音乐的期待。"
 
-#: TheoryHarmony.cpp:46
+#: TheoryHarmony.cpp:49
 msgid ""
 "The first thing to notice is that, as said, we have twelve notes within an "
 "octave, represented by seven white keys and five black keys. But only seven "
@@ -1652,11 +1758,11 @@ msgstr ""
 "一个C，为下一个八度的开始。你需要使用一个升号或者降号来命名钢琴黑键表示的其他"
 "音符。白键上的音符为 <b>自然音</b>。黑键则需要使用升号或者降号来表示。"
 
-#: TheoryHarmony.cpp:314
+#: TheoryHarmony.cpp:317
 msgid "The following score shows some examples of intervals within one octave:"
 msgstr "接下来的乐谱展示了一个八度中的音程的一些例子："
 
-#: TheoryHarmony.cpp:235
+#: TheoryHarmony.cpp:238
 msgid ""
 "The harmonic minor scale raises the seventh note of the natural scale by one "
 "half step, whether you are going up or down the scale. Therefore, harmonic "
@@ -1667,11 +1773,11 @@ msgstr ""
 "此，和声小调音阶的模式是T - S - T - T - S - 3S - S（T=全音（或一个音阶），S="
 "半音（或”半个音阶“），”3S“=三个半音）。"
 
-#: TheoryHarmony.cpp:105
+#: TheoryHarmony.cpp:108
 msgid "The last scale we will look at is F major:"
 msgstr "我们会学习的最后一个是F大调："
 
-#: TheoryHarmony.cpp:45
+#: TheoryHarmony.cpp:48
 msgid ""
 "The minimum distance between two pitches that we will consider in the "
 "Western musical tradition is called a <b>semitone</b>, also named <b>half "
@@ -1680,7 +1786,13 @@ msgstr ""
 "在西方音乐中，两个音之间的最小距离被称为<b>半音程</b>，也被称为<b>半音</b>。"
 "让我们在钢琴键盘上举几个例子。"
 
-#: TheoryHarmony.cpp:60
+#: TheoryHarmony.cpp:379
+msgid ""
+"The most 'powerful' tetra chord is the one whose root note is the V degree. "
+"It is known as 'dominant 7th' chord, and it contains a minor seventh."
+msgstr ""
+
+#: TheoryHarmony.cpp:63
 msgid ""
 "The most important scales are the <b>diatonic</b> scales. A diatonic scale "
 "has seven notes and each of those notes is given different letter name, A-G."
@@ -1688,7 +1800,7 @@ msgstr ""
 "最重要的音阶是<b>全</b>音阶。全音阶包含7个音符，且每个音符都有一个不同的字母"
 "名，从A——G。"
 
-#: TheoryHarmony.cpp:93
+#: TheoryHarmony.cpp:96
 msgid ""
 "The next note we need, as you can see from the pattern T-T-S-T-T-T-S, is a "
 "tone higher than E. The note which is a tone higher than E is <b>F sharp</"
@@ -1697,21 +1809,21 @@ msgstr ""
 "我们需要的下一个音符，你可以再在模式T-T-S-T-T-T-S中看到，是比E更高的一个全"
 "音。"
 
-#: TheoryHarmony.cpp:200
+#: TheoryHarmony.cpp:203
 msgid "The pattern is <b>T-S-T-T-S-T-T</b>."
 msgstr "其模式是<b>T-S-T-T-S-T-T</b>"
 
-#: TheoryHarmony.cpp:81
+#: TheoryHarmony.cpp:84
 msgid "The pattern is <b>T-T-S-T-T-T-S</b>."
 msgstr "该模式为：<b>T-T-S-T-T-T-S</b>"
 
-#: TheoryHarmony.cpp:374
+#: TheoryHarmony.cpp:407
 msgid ""
 "The perfect cadence is usually found at the end of a piece of music and the "
 "end of significant sections."
 msgstr "完全终止式通常出现在音乐的结束处以及重要部分的结尾处。"
 
-#: TheoryHarmony.cpp:232
+#: TheoryHarmony.cpp:235
 msgid ""
 "The scales studied in previous lesson are natural minor scales. They contain "
 "only the notes in the minor key signature and are built on pattern T-S-T-T-S-"
@@ -1720,7 +1832,7 @@ msgstr ""
 "之前的课程中学习的音阶属于自然小调音阶。它们不仅包含小调中的音阶，并且满足模"
 "式T-S-T-T-S-T-T。"
 
-#: TheoryHarmony.cpp:187
+#: TheoryHarmony.cpp:190
 msgid ""
 "The simple, sing-along, nursery rhymes and folk songs we learn as children; "
 "the 'catchy' tunes used in advertising jingles; the cheerful, toe-tapping "
@@ -1733,7 +1845,7 @@ msgstr ""
 "数大调音乐的旋律都很明亮，通常被人们形容成快乐的，鼓舞人心的，令人兴奋的或者"
 "就是很有趣。"
 
-#: TheoryHarmony.cpp:313
+#: TheoryHarmony.cpp:316
 msgid ""
 "The smallest interval we can consider is the interval between two identical "
 "notes - e.g. E and E. This interval is called a 'unison'. We can also say "
@@ -1742,7 +1854,7 @@ msgstr ""
 "最小的音程是两个相同的音符之间的音程——例如，E和E。该音程被称为“同音”。同样我"
 "们可以会所两个音符“完全一致”。"
 
-#: TheoryHarmony.cpp:94
+#: TheoryHarmony.cpp:97
 msgid ""
 "The third note is, again, a tone up. From F sharp, the next tone up is G "
 "sharp, (we can squeeze G in between them)."
@@ -1754,31 +1866,38 @@ msgstr ""
 msgid "Theory and harmony"
 msgstr "乐理与和声"
 
-#: TheoryHarmony.cpp:273
+#: TheoryHarmony.cpp:276
 msgid "Theory exercises"
 msgstr "理论练习"
 
-#: TheoryHarmony.cpp:382
+#: TheoryHarmony.cpp:415
 msgid "Theory: Identify if a terminal cadence is authentic perfect or plagal."
 msgstr "理论：辨别终端终止式是正格还是变格终止式。"
 
-#: TheoryHarmony.cpp:398
+#: TheoryHarmony.cpp:431
 msgid ""
 "Theory: Identify if a transient cadence is a half cadence or a deceptive "
 "cadence."
 msgstr "理论：辨别瞬态终止式半终止还是伪终止。"
 
-#: TheoryHarmony.cpp:228 TheoryHarmony.cpp:230 TheoryHarmony.cpp:263
-#: TheoryHarmony.cpp:265 TheoryHarmony.cpp:287 TheoryHarmony.cpp:289
-#: TheoryHarmony.cpp:291 TheoryHarmony.cpp:293
+#: TheoryHarmony.cpp:231 TheoryHarmony.cpp:233 TheoryHarmony.cpp:266
+#: TheoryHarmony.cpp:268 TheoryHarmony.cpp:290 TheoryHarmony.cpp:292
+#: TheoryHarmony.cpp:294 TheoryHarmony.cpp:296
 msgid "Theory: Identify the scale shown"
 msgstr "理论：辨别已显示的音阶"
 
-#: TheoryHarmony.cpp:412
+#: TheoryHarmony.cpp:445
 msgid "Theory: identify the type of cadence."
 msgstr "理论：辨别终止式类型。"
 
-#: TheoryHarmony.cpp:54
+#: TheoryHarmony.cpp:363
+msgid ""
+"There are four different types of triad chords: perfect major, perfect "
+"minor, augmented fifth and diminished fifth. Next we show you them built on "
+"the C note and indicating their composition."
+msgstr ""
+
+#: TheoryHarmony.cpp:57
 msgid ""
 "There are no different types of chromatic scales. Either, we don't talk "
 "about chromatic scales as being in a particular key; we just talk about the "
@@ -1787,7 +1906,7 @@ msgstr ""
 "半音音阶没有不同的类型。我们不会说半音音阶在一个特别的调上。我们只会谈论它开"
 "始的音符，它可以从任何音符开始。"
 
-#: TheoryHarmony.cpp:373
+#: TheoryHarmony.cpp:406
 msgid ""
 "There are theoretical discussions about considering the imperfect cadence as "
 "a terminal cadence. Nevertheless, we have opted to include it in the "
@@ -1796,11 +1915,11 @@ msgstr ""
 "这里有将不完全终止式当做终端终止式的理论讨论。然而，我们根据响亮度的考虑将它"
 "归入完全组中。"
 
-#: TheoryHarmony.cpp:331
+#: TheoryHarmony.cpp:334
 msgid "There are two important steps to follow when you write intervals."
 msgstr "当你写音程时，有以下两步需要遵循。"
 
-#: TheoryHarmony.cpp:67
+#: TheoryHarmony.cpp:70
 msgid ""
 "There are two main types of diatonic scales: major and minor. And you need "
 "to know how to recognize, write and play all of them. We will learn about "
@@ -1809,7 +1928,7 @@ msgstr ""
 "全音阶有两种主要形式：大调和小调。你需要知道如何辨别，写以及弹奏它们。我们将"
 "在下一课中学习大调音阶。"
 
-#: TheoryHarmony.cpp:233
+#: TheoryHarmony.cpp:236
 msgid ""
 "There are two other kinds of minor scales that are commonly used: the minor "
 "harmonic and the minor melodic scales. We are going to study them in this "
@@ -1818,7 +1937,7 @@ msgstr ""
 "还有其它两类常被使用的小调音阶：和声小调和旋律小调音阶。我们将在本课中学习它"
 "们。"
 
-#: TheoryHarmony.cpp:300
+#: TheoryHarmony.cpp:303
 msgid ""
 "Therefore, I encourage you to study intervals and do all proposed exercises "
 "until you master recognition of intervals, both aurally and on written music."
@@ -1826,7 +1945,7 @@ msgstr ""
 "因此，我鼓励你学习音阶并且完成以下建议的所有练习，直到你在听音和看谱方面都了"
 "解了音程。"
 
-#: TheoryHarmony.cpp:135
+#: TheoryHarmony.cpp:138
 msgid ""
 "These technical names are worked out from ascending scales. For example, in "
 "C major ascending, the second note we write is D, so D is the supertonic in "
@@ -1842,7 +1961,7 @@ msgstr ""
 msgid "This lesson is based on materials from:"
 msgstr "本课程基于的材料来自："
 
-#: TheoryHarmony.cpp:312
+#: TheoryHarmony.cpp:315
 msgid ""
 "To find the number of an interval, first find the note names of the two "
 "notes, (ignore any sharps and flats for now), and count the letter names, "
@@ -1853,7 +1972,7 @@ msgstr ""
 "名，从五线谱上的最低的音符开始，（如果是旋律音程，它可以是五线谱上的第一个或"
 "者第二个音符）。"
 
-#: TheoryHarmony.cpp:70
+#: TheoryHarmony.cpp:73
 msgid ""
 "To understand how to build diatonic scales you need to know what is a "
 "<b>tone</b>. In <a-2>a previous lesson</a-2> we've learnt about semitones or "
@@ -1862,15 +1981,15 @@ msgstr ""
 "要理解如何构建全音阶，你需要知道什么是 <b>全音程</b>。在<a-2>前一课</a-2>中，"
 "我们学习了半音程或叫半音阶。现在我们将学习音调：一个全音程就是两个半音程。"
 
-#: TheoryHarmony.cpp:185
+#: TheoryHarmony.cpp:188
 msgid "Tonal center"
 msgstr "主调"
 
-#: TheoryHarmony.cpp:69
+#: TheoryHarmony.cpp:72
 msgid "Tones"
 msgstr "全音程"
 
-#: TheoryHarmony.cpp:68
+#: TheoryHarmony.cpp:71
 msgid "Tones. Major scales"
 msgstr "全音程。大调音阶。"
 
@@ -1878,15 +1997,15 @@ msgstr "全音程。大调音阶。"
 msgid "Tones.Major scales"
 msgstr "调式。大调音阶"
 
-#: TheoryHarmony.cpp:116
+#: TheoryHarmony.cpp:119
 msgid "Tonic"
 msgstr "主音"
 
-#: TheoryHarmony.cpp:30 TheoryHarmony.cpp:385
+#: TheoryHarmony.cpp:32 TheoryHarmony.cpp:418
 msgid "Transient cadences"
 msgstr "瞬态终止式"
 
-#: TheoryHarmony.cpp:386
+#: TheoryHarmony.cpp:419
 msgid ""
 "Transient cadences are not conclusive. They create a sensation of tension "
 "and unstability and an expectation of continuation. They are more like a "
@@ -1902,34 +2021,41 @@ msgid ""
 "Translated to #REPLACE BY YOUR LANGUAGE NAME# by #REPLACE BY YOUR NAME#."
 msgstr "#中文#翻译版本译自#卢文汐#"
 
-#: TheoryHarmony.cpp:319
+#: TheoryHarmony.cpp:359
+msgid ""
+"Triad chords are formed by superimposing thirds on a note that we call the "
+"'root' note. The second note forms on it a 3rd and the third note forms a "
+"5th."
+msgstr ""
+
+#: TheoryHarmony.cpp:322
 msgid "Unison"
 msgstr "同音"
 
-#: TheoryHarmony.cpp:195
+#: TheoryHarmony.cpp:198
 msgid ""
 "Using the wrong note value - usually you are asked to use <b>whole notes</b> "
 "(semibreves)."
 msgstr "使用了错误的音符值——通常你被要求使用<b>全音符</b>（全音符）。"
 
-#: TheoryHarmony.cpp:127 TheoryHarmony.cpp:141
+#: TheoryHarmony.cpp:130 TheoryHarmony.cpp:144
 msgid "V"
 msgstr "V"
 
-#: TheoryHarmony.cpp:130 TheoryHarmony.cpp:142
+#: TheoryHarmony.cpp:133 TheoryHarmony.cpp:145
 msgid "VI"
 msgstr "VI"
 
-#: TheoryHarmony.cpp:133 TheoryHarmony.cpp:143
+#: TheoryHarmony.cpp:136 TheoryHarmony.cpp:146
 msgid "VII"
 msgstr "VII"
 
-#: TheoryHarmony.cpp:258
+#: TheoryHarmony.cpp:261
 msgid ""
 "Victoria K. Williams music theory lessons. <a-1>www.mymusictheory.com</a-1>"
 msgstr "Victoria K. Williams音乐理论课程。<a-1>www.mymusictheory.com</a-1> "
 
-#: TheoryHarmony.cpp:99
+#: TheoryHarmony.cpp:102
 msgid ""
 "We already know how to build any other major scale. And we already know C "
 "major (all notes, no accidentals). For level 1 you will have to know three "
@@ -1939,7 +2065,7 @@ msgstr ""
 "降号）。第一级中你将会学习其他三个音阶：G大调，F大调，和D大调。让我们从G大调"
 "开始。"
 
-#: TheoryHarmony.cpp:91
+#: TheoryHarmony.cpp:94
 msgid ""
 "We already know that all major scales follow the same pattern <b>T-T-S-T-T-T-"
 "S</b>. Therefore, it is easy to build any major scale. As an example, we'll "
@@ -1948,7 +2074,7 @@ msgstr ""
 "我们已经知道，所有的大调音阶遵循相同的模式<b>T-T-S-T-T-T-S</b>。因此，构建大"
 "调非常简单。例如，我们可以构建一个E大调。"
 
-#: TheoryHarmony.cpp:306
+#: TheoryHarmony.cpp:309
 msgid ""
 "We can measure the distance between two notes which are played together at "
 "the same time. The distance between these notes is called a 'harmonic' "
@@ -1960,13 +2086,13 @@ msgstr ""
 "程。同时我们可以测量一个接一个分开弹奏的两个音符之间的距离，在这种情况下，两"
 "个音符之间的距离被称为“旋律”音程。"
 
-#: TheoryHarmony.cpp:341
+#: TheoryHarmony.cpp:344
 msgid ""
 "We move the higher note to the right, but keep it close enough to the lower "
 "note that they are just touching:"
 msgstr "我们把高的音向右边移，但是保持和低的音的距离，让它们正好连接。"
 
-#: TheoryHarmony.cpp:66
+#: TheoryHarmony.cpp:69
 msgid ""
 "We talk about diatonic scales as <b>being in a certain key</b>, for example, "
 "in 'C Major' or in 'B flat minor'."
@@ -1974,7 +2100,7 @@ msgstr ""
 "我们谈论全音阶的时候以<b>某个特定调</b>来表述，例如在“C大调”中，或者在“降B小"
 "调”中。"
 
-#: TheoryHarmony.cpp:112
+#: TheoryHarmony.cpp:115
 msgid ""
 "We use technical names to talk about each note of the diatonic scale, "
 "instead of saying 'first note', 'third note' and so on. The first and last "
@@ -1992,13 +2118,13 @@ msgstr ""
 "度</b>，我们总会使用<b>上升</b>音阶来表示。每一个音阶包含七个度，因为这里没有"
 "7个不同的音符。八个音符之间的距离被称为一个“八度音阶”，例如从低C到中C。"
 
-#: TheoryHarmony.cpp:92
+#: TheoryHarmony.cpp:95
 msgid ""
 "We'll start by putting the the tonic of E major, that is, an E note. We're "
 "using the treble clef, but it works just the same way in any other clef."
 msgstr "我们从音符E开始。我们使用高音谱号，也可以使用任何其他谱号。"
 
-#: TheoryHarmony.cpp:59
+#: TheoryHarmony.cpp:62
 msgid ""
 "We've learnt that the octave is divided into twelve notes, spaced by one "
 "semitone. When played one after the other we get the chromatic scale. But "
@@ -2018,7 +2144,7 @@ msgstr ""
 "学习如何选择“正确”的音符以及它们形成的音阶。但是请记住不同的音乐传统中人们对"
 "什么音符在一起好听有不同的看法！"
 
-#: TheoryHarmony.cpp:182
+#: TheoryHarmony.cpp:185
 msgid ""
 "What difference does key make? Since the major scales all follow the same "
 "pattern, they all sound very much alike. Here is the tune 'Row, Row, Row "
@@ -2027,7 +2153,7 @@ msgstr ""
 "调式会造成什么影响？因为大调的模式都相同，它们听起来非常相似。这里有一个调"
 "子“划，划，划你的船”，以G大调也可以以D大调携程。首先以G大调："
 
-#: TheoryHarmony.cpp:324
+#: TheoryHarmony.cpp:327
 msgid ""
 "What happens if you try to calculate an interval by starting with the higher "
 "note on the stave? You will get the wrong answer! This is a common mistake, "
@@ -2037,11 +2163,11 @@ msgstr ""
 "如果你从五线谱上高的音开始计算音程会发生什么呢？你会得到错误的答案！这是一个"
 "常见的错误，因此让我们看看是如何造成这个错误的。下面的和声音程是什么？"
 
-#: TheoryHarmony.cpp:26 TheoryHarmony.cpp:295 TheoryHarmony.cpp:301
+#: TheoryHarmony.cpp:26 TheoryHarmony.cpp:298 TheoryHarmony.cpp:304
 msgid "What is an interval?"
 msgstr "什么是音程"
 
-#: TheoryHarmony.cpp:207
+#: TheoryHarmony.cpp:210
 msgid ""
 "What main difference does major or minor key make? In C major key it sounds "
 "cheerful but in A minor key it sounds sad. Probably you have noticed that "
@@ -2052,34 +2178,34 @@ msgstr ""
 "伤。也许你已经注意到A小调音阶和C大调音阶使用的音符相同：都是使用钢琴的白键。"
 "那么，这种情感上的不同是如何造成的？"
 
-#: TheoryHarmony.cpp:368
+#: TheoryHarmony.cpp:401
 msgid "When the authentic cadence satisfies the following conditions:"
 msgstr "当正格终止式满足以下的情况时："
 
-#: TheoryHarmony.cpp:296
+#: TheoryHarmony.cpp:299
 msgid "Why should you learn about 'intervals'?"
 msgstr "为什么你需要学习“音程”？"
 
-#: TheoryHarmony.cpp:352
+#: TheoryHarmony.cpp:355
 msgid "Write intervals on a score"
 msgstr "乐谱中写一个音程"
 
-#: TheoryHarmony.cpp:330
+#: TheoryHarmony.cpp:333
 msgid "Writing Intervals"
 msgstr "写音程"
 
-#: TheoryHarmony.cpp:193
+#: TheoryHarmony.cpp:196
 msgid ""
 "Writing accidentals/key signatures on the <b>wrong space</b> or <b>line</b>."
 msgstr "把临时记号/调号写错了<b>间</b>或<b>线</b>。"
 
-#: TheoryHarmony.cpp:194
+#: TheoryHarmony.cpp:197
 msgid ""
 "Writing an <b>ascending</b> scale when the question asks for a "
 "<b>descending</b> one, and vice versa."
 msgstr "写了一个<b>上升</b>音阶，然而题目要求写一个<b>下降音阶</b>或者相反。"
 
-#: TheoryHarmony.cpp:56
+#: TheoryHarmony.cpp:59
 msgid ""
 "You need to be able to recognise chromatic scales, as well as sections of a "
 "chromatic scale within a piece of music. To find a section of a chromatic "
@@ -2088,7 +2214,7 @@ msgstr ""
 "你需要学会识别半音音阶，以及一段音乐中半音音阶的片段。要找一段半音音阶的部"
 "分，只需要查找所有在一个半音音阶部分的一系列音符。"
 
-#: TheoryHarmony.cpp:356
+#: TheoryHarmony.cpp:389
 msgid ""
 "You will notice the feeling of conclusion, of reaching the end of a musical "
 "piece. The chord sequence does not create expectations of continuation. The "
@@ -2101,7 +2227,7 @@ msgstr ""
 "续的感觉。作曲人可以在最后一个和弦中结束，听者会有到达结束的感觉，并且对于在"
 "该处结束感到”满意“。相反，听下面的和弦序列："
 
-#: TheoryHarmony.cpp:335
+#: TheoryHarmony.cpp:338
 msgid ""
 "You'll also be told if you have to write a harmonic, or melodic interval. "
 "This one is a melodic interval, so we'll write the second note after the "
@@ -2116,15 +2242,23 @@ msgid ""
 "details."
 msgstr "可能包含附加条款。更多免责条款和细节参看电子书的封面页"
 
-#: TheoryHarmony.cpp:369
+#: TheoryHarmony.cpp:402
 msgid "both chords are in root position;"
 msgstr "两个和弦都处于根位置；"
 
-#: TheoryHarmony.cpp:370
+#: TheoryHarmony.cpp:360
+msgid "fifth"
+msgstr ""
+
+#: TheoryHarmony.cpp:362
+msgid "root"
+msgstr ""
+
+#: TheoryHarmony.cpp:403
 msgid "the first chord is the V or the V7 ; and"
 msgstr "第一个和弦是V或者V7和弦；并且"
 
-#: TheoryHarmony.cpp:371
+#: TheoryHarmony.cpp:404
 msgid "the melody (soprano voice) ends on the tonic pitch."
 msgstr "旋律（女高音）在基音出结束。"
 
@@ -2132,7 +2266,7 @@ msgstr "旋律（女高音）在基音出结束。"
 msgid "the teacher of music"
 msgstr "音乐教师"
 
-#: TheoryHarmony.cpp:372
+#: TheoryHarmony.cpp:405
 msgid ""
 "then the cadence has its strongest conclusive power and it creates the most "
 "final sounding of all cadences. Due to this fact, if the previously listed "
@@ -2146,10 +2280,9 @@ msgstr ""
 "不满足以上条件，终止式的结束感就不那么强烈，这时终止式被称为“不完全正格终"
 "止”或者“不完全终止”。"
 
-#~ msgid ""
-#~ "All other texts, book design and preparation by Cecilio Salmerón. "
-#~ "Licensed under Creative Commons Attribution-Share-Alike License 3.0."
-#~ msgstr "其他的内容、书籍设计及准备来自Cecilio Salmerón。满足知识共享条款3.0"
+#: TheoryHarmony.cpp:361
+msgid "third"
+msgstr ""
 
 #~ msgid "Copyright © 2007-2010 LenMus project"
 #~ msgstr "版权所有© 2007-2010 LenMus项目"
